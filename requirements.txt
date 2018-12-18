@@ -1,0 +1,8 @@
+coverage
+jinja2
+jyquickhelper
+pyquickhelper
+python-multipart
+sphinx_modern_theme
+sphinxcontrib.blockdiag
+wheel

@@ -1,0 +1,13 @@
+ipython
+jupyter
+jupyter_client
+jupyter_core
+matplotlib
+nbformat
+nbpresent
+notebook
+numpy
+pandas
+pillow
+setuptools
+Sphinx
