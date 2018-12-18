@@ -8,14 +8,13 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.split(__file__)[0])))
 local_template = os.path.join(os.path.abspath(
     os.path.dirname(__file__)), "phdoc_templates")
 
-set_sphinx_variables(__file__, "mathenjeu", "Xavier Dupré", 2018,
+set_sphinx_variables(__file__, "lecture_citation", "Xavier Dupré", 2018,
                      "sphinx_modern_theme", sphinx_modern_theme.get_html_theme_path(),
                      locals(), extlinks=dict(
                          issue=('https://github.com/sdpython/mathenjeu/issues/%s', 'issue')),
-                     title="Exercices via une application web", book=True, nblayout='table')
+                     title="Souvenirs de lecture", book=True, nblayout='table')
 
-blog_root = "http://www.xavierdupre.fr/app/mathenjeu/helpsphinx/"
-extensions.append("sphinxcontrib.blockdiag")
+blog_root = "http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/"
 # blockdiag_fontpath = '/usr/share/fonts/truetype/ipafont/ipagp.ttf'
 
 html_context = {
@@ -103,13 +102,5 @@ latex_elements['preamble'] = preamble + custom_preamble
 mathdef_link_only = True
 
 epkg_dictionary.update({
-    'HTTP 404': 'https://en.wikipedia.org/wiki/HTTP_404',
-    'HTTP 500': 'https://en.wikipedia.org/wiki/List_of_HTTP_status_codes',
-    'hypercorn': 'https://pgjones.gitlab.io/hypercorn/',
-    "QCM": 'https://en.wikipedia.org/wiki/Multiple_choice',
-    'SessionMiddleware': 'https://github.com/encode/starlette/blob/master/starlette/middleware/sessions.py',
-    'starlette': 'https://github.com/encode/starlette',
-    "ujson": 'https://github.com/esnme/ultrajson',
-    'uvicorn': 'https://github.com/encode/uvicorn',
     'wikipedia': 'https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal',
 })

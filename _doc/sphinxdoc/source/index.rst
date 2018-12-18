@@ -50,11 +50,10 @@ Souvenirs de lectures
 :ref:`l-README`,
 :ref:`blog <ap-main-0>`
 
-
 Souvenirs de lectures.
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     lectures/index
     blog/blogindex
