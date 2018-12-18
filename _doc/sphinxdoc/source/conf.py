@@ -15,6 +15,7 @@ set_sphinx_variables(__file__, "lecture_citation", "Xavier Dupré", 2018,
                      title="Souvenirs de lecture", book=True, nblayout='table')
 
 blog_root = "http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/"
+html_search_language = "fr"
 # blockdiag_fontpath = '/usr/share/fonts/truetype/ipafont/ipagp.ttf'
 
 html_context = {
