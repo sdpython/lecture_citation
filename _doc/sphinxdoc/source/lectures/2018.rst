@@ -1,2 +1,13 @@
 2018
 ====
+
+.. quote::
+    :author: Greta Thunberg
+    :book: COP 24
+    :year: 2018
+    :lid: 2018-gthunberg-cop24
+    :source: https://www.youtube.com/watch?v=VFkQSGyeCWg
+
+    Our civilisation is being sacrificied for the opportunity of a
+    very small number of people to continue making enormous amount
+    of money.

@@ -5,4 +5,5 @@
     :date: 2018-12-18
     :categories: blog
 
-    Premier jour.
+    La première citation ajoutée :ref:`Greta Thunberg <2018-gthunberg-cop24>`,
+    d'autres viendront.

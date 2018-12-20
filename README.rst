@@ -22,10 +22,6 @@ README
     :alt: MIT License
     :target: http://opensource.org/licenses/MIT
 
-.. image:: https://requires.io/github/sdpython/lecture_citation/requirements.svg?branch=master
-     :target: https://requires.io/github/sdpython/lecture_citation/requirements/?branch=master
-     :alt: Requirements Status
-
 .. image:: https://codecov.io/github/sdpython/lecture_citation/coverage.svg?branch=master
     :target: https://codecov.io/github/sdpython/lecture_citation?branch=master
 
@@ -36,10 +32,6 @@ README
 .. image:: http://img.shields.io/github/issues/sdpython/lecture_citation.svg
     :alt: GitHub Issues
     :target: https://github.com/sdpython/lecture_citation/issues
-
-.. image:: http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/_images/nbcov.png
-    :target: http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/all_notebooks_coverage.html
-    :alt: Notebook Coverage
 
 **Links:**
 

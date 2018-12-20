@@ -2,9 +2,36 @@
 .. |gitlogo| image:: _static/git_logo.png
              :height: 20
 
+.. index:: souvenirs
+
 =====================
 Souvenirs de lectures
 =====================
+
+J'ai toujours été fasciné par ceux qui sortent toujours
+la citation qui tombe à pic. Je ne sais pas faire cela,
+je ne retiens jamais les mots exacts, juste l'idée où l'émotion
+lors de la lecture.
+
+.. toctree::
+    :maxdepth: 2
+
+    lectures/2018
+
+.. only:: html
+
+    Quelques autres petits détails concernant
+    ce contenu.
+
+    .. toctree::
+        :maxdepth: 1
+
+        i_index
+
+**Links:** `github <https://github.com/sdpython/lecture_citation/>`_,
+`documentation <http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/index.html>`_,
+:ref:`l-README`,
+:ref:`blog <ap-main-0>`
 
 .. only:: html
 
@@ -26,10 +53,6 @@ Souvenirs de lectures
         :alt: MIT License
         :target: http://opensource.org/licenses/MIT
 
-    .. image:: https://requires.io/github/sdpython/lecture_citation/requirements.svg?branch=master
-         :target: https://requires.io/github/sdpython/lecture_citation/requirements/?branch=master
-         :alt: Requirements Status
-
     .. image:: https://codecov.io/github/sdpython/lecture_citation/coverage.svg?branch=master
         :target: https://codecov.io/github/sdpython/lecture_citation?branch=master
 
@@ -40,23 +63,6 @@ Souvenirs de lectures
     .. image:: http://img.shields.io/github/issues/sdpython/lecture_citation.svg
         :alt: GitHub Issues
         :target: https://github.com/sdpython/lecture_citation/issues
-
-    .. image:: nbcov.png
-        :target: http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/all_notebooks_coverage.html
-        :alt: Notebook Coverage
-
-**Links:** `github <https://github.com/sdpython/lecture_citation/>`_,
-`documentation <http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/index.html>`_,
-:ref:`l-README`,
-:ref:`blog <ap-main-0>`
-
-Souvenirs de lectures.
-
-.. toctree::
-    :maxdepth: 2
-
-    lectures/index
-    blog/blogindex
 
 +----------------------+---------------------+---------------------+--------------------+------------------------+------------------------------------------------+
 | :ref:`l-modules`     |  :ref:`l-functions` | :ref:`l-classes`    | :ref:`l-methods`   | :ref:`l-staticmethods` | :ref:`l-properties`                            |
