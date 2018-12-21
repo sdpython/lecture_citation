@@ -51,6 +51,8 @@ class TestEnumerateQuotes(ExtTestCase):
         temp = get_temp_folder(__file__, "temp_quotes")
         current = {}
         for name in files:
+            if not os.path.exists(name):
+                continue
             quotes = list(enumerate_quotes(name, encoding="latin-1"))
             self.assertGreater(len(quotes), 3)
             for q in quotes:
