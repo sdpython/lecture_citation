@@ -1,0 +1,988 @@
+====
+2011
+====
+
+.. quote::
+    :author: Dan Shi
+    :book: Mémoires d'un eunuque dans la cité interdite
+    :index: méchanceté
+    :year: 2011
+
+    Peu à peu, nous retrouvions notre dignité. L'impératrice
+    avait abandonné sa robe de toile, ses ongles repoussaient,
+    et avec la splendeur, elle renoua avec la méchanceté.
+
+.. quote::
+    :author: Dan Shi
+    :book: Mémoires d'un eunuque dans la cité interdite
+    :index: pauvre
+    :year: 2011
+
+    Les pauvres n'intéressent personnes, dans les monastères
+    comme ailleurs.
+
+.. quote::
+    :author:  Princesse de Metternich
+    :book: Je ne suis pas jolie, je suis pire
+    :index: beauté
+    :year: 2011
+
+    Elle semblait tellement imbue de sa triomphante beauté, elle
+    en était si uniqueement occupée, qu'au bout de quelques
+    instants, après qu'on l'avait bien désivagée, elle vous
+    donnait sur les nerfs. [...] Si elle avait été simple et
+    naturelle, elle aurait boulversé le mondre, car je crois
+    qu'elle aurait subjugué l'iunivers entier, tandis qu'on
+    allait la regarder et l'admirer et qu'on la quittait éc\oe
+    uré de tant de pose et de tant de vanité.
+
+.. quote::
+    :author:  Princesse de Metternich
+    :book: Je ne suis pas jolie, je suis pire
+    :index: Versailles
+    :year: 2011
+
+    Le prince Constantion de Hohenlohe, qui était à cette époque
+    grand maître de notre empereur, s'approcha de moi et me
+    demanda si je ne trouvais pas son feu d'artifice charmant.
+    "Commes ces fusées partant de la gloriette font bien !, dit-
+    il, c'est un spectable enchanteur !... Mais il y en a aussi
+    énormément !... Croiriez-vous qu'il y en près de mille ?...
+    Nous en avons là pour huit ou dix mille florins ! C'est
+    ravissant, n'est-ce pas ? - Mon Dieu, lui répliquai-je, ça
+    n'est pas mal, mais je garde le souvenir d'un feu d'artifice
+    ) Versailles où j'ai vu partir plus de cent mille fusées et
+    qui a coûté six cent mille francs, et vous comprendrez que
+    je ne m'enthousiasme pas facilement sur un feu d'artifice et
+    une illumination. !"
+
+.. quote::
+    :author: Umberto Eco
+    :book: Comment voyager avec un saumon
+    :index: papier hygiénique
+    :year: 2011
+
+    Il y a deux ou trois mois, les appariteurs sont venus
+    m'informer qu'il n'y avait plus de papier hygénique. Je leur
+    ai rétorqué d'en acheter. La secrétaire m'a annoncé qu'il ne
+    restait des des fonds destinés au matériel inventoriable,
+    ajoutant que le papier hygiénique était inventoriable mais
+    qu'il tendait à s'altérer pour des raisons que je
+    n'approfondirai pas ici, et que, une fois altéré, il
+    disparaissait de l'inventaire. J'ai convoqué une commission
+    de biologistes à qui j'ai demandé comment inventorier du
+    papier hygiénique usagé. Ils ont répondu que c'était
+    possible, mais que ça reviendrait très cher en coût
+    humain.
+
+    J'ai réuni une commission de juristes qui m'a
+    fourni la solution. Je reçois le papier hygiénique, je
+    l'inventorie, et l'affecte aux toilettes pour des raisons
+    scientifiques. Quand le papier disparaît, je porte plainte
+    contre X pour vol de matériel inventorié. Hélas, il y a un
+    hic : je dois renouveler ma plainte tous les deux jours. Un
+    agent ds Services Secrets a fait de lourdes insinuations sur
+    la gestion d'un institut où des inconnus peuvent s'infiltrer
+    si facilement à des échéances périodiques.
+
+.. quote::
+    :author: Umberto Eco
+    :book: Comment voyager avec un saumon
+    :index: gaspillage
+    :year: 2011
+
+    Personne n'a jamais été incriminé pour avoir gaspillé
+    l'argent de l'Etat tant que c'est fait en suivant les lois à
+    la lettre.
+
+.. quote::
+    :author: Umberto Eco
+    :book: Comment voyager avec un saumon
+    :index: points de suspension
+    :year: 2011
+
+    Les écrivains emploient les points de suspension enfin de
+    phrases pour indiquer que le discours pourrait continuer et
+    au milieu ou entre plusieurs phrases pour signaler qu'un
+    texte a été tronqué. [...] Les non-écrivains utilisent les
+    points de suspension pour se faire pardonner une figure de
+    rhétorique qu'ils jugent hasardeuse.
+
+.. quote::
+    :author: Umberto Eco
+    :book: Comment voyager avec un saumon
+    :index: vanité
+    :year: 2011
+
+    Et puis - suggère implicitement leur designer - qu'ont de
+    mieux à faire les femmes auxquelles elles [montres de luxes]
+    sont destinées, sinon de contempler un objet qui raconte sa
+    propre vanité ?
+
+.. quote::
+    :author: Umberto Eco
+    :book: Comment voyager avec un saumon
+    :index: durable
+    :year: 2011
+
+    Quant à votre nouvelle voiture, elle aura beau exhiber des
+    sièges en cuir, deux rétroviseurs latéraux réglables de
+    l'intérieur et un tableau de bord en bois précieux, elle
+    résistera beaucoup moins que la glorieuce
+    *Cinquecento* qui, lorsqu'elle était en panne,
+    redémarrait avec un coup de pied.
+
+.. quote::
+    :author: Jules Vallès
+    :book: L'Enfant
+    :index: plaisir
+    :year: 2011
+
+    Elle a une façon de souligner les plaisirs qu'elle m'offre
+    qui les gâte un peu.
+
+.. quote::
+    :author: Cliffort A. Pickover
+    :book: Le $\beta$eau livre des M$\alpha$ths
+    :index: cigales
+    :year: 2011
+
+    Ces créatures [cigales] ont un comportement étonnant : leur
+    apparition est synchronisée avec des périodes annuelles
+    associées généralement aux nombres premiers 13 et 17. [...]
+    Durant le printemps de leur 13$^e$ ou 17$^e$ année, les
+    cigales creusent un tunnel de sortie. Parfois, ce sont plus
+    d'un million et demi de cigales qui émergent sur la moitié
+    d'un hectare ; il se peut que cette prolifération ait une
+    valeur de survie, dans la mesure où elle surpasse le nombre
+    de prédateurs, tels que les oiseaux, qui se retrouvent dans
+    l'incapacité de manger toutes les cigales. [...] Selon
+    certains chercheurs, l'évolution de cycles de vie corrélés
+    aux nombres premiers pourrait s'expliquer par le fait que
+    les cigales augmentent ainsi leur chance d'échapper aux
+    parasites et aux prédateurs à la vie plus courte. Par
+    exemple, si le cycle de vie était de 12 ans, tous les
+    prédateurs dont les cycles de 2, 3, 4, ou 6 années,
+    trouveraient aisément les cigales.
+
+.. quote::
+    :author: ... ...
+    :book: ...
+    :index: maison
+    :year: 2011
+
+    Lorsqu'une maison n'est pas finie, je me sens chez moi. Je
+    me sens en vacances lorsqu'elle l'est.
+
+.. quote::
+    :author: Joyce Carol Oates
+    :book: Un endroit où se cacher
+    :index: amis
+    :year: 2011
+
+    Ce n'est pas les gens parfaits qu'on aime mais les gens
+    qu'on connaît.
+
+.. quote::
+    :author: Lou Andréas-Salomé
+    :book: Textes choisis et présentés par Elisabeth Barillé
+    :index: bonheur
+    :year: 2011
+
+    C'est pourquoi il était possible dans son [Rainer] cas que,
+    plus tard, son épanouissement d'une part, et celui de sa
+    génialité artistique d'autre part ne se stimulent pas l'un
+    l'autre.
+
+.. quote::
+    :author: Lou Andréas-Salomé
+    :book: Textes choisis et présentés par Elisabeth Barillé
+    :index: idéaux
+    :year: 2011
+
+    Il manque à tous les idéaux cette plénitude de vie, cette
+    contradiction interne ; ce ne sont que des partis pris
+    exclusifs, des abstractions tirées de la vie.
+
+.. quote::
+    :author: Henning Mankell
+    :book: Avant le Gel
+    :index: enfant
+    :year: 2011
+
+    Les enfants ont une manière spéciale de lier connaissance.
+    [...] Ils ne passent pas des accords comme les adultes, ils
+    se font confiance ou non, un point c'est tout.
+
+.. quote::
+    :author: Annie Ernaux
+    :book: La place
+    :index: cadeau
+    :year: 2011
+
+    Phrase interdite : "Combien avez-vous payé ça ?"
+
+.. quote::
+    :author: Annie Ernaux
+    :book: La place
+    :index: couple
+    :year: 2011
+
+    Mon père et ma mère s'adressaient continuellement la parole
+    sur un ton de reprche, jusque dans le soucis qu'ils avaient
+    l'un de l'autre.
+
+.. quote::
+    :author: Annie Ernaux
+    :book: La place
+    :index: retraite
+    :year: 2011
+
+    La même vie désormais pour lui. Mais la certitude qu'on ne
+    peut pas être plus heureux qu'on est.
+
+.. quote::
+    :author: Constance (de) Salm
+    :book: Vingt-Quatre Heures d'une femme sensible
+    :index: amour
+    :year: 2011
+
+    Cet instant où je compris que j'étais aimée fut peut-être le
+    plus beau jour de ma vie, et pourtant mon premier mouvement
+    fut de fuir.
+
+.. quote::
+    :author: Jean-François Parot
+    :book: Le fantôme de la rue Royale
+    :index: habitude
+    :year: 2011
+
+    Je n'augure rien de bon dans ce changement d'habitudes chez
+    un homme si attaché à les maintenir.
+
+.. quote::
+    :author: Sarah Hartnett
+    :book: L'enfant du fantôme
+    :index: bonheur
+    :year: 2011
+
+    Comment fabrique-t-on un bonheur solide à partir d'une chose
+    aussi importante, compliquée, unique et fragile que la vie ?
+
+.. quote::
+    :author: Sarah Hartnett
+    :book: L'enfant du fantôme
+    :index: bonheur
+    :year: 2011
+
+    Pour que tu soies heureuse, il aurait fallu que je change.
+    Et j'ai changé - autant que j'ai pu.
+
+.. quote::
+    :author: Sarah Hartnett
+    :book: L'enfant du fantôme
+    :index: amour
+    :year: 2011
+
+    Elle n'appréciait pas le nouveau Plume qui abîmait les
+    souvenirs de l'ancien.
+
+.. quote::
+    :author: Lou Andréas-Salomé
+    :book: Ma vie
+    :index: union
+    :year: 2011
+
+    Ce qui jouait sans doute un rôle essentiel dans leur union,
+    c'était que tous deux avaient la conviction intime que
+    chacun doit toute sa vie remédier à ses insuffisances :
+    peut-être moins pour des raisons morales que par désir de ne
+    pas rester prisonnier de soi-même.
+
+.. quote::
+    :author: Lou Andréas-Salomé
+    :book: Ma vie
+    :index: modèle
+    :year: 2011
+
+    Je ne peux conformer ma vie à des modèles, ni ne pourrait
+    jamais constituer un modèle pour qui que ce soit ; mais il
+    est tout à fait certain que je dirigerai ma vie selon ce que
+    je suis, advienne que pourra.
+
+.. quote::
+    :author: Lou Andréas-Salomé
+    :book: Ma vie
+    :index: perfection
+    :year: 2011
+
+    Car mettre un point final à son travail, c'est en même temps
+    renoncer à la perfection dont on est imprégné de toutes ses
+    fibres.
+
+.. quote::
+    :author:  La Boëtie
+    :book: Discours de la servitude volontaire
+    :index: liberté
+    :year: 2011
+
+    A vrai dire, il est bien inutile de se demander si la
+    liberté est naturelle, puisqu'on ne peut tenir aucun être en
+    servitude sans lui faire tort : il n'y a rien de plus
+    contraire au monde que la nature, toute raisonnable, que
+    l'injustice. La liberté est naturelle ; c'est pourquoi à mon
+    avis, nous ne sommes pas seulement nés avec elle, mais aussi
+    avec la passion de la défendre.
+
+.. quote::
+    :author:  La Boëtie
+    :book: Discours de la servitude volontaire
+    :index: tyran
+    :year: 2011
+
+    Il y a trois sortes de tyrans. Les uns règnent par
+    l'élection du peuple, les autres par la force des armes, les
+    derniers par succession de race. Ceux qui ont acquis le
+    pouvoir par le droit de la guerre s'y comportent - on le
+    sait et le dit fort justement - comme en pays conquis. Ceux
+    qui naissent rois, en général ne sont guère meilleurs. Nés
+    et nourris au sein de la tyrannie, ils sucent avec le lait
+    le naturel du tyran et ils regardent les peuples qui leur
+    sont soumis comme serfs héréditaires. Selon leur penchant
+    dominant - avares ou prodigues -, ils usent du royaume comme
+    de leur héritage. Quant à celui qui tient son pouvoir du
+    peuple, il semble qu'il devrait être plus supportable ; il
+    le serait, je crois, si dès qu'il voit élevé au-desus de
+    tous les autres, flatté par je ne sais quoi qu'on appelle
+    grandeur, il ne décidait de n'en plus bouger. Il considère
+    presque toujours la puissance que le peuple lui a léguée
+    comme devant être transmise à ses enfants. Or dès que ceux-
+    ci ont adopté cette opinion, il est étrange de voir combine
+    ils surpassent en toutes sortes de vices, et même en
+    cruautés, tous les autres tyrans.
+
+.. quote::
+    :author: élève anonyme
+    :book: ENSAE
+    :index: inénarrable
+    :year: 2011
+
+    Xavier Dupré, tout un poème. Voulez-vous que je vous raconte
+    une anecdote ? Xavier Dupré commence un cours et là, sans
+    crier gare, une anecdote descendue du ciel, ou plutôt de ses
+    feuilles aide-mémoire imprimées en taille 5, vient perturber
+    la lente et fastidieuse compréhension des élèves, en
+    enrichissant considérablement leur culture générale. Xavier
+    Dupré ne manque pas de science, il est au-dessus de toute
+    anecdote, il est inénarrable.
+
+.. quote::
+    :author: élève anonyme
+    :book: ENSAE
+    :index: juvénilisme
+    :year: 2011
+
+    Xavier Dupré vacille entre juvénilisme et antipédagogisme.
+
+.. quote::
+    :author: Joseph Conrad
+    :book: Au coeur des ténèbres
+    :index: extrêmes
+    :year: 2011
+
+    Il électrisait de grosses réunions. Il avait la foi - vous
+    saisissez ? - il avait la foi. Il pouvait faire n'importe
+    quoi - n'importe quoi. Il aurait été un superbe chef de
+    parti extrême.
+
+    Quel parti ?
+
+    N'importe lequel,
+    c'était un extrémiste.
+
+.. quote::
+    :author: Miyuki Miyabe
+    :book: Une carte pour l'enfer
+    :index: accident
+    :year: 2011
+
+    Il s'était endormi de fatigue. [...] Manque de personnel.
+    Pendant deux jours entiers, il avait roulé sans s'arrêter.
+    [...] Qui est fautif ? Evidemment la camionneur qui dormait
+    au volant, mais aussi son employeur qui lui avait imposé ces
+    conditions, le service de l'équipement qui n'avait pas
+    installé de glissières ainsi que la collectivité locale qui
+    n'avait pas élargi la route.
+
+.. quote::
+    :author: Miyuki Miyabe
+    :book: Une carte pour l'enfer
+    :index: mariage
+    :year: 2011
+
+    Elle n'était pas très vive. Avec un mari exigeant, elle
+    aurait des problèmes.
+
+.. quote::
+    :author: Miyuki Miyabe
+    :book: Une carte pour l'enfer
+    :index: surinformation
+    :year: 2011
+
+    Aujourd'hui, les faillites ont pour cause la surinformation.
+    [...] On vous donne partout des recettes pour gagner de
+    l'argent.
+
+.. quote::
+    :author: Olivier Pastré, Jean-Marc Sylvestre
+    :book: Le roman vrai de la crise financière
+    :index: titrisation
+    :year: 2011
+
+    [Financial Times] La titrisation se réduit à ôter les
+    crédits des épaules de ceux qui sont capables de les porter
+    pour les mettre sur les épaules de ceux qui sont incapables
+    de les comprendre.
+
+.. quote::
+    :author: Olivier Pastré, Jean-Marc Sylvestre
+    :book: Le roman vrai de la crise financière
+    :index: salaire
+    :year: 2011
+
+    L'arrêt de l'augmentation régulière des salaires au tournant
+    des années 1990 a poussé les américains à puiser dans leur
+    épargne pour maintenir leur niveau de vie et à s'endetter.
+
+.. quote::
+    :author: Olivier Pastré, Jean-Marc Sylvestre
+    :book: Le roman vrai de la crise financière
+    :index: banque
+    :year: 2011
+
+    La banque est aujourd'hui un immense système informatique.
+
+.. quote::
+    :author: André Gide
+    :book: Souvenirs de cours d'Assises
+    :index: vérité
+    :year: 2011
+
+    La version la plus simple est celle qui toujours a le plus
+    de chance de prévaloir ; c'est aussi celle qui a le moins de
+    chance d'être exacte.
+
+.. quote::
+    :author: André Gide
+    :book: Souvenirs de cours d'Assises
+    :index: juré
+    :year: 2011
+
+    Je crois que l'opinion du juré se forme et s'arrête assez
+    vite. Il est, au bout de deux ou trois quarts d'heure,
+    sursaturé - ou de doute, ou de conviction.
+
+.. quote::
+    :author: André Gide
+    :book: Souvenirs de cours d'Assises
+    :index: juré
+    :year: 2011
+
+    Nous aurions voté différemment si nous avions pu prévoir que
+    notre vote allait entraîner une peine si forte - ou si
+    légère.
+
+.. quote::
+    :author: Camille Landais, Piketty Thomas, Saez Emmanuel
+    :book: Pour une révolution fiscale
+    :index: travail
+    :year: 2011
+
+    Il est aujourd'hui bien difficile pour des personnes qui ne
+    disposent que de leur travail d'accumuler quoi que ce soit.
+
+.. quote::
+    :author: Camille Landais, Piketty Thomas, Saez Emmanuel
+    :book: Pour une révolution fiscale
+    :index: loyer
+    :year: 2011
+
+    Un personne sans ressources propres dans un ménage aisé ne
+    paie pas de loyer et donc reçoit implicitement une aide au
+    loyer de la part de son conjoint (ou de son patrimoine, si
+    la personne est propriétaire).
+
+.. quote::
+    :author: Richard Paul Russo
+    :book: La nef des fous
+    :index: prison
+    :year: 2011
+
+    — La prison semble ne pas t'avoir fait trop de mal.
+
+    — C'est surtout mon égo qui a souffert.
+
+    — Alors tu as
+    peut-être même tiré profit de ton incarcération.
+
+.. quote::
+    :author:  Barjavel
+    :book: Les chemins de Katmandou
+    :index: sommeil
+    :year: 2011
+
+    Il dort comme un arbre.
+
+.. quote::
+    :author: ... ...
+    :book: ...
+    :index: bonheur
+    :year: 2011
+
+    Les américains ont une idée matérialiste du bonheur qui
+    s'exprime docilement au travail au travers de leur sourire
+    mécanique. Je me sentirais prisonnier de cette définition
+    aussi simple et fataliste.
+
+.. quote::
+    :author: ... ...
+    :book: ...
+    :index: enfant
+    :year: 2011
+
+    Il existe différentes manières de renoncer à ses rêves. La
+    seconde est de les transférer à ses enfants.
+
+.. quote::
+    :author: everybody 
+    :book: True Tales of American Life
+    :index: Christmas
+    :year: 2011
+
+    The family finances had taken a real beating. My father's
+    business had collapsed, jobs were almost nonexistent and the
+    country was in a near depression. We had a tree for
+    Christmas that year but no presents. We simply couldn't
+    afford them. On Christmas Eve, we all went to bed in pretty
+    low spirits.
+
+    Unbelievably, when we woke up on Christmas
+    morning, there as a mound of presents under the tree. We
+    tried to control ourselves at breakfast, but we rushed
+    through the meal in record time.
+
+    Then the fun began. My
+    mother went first. We surrounded her in anticipation, and
+    when she opened her package, we was she had been given an
+    old shawl that she had "pisplaced" several months earlier.
+    My father got an old axe with a broken handle. My sister got
+    her old slippers. One of the boys got a pair of patched and
+    wrinkled trousers. I got a hat, the same hat I thought I had
+    left in a restaurant back in November.
+
+    Each old castoff
+    came as a total surprise. Before long, we were laughing so
+    hard that we could barely pull the strings on the next
+    package. But where had this largesse come from? It was my
+    borther Morris. For several months, he had been secreting
+    away old things that he knew we wouldn"'t miss. Then, on
+    Christmas Eve, after the rest of us had gone to bed, he had
+    briefly wrapped up the presents and placed then under the
+    tree.
+
+    I remember this as one of the finest Christmases
+    I ever had.
+
+.. quote::
+    :author: Robert B. Reich
+    :book: Aftershock
+    :index: riche
+    :year: 2011
+
+    Being rich now means being having enough money that you
+    don't have to encounter anyone who isn't.
+
+.. quote::
+    :author: Robert B. Reich
+    :book: Aftershock
+    :index: rich
+    :year: 2011
+
+    The rich live too modestly compared to what they can afford.
+
+.. quote::
+    :author: Robert B. Reich
+    :book: Aftershock
+    :index: crisis
+    :year: 2011
+
+    \begin*enumerate* \item Women move into paid work \item
+    Everyone works longer hours \item We draw down savings and
+    borrow to the hilt \end*enumerate*
+
+.. quote::
+    :author: Robert B. Reich
+    :book: Aftershock
+    :index: stereotypes
+    :year: 2011
+
+    According to common stereotypes, the French draw deep
+    satisfaction from good food and wine, the Germans from
+    music, the English from their parks, and American from
+    shopping.
+
+.. quote::
+    :author: Guy Debord
+    :book: La société du spectacle
+    :index: rêve
+    :year: 2011
+
+    Le monde possède déjà le rêve d'un temps dont il doit
+    maintenant posséder la conscience pour le vivre réellement.
+
+.. quote::
+    :author: Guy Debord
+    :book: La société du spectacle
+    :index: plagiat
+    :year: 2011
+
+    Les idées s'améliorent. Le sens des mots y participe. Le
+    plagiat est nécessaire. Le progrès l'implique. Il serre de
+    près la phrase d'un auteur, se sert de ses expressions,
+    efface une idée fausse, la replace par l'idée juste.
+
+.. quote::
+    :author: Howard Zinn
+    :book: La bombe
+    :index: bombe atomique
+    :year: 2011
+
+    Il [Truman] semble qu'il ne souhaitait pas que la défait des
+    Japonais soit due à l'intervention des Russes mais bien aux
+    bombes américaines.
+
+.. quote::
+    :author: Howard Zinn
+    :book: La bombe
+    :index: masse
+    :year: 2011
+
+    Nous pourrions refuser le dogme, universellement invoqué
+    pour justifier la guerre, voulant que la violence de masse
+    soit acceptable si elle sert une "noble cause", car, malgré
+    la lenteur de notre apprentissage, nous devrions maintenant
+    savoir que l'horreur des moyens est toujours certaine tandis
+    que la pertinence des fins de l'est jamais.
+
+.. quote::
+    :author: Howard Zinn
+    :book: La bombe
+    :index: responsabilité
+    :year: 2011
+
+    Le mal, qui fait aujourd'hui l'objet d'une production de
+    masse, exige une division du travail de plus en plus
+    complexe, si bien que plus personne ne peut être tenu pour
+    directement responsable des horreurs ayant cours. Cependant,
+    tout le monde porte une responsabilité négative, car
+    n'importe qui peut tenter d'enrayer la machine.
+
+.. quote::
+    :author: ... ...
+    :book: ...
+    :index: érudition
+    :year: 2011
+
+    Il est impossible à la fois de tout connaître et de
+    contribuer à cette connaissance. L'érudition est peut-être
+    un savant mélange des deux.
+
+.. quote::
+    :author: ... ...
+    :book: ...
+    :index: critique
+    :year: 2011
+
+    Mon patron m'a fait deux critiques qui sont justes. L'une
+    d'elles est que je parle vite de choses compliquées, que
+    ceux que j'encadre et ceux qui m'encadrent ne pensent pas
+    aussi vite. Il faut que je ralentisse mais je ne veux pas.
+    Je suis loin de montrer tout ce que je suis capable de faire
+    et de cette frustration naît chez moi cette imprévisible
+    possibilité que je détruise tout. Je me stresse tout seul.
+    Je me sens prisionnier.
+
+.. quote::
+    :author: James Surowiecki
+    :book: The Wisdom of the Crowd
+    :index: independence
+    :year: 2011
+
+    Independence of opinion is both a crucial ingredient on
+    collectively wise decisions and one of the hardest things to
+    keep intact.
+
+.. quote::
+    :author: James Surowiecki
+    :book: The Wisdom of the Crowd
+    :index: overcondifence
+    :year: 2011
+
+    People are more overconfident when facing difficult problems
+    than when facing easy ones.
+
+.. quote::
+    :author: James Surowiecki
+    :book: The Wisdom of the Crowd
+    :index: correlation
+    :year: 2011
+
+    When what people want to do depends on what everyone else
+    wants to do, every decision affects every other decision,
+    and there is no outside reference point that can stop the
+    self-reflexion spiral. (Lorsque les décisions des uns et des
+    autres sont corrélées, la foule n'est plus aussi "sage".)
+
+.. quote::
+    :author: James Surowiecki
+    :book: The Wisdom of the Crowd
+    :index: convention
+    :year: 2011
+
+    Conventions, obviously maintain order and stability. Just as
+    important, though, they reduce the amount of cognitive work
+    you have to put in to get thgouh the day. Conventions allow
+    us to deal with certain situations without thinking much
+    about them, and when it comes to coordination problems in
+    particular, they allow groups of disparate, unconnected
+    people to organize themselves with relative ease and an
+    absence of conflict.
+
+.. quote::
+    :author: James Surowiecki
+    :book: The Wisdom of the Crowd
+    :index: divergence
+    :year: 2011
+
+    In small groups, diversity of opinion is the single best
+    guarantee that the group will reap benefits from face-to-
+    face discussion.
+
+.. quote::
+    :author: James Surowiecki
+    :book: The Wisdom of the Crowd
+    :index: hierarchy
+    :year: 2011
+
+    In too many corporations, though, the incentive system was
+    (and is) skexed against disent and independent analysis.
+    [...] The most successful executives tended not to disclose
+    information about fights, budget problems, and so on.
+
+.. quote::
+    :author: James Surowiecki
+    :book: The Wisdom of the Crowd
+    :index: trust
+    :year: 2011
+
+    One of the more remarkable surveys done in the 1990s, a
+    Burson Masteller poll, found that 95 percent of inverstors
+    said that they would buy a stock based on what they thought
+    of the company's CEO.
+
+.. quote::
+    :author: Richard Overy
+    :book: 1939, Demain la guerre
+    :index: Hitler
+    :year: 2011
+
+    Citationde Harold Nicolson.
+
+    [Hitler] Il respire
+    l'arrogance mauvaise au point qu'il en donne presque la
+    nausée... Ses yeux de mystique étincellent de mal, de
+    perfidie et de méchanceté. Il a l'habitude horripilante de
+    dicter la loi en phrases sèches et synocopées, accompagnant
+    sa conclusion d'un brusque coup du plat de la main sur la
+    table, ou, pivotant à moitié sur son siège, d'un soudain
+    croisement de bras à la Napoléon et d'un regard de mystique
+    détaché mais souffrant en direction du plafond. Son
+    impatience est terrifiante.
+
+.. quote::
+    :author: Richard Overy
+    :book: 1939, Demain la guerre
+    :index: changement
+    :year: 2011
+
+    Le véritable objectif de la guerre de 1939 n'était pas de
+    sauver la Pologne d'une occupation cruelle, mais d'arracher
+    la Grande-Bretagne et la France aux dangers d'un monde en
+    pleine désintégration.
+
+.. quote::
+    :author: Paul Jorion
+    :book: La guerre civile numérique
+    :index: papillon
+    :year: 2011
+
+    La pasteur Terry Jones, révolté par le fait qu'il existe une
+    religion appelée l'Islam, a solennellement brûlé un coran le
+    20 mars 2011. Le premier avril suivant, à Mazar-I-Sharif, en
+    Afghanistan, une foule en colère à la suite de cet acte a
+    tué sept membres du personnel de représentation des Nations
+    Unies : quatre Népalais, un Suédois, un Roumoin et une
+    Norvégienne. Il n'est pas question bien entendu d'inquiéter
+    le pasteur Terry Jones qui peut vaquer à ses occupations
+    comme il l'entend, et brûler encore autant de corans qu'il
+    lui semblera bon. Nous sommes en démocratie, comprenez-vous,
+    et il ne fait qu'exercer son droit à la liberté de parole.
+
+.. quote::
+    :author: Paul Jorion
+    :book: La guerre civile numérique
+    :index: manipulation
+    :year: 2011
+
+    Une autre tactique envisagée par Team Themis, appelée
+    "AstroTurf", un mot qui désigne le nom commercial d'un gazon
+    artificiel consiste à mimer sur les réseaux sociaux
+    l'émergence spontanée d'un courant d'opinion d'origine
+    citoyenne. HBGary Federal avait déjà précédemment été chargé
+    par le gouvernement américain de créer ainsi une "armée"
+    d'identités Facebook afin de manipuler l'opinion dans une
+    direction particulière sur des sujets sensibles.
+
+.. quote::
+    :author: Alain-Gérard Slaman
+    :book: La régression démocratique
+    :index: violence
+    :year: 2011
+
+    La violence sociale ne peut être maîtrisée que par l'Etat.
+
+.. quote::
+    :author: Alain-Gérard Slaman
+    :book: La régression démocratique
+    :index: liberté
+    :year: 2011
+
+    C'est ne pas être libre, que de devoir sa différence, non à
+    son mérite, mais à son origine.
+
+.. quote::
+    :author: Alain-Gérard Slaman
+    :book: La régression démocratique
+    :index: religion
+    :year: 2011
+
+    Le premier devoir d'un Etat laïque est de s'interdire tout
+    transfert de ses responsabilités envers les représentants
+    d'une Eglise ou d'un culte, sous peine de perdre tout
+    prestige ou toute responsabilité.
+
+.. quote::
+    :author: Alain-Gérard Slaman
+    :book: La régression démocratique
+    :index: humour
+    :year: 2011
+
+    Les sociétés transparentes sont des des sociétés de donneurs
+    de leçon, autrement dit des sociétés sans humour. L'humour
+    est un art de civiliser le conflit pour rappeler sa présence
+    dans le monde. Il fait partie des procédures.
+
+.. quote::
+    :author: Arnaldur Indridason
+    :book: La voix
+    :index: harcèlement
+    :year: 2011
+
+    Le pire de tout, c'était le harcèlement qui faisait de toi
+    une loque humaine. On finit par avoir de soi la même opinion
+    que ceux qui nous tourmentent.
+
+.. quote::
+    :author: Arnaldur Indridason
+    :book: La voix
+    :index: néant
+    :year: 2011
+
+    Dans le domaine des sentiments, le temps n'existe pas. [...]
+    Au lieu d'essayer de construire quelque chose à partir de ce
+    néant, je me suis enfoncé toujours plus profondément, parce
+    que c'est plus confortable et qu'on a l'impression que cela
+    nous procure un abri.
+
+.. quote::
+    :author: Richard Dawkins
+    :book: Pour en finir avec Dieu
+    :index: religion
+    :year: 2011
+
+    Nous autres, nous sommes censés justifier nos préjugés, mais
+    dès que vous demandez à une personne religieuse de justifier
+    sa foi, vous bafouez la "liberté religieuse".
+
+.. quote::
+    :author: Louis-Jean Calvert
+    :book: Les voix de la ville
+    :index: langue
+    :year: 2011
+
+    La France a une vision fortement monolingue de l'Etat, de la
+    culture et de la communication, et les effets de cette
+    vision, ainsi que la centralisation du pays et la
+    standardisation du français, fonctionnent comme un frein au
+    partage des langues. Il n'y a pas, à Paris, de modèle
+    socialement valorisé du plurilinguisme, et l'avenir des
+    langues reste un problème familial, tandis qu'à Dakar le
+    plurinlinguisme est la règle et l'avenir socail des langues
+    en présence n'est pas encore joué;
+
+.. quote::
+    :author: Louis-Jean Calvert
+    :book: Les voix de la ville
+    :index: langue
+    :year: 2011
+
+    En France, l'Etat laisse à des pays étranger le soin de
+    désigner et de payer les professeurs de "langues d'origine".
+    Le résultat est là : le plus souvent, les cours d'arabe
+    tournent à l'école coranique, les enfants y apprennent une
+    langue morte alors que l'urgence est de valoriser la langue
+    de leurs parents, le berbère ou l'arabe dialectal ; ils
+    apprennent d'enseignants mal formés et parfois fanatiques la
+    haine du pays d'accueil.
+
+.. quote::
+    :author: Fabio Toscano
+    :book: La formule secrète
+    :index: équation
+    :year: 2011
+
+    Formule de Niccolo Tartaglia mise en poème pour résoudre
+    certaines équations du troisième degré, transcrite par
+    Jérôme Cardan. Contexte : cube = $x^3$, chose = $bx$, nombre
+    = $constante$, les nombres négatifs n'existaient
+    pas.
+
+    Quand le cube auprès des choses \\ Est égalé à un
+    quelconque nombre discret, \\ Trouve en lui deux nombres
+    différents. \\ \\ Alors tu prendras pour habitude \\ Que
+    leur produit soit toujours égal \\ Au tiers cubé des choses
+    exactement.\\ \\ Ensuite le reste général \\ De leurs
+    racines cubiques bien soustraites \\ Sera égal à ta chose
+    principale. \\ \\ Dans le deuxième de ces actes \\ Quand le
+    cube reste seul \\ Tu observeras ces autres contrats, \\ \\
+    Tu feras du nombre deux parties \\ En sorte que l'une par
+    l'autre produise nettement \\ Le tiers cubé des choses
+    extactement \\ \\ De celles-ci ensuite, par une règle
+    commune \\ Tu extrais les racines cubiques jointes ensemble
+    \\ Cette somme deviendra ton principal résultat. \\ \\
+    Ensuite le troisième de nos comptes \\ Se résout avec le
+    second si tu regardes bien \\ Parce que par nature ils sont
+    liés \\ \\ J'ai trouvé ces choses sans lenteurs \\ En mille
+    cinq trente quatre \\ Avec des fondements forts et certains
+    \\ Dans la cité entourée par la mer.
+
