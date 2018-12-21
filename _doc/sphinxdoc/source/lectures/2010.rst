@@ -1654,7 +1654,7 @@
 
 .. quote::
     :author: Mark Twain
-    :book: 
+    :book:
     :index: liberté
     :year: 2010
 
@@ -2129,7 +2129,7 @@
 
 .. quote::
     :author: Emmanuel Kant
-    :book: 
+    :book:
     :index: vide
     :year: 2010
 
@@ -5360,7 +5360,7 @@
     ruinée pour le bénéfice du vieil avare attaché à la vie.
 
 .. quote::
-    :author: brèves de comptoir 
+    :author: brèves de comptoir
     :book: à Montmartre
     :index: amour
     :year: 2010
@@ -5752,4 +5752,3 @@
     :year: 2010
 
     Un homme impoli est encore impoli quant il est seul.
-

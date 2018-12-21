@@ -32,5 +32,5 @@ def to_rst(quote):
     text = text.replace("    - ", "    — ")
     rows.append('')
     rows.append(text)
-    rows.append('')    
+    rows.append('')
     return "\n".join(rows)

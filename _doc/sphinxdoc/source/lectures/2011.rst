@@ -554,7 +554,7 @@
     seconde est de les transférer à ses enfants.
 
 .. quote::
-    :author: everybody 
+    :author: everybody
     :book: True Tales of American Life
     :index: Christmas
     :year: 2011
@@ -985,4 +985,3 @@
     liés \\ \\ J'ai trouvé ces choses sans lenteurs \\ En mille
     cinq trente quatre \\ Avec des fondements forts et certains
     \\ Dans la cité entourée par la mer.
-
