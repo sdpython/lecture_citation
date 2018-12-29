@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import sys
 import os
-import sphinx_modern_theme
+import sphinx_modern_theme_modified
 from pyquickhelper.helpgen.default_conf import set_sphinx_variables, get_default_stylesheet
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.split(__file__)[0])))
@@ -9,7 +9,7 @@ local_template = os.path.join(os.path.abspath(
     os.path.dirname(__file__)), "phdoc_templates")
 
 set_sphinx_variables(__file__, "lecture_citation", "Xavier Dupré", 2018,
-                     "sphinx_modern_theme", sphinx_modern_theme.get_html_theme_path(),
+                     "sphinx_modern_theme_modified", sphinx_modern_theme_modified.get_html_theme_path(),
                      locals(), extlinks=dict(
                          issue=('https://github.com/sdpython/mathenjeu/issues/%s', 'issue')),
                      title="Souvenirs de lecture", book=True, nblayout='table')
@@ -23,24 +23,6 @@ html_context = {
 }
 
 html_logo = "project_ico.png"
-
-if html_theme == "bootstrap":
-    html_theme_options = {
-        'navbar_title': ".",
-        'navbar_site_name': "Site",
-        'navbar_links': [
-            ("XD", "http://www.xavierdupre.fr", True),
-        ],
-        'navbar_sidebarrel': True,
-        'navbar_pagenav': True,
-        'navbar_pagenav_name': "Page",
-        'bootswatch_theme': "readable",
-        # united = weird colors, sandstone=green, simplex=red, paper=trop bleu
-        # lumen: OK
-        # to try, yeti, flatly, paper
-        'bootstrap_version': "3",
-        'source_link_position': "footer",
-    }
 
 language = "fr"
 

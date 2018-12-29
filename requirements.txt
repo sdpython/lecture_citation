@@ -3,6 +3,6 @@ jinja2
 jyquickhelper
 pyquickhelper
 python-multipart
-sphinx_modern_theme
+sphinx_modern_theme_modified
 sphinxcontrib.blockdiag
 wheel

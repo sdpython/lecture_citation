@@ -3,6 +3,10 @@
 Index
 =====
 
+L'index principal est :ref:`genindex`.
+La suite des informations qu'on ne consulte pas
+souvent.
+
 .. only:: html
 
     .. toctree::
