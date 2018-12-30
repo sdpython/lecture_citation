@@ -22,7 +22,8 @@
     Au Mexique, les conséquences [de l'ALENA] étaient particulièrement graves,
     surtout pour le Sud. Depuis l'imposition dans les annes 1980,
     des programmes néo-libéraux, les salaires avait fortement baissé. La chute s'est
-    poursuivie après la signature de l'ALENA : les travailleurs salariés ont subi
+    poursuivie après la signature de l':epkg:`ALENA` :
+    les travailleurs salariés ont subi
     une perte de revenus de 24% - 40% pour les travailleurs indépendants -, effet
     encore amplifié par l'augmentation rapide du nombre des travailleurs non salariés.
     Les investissements étrangers se sont accrus, mais le total des investissements a diminué,
@@ -106,3 +107,84 @@
     *l'une des plus dures qui ait jamais existé au monde,* sortait
     de ses frontières - comme elle le fit plus tard, dépassant de loin
     ses pires cauchemars.
+
+.. quote::
+    :author: Noah Chomsky
+    :book: Le profit avant l'Homme
+    :year: 2018
+    :index: démocratie
+    :pages: 90
+
+    *L'auteur transcrit la pensée de James Madison
+    et Lance Banning.*
+
+    La constitution était, intrinsèquement,
+    un document aristocratique destiné à contrer les tendances
+    démocratiques de la période.
+    livrant le pouvoir aux meilleurs et empêchant ceux qui
+    n'étaient ni riches ni bien nés, ni connus, de l'exercer.
+
+    [...]
+
+    Madison prévoyait que la menace de la démocratie risquait
+    de s'aggraver avec le temps en raison de l'accroissement
+    de la proportion de ceux qui se heurtent à toutes les
+    difficicultés de l'existence, et rêvent en secret d'une
+    distribution plus équitable. [...] Il ne faut pas compter
+    sur ceux qui n'ont pas de biens, ni l'espoir d'en acquérir,
+    pour témoigner une sympathie suffisante aux droits de propriété.
+    Sa solution consistait à maintenir le pouvoir politique
+    entre les mains de ceux qui sont issus de, et représentent,
+    la richesse de la nation, le groupe des hommes les plus
+    capables face à un peuple fragmenté et désorganisés.
+
+.. quote::
+    :author: Noah Chomsky
+    :book: Le profit avant l'Homme
+    :year: 2018
+    :index: Cuba
+    :pages: 133
+
+    A la fin de février 1996, alors que les Etats-Unis s'indignaient de voir
+    Cuba abattre deux avions d'un groupe anti-castriste basé en Floride,
+    ceux-ci ayant à plusieurs reprises violé l'espace aérien cubain et lâché au-dessus
+    de la Havane des brochures appelant les Cubains à la révolte, [...]
+    nous pourrions nous demander comment les Etats-Unis réagiraient si des avions
+    libyens volant au-dessus de New-York et de Washington,
+    lâchaient des brochures appelant les Américains à se révolter, et ce après
+    des années d'attaques terroristes contre des cibles situées sur le
+    sol national ou à l'étranger.
+
+.. quote::
+    :author: Noah Chomsky
+    :book: Le profit avant l'Homme
+    :year: 2018
+    :index: marché libre
+    :pages: 140
+
+    L'administration [Clinton] prodiguait des fonds publics
+    à l'industrie des hautes technologies avec un abandon jusque-là
+    inconnu.
+
+.. quote::
+    :author: Noah Chomsky
+    :book: Le profit avant l'Homme
+    :year: 2018
+    :index: démocratie, ALENA
+    :pages: 166
+
+    Près de la moitié des tentatives d'implantation des syndicats sont
+    compromises par les menaces que brandissent les employeurs de
+    délocaliser la production à l'étranger : c'est ainsi que l'on place des
+    panneaux *Transferts d'emplois aux Mexique* devant une usine où
+    les travailleurs tentent de s'organiser. Et ce ne sont pas des paroles
+    en l'air : quand malgré tout, les syndicats réussissent à se maintenir,
+    les employeurs ferment l'usine, en totalité ou en partie, trois fois plus
+    souvent qu'avant l':epkg:`ALENA` (dans près de 15% des cas).
+    [...]
+    En bref, le danger, c'est la démocratie, aux Etats-Unis et ailleurs.
+    [...]
+    Selon Human Rights Watch, l'administration Clinton refuse toujours de
+    rendre au gouvernement haïtien 160.000 pages de documents saisis par
+    les troupes américaines, pour *éviter d'embarrassantes révélations*
+    sur la complicité des Etats-Unis avec les auteurs du coup d'Etat.

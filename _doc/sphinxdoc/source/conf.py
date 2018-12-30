@@ -85,5 +85,6 @@ latex_elements['preamble'] = preamble + custom_preamble
 mathdef_link_only = True
 
 epkg_dictionary.update({
+    'ALENA': 'https://fr.wikipedia.org/wiki/Accord_de_libre-%C3%A9change_nord-am%C3%A9ricain',
     'wikipedia': 'https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal',
 })
