@@ -4,7 +4,8 @@
 .. quote::
     :author: Alber Memmi
     :book: Portrait du colonisé, portrait du colonisateur
-    :year: 2019
+    :year: 1957
+    :index: colonie
 
     [Sartres - préface]
     Ces exclus revendiqueront leur exclusion sous le nom
@@ -18,3 +19,141 @@
     qu'il lui reste à perdre ? C'est son malheur qui deviendra
     son courage ; cet éternel refus que la colonisation lui
     oppose, il en fera le refus absolu de la colonisation.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 69
+    :index: sélection
+
+    Parmi les colonisateurs natifs, si la majorité s'accorche
+    à sa chance historique et la défend à tout prix, il en existe
+    qui parcourent l'itinéraire opposé, refusent la colonisation,
+    ou finissent par quitter la colonie. Le plus souvent, ce sont de
+    tout jeunes gens, les plus généreux, les plus ouverts, qui, au
+    sortir de l'adolescence, décident de ne pas faire leur vie
+    d'homme en colonie.
+
+    Dans les deux cas, les meilleurs s'en vont. Soit par éthique :
+    ne supportant pas de bénéficier de l'injustice quotidienne.
+    Soit simplement par orgueil parce qu'il se dédident d'une
+    meilleur étoffe que le colonisateur moyen. [...] Dans les
+    deux cas, la colonie ne peut retenir les meilleurs.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 76
+    :index: médiocrité
+
+    Comme il n'y a pas plus de race de colonisateurs qu'il y en a
+    de colonisés, il faut bien trouver une autre explication de
+    l'étonnante carence des maîtres de la colonie. Nous avons noté
+    l'hémorragie des meilleurs ; hémorragie double de natifs et de
+    gens de passage. Ce phénomène est suivi d'un complémentaire
+    désastreux ; les médiocres, eux, restent, et pour leur vie
+    entière. C'est qu'ils n'en espéraient pas tant. Une fois installés,
+    ils se garderont bien de lâcher leur place ; sauf si on leur en
+    propose une meilleure, ce qui ne peut leur arriver qu'en colonie.
+    C'est pourquoi, contrairement à ce que l'on dit, et sauf dans
+    quelques postes mouvants par définition, le personnel colonial
+    est relativement stable. La promotion des médiocres n'est pas
+    une erreur provisoire, mais une catastrophe définitivie,
+    dont la colonie ne se relève jamais.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 77
+    :index: médiocrité
+
+    Mais on suggère qu'il [le colonisateur] est un habile, qui a
+    su tirer parti d'une situation particulière, dont les ressources
+    seraient en somme, d'une moralité discutable. [...]
+    Contre cette accusation, implicite ou avouée, mais toujours là,
+    toujours prête en lui et chez les autres, il se défend comme il
+    peut. Tantôt il insiste sur les difficultés de son existence exotique,
+    les traîtrises d'un climat sournois, la fréquence des maladies, la
+    lutte contre un sol ingrat, la méfiance des populations hostiles ;
+    tout cela ne mériterait-il aucune compensation ? Tantôt furieux,
+    agressif, il réagit comme Gribouille ; opposant mépris à mépris,
+    accusant le métropolitain, au contraire il avoue, il clame les richesses
+    du dépaysement et aussi pourquoi pas ? les privilèges de la vie
+    qu'il s'est choisie, la vie facile, les domestiques
+    nombreux, la jouissance, impossible en Europe, d'une autorité
+    anachronique et même le bas prix de l'essence. Rien, enfin, ne peut
+    le sauver en lui donnant cette haute idée compensatrice de lui-mêmee,
+    qu'il cherchait si avidement. Ni l'étranger, tout au plus indiférent
+    mais non dupe ni complice, ni sa partie d'origine, où il est toujours
+    suspect et souvent attaqué, ni sa propre action quotidienne
+    qui voudrait ignorer la révolte muette du colonisé.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 80
+    :index: défilé militaire
+
+    Il [le colonisateur] aime les symbols les plus éclatants,
+    les manifestations les plus démonstratives de la puissance
+    de son pays. Il assiste à tous les défilés militaires. [...]
+    Il s'agit tout autant d'impressionner le colonisé que de
+    se rassurer soi-même.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 88
+    :index: privilèges
+
+    Le colonialiste est *civiquement aérien*. Il navique entre
+    une société lointaine, qu'il veut sienne, mais qui devient
+    à quelque degré mythique ; et une société présente, qu'il
+    refuse et maintient ainsi dans l'abstraction.
+    [...]
+    Le colonialiste n'a jamais décidé de transformer la colonie
+    à l'image de la métropole, et le colonisé à son image. Il ne
+    peut admettre une telle adéquation, qui détruirait le principe
+    de ses privilèges.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 92
+    :index: religion, colonie
+
+    Le colonialiste ne pouvait favoriser une entreprise
+    qui aurait contribué à l'évanouissement de la relation
+    coloniale. La conversion du colonisé à la religion du
+    colonisateur aurait été une étape sur la voie de
+    l'assimilation. C'est une des raisons pour lesquelles
+    les missions coloniales ont échoué.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 92
+    :index: oppression
+
+    Toute oppression s'adresse globalement à un groupement
+    humain, et a priori, tous les individus en tant que membres
+    de ce groupe en sont atteints anonymement. On entend
+    souvent affirmer que les ouvriers, c'est-à-dire tous les
+    ouvriers, puisque ouvriers, sont affligés de tels défauts
+    et de telles tares. L'accusation raciste, portée contre
+    des colonisés, ne peut être que collective, et tout colonisé
+    sans exception doit en répondre. Il est admis, cependant, que
+    l'oppression ouvrière comporte une issue : théoriquement au
+    moins, un ouvrier peut quitter sa classe et changer de statut.
+    Tandis que, dans le cadre de la colonisation, rien ne pourra
+    sauver le colonisé. Jamais il ne pourra passer dans le clan
+    des privilégiés ; gagnerait-il plus d'argent qu'eux,
+    remporterait-il tous les titres, augmenterait-il infiniment
+    sa puissance.
