@@ -8,7 +8,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.split(__file__)[0])))
 local_template = os.path.join(os.path.abspath(
     os.path.dirname(__file__)), "phdoc_templates")
 
-set_sphinx_variables(__file__, "lecture_citation", "Xavier Dupré", 2018,
+set_sphinx_variables(__file__, "lecture_citation", "Xavier Dupré", 2019,
                      "sphinx_modern_theme_modified", sphinx_modern_theme_modified.get_html_theme_path(),
                      locals(), extlinks=dict(
                          issue=('https://github.com/sdpython/mathenjeu/issues/%s', 'issue')),
