@@ -1,3 +1,6 @@
+
+.. _l-2019:
+
 2019
 ====
 
@@ -157,3 +160,31 @@
     des privilégiés ; gagnerait-il plus d'argent qu'eux,
     remporterait-il tous les titres, augmenterait-il infiniment
     sa puissance.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 100
+    :index: racisme
+
+    Lorsque le colonisateur affirme sans son langage
+    que le colonisé est un débile, il suggère par là que
+    cette déficience appelle la protection. D'où la notion
+    du protectorat. Il est dans l'intérêt même du colonisé
+    qu'il soit exclu des fonctions de direction ; et que ces
+    lourdes responsabilités soient réservées au colonisateur.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 111
+    :index: Histoire
+
+    La carence la plus grave subie par le colonisé est d'être
+    placé *hors de l'histoire* et *hors de la cité*. La
+    colonisation lui supprime toute part libre dans la guerre
+    comme dans la paix, toute décision qui contribue au destin
+    du monde et du sien, toute responsabilité historique et
+    sociale.
