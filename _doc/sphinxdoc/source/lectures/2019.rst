@@ -228,4 +228,23 @@
     lorsqu'il fige les jeunes couples qui dansent un peu gauchement devant
     le grand hôtel. Précisément, parce qu'ils sont figés, ils danseront toujours.
     
-    
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 119
+    :index: religion
+
+    Pourquoi cette rigidité creuse des religions colonisées ? [...]
+    Ce n'est pas une pyschologie originale qui explique l'importance
+    de la famille, ni l'intensité de la vie familiale l'état des structures
+    sociales. C'est au contraire l'impossibilité d'une vie sociale complète,
+    d'un libre jeu de la dynamique sociale, qui entretient la vigueur
+    de la famille, replie l'individu sur cette cellule plus restreinte
+    qui le savue et l'étouffe. [...]
+    Avec son réseau institutionnel, ses fêtes collectives et périodiques,
+    la religion constitue une autre valeur refuge : pour l'individu
+    comme pour le groupe. Pour l'individu, elle s'offre comme une rare
+    ligne de repli ; pour le groupe, elle est une des rares manifestations
+    qui puisse protéger son existence originale.
+
