@@ -248,3 +248,32 @@
     ligne de repli ; pour le groupe, elle est une des rares manifestations
     qui puisse protéger son existence originale.
 
+.. quote::
+    :author: Saint Augustin
+    :book: La vision de Dieu
+    :pages: 50
+    :index: croire
+    
+    S'il croit, fais attention à ce qu'il voit,
+    fais attention à ce qu'il croit, et fais
+    bien la différence.
+
+.. quote::
+    :author: Saint Augustin
+    :book: La vision de Dieu
+    :pages: 50
+    :index: sens
+
+    Il y a deux éléments ici, le témoin et le témoignage :
+    un relève des yeux, l'autre des oreilles.
+
+.. quote::
+    :author: Saint Augustin
+    :book: La vision de Dieu
+    :pages: 102
+    :index: sens
+
+    Bien que nous voyions certains objets par le corps,
+    d'autres par la pensée, cependant c'est par la pensée,
+    non par le corps que s'opère cette distinction entre
+    ces deux types de vision.
