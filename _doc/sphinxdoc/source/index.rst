@@ -22,6 +22,7 @@ lors de la lecture.
     lectures/2013
     lectures/2015
     lectures/2018
+    lectures/2019
 
 .. only:: html
 

@@ -16,6 +16,7 @@ set_sphinx_variables(__file__, "lecture_citation", "Xavier Dupré", 2019,
 
 blog_root = "http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/"
 html_search_language = "fr"
+pygments_style = 'default'
 # blockdiag_fontpath = '/usr/share/fonts/truetype/ipafont/ipagp.ttf'
 
 html_context = {
