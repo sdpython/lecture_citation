@@ -195,23 +195,23 @@
     :year: 1981
     :pages: 21
     :index: création artistique
-    
+
     [Fellini] Vous savez comment on fait une création artistique,
     même à un niveau enfantin et ingénu comme l'était celui
-    du *Marc' Aurelio* ? Une création n'est jamais inventée et 
+    du *Marc' Aurelio* ? Une création n'est jamais inventée et
     n'est jamais vraie. Elle est, d'abord et avant tout, elle-même.
     Quelle idée de vouloir savoir si les récits sont inventés ?
-    De quel point de vue ? Bien sûr qu'ils sont vrais. Pour la 
+    De quel point de vue ? Bien sûr qu'ils sont vrais. Pour la
     simple raison qu'ils sont inventés, ils deviennent plus vrais
     que n'importe quelle réalité.
-    
+
 .. quote::
     :author: B. Amengal, J. A. Gili, M. Latil-Le Dantec, M. Mesnil, F. Piéri, V. Pinel, D. Rocher, C. Viviani
     :book: Etudes cinématographiques: Federico Fellini
     :year: 1981
     :pages: 45
     :index: création artistique
-    
+
     La vérité captée par l'objectif est une vérité morte si
     l'imagination de l'homme ne vient pas la féconder, lui
     donner un sens.
@@ -222,12 +222,12 @@
     :year: 1981
     :pages: 67
     :index: photographie
-    
-    La photographie nie le mouvement. Ou plutôt elle se l'approprie et 
+
+    La photographie nie le mouvement. Ou plutôt elle se l'approprie et
     le fixe définitivement. Fellini nous le prouve par un procédé très simple :
     lorsqu'il fige les jeunes couples qui dansent un peu gauchement devant
     le grand hôtel. Précisément, parce qu'ils sont figés, ils danseront toujours.
-    
+
 .. quote::
     :author: Alber Memmi
     :book: Portrait du colonisé, portrait du colonisateur
@@ -253,7 +253,7 @@
     :book: La vision de Dieu
     :pages: 50
     :index: croire
-    
+
     S'il croit, fais attention à ce qu'il voit,
     fais attention à ce qu'il croit, et fais
     bien la différence.
@@ -277,3 +277,17 @@
     d'autres par la pensée, cependant c'est par la pensée,
     non par le corps que s'opère cette distinction entre
     ces deux types de vision.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :index: langue
+    
+    L'écrivain colonisé, péniblement arrivé à l'utilisation des langues
+    européennes - celles des colonisateurs, ne l'oublions pas -, ne peut
+    que s'en servir pour réclamer en faveur de la sienne. Ce n'est là
+    ni incohérence ni revendication pure ou aveugle ressentiment, mais
+    une nécessité. Ne le ferait-il pas, que tout son peuple finirait
+    par s'y mettre.
+
