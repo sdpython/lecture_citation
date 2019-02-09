@@ -16,13 +16,13 @@ lors de la lecture.
 .. toctree::
     :maxdepth: 2
 
-    lectures/2010
-    lectures/2011
-    lectures/2012
-    lectures/2013
-    lectures/2015
-    lectures/2018
     lectures/2019
+    lectures/2018
+    lectures/2015
+    lectures/2013
+    lectures/2012
+    lectures/2011
+    lectures/2010
 
 .. only:: html
 
