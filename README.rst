@@ -1,9 +1,4 @@
 
-.. _l-README:
-
-README
-======
-
 .. image:: https://travis-ci.org/sdpython/lecture_citation.svg?branch=master
     :target: https://travis-ci.org/sdpython/lecture_citation
     :alt: Build status
@@ -33,12 +28,13 @@ README
     :alt: GitHub Issues
     :target: https://github.com/sdpython/lecture_citation/issues
 
-**Links:**
+.. _l-README:
+
+lecture_citation
+================
+
+Collection de souvenirs de lectures, pas de code.
 
 * `GitHub/lecture_citation <https://github.com/sdpython/lecture_citation/>`_
 * `documentation <http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/index.html>`_
 * `Blog <http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/blog/main_0000.html#ap-main-0>`_
-
-**lecture_citation**
-
-Collection de souvenirs de lectures.
