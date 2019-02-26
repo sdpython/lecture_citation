@@ -5751,4 +5751,4 @@
     :index: impolitesse
     :year: 2010
 
-    Un homme impoli est encore impoli quant il est seul.
+    Un homme impoli est encore impoli quand il est seul.
