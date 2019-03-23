@@ -195,7 +195,7 @@
     :year: 2007
     :index: démocratie
     :pages: épisode S3
-    :link: https://fr.wikipedia.org/wiki/Saison_3_de_Battlestar_Galactica#Gr%C3%A8ve_g%C3%A9n%C3%A9rale
+    :source: https://fr.wikipedia.org/wiki/Saison_3_de_Battlestar_Galactica#Gr%C3%A8ve_g%C3%A9n%C3%A9rale
 
     Quand le carburant coule, mes coups de fil sont sans effets,
     en revanche, à la minute où il y a un ennui pour fournir le carburant,

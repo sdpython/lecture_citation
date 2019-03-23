@@ -283,11 +283,10 @@
     :book: Portrait du colonisé, portrait du colonisateur
     :year: 1957
     :index: langue
-    
+
     L'écrivain colonisé, péniblement arrivé à l'utilisation des langues
     européennes - celles des colonisateurs, ne l'oublions pas -, ne peut
     que s'en servir pour réclamer en faveur de la sienne. Ce n'est là
     ni incohérence ni revendication pure ou aveugle ressentiment, mais
     une nécessité. Ne le ferait-il pas, que tout son peuple finirait
     par s'y mettre.
-
