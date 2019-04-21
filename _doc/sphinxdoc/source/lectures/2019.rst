@@ -290,3 +290,14 @@
     ni incohérence ni revendication pure ou aveugle ressentiment, mais
     une nécessité. Ne le ferait-il pas, que tout son peuple finirait
     par s'y mettre.
+
+.. quote::
+    :author: Alwett, Iggy, Alizon
+    :book: Ogres - Chasse à l'Ogre
+    :year: 2019
+    :index: argent
+    :pages: 20
+
+    Les filles qui cherchent un homme avec beaucoup d'argent
+    finissent toujours par demander un peu d'argent à beaucoup
+    d'hommes.
