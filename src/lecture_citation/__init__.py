@@ -5,7 +5,7 @@
 Souvenirs from books.
 """
 
-__version__ = "0.1"
+__version__ = "0.2"
 __author__ = "Xavier Dupré"
 __github__ = "https://github.com/sdpython/lecture_citation"
 __url__ = "http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/index.html"
