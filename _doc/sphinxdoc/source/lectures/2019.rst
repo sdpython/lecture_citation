@@ -301,3 +301,13 @@
     Les filles qui cherchent un homme avec beaucoup d'argent
     finissent toujours par demander un peu d'argent à beaucoup
     d'hommes.
+
+.. quote::
+    :author: Manuera
+    :book: Les Campbell - Tome 5
+    :year: 2018
+    :index: écologie
+    :pages: 5
+
+    De la chair d'imbéciles pour nourrir les poissons,
+    c'est contraire à l'écologie.
