@@ -311,3 +311,14 @@
 
     De la chair d'imbéciles pour nourrir les poissons,
     c'est contraire à l'écologie.
+
+.. quote::
+    :author: ...
+    :book: ...
+    :year: 2019
+    :index: argent
+
+    Une chose bâtie par l'argent meurre dès
+    que l'argent s'en va. La sécurité sociale
+    serait morte depuis longtemps s'il n'y avait
+    une idée pour la soutenir.
