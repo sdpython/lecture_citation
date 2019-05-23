@@ -322,3 +322,13 @@
     que l'argent s'en va. La sécurité sociale
     serait morte depuis longtemps s'il n'y avait
     une idée pour la soutenir.
+
+.. quote::
+    :author: ...
+    :book: ...
+    :year: 2019
+    :index: administration
+
+    L'administration est comme les pyramides
+    égyptiennes : inutilement compliquée pour
+    le but que cela sert mais ça occupe.
