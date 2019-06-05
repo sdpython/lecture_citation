@@ -62,10 +62,6 @@ lors de la lecture.
     .. image:: https://codecov.io/github/sdpython/lecture_citation/coverage.svg?branch=master
         :target: https://codecov.io/github/sdpython/lecture_citation?branch=master
 
-    .. image:: https://badge.waffle.io/sdpython/lecture_citation.png?label=ready&title=Ready
-        :alt: Waffle
-        :target: https://waffle.io/sdpython/lecture_citation
-
     .. image:: http://img.shields.io/github/issues/sdpython/lecture_citation.svg
         :alt: GitHub Issues
         :target: https://github.com/sdpython/lecture_citation/issues
