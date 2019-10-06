@@ -332,3 +332,40 @@
     L'administration est comme les pyramides
     égyptiennes : inutilement compliquée pour
     le but que cela sert mais ça occupe.
+
+.. quote::
+    :author: Alan Speller
+    :book: Le Black Mountain College
+    :year: 2019
+    :index: règlements
+
+    [John Andrew Rice] Les réglements sont le dernier
+    refuge de la médiocrité.
+
+.. quote::
+    :author: Alan Speller
+    :book: Le Black Mountain College
+    :year: 2019
+    :index: pédagogie
+
+    Rice estimait que les transformations apportées par le rythme
+    de vie de plus en plus rapide du XXième siècle devaient inexorablement
+    mener à des changements profonds dans les méthodes d'enseignements.
+    Il y avait tellement d'information en constante évolution
+    qu'il n'était plus suffisant de simplement accumuler des faits dans
+    sa tête. Il fallait amener la jeunesse à atteindre une maturité
+    émotionnelle autant qu'intellectuelle, la conduire à l'intelligence,
+    qu'il qualifiait d'équilibre entre l'intellect et les émotions.
+
+.. quote::
+    :author: Nils Christie
+    :book: L'industrie de la punition, Prison et politique pénale en Occident
+    :year: 2019
+    :index: règlements
+
+    [Norvège] Pendant un certain temps, nous avons tellement manqué de place
+    dans nos prisons. La soution à cette situation de crise était évidente :
+    laisser les condamnés attendre l'exécution de leur peine. En 1990,
+    nous avions 2500 personnes détenues. Mais nous en avions 4500 sur liste
+    d'attente. Nous les avons mis en file d'attente ne vue de leur admission
+    en détention.
