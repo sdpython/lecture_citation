@@ -28,7 +28,7 @@ class TestReadme(unittest.TestCase):
             # does not work from a virtual environment
             return
 
-        from pyquickhelper.pycode import check_readme_syntax
+        from pyquickhelper.pycode import check_readme_syntax  # pylint: disable=C0415
 
         check_readme_syntax(readme, folder=temp, fLOG=fLOG)
 
