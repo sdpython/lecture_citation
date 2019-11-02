@@ -360,7 +360,7 @@
 .. quote::
     :author: Nils Christie
     :book: L'industrie de la punition, Prison et politique pénale en Occident
-    :year: 2019
+    :year: 2003
     :index: règlements
 
     [Norvège] Pendant un certain temps, nous avons tellement manqué de place
@@ -369,3 +369,100 @@
     nous avions 2500 personnes détenues. Mais nous en avions 4500 sur liste
     d'attente. Nous les avons mis en file d'attente ne vue de leur admission
     en détention.
+
+.. quote::
+    :author: Esther Duflo
+    :book: Expérience, science et lutte contre la pauvreté
+    :year: 2013
+    :index: pauvreté
+    :pages: 26
+
+    [Roosevelt] It is commone sense to take a method and try it:
+    if it fails, admit frankly and try another. But above all,
+    try something.
+
+.. quote::
+    :author: Esther Duflo
+    :book: Expérience, science et lutte contre la pauvreté
+    :year: 2013
+    :index: économiste
+    :pages: 29
+
+    L'erreur, selon lui [Abhijit Benerjee], est de voir l'économiste
+    comme un scientifique, et la décision des agents économiques
+    comme celle d'un joueur de billard. En réalité, les décisions
+    économiques que nous prenons tous les jours se rapprochent
+    plus du travail d'un artisan que celui d'un artiste. Elles
+    peuvent être améliorées par l'expérience et par de bonnes
+    connaissances techniques. De même qu'un artisan peut bénéficier
+    des conseils d'un spécialiste, de même l'agent économique
+    pourrait parfois avoir besoin de recourir à des experts.
+
+.. quote::
+    :author: Esther Duflo
+    :book: Expérience, science et lutte contre la pauvreté
+    :year: 2013
+    :index: risque
+    :pages: 31
+
+    Il n'y a pas assez d'innovation dans l'économie dans son
+    ensemble puisque chacun compte sur son voisin pour prendre
+    les risques initiaux. [...] Si personne n'innove, chaque
+    paysan sait qu'il est inutile de demander à ses voisins
+    ce qu'ils font : ils n'ont rien de nouveau à lui apprendre.
+    Mais les innovations risquent de s'éteindre avant de se
+    répandre si les premiers qui les ont adoptées les abandonnent
+    avant d'avoir eu l'occasion d'en parler à d'autres.
+
+.. quote::
+    :author: Esther Duflo
+    :book: Expérience, science et lutte contre la pauvreté
+    :year: 2013
+    :index: évaluation
+    :pages: 44
+
+    Pourquoi les programmes ne sont-ils pas évalués rigoureusement ?
+    [...] Parce qu'il n'est pas l'intérêt de le faire pour
+    ceux qui les soutiennent. De la capacité de convaincre
+    que le proramme est une réussite dépendent le financement
+    d'autres programmes, une réélection, une promotion. Même
+    si personne n'est dupe, dans un environnement où tout le
+    monde exagère ses succès, il est difficile de ne pas faire
+    la même chose. Cela produit une inflation générale des
+    promesses et des réussites affichées.
+
+.. quote::
+    :author: Esther Duflo
+    :book: Expérience, science et lutte contre la pauvreté
+    :year: 2013
+    :index: femmes
+    :pages: 38
+
+    Les villages qui se dotent d'une femme maire se révèlent
+    en général, très différents de ceux qui s'y refusent.
+    Les villages élisant des femmes ont sans doute moins de
+    préjugés défavorables à leur encontre. Ils sont peut-être
+    plus sensibles à certains enjeux traditionnellement
+    incarnés par les femmes (la famille ou le bien-être des enfants).
+    Ces différences préalablement existantes,
+    et non le genre du maire, peuvent être la raison des différences
+    entre les politiques suivies par les femmes et par les hommes
+    maires.
+
+.. quote::
+    :author: Esther Duflo
+    :book: Expérience, science et lutte contre la pauvreté
+    :year: 2013
+    :index: biais
+    :pages: 53
+
+    Nous avons imaginé de faire écouter aux villageois le
+    même discours politique, prononcé soit par une voix d'homme
+    soit par une voix de femme. La personne interrogée doit ensuite
+    répondre à une série de questions sur ce qu'elle pense du
+    discours et du maire qui l'a prononcé. Dans les villages qui
+    n'ont jamais eu de femme maire, les villageois ont
+    tendance à juger le discours comme plus faible s'ils
+    l'entendent prononcer par une femme. Dans les villages
+    qui ont eu une femme maire [grâce à la politique
+    des quotas], cette différence disparaît complètement.
