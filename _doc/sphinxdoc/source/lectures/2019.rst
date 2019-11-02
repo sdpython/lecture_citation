@@ -466,3 +466,46 @@
     l'entendent prononcer par une femme. Dans les villages
     qui ont eu une femme maire [grâce à la politique
     des quotas], cette différence disparaît complètement.
+
+.. quote::
+    :author: Nils Christie
+    :book: L'industrie de la punition, Prison et politique pénale en Occident
+    :year: 2003
+    :index: criminalité
+    :pages: 57
+
+    L'histoire pénale de la Finlande montre que les chiffres
+    de l'emprisonnement ne sont pas déterminés par la criminalité,
+    mais par des décisions culturelles et politiques. Ils sont basés
+    sur le genre de société à laquelle nous voulons appartenir.
+
+.. quote::
+    :author: Nils Christie
+    :book: L'industrie de la punition, Prison et politique pénale en Occident
+    :year: 2003
+    :index: injustice
+    :pages: 72
+
+    Ce n'est pas le niveau absolu de la richesse,
+    mais la perception de l'injustice de la répartition
+    des richesses, qui affecte le taux de criminalité.
+
+.. quote::
+    :author: Nils Christie
+    :book: L'industrie de la punition, Prison et politique pénale en Occident
+    :year: 2003
+    :index: drogue
+    :pages: 76
+
+    Dans toutes les sociétés industrialisées, la guerre contre
+    la drogue s'est transformée en une guerre qui renforce
+    concrètement le contrôle de l'Etat sur les classes potentiellement
+    dangereuses. Ces classes *dangereuses* ne représentent
+    pas une menace mais leur style de vie apparaît comme un affront.
+    Cela permet non seulement de balayer par une explication
+    les insuffisances de la société, mais aussi, concrètement,
+    de mettre en sûreté derrière les barreaux un large segment
+    de la population non productive. La forte pression qui
+    s'exerce contre les prisons en Europe provient
+    en grande partie de la guerre déclarée à la drogue.
+    Il en va de même aux Etats-Unis.
