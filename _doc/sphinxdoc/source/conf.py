@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 import sys
 import os
-import sphinx_modern_theme_modified
+# import sphinx_modern_theme_modified
+import alabaster
+# import sphinx_redactor_theme
 from pyquickhelper.helpgen.default_conf import set_sphinx_variables, get_default_stylesheet
 import lecture_citation
 
@@ -10,21 +12,23 @@ local_template = os.path.join(os.path.abspath(
     os.path.dirname(__file__)), "phdoc_templates")
 
 set_sphinx_variables(__file__, "lecture_citation", "Xavier Dupré", 2019,
-                     "sphinx_modern_theme_modified", sphinx_modern_theme_modified.get_html_theme_path(),
+                     "alabaster", alabaster.get_path(),
+                     # "sphinx_redactor_theme", [sphinx_redactor_theme.get_html_theme_path()],
                      locals(), extlinks=dict(
-                         issue=('https://github.com/sdpython/mathenjeu/issues/%s', 'issue')),
+                         issue=('https://github.com/sdpython/lecture_citation/issues/%s', 'issue')),
                      title="Souvenirs de lecture", book=True, nblayout='table')
 
 blog_root = "http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/"
 html_search_language = "fr"
-pygments_style = 'default'
+pygments_style = 'sphinx'
 # blockdiag_fontpath = '/usr/share/fonts/truetype/ipafont/ipagp.ttf'
+# extensions.extend(['alabaster'])
 
 html_context = {
     'css_files': get_default_stylesheet() + ['_static/my-styles.css'],
 }
 
-html_logo = "project_ico.png"
+html_logo = "phdoc_static/project_ico.png"
 
 language = "fr"
 

@@ -67,9 +67,7 @@ lors de la lecture.
         :target: https://github.com/sdpython/lecture_citation/issues
 
 +----------------------+---------------------+---------------------+--------------------+------------------------+------------------------------------------------+
-| :ref:`l-modules`     |  :ref:`l-functions` | :ref:`l-classes`    | :ref:`l-methods`   | :ref:`l-staticmethods` | :ref:`l-properties`                            |
+| :ref:`modindex`      |                     | :ref:`search`       | :ref:`l-license`   | :ref:`l-changes`       | :ref:`l-README`                                |
 +----------------------+---------------------+---------------------+--------------------+------------------------+------------------------------------------------+
-| :ref:`modindex`      |  :ref:`l-EX2`       | :ref:`search`       | :ref:`l-license`   | :ref:`l-changes`       | :ref:`l-README`                                |
-+----------------------+---------------------+---------------------+--------------------+------------------------+------------------------------------------------+
-| :ref:`genindex`      |  :ref:`l-FAQ2`      | :ref:`l-notebooks`  | :ref:`l-CMD2`      | :ref:`l-statcode`      | `Unit Test Coverage <coverage/index.html>`_    |
+| :ref:`genindex`      |                     |                     |                    | :ref:`l-statcode`      | `Unit Test Coverage <coverage/index.html>`_    |
 +----------------------+---------------------+---------------------+--------------------+------------------------+------------------------------------------------+
