@@ -1,7 +1,6 @@
 coverage
 jinja2
 jyquickhelper
-git+https://github.com/sdpython/nbconvert.git@fixes
 pyquickhelper>=1.9
 python-multipart
 sphinx_modern_theme_modified
