@@ -509,3 +509,51 @@
     s'exerce contre les prisons en Europe provient
     en grande partie de la guerre déclarée à la drogue.
     Il en va de même aux Etats-Unis.
+
+.. quote::
+    :author: Sayaka Murata
+    :book: La fille de la supérette
+    :year: 2016
+    :index: retraite
+    :pages: 79
+
+    Ainsi donc le corps, éprouvé par le travail physique, finit
+    par ne plus être utile. Peu importent le sérieux et l'ardeur
+    que je mets à l'ouvrage, avec les ans, moi aussi, je suis
+    sans doute condamnée à devenir un produit inutile
+    dans cette supérette.
+
+.. quote::
+    :author: Sayaka Murata
+    :book: La fille de la supérette
+    :year: 2016
+    :index: honnêteté
+    :pages: 87
+
+    Consacrer sa vie à affronter le monde en face pour
+    obtenir sa liberté, ça requiert plus d'honnêteté que de
+    souffrir en maugréant.
+
+.. quote::
+    :author: Sayaka Murata
+    :book: La fille de la supérette
+    :year: 2016
+    :index: singularité
+    :pages: 57
+
+    Les gens perdent tout scrupules devant la singularité, convaincus
+    qu'ils sont en droit d'exiger des explications. Personnellement,
+    je trouve ça pénible, et d'une arrogance exaspérante.
+
+.. quote::
+    :author: Sayaka Murata
+    :book: La fille de la supérette
+    :year: 2016
+    :index: frustration
+    :pages: 34
+
+    J'ai très tôt remarqué que les employés éprouvaient un
+    certain plaisir à se trouver des frsutrations communes,
+    qu'il s'agisse des colères du gérant ou de l'absentéisme
+    des collègues de nuit. L'insatisfaction générale fait
+    naître une curieuse solidarité.
