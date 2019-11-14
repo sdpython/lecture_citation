@@ -377,7 +377,7 @@
     :index: pauvreté
     :pages: 26
 
-    [Roosevelt] It is commone sense to take a method and try it:
+    [Roosevelt] It is common sense to take a method and try it:
     if it fails, admit frankly and try another. But above all,
     try something.
 
@@ -553,7 +553,7 @@
     :pages: 34
 
     J'ai très tôt remarqué que les employés éprouvaient un
-    certain plaisir à se trouver des frsutrations communes,
+    certain plaisir à se trouver des frustrations communes,
     qu'il s'agisse des colères du gérant ou de l'absentéisme
     des collègues de nuit. L'insatisfaction générale fait
     naître une curieuse solidarité.
