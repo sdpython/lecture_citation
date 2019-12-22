@@ -557,3 +557,14 @@
     qu'il s'agisse des colères du gérant ou de l'absentéisme
     des collègues de nuit. L'insatisfaction générale fait
     naître une curieuse solidarité.
+
+.. quote::
+    :author: Morvan, Buchet
+    :book: Sillage 5
+    :year: 2004
+    :index: politique
+    :pages: 22
+
+    Il est quand même dommage de remarquer que chez les
+    adultes, les armes permettent souvent d'engager une
+    conversation sérieuse.
