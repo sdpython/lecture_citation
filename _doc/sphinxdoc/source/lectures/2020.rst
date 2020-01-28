@@ -1,0 +1,64 @@
+
+.. _l-2020:
+
+2020
+====
+
+.. quote::
+    :author: Bastien Cazals
+    :book: Je suis prof et je désobéis
+    :year: 2009
+    :index: éducation
+
+    Il est instructif de voir comment les effectifs
+    d'enseignement sont réduits sans que les parents
+    s'en rendent compte. Affligeant d'en constater les
+    conséquences sur la qualité du service public
+    d'éducation. Les attaques ont d'abord porté sur
+    les personnels d'administratifs et d'encadrement
+    - des réductions invisibles aux yeux des parents.
+    Puis, sur la médecine scolaire : on ne voit plus
+    que rarement les médecins ou les infirmières dans
+    les écoles - dans la mienne, la visite médicale de
+    Grande section n'est plus effectuée depuis trois ans.
+    Ensuite, sur les enseignants remplaçants : de nombreux
+    jours de classe ne sont plus assurés en cas d'absence
+    des maîtres. Pour finir, les classes étant remplies
+    à la limite de l'acceptable. [...]
+    Par exemple, avec l'application de la loi
+    *handicap* de 2005, la prise en charge par l'école
+    publique des enfants handicapés permet d'éviter la
+    création des nouveaux établissements et postes
+    spécialisés, coûteux et pourtant nécessaires.
+    Quant au *plan de relance de l'éducation prioritaire*,
+    de 2005 aussi, il remplace les Zones d'éduction
+    prioritaire (ZEP) par des Réseaux ambition réussire
+    (ZAR). La principale nouveauté vient de ce que les RAR
+    sont moins nombreux que les ZEP : des postes d'enseignants
+    sont ainsi discrètement récupérés et redéployés ailleurs.
+
+    [...]
+
+    Le ministère lançait un fichier national, appelé
+    *Base élèves 1er degré* (BE1D). Déclaré à la CNIL à la
+    veille de Noël 2004, ce fichier a attendu octobre 2008
+    pour avoir une existence légale. Initialement, ses
+    cinquante-neuf champs d'investigation portaient,
+    outre sur l'état civil et la scolarité de l'enfant,
+    sur ses origines, ses difficultés scolaires, son suivi
+    médical, pyschologique ou pyschiatrique éventuel.
+    Face au tollé provoqué par la centralisation de tels
+    renseignements, le ministère a retiré les champs
+    sujets à polémique, mais le fichier demeure. [...]
+    En février 2006, le ministère déclarait à la CNIL
+    un autre fichier appelé
+    *Base nationale des identifiants élèves* (BNIE) :
+    vingt-neuf champs de renseignement pouvant
+    être conservé trente-cinq ans. Désormais, dès
+    son arrivée à l'école maternelle, chaque enfant
+    se voit attribuer un Identifiant National Elève
+    (INE), sans que ses parents n'ait aucun droit
+    d'opposition. Cet INE est utilisé dans tous les fichiers
+    de l'Education Nationale (BE1D au primaire, SCONET
+    au secondaire puis SIFA, SIA, SISE ou OCEAN).
+    
