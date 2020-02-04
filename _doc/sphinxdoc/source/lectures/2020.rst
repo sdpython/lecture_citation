@@ -61,4 +61,124 @@
     d'opposition. Cet INE est utilisé dans tous les fichiers
     de l'Education Nationale (BE1D au primaire, SCONET
     au secondaire puis SIFA, SIA, SISE ou OCEAN).
-    
+
+.. quote::
+    :author: Emmanuel Todd
+    :book: Après la démocratie
+    :year: 2008
+    :pages: 25
+    :index: religion
+
+    Le phénomène le plus significatif, du point de vue
+    sociologique, est l'effrondrement du parti communiste
+    qui suit après un délai assez court, celui de la pratique
+    religieuse. [...] Tout se passe comme si le PCF et l'Eglise
+    avaient constitué un couple, et que le stalinisme ne
+    pouvait survivre à la disparition de son double négatif.
+
+.. quote::
+    :author: Emmanuel Todd
+    :book: Après la démocratie
+    :year: 2008
+    :pages: 35
+    :index: religion
+
+    Sénèque et l'empereur Marc-Aurèle sont sans doute les plus
+    lus. Il y a deux millénaires en effet la pensée antique eut
+    à définir, dans un cadre des religions païennes un sens
+    purement terreste de la vie, une discipline de l'âme et
+    du corps pour opérer dans un monde privé de ses dieux.
+    Cette prodigieuse tentative, ne l'oublions pas, fut un échec
+    et déboucha, on l'a dit, sur l'irrationnel de la vie éternelle
+    et du christiannisme.
+
+.. quote::
+    :author: Emmanuel Todd
+    :book: Après la démocratie
+    :year: 2008
+    :pages: 43
+    :index: ENA
+
+    Les énarques de droite trouvent souvent dans leurs
+    valeur de départ - la religion, l'argent, de Gaulle -
+    un contrepoids à leur formation. Les énarques de gauche
+    sont plus souvent des méritocrates purs, sans autre dieu
+    que l'Etat. Très bien formés à contrôler l'administration,
+    ils sont encore moins bien armés pour penser tout seuls.
+    Cette simplicité étatiste de leur formation initiale
+    explique peut-être, lorsqu'ils tentent de s'en libérer,
+    la brutalité enfantine de leur engagement libéral.
+    [...]
+    Le drame présent de la classe politique française est qu'elle
+    juxtapose des cerveaux paralysés par leur excellente formation
+    et des cerveaux rebelles à cette même formation, mais
+    essentiellement stériles et probablement complexés
+    par leur formation simplement normale.
+
+.. quote::
+    :author: Emmanuel Todd
+    :book: Après la démocratie
+    :year: 2008
+    :pages: 79
+    :index: alphabétisation
+
+    L'alphabétisation permet l'affirmation de l'individu,
+    que la lecture rend plus autocentré, capable d'introspection
+    et vulnérable à une anxiété d'un type nouveau. La hausse
+    du taux de suicide, de la consommation d'alcool et du nombre
+    d'internements psychiatrique qui accompagnent la marche de
+    l'aphabétisation en témoigne. Mais cet individu reste à
+    un stade littéralement *primaire* de développement éducatif,
+    plus susceptible d'entraîner une adhésion passives aux
+    textes qu'une activité critique autonome ; il accepte
+    les propositions idéologiques simples contenues dans la
+    littérature politique et religieuse : radicale,
+    anarchiste, communiste, socialiste, nationalise ou
+    catholique.
+
+.. quote::
+    :author: Emmanuel Todd
+    :book: Après la démocratie
+    :year: 2008
+    :pages: 153
+    :index: salaire
+
+    Dès lors qu'une entreprise produit essentiellement
+    pour le marché mondial, elle se met, logiquement et
+    raisonnablement, à concevoir les salaires qu'elle distribue
+    comme un coût pur, et non comme de la demande dans une
+    économie nationale et donc ultimement pour elle-même.
+
+.. quote::
+    :author: Antonio Gramsci
+    :book: La cité future
+    :year: 1917
+    :pages: 63
+    :index: culture
+
+    La culture est, en résumé, l'indispensable superflu.
+    Elle est, comme disait un professeur allemand, tout absorbé
+    dans l'étude de sa spécialité : "le luxe que peut se
+    permettre ma femme" ; c'est l'ensemble de toutes ces
+    connaissances qui ne servent à rien mais dont il n'est
+    pas permis de se passer.
+
+.. quote::
+    :author: Antonio Gramsci
+    :book: La cité future
+    :year: 1917
+    :pages: 82
+    :index: vérité
+
+    L'effort fait pour conquérir une vérité fait apparaître
+    un peu cette vérité comme vôtre, même si à a sa nouvelle
+    énonciation il n'a rien été ajouté de véritablement vôtre,
+    même si elle n'a pas non plus une légère coloration
+    personnelle. Voilà on plagie souvent les autres
+    inconsciemment, et que l'on se trouve déçu par la froideur
+    sont accueillies des affirmations que l'on estimait
+    capable d'ébranler, d'enthousiasmer. [...] Je préfère répéter
+    une vérité déjà connue que de me chiffonner l'intelligence
+    pour fabriquer des paradoxes brillants, de spirituels jeux
+    de mots, des acrobaties verbales qui font sourire, mais ne font
+    pas penser.
