@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.split(__file__)[0])))
 local_template = os.path.join(os.path.abspath(
     os.path.dirname(__file__)), "phdoc_templates")
 
-set_sphinx_variables(__file__, "lecture_citation", "Xavier Dupré", 2019,
+set_sphinx_variables(__file__, "lecture_citation", "Xavier Dupré", 2020,
                      "alabaster", alabaster.get_path(),
                      # "sphinx_redactor_theme", [sphinx_redactor_theme.get_html_theme_path()],
                      locals(), extlinks=dict(

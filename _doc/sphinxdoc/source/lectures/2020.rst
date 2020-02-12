@@ -182,3 +182,13 @@
     pour fabriquer des paradoxes brillants, de spirituels jeux
     de mots, des acrobaties verbales qui font sourire, mais ne font
     pas penser.
+
+.. quote::
+    :author: ?
+    :book: MacGyver
+    :year: 1917
+    :pages: 9
+    :index: études
+
+    J'ai étudié la physique à l'université parce
+    que ça m'amusait, pas pour avoir un boulot.
