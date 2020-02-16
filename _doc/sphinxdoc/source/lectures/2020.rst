@@ -184,11 +184,118 @@
     pas penser.
 
 .. quote::
-    :author: ?
+    :author: Lee David Zlotoff
     :book: MacGyver
-    :year: 1917
+    :year: 1987
     :pages: 9
     :index: études
 
     J'ai étudié la physique à l'université parce
     que ça m'amusait, pas pour avoir un boulot.
+
+.. quote::
+    :author: Arthur Brügger
+    :book: L'oeil de l'espadon
+    :year: 2017
+    :pages: 75
+    :index: études
+
+    Et moi je lui dis que je plais pas aux filles. -
+    Mais qu'est-ce que tu racontes ! Tu es tellement gentil,
+    tellement attentionné ! Tu es tout-à-fait le genre
+    de garçon avec qui les filles ont envie de sortir !
+
+.. quote::
+    :author: Jean-François Draperi
+    :book: Histoires d'économies sociale et solidaire
+    :year: 2017
+    :pages: 30
+    :index: familistère
+
+    Synthèse des principes de *Rochdale*, un homme un voix
+    quelque soit le nombre de parts détenues, principe de la
+    porte ouverte, la coopértive est ouverte à tous, achat et
+    vente au comptant, pas de crédit, pas d'endettement,
+    restitution des trop-perçus aux membres en proportion
+    de leurs achats, éducation, neutralité politique et
+    religieuse.
+
+.. quote::
+    :author: Jean-François Draperi
+    :book: Histoires d'économies sociale et solidaire
+    :year: 2017
+    :pages: 61
+    :index: argent
+
+    L'argent a ceci de particulier qu'il ne se transforme
+    pas et n'a pas besoin d'être dépensé immédiatement :
+    il ne rouille ni ne s'abîme. Il constitue donc un refuge.
+    Celui qui en dispose peut attendre patiemment que les
+    marchandises soient assez bon marché pour lui, ce qui
+    lui confère un pouvoir considérable sur le possesseur de
+    tout autre type de bien. A travers l'accumulation d'argent,
+    le capitalisme introduit un *corps mort étranger* dans
+    l'économie. Il faut donc rétablir l'équilibre.
+
+    les billets en introduisant le principe de monnaie
+    fondante : toute monnaie qui n'est pas échangée
+    perd de sa valeur.
+
+.. quote::
+    :author: Barry Cunlife
+    :book: Les Celtes
+    :year: 2006
+    :pages: 87
+    :index: démocratie
+
+    Certains peuple comme celui des Eduens avaient mis en place
+    un système rigoureux, dans lequel le pouvoir des magistrats
+    était strictement limité : il leur était interdit de quitter
+    le territoire de la tribu aussi longtemps qu'ils étaient en
+    fonction ; ils ne pouvaient être réélus, et le droit des
+    membres de leurs familles à se porter candidats aux
+    fonctions publiques était restreint.
+
+.. quote::
+    :author: Nicolas Dickner
+    :book: Six degrés de libertés
+    :year: 2017
+    :pages: 74
+    :index: python
+
+    Les yeux fermés, Jay échaffaude une méthode plus efficace.
+    Elle pourrait coder un script Python afin de repérer les
+    liens pertinents sur chacune des vingt-cinq pages de résultats,
+    puis extraire le contenu de chacune des pages où ces liens
+    pointent. Elle pourrait ensuite filtrer et structurer
+    les adresses, ce qui permettrait de les transposer automatiquement
+    sur OpenStreetMap et d'établir un trajet par optimisation
+    combinatoire.
+
+.. quote::
+    :author: Nicolas Dickner
+    :book: Six degrés de libertés
+    :year: 2017
+    :pages: 152
+    :index: données
+
+    Le forage des données est l'avenir.
+
+.. quote::
+    :author: Marc Dugain, Christophe Labbé
+    :book: L'homme nu
+    :year: 2016
+    :pages: 97
+    :index: diversion
+
+    On a récemment découvert que l'ebook n'active
+    pas les mêmes zones que celles d'un livre papier.
+    Preuve que l'ebook agit en profondeur sur la
+    structure même de notre pensée. Son lecteur est moins
+    réceptif au message et sa compréhension
+    s'en ressent. Des chercheurs de l'Université d'Alberta
+    se sont livrés à une expérience édifiante. Ils ont fait
+    lire à deux groupes de cobayes une même nouvelle.
+    Résultat : 75% de ceux qui avaient eu droit à un texte
+    enrichi ont indiqué avoir eu des difficulté
+    à suivre l'histoire contre 10% pour les autres.
