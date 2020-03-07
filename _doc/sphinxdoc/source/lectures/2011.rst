@@ -18,7 +18,7 @@
     :index: pauvre
     :year: 2011
 
-    Les pauvres n'intéressent personnes, dans les monastères
+    Les pauvres n'intéressent personne, dans les monastères
     comme ailleurs.
 
 .. quote::

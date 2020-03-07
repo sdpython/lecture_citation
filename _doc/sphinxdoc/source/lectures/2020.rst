@@ -300,3 +300,156 @@
     Résultat : 75% de ceux qui avaient eu droit à un texte
     enrichi ont indiqué avoir eu des difficulté
     à suivre l'histoire contre 10% pour les autres.
+
+.. quote::
+    :author: René Dumont
+    :book: L'utopie ou la mort
+    :year: 1973
+    :pages: 33
+    :index: engrais
+
+    Avril 1972 : les éleveurs de volailles et les engraisseurs
+    de bovins (en lot de milliers de bêtes) des Etats-Unis ne
+    prenaient généralement plus la peine de porter les montagnes
+    de déjections de leurs animaux sur les champs, en vue de
+    les enfouir. Cela demande trop de transport et de travail
+    au tarif actuel des salaires ! Elles sont donc, quand c'est
+    plus économique, rejetées dans les rivières voisines qu'elles
+    polluent.
+
+.. quote::
+    :author: René Dumont
+    :book: L'utopie ou la mort
+    :year: 1973
+    :pages: 55
+    :index: demande
+
+    Quand la demande faiblit, nos capitalistes, à l'affût
+    de profits croissants eux aussi, cherchent à susciter
+    par la publicité des besoins artificiels, parfois stupides
+    (déodorants pour hommes), sinon dangereux (arrêtant la
+    transpiration utile, poussant à l'usage de tranquilisants
+    et de médicaments non prescrits par un médecin.
+
+.. quote::
+    :author: René Dumont
+    :book: L'utopie ou la mort
+    :year: 1973
+    :pages: 61
+    :index: voiture
+
+    Il a montré que, dans l'hypothèse où l'on aurait délibérément
+    recherché le moyen d'embouteiller nos villes, on n'aurait guère
+    trouvé mieux que de favoriser la voiture pour tous. Chacun a le
+    droit de la garer dans la rue sur une fraction du territoire
+    public d'autant plus rare et précieuse que la ville est plus
+    grande
+
+.. quote::
+    :author: Nicolas Dickner
+    :book: Six degrés de liberté
+    :year: 2018
+    :pages: 33
+    :index: données
+    
+    Le nombre de photos de chats publiés sur un compte
+    Facebook est inversement proportionnel à la probabilité
+    que l"usager soit un terroriste. Ils ont assurément développés
+    des algorithmes pour repérer ce genre de déviations chez Facebook.
+    Relations entre les photos de reptiles et la psychopathologie.
+    Fréquence de publication et cleptomanie. Habitudes alimentaires
+    et dépression. Le forage des données est l'avenir.
+
+.. quote::
+    :author: Metin Arditi
+    :book: L'enfant qui mesurait le monde
+    :year: 2016
+    :pages: 221
+    :index: modernité
+    
+    Je ne sais pas ce que nous deviendrons avec le Périclès Palace.
+    Mais je sais que tout va changer sur l'île. Que personne ne
+    n'aura plus le temps de s'arrêter dire bonjour. Comme vous le
+    faites maintenant. Comme vous êtes là, le coeur ouvert,
+    chaque fois que vous croisez mon garçon.
+
+.. quote::
+    :author: Ake Anställing
+    :book: Le travailleur de l'extrême
+    :year: 2017
+    :pages: 65
+    :index: chômage
+    
+    Il y a quelques semaines, j'ai reçu une lettre de Pôle Emploi
+    pour m'informer que mon rendez-vous avait été annulé parce que
+    ma situation avait changé. Dan ce courrier, il y avait deux 
+    informations très importantes dont j'ignorais l'existence. La première
+    j'avais un rendez-vous de prévu. Quel rendez-vous ? Je n'ai jamais
+    reçu de convocation. La seconde, ma situation aurait changé. Comment
+    ça ma situation a changé ? Je suis pourtant toujours au chômedu. J'hésite...
+    Je les appelle ou pas ? Je décide de les contacter parce que cette histoire
+    de changement de situation me fait craindre une merde du genre
+    suppression du RSA. La personne que j'ai au bout du fil est cordiale.
+    Elle m'apprend qu'une convocation m'a bien été envoyée. Je lui réponds
+    que je ne l'ai jamais reçue. Elle n'a pas l'air plus surprise que ça.
+    Ensuite je lui demande en quoi ma situation a changé puisque c'est le
+    motif de l'annulation du rendez-vous (dont seul Pôle Emploi était au
+    courant). Le ton de sa voix devient plus nonchalant, elle est au bout
+    du rouleau. Ce genre de coup de fil, elle en reçoit des dizaines
+    par jour, des gens qui comme moi demandent à quel
+    changement de situation Pôle Emploi fait allusion. Elle m'apprend
+    que c'est une lettre dite "type" envoyée à toutes les personnes dont
+    le rendez-vous est annulé pour X raisons. Elle admet que ce courrier
+    est plus ambigü et que plusieurs réclamations (du personnel de Pôle Emploi)
+    pour modifier son contenu ont été formulées auprès de la hiérarchie sans
+    aucun résultat. C'est quand même grave d'envoyer ce genre de conneries
+    et d'entretenir sciemment ce climat anxiogène.
+
+.. quote::
+    :author: Ali Douai, Gaël Plumecoocq
+    :book: L'économie écologique
+    :year: 2017
+    :pages: 26
+    :index: durable
+    
+    Contrairement aux arguments de l'économie néoclassique dans
+    lesquelles les prix sont censées assurer l'existence future
+    des ressources, aucune des forme économiques - marchés libres... -
+    ne peut offrir des garanties pour la soutenabilité.
+
+.. quote::
+    :author: Simonetta Cerrini
+    :book: La révolution des Templiers
+    :year: 2007
+    :pages: 180
+    :index: barbe
+    
+    Toutes les représentations de Templiers du XIIIe siècle
+    concordent sur la barbe. Signe pénitentiel, distinctif
+    des ermites, des pélerins, de l'Eglise d'Orient,
+    la barbe marquait également les convers cistérciens.
+
+.. quote::
+    :author: Olivier Razemon
+    :book: Comment la France a tué ses villes
+    :year: 2016
+    :pages: 64
+    :index: extrêmes
+    
+    Les commerces meurent, le FN monte.
+
+
+.. quote::
+    :author: Olivier Razemon
+    :book: Comment la France a tué ses villes
+    :year: 2016
+    :pages: 180
+    :index: TGV
+    
+    Seule une petite minorité d'habitants, cadres ou haut fonctionnaires,
+    enprunte régulièrement la ligne à grande vitesse, sans oublier
+    les élus eux-mêmes. En outre, ces dirigeantrs hyperconnectés ont
+    beaucoup moins besoin de vitesse qu'auparavant. Car les smartphones,
+    les ordinateurs et les clés 4G, à défaut du wifi, permettent une forme
+    d'ubiquité.
+
