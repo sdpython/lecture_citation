@@ -351,7 +351,7 @@
     :year: 2018
     :pages: 33
     :index: données
-    
+
     Le nombre de photos de chats publiés sur un compte
     Facebook est inversement proportionnel à la probabilité
     que l"usager soit un terroriste. Ils ont assurément développés
@@ -366,7 +366,7 @@
     :year: 2016
     :pages: 221
     :index: modernité
-    
+
     Je ne sais pas ce que nous deviendrons avec le Périclès Palace.
     Mais je sais que tout va changer sur l'île. Que personne ne
     n'aura plus le temps de s'arrêter dire bonjour. Comme vous le
@@ -379,10 +379,10 @@
     :year: 2017
     :pages: 65
     :index: chômage
-    
+
     Il y a quelques semaines, j'ai reçu une lettre de Pôle Emploi
     pour m'informer que mon rendez-vous avait été annulé parce que
-    ma situation avait changé. Dan ce courrier, il y avait deux 
+    ma situation avait changé. Dan ce courrier, il y avait deux
     informations très importantes dont j'ignorais l'existence. La première
     j'avais un rendez-vous de prévu. Quel rendez-vous ? Je n'ai jamais
     reçu de convocation. La seconde, ma situation aurait changé. Comment
@@ -411,7 +411,7 @@
     :year: 2017
     :pages: 26
     :index: durable
-    
+
     Contrairement aux arguments de l'économie néoclassique dans
     lesquelles les prix sont censées assurer l'existence future
     des ressources, aucune des forme économiques - marchés libres... -
@@ -423,7 +423,7 @@
     :year: 2007
     :pages: 180
     :index: barbe
-    
+
     Toutes les représentations de Templiers du XIIIe siècle
     concordent sur la barbe. Signe pénitentiel, distinctif
     des ermites, des pélerins, de l'Eglise d'Orient,
@@ -435,9 +435,8 @@
     :year: 2016
     :pages: 64
     :index: extrêmes
-    
-    Les commerces meurent, le FN monte.
 
+    Les commerces meurent, le FN monte.
 
 .. quote::
     :author: Olivier Razemon
@@ -445,11 +444,10 @@
     :year: 2016
     :pages: 180
     :index: TGV
-    
+
     Seule une petite minorité d'habitants, cadres ou haut fonctionnaires,
     enprunte régulièrement la ligne à grande vitesse, sans oublier
     les élus eux-mêmes. En outre, ces dirigeantrs hyperconnectés ont
     beaucoup moins besoin de vitesse qu'auparavant. Car les smartphones,
     les ordinateurs et les clés 4G, à défaut du wifi, permettent une forme
     d'ubiquité.
-
