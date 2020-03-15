@@ -451,3 +451,130 @@
     beaucoup moins besoin de vitesse qu'auparavant. Car les smartphones,
     les ordinateurs et les clés 4G, à défaut du wifi, permettent une forme
     d'ubiquité.
+
+.. quote::
+    :author: Edouard Louis
+    :book: Qui a tué mon père
+    :year: 2018
+    :pages: 41
+    :index: épuisement
+
+    Tu as essayé d'être jeune pendant cinq ans.
+    Quand tu es parti du lycée, seulement quelques
+    jours après avoir commencé, tu as été embauché
+    à l'usine du village mais tu n'es pas resté
+    longtemps non plus, à peine quelques semaines.
+    Tu ne voulais pas reproduire la vie de ton père
+    et de ton grand-père avant toi. Ils avaient
+    travaillé directement après l'enfance, à quatorze
+    ou quinze ans. Ils étaient passés sans transition de
+    l'enfance à l'épuisement et à la préparation à la mort,
+    sans avoir le droit aux quelques années d'oubli
+    du monde et de la réalité que les autres appellent la
+    jeunesse - c'est une formule un peu bête, les quelques
+    années d'oubli que les autres appellent la jeunesse.
+
+.. quote::
+    :author: Edouard Louis
+    :book: Qui a tué mon père
+    :year: 2018
+    :pages: 71
+    :index: usure
+
+    Un après-midi, nous avons reçu un appel de l'usine
+    pour nous prévenir qu'un poids était tombé sur toi.
+    Ton dos était broyé, écrasé, on nous a dit que tu
+    ne pourrais plus marcher pendant plusieurs années,
+    plus marcher.
+
+    [...]
+
+    L'ennui a pris toute la place dans ta vie.
+
+    [...]
+
+    En mars 2006, le gouvernement de Jacques Chirac, président
+    de la Fance pendant douze ans, et son ministre de la Santé
+    Xavier Bertrand, ont annoncé que des dizaines de médicaments
+    ne seraient plus remboursés par l'Etat, dont, en grande partie,
+    des médicaments contre les troubles digestifs. Comme tu devais
+    rester allongé toute la journée depuis l'accident et que tu
+    avais une mauvaises alimentation, les problèmes de digestion
+    étaient constants pour toi. Acheter des médicaments
+    pour les réguler devenaient de plus en plus difficile.
+
+    [...]
+
+    En 2009, le gouvernement de Nicolas Sarkozy et son
+    complice Martin Hirsch remplacent le RMI, un revenu
+    minimum versé par l'Etat français aux personnes sans
+    travail, par le RSA. Tu touchais le RMI depuis que tu
+    ne pouvais plus travailler. Le passage du RMI au RSA visait
+    à favoriser le retour à l'emploi, comme le disait ce
+    gouvernement. La vérité, c'était que dorénavant tu étais
+    harcelé par l'Etat pour reprendre le travail, malgré
+    ta santé désastreuse, malgré ce que l'usine t'avait fait.
+    Si tu n'acceptais pas le travail qu'on te proposait,
+    ou plutôt qu'on t'imposait, tu allais perdre ton
+    droit aux aides sociales. On ne te proposait que
+    des emplois à mi-temps épuisants, physiques, dans la
+    grande ville à quarante kilomètres de chez nous. Payer
+    l'essence pour faire l'aller-retour tous les jours
+    t'aurait coûté trois cents euros par mois. Au bout
+    d'un certain temps, pourtant, tu as été obligé
+    d'accepter un travail balayeur dans une autre ville
+    pour sept cents euros par mois, penché toute la journée
+    à ramasser les ordures des autres, penché, alors que ton
+    dos était réduit.
+
+    [...]
+
+    Août 2017 - le gourvernement d'Emmanuel Macron retire
+    cinq euros par mois aux Français les plus précaires,
+    il retient cinq euros par mois sur les aides sociales qui
+    permettent aux plus pauvres en France de se loger, de payer
+    un loyer. Le même jour, ou presque, peu importe, il annonce
+    une baisse des impôts pour les personnes les plus riches
+    de France. Il pense que les pauvres sont trop riches,
+    que les riches ne sont pas assez riches. Son gouvernement
+    précise que cinq euros, ce n'est rien. Ils ne savent pas.
+    Ils prononcent ces phrases criminelles parce qu'ils ne savent
+    pas. Emmanuel Macron t'enlève la nourriture de la bouche.
+
+.. quote::
+    :author: Edouard Louis
+    :book: Qui a tué mon père
+    :year: 2018
+    :pages: 78
+    :index: politique
+
+    Les dominants peuvent se plaindre d'un gouvernement
+    de gauche, ils peuvent se plaindre d'un gouvernement
+    de droite, mais un gouvernement ne leur cause jamais
+    de problèmes de digestion, un gouvernement ne leur
+    broie jamais le dos. La politique ne change pas
+    leur vie, ou si peu. Ca aussi c'est étrange, c'est eux
+    qui font la politique alors que la politique n'a presque
+    aucun effet sur leur vie.
+
+.. quote::
+    :author: Edouard Louis
+    :book: Qui a tué mon père
+    :year: 2018
+    :pages: 81
+    :index: fainéant
+
+    Septembre 2017 - Emmanuel Macron accuse les *fainéants*
+    qui, en France, selon lui, empêchent les réformes. Tu sais
+    depuis toujours que ce mot est réservé aux gens comme toi,
+    à ceux qui n'ont pas pu ou ne peuvent pas travailler
+    qui ne trouvent pas de travail parce qu'ils ont été chassés
+    trop tôt du système scolaire, sans diplômes, à ceux qui
+    ne peuvent plus travailler parce que la vie à l'usine leur
+    a broyé le dos. On ne dit jamais jamais fainéant pour nommer
+    un patron qui reste toute la journée assis dans un bureau
+    à donner des ordres aux autres. On ne le dit jamais.
+    Pour les dominants, le plus souvent, la politique
+    est une *question esthétique* : une manière de se penser,
+    une manière de voir le monde, de construire sa personne.
+    Pour nous, c'était vivre ou mourir.
