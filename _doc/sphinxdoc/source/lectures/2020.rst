@@ -578,3 +578,40 @@
     est une *question esthétique* : une manière de se penser,
     une manière de voir le monde, de construire sa personne.
     Pour nous, c'était vivre ou mourir.
+
+.. quote::
+    :author: Françoise Dolto
+    :book: Parler de la mort
+    :year: 1998
+    :pages: 13
+    :index: hypnose
+
+    Ce n'est pas difficile d'hypnotiser un animal ;
+    je l'ai vu faire plusieurs fois par Chertok,
+    un psychanaliste qui s'est occupé beaucoup de l'hypnose.
+    Des langoustes, ça s'hypnotise comme ça ; des crevettes,
+    c'est un peu plus difficile... mais les langoustes,
+    les lapins, les poules, les coqs, tous les animaux
+    domestiques - et c'est assez curieux d'ailleurs -, il suffit
+    de les faire passer sans médiation, de façon brusque, de la
+    position qui est la leur dans la vie, à une position
+    totalement différente. Par exemple, une langouste, il
+    la prend, elle est là, bien vivante avec ses pattes, et toc,
+    il la retourne, elle est étalée, absolument comme sur l'étal
+    du marchand, elle paraît morte, et s'il s'en va et revient
+    deux heures après, elle est toujours dans la même position,
+    en état catatonique ; pour lui faire retrouver la vie, il
+    suffit de la prendre et, lentement, de lui faire retrouver
+    ses pattes, c'est à dire - comme j'ose dire - son image du corps,
+    avec un schéma corporel habituel, et qui a les références
+    habituelles de ce schéma corporel.
+
+.. quote::
+    :author: Françoise Dolto
+    :book: Parler de la mort
+    :year: 1998
+    :pages: 43
+    :index: mort
+
+    Donc, les enfants, c'est en leur disant :
+    "tu ne mourras que quand tu auras fini de vivre".
