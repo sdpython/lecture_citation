@@ -615,3 +615,23 @@
 
     Donc, les enfants, c'est en leur disant :
     "tu ne mourras que quand tu auras fini de vivre".
+
+.. quote::
+    :author: David Herlihy
+    :book: La peste noire et la mutation de l'occident
+    :year: 2000
+    :pages: 51
+    :index: agriculture
+
+    L'agriculture avait pour objectif prioritaire la production
+    de céréales, base de l'alimentation, et l'exploitation avait
+    atteint la limite des terres cultivables. Beaucoup d'Européens
+    vivaient certes dans le plus grand dénuement. En dépit de la
+    misère et de la faim, la pression démographique se maintenait
+    pourtant. La civilisation sous-tendue par cette économie, celle
+    du coeur du Moyen-Age aurait pu se perpétuer indéfiniment.
+    Ce ne fut pas le cas ; un facteur exogène, la peste noire,
+    vint débloquer l'impasse malthusienne. Ce faisant, elle offrit
+    aux Européens de rebâtir leur société suivant des orientations
+    très différentes.
+
