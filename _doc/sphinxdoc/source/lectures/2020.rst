@@ -635,3 +635,124 @@
     aux Européens de rebâtir leur société suivant des orientations
     très différentes.
 
+.. quote::
+    :author: David Herlihy
+    :book: La peste noire et la mutation de l'occident
+    :year: 2000
+    :pages: 53
+    :index: femmes
+
+    Les systèmes juridiques de l'Europe tardo-médiéviale durent
+    également s'adapter à la situation sociale hors du commun
+    qu'engendre une épidémie. Compte tenu de la peste, certains
+    *privilèges* comme on disait dans le langage spécialisé, furent
+    accordés. C'est ainsi que les femmes étaient désormais autorisées
+    à témoigner et que les scribes qui n'avaient pas été reçus dans
+    les formes au sein de la corporation des notaires
+    pouvaient dresser des contrats authentiques.
+
+.. quote::
+    :author: David Herlihy
+    :book: La peste noire et la mutation de l'occident
+    :year: 2000
+    :pages: 59
+    :index: travail
+
+    Les mouvements divers du coût ds facteurs de production
+    favorisèrent une politique de substitution. En particulier,
+    la terre et le capital, moins chers, prirent largement le pas
+    sur une main-d'oeuvre onéreuse. La conversion en pâtures des champs
+    de blé en est un exemple. [...] Dans les villes, la substitution
+    du capital du travail signifiait l'acquisition d'outils et de
+    machine plus efficaces, permettant une activité plus rentable
+    de l'artisan. [...] Cette politique de substitution impliquait
+    aussi, fréquemment, des innovations technologiques, la mise au point
+    d'outils et de machines inédits. Le coût élevé de la main d'oeuvre
+    garantissait de fructueuses retombées aux inventeurs de procédés
+    économisant le travail.
+
+.. quote::
+    :author: David Herlihy
+    :book: La peste noire et la mutation de l'occident
+    :year: 2000
+    :pages: 61, 66
+    :index: Malthus
+
+    Ce sont les formidables pertes humaines entraînées par la peste
+    et le coût élevé de la main d'oeuvre qui stimulèrent les recherches.
+    On peut dire que la peste débloqua l'impasse malthusienne
+    du XIIIe siècle, qui risquait de figer définitivement
+    l'Europe dans ses traditions. Les ravages exercés ne réussirent
+    pas à amputer la capacité humaine à rebondir.
+    [...]
+    Malthus expose que la population ne peut augmenter plus vite
+    que les ressources alimentaires, la progression étant géométrique
+    dans le premier cas et arithmétique dans le second. La population
+    en viendra inexorablement à dépasser le stade où sa subsistance
+    est assurée. Un rééquilibrage se produit alors, sous la forme
+    de famines, de malnutrition, d'épidémies et de guerres, qui
+    entraînent un taux de mortalité supérieur au taux de natalité
+    et réduisent brutalement l'importance de la communauté.
+    [...]
+    Le dépeuplement permit à un plus grand nombre d'obtenir
+    des fermes ou des emplois rémunérateurs. Beaucoup de gens virent
+    s'améliorer leurs conditions d'existence, du fait de la hausse des
+    salaires et de la baisse des loyers. Ils goûtèrent à un style
+    de vie auquel eux-mêmes ni leurs enfants ne renonceraient
+    plus aisément. Pour une tranche nettement plus importante
+    de la population, le souci de la propriété et la défense du
+    niveau de vie étaient en relation étroite avec les décisions
+    concernant le mariage et la reproduction. [...]
+    L'Europe ravagée par la peste adopta ce qu'on peut appeler
+    le type de comportement démographique de l'Occident moderne.
+
+.. quote::
+    :author: David Herlihy
+    :book: La peste noire et la mutation de l'occident
+    :year: 2000
+    :pages: 77
+    :index: exode
+
+    Les épidémies, et la crainte des épidémies, jetaient les gens sur les
+    routes sous de pieux prétextes. Un pélerinage offrait l'occasion de
+    fuir les zones contaminées et de visiter les lieux saints ; le
+    corps et l'âme y trouvaient leur compte. Situation paradoxale,
+    la peste décuplait la fréquentation des des voies et des chemins,
+    aggravant dans le même temps l'hostilité des sédentaires à l'égard
+    de tout inconnu et de tout étranger. A l'instar d'autres groupes
+    marginaux, les voyageurs étaient suspects, au pire en tant que
+    propagateurs malveillants de la peste, au mieux en temps que
+    porteurs inconscients du germe de la maladie.
+
+.. quote::
+    :author: David Herlihy
+    :book: La peste noire et la mutation de l'occident
+    :year: 2000
+    :pages: 87
+    :index: prénom
+
+    Autre prénom qui se répand à l'époque de la Peste noire :
+    Lorenzo, Diacre de l'Eglise de Rome. [...] Apparaît également
+    le prénom Christophe, inusité avant la peste. Saint Christophe
+    protégeait de la mort soudaine. [...] C'est ainsi que divers saints
+    des anciens temps devinrent l'objet d'une vénération particulière,
+    du fait de la quête ardente et généralisée de protecteurs
+    sprirituels familiers de la souffrance et aptes à secourir
+    ceux qu'elle frappait.
+
+.. quote::
+    :author: David Herlihy
+    :book: La peste noire et la mutation de l'occident
+    :year: 2000
+    :pages: 89
+    :index: superstition
+
+    Bien des gens, dans l'élite cultivée en particulier, regardaient
+    auparavant comme de la superstition le culte des saints, de leurs
+    réliques et de leurs tombeaux ; c'était un détournement de
+    l'adoration qui devait revenir à Dieu seul. La peste et le type
+    de piété qu'elle favorisa engendrèrent un débat contradictoire
+    sans fin sur la nature de la religion pure, dont les échos
+    retentissent durant tout le Moyen Age tardif et le début
+    des temps modernes, et qui contribua à déclencher le schisme
+    qui devait diviser les chrétiens.
