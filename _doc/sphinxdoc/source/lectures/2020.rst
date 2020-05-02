@@ -658,7 +658,7 @@
     :pages: 59
     :index: travail
 
-    Les mouvements divers du coût ds facteurs de production
+    Les mouvements divers du coût des facteurs de production
     favorisèrent une politique de substitution. En particulier,
     la terre et le capital, moins chers, prirent largement le pas
     sur une main-d'oeuvre onéreuse. La conversion en pâtures des champs
