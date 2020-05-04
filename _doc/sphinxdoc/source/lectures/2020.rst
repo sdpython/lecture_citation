@@ -756,3 +756,13 @@
     retentissent durant tout le Moyen Age tardif et le début
     des temps modernes, et qui contribua à déclencher le schisme
     qui devait diviser les chrétiens.
+
+.. quote::
+    :author: Alfred E. van Vogt
+    :book: L'empire de l'atome
+    :year: 1975
+    :pages: 107
+    :index: pouvoir
+
+    Je crois que l'orgueil est l'écueil qui provoque l'effondrement
+    des individus et des empires.
