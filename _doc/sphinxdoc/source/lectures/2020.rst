@@ -766,3 +766,25 @@
 
     Je crois que l'orgueil est l'écueil qui provoque l'effondrement
     des individus et des empires.
+
+.. quote::
+    :author: Moka
+    :book: Le petit coeur brisé
+    :year: 2016
+    :pages: 31
+    :index: mathématique
+
+    Le dimanche, elle allait au planétarium, parce que Gretchen
+    pensait que, étudier l'astronomie, c'était la meilleur façon
+    de comprendre à quoi servaient les mathématiques, la physique
+    et la poésie.
+
+.. quote::
+    :author: Agatha Christie
+    :book: Les sept cadrans
+    :year: 1927
+    :pages: 31 (Le Masque)
+    :index: femmes
+
+    Les trois filles furent écartées de peur qu'elles ne pouffent
+    de rire.
