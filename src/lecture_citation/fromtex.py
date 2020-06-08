@@ -73,7 +73,7 @@ def enumerate_quotes(filename, encoding="utf-8", empty_name="Inconnu"):
                                 obs = dict(author="{} {}, {} {}, {} {}".format(name, author, n2, a2, n3, a3),
                                            book=book, index=index, year=year)
                             else:
-                                raise FormatException(
+                                raise FormatException(  # pragma: no cover
                                     "Unable to interpret line {0}: '{1}'".format(il, content[0]))
 
             content = "\n".join(content[1:-1])
@@ -93,7 +93,7 @@ def enumerate_quotes(filename, encoding="utf-8", empty_name="Inconnu"):
                 if chap:
                     year = chap.groups()[0]
                 else:
-                    raise FormatException(
+                    raise FormatException(  # pragma: no cover
                         "Unable to process line {0}: '{1}'".format(il, sline))
             else:
                 if sline.startswith("\\begin{xcit"):

@@ -19,7 +19,7 @@ def to_rst(quote):
         if k != 'content':
             rows.append("    :{0}: {1}".format(k, v))
     if 'content' not in quote:
-        raise KeyError("Unable to kind key 'content'.")
+        raise KeyError("Unable to kind key 'content'.")  # pragma: no cover
 
     content = quote['content'].replace("\n\n", '#LINE#').replace('\n', ' ')
     content = content.replace('\r', '').replace('\t', ' ')
