@@ -6,6 +6,7 @@ pylint
 pyquickhelper>=1.9
 python-multipart
 sphinx_modern_theme_modified
+sphinxcontrib.imagesvg
 sphinxcontrib.blockdiag
 toml
 wheel
