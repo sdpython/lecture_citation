@@ -788,3 +788,205 @@
 
     Les trois filles furent écartées de peur qu'elles ne pouffent
     de rire.
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 40
+    :index: mensonge
+
+    Je savais que les adultes mentaient toujours aux enfants,
+    qu'ils leur mentaient sur tout, depuis les vertus de la soupe
+    jusqu'à l'existence du Père Noël.
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 51
+    :index: amour
+
+    Les amoureux de quinze à dix-huit ans ne sont pas très
+    obstinés. J'imagine qu'il n'y avait pas de femmes plus
+    âgées pour les séduire, ils resteraient vierges aussi
+    longtemps que les filles (en admettant qu'elles le restent).
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 54
+    :index: mariage
+
+    Ce mariage ne m'a apporté ni bonheur ni chagrin. Mon mari
+    et moi nous adressions à peine la parole. Ca n'était pas
+    parce que nous étions fâchés l'in contre l'autre, mais nous
+    n'avions rien à nous dire. Depuis, j'ai vu de nombreux couples
+    comme Jim et moi. Ce sont en général les mariages les plus
+    durables, ceux qui sont comme mis en conserve dans le bocal
+    du silence.
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 106
+    :index: soirée
+
+    Je ne sais pas si la haute société est différente dans les
+    autres villes, à Hollywood, les gens importants ne peuvent
+    pas supportés d'être invités dans un endroit où il n'y a
+    pas d'autres gens importants. La présence dans l'assemblée
+    de quelques personnes ordinaires ne les gêne pas, car ils
+    trouvent chez eux une oreille attentive. Mais si une vedette,
+    ou le directeur d'un studio ou n'importe quel autre grand
+    personnage du cinéma se retrouvent assis parmi une foule
+    de gens anonyme, ils sont alors pris de panique, comme si
+    on essayait de les déclasser.
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 107
+    :index: retard
+
+    Je découvris un truc pour moins m'ennuyer. Il suffisait
+    d'arriver à uen réception avec deux heures de retard. Non
+    seulement on faisait une entrée remarquée, ce qui était
+    encore de la bonne publicité, mais en outre, il y avait
+    bien des chances pour que tout le monde soit plus ou
+    moins saoul. Les gens importants sont beaucoup plus
+    intéressants quand ils sont ivres et sont beaucoup
+    plus humains.
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 136
+    :index: amour
+
+    Comment peut-il m'aimer s'il me trouve tellement gourde ?
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 153
+    :index: patron
+
+    J'avais connu M. zanuck, bien entendu, que l'on considère
+    en général comme un homme de génie. Mais un génie d'un
+    autre genre - le génie de donner des ordres à tout le monde
+    dans un studio. A Hollywood, ces génies-là sont tenus en très
+    haute estime et ce sont eux qui gagnent le plus d'argent.
+    Mais, en un sens, cette performance n'a rien de génial. Il
+    s'agit plutôt d'occuper le plus haut poste -, et de s'assurer
+    les services des hommes les plus compétents.
+    [...]
+    M. Huston me remit un exemplaire du scénario. Contrairement
+    à M. Zanuck, il ne croyait pas indispensable de tenir les
+    comédiennes dans l'ignorance du rôle qu'elles allaient jouer.
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 163
+    :index: lectures
+
+    Je restais à la maison, prenais des cours d'art dramatique,
+    lisais des livres. Un, surtout, m'emballa plus que tout ce que
+    j'avais lu jusqu'alors : *L'autobiographie de Lincoln Steffens*.
+    C'était pour moi le premier livre qui semblait dire la vérité
+    sur les gens et sur la vie.
+    [...]
+    M. Mankiewicz me demandait dans quoi j'étais plongée. Je lui répondis
+    que c'était l'autobiographie de Steffens dont je me mis à parler
+    avec enthousiasme. M. Mankiewicz me prit à part pour me faire
+    la leçon. - A votre place, dit-il à mi-voix, je n'irais pas
+    clamer mon admiration pour Lincoln Steffens. Ca ne peut que vous
+    attirer des embêtements. On va raconter partout que vous être une
+    rouge. - Une rouge, m'étonnais-je ? - Une révolutionnaire, précisa
+    M. Mankiewicz. Ne me dites pas que vous n'avez jamais entendu
+    parler des Communistes ? - Pas beaucoup, dis-je.
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 170
+    :index: hommes
+
+    Jamais un homme aux dents trop bien rangées ne m'a attirée.
+    En vérité, les sourires de publicité pour dentifrice m'ont
+    toujours déplu. Je ne sais pas pourquoi, mais ça doit être
+    à cause des hommes à denture parfaite que j'ai connus.
+    Ils n'étaient guère parfaits dans les autres domaines.
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 170
+    :index: insulte
+
+    Il y a une autre sorte d'hommes que je n'ai jamais aimés -
+    ceux qui craignent de vous insulter. Ils finissent toujours
+    par se montrer encore plus insultants que n'importe qui.
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 187
+    :index: femme
+
+    Le professeur était une femme, ce qui me déprima au
+    début, parce que je ne pensais pas qu'une femme puisse
+    m'apprendre quoique ce soit. Mais, au bout de quelques
+    jours, j'avais changé d'avis.
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 202
+    :index: vedette
+
+    J'avias toujours imaginé que les vedettes de cinéma étaient
+    des êtres fascinants, pétris de talent et d'originalité.
+    Quand il m'arrive d'en rencontrer une au cours d'une soirée,
+    je découvre un personnage terne et borné. Je me suis souvent
+    ainsi tenue silencieuse durant des heures au cours d'une
+    réception à regarder les idoles de l'écran se transformer
+    sous mes yeux en fantoches sans envergures.
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 237
+    :index: vedette
+
+    Devenir une vedette de cinéma, c'est vivre dans un tourbillon.
+    Quand vous voyagez, vous emportez le tourbillon avec vous.
+    Vous ne voyez ni les habitants du pays ni les paysages.
+    Vous voyez essentiellement le même agent de presse, le
+    même genre de reporters venus vous interviewer et les mêmes
+    décors prévus pour les photos.
+
+.. quote::
+    :author: Marilyn Monroe
+    :book: Confessions Inachevées
+    :year: 2011
+    :pages: 239
+    :index: image
+
+    Les gens avaient la manie de me regarder comme si
+    j'avais été une sorte de miroir et non pas un être humain
+    comme les autres. Ce n'était pas moi qu'ils voyaient, mais
+    le reflet de leurs obsessions. Ils se disculpaient ensuite
+    en m'accusant, moi, de lascivité.
