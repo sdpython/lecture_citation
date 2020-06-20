@@ -67,6 +67,10 @@ lors de la lecture.
         :alt: GitHub Issues
         :target: https://github.com/sdpython/lecture_citation/issues
 
+    .. image:: https://img.shields.io/github/repo-size/sdpython/lecture_citation
+        :target: https://github.com/sdpython/lecture_citation/
+        :alt: size
+
 +----------------------+---------------------+---------------------+--------------------+------------------------+------------------------------------------------+
 | :ref:`modindex`      |                     | :ref:`search`       | :ref:`l-license`   | :ref:`l-changes`       | :ref:`l-README`                                |
 +----------------------+---------------------+---------------------+--------------------+------------------------+------------------------------------------------+

@@ -24,6 +24,10 @@
     :alt: GitHub Issues
     :target: https://github.com/sdpython/lecture_citation/issues
 
+.. image:: https://img.shields.io/github/repo-size/sdpython/lecture_citation
+    :target: https://github.com/sdpython/lecture_citation/
+    :alt: size
+
 .. _l-README:
 
 lecture_citation
