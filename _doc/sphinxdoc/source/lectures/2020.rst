@@ -990,3 +990,16 @@
     comme les autres. Ce n'était pas moi qu'ils voyaient, mais
     le reflet de leurs obsessions. Ils se disculpaient ensuite
     en m'accusant, moi, de lascivité.
+
+.. quote::
+    :author: ...
+    :book: ...
+    :year: 2020
+    :index: médiocrité
+
+    Une personne est médiocre quand elle ne s'aperçoit pas
+    que rien de ce qu'elle a appris à l'école ne fonctionne
+    dans la situation présente et qui pourtant persiste à
+    appliquer toujours et encore ce qu'elle a si bien
+    maîtrisé par le passé.
+
