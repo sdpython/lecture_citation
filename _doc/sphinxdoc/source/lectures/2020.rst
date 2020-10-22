@@ -1003,3 +1003,24 @@
     appliquer toujours et encore ce qu'elle a si bien
     maîtrisé par le passé.
 
+.. quote::
+    :author: A. E. Van Vogt
+    :book: Les armureries d'Isher
+    :year: 1961
+    :pages: 239
+    :index: loyauté
+
+    Cette fille, qui était presque la maîtresse de l'univers,
+    ne pensait quand même pas que quelques mots de louanges
+    et la solde lui achèteraient la fidélité inconditionnelle
+    de gens intelligents ?
+
+.. quote::
+    :author: A. E. Van Vogt
+    :book: Les armureries d'Isher
+    :year: 1961
+    :pages: 172
+    :index: plaisir
+
+    Le plaisir à jet continu est la torture la plus déchirante
+    qui soit.
