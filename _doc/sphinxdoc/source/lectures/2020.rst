@@ -1024,3 +1024,173 @@
 
     Le plaisir à jet continu est la torture la plus déchirante
     qui soit.
+
+.. quote::
+    :author: ...
+    :book: ...
+    :year: 2020
+    :index: IA
+
+    Si l'intelligence artificielle existait, elle aurait
+    aussi besoin d'un psy.
+
+.. quote::
+    :author: Luc Julia
+    :book: L'intelligence artificiel n'existe pas
+    :year: 2020
+    :pages: 34
+    :index: décontraction
+
+    Je me souviens au SRI d'un mathématicien très baba cool,
+    Richard Waldinger, qui était tout le temps pieds nus. [...]
+    Il était très sympathique et très respecté. Tous les jours à
+    16 heures, il tapait sur son gong thibétain et tout le monde
+    se réunissait dans son bureau pour boire le café qu'il avait
+    préparé et manger des cookies, et ça depuis 1970 ! Je n'ai pas
+    trouvé un tel niveau de décontraction au CNRS.
+
+.. quote::
+    :author: Luc Julia
+    :book: L'intelligence artificiel n'existe pas
+    :year: 2020
+    :pages: 36
+    :index: Saclay
+
+    Développer, comme les récents gouvernements successifs le
+    proposent, une silicon Valley à la française sur le plateau
+    de Saclay est donc à mon avis une erreur monumentale. Vouloir
+    créer artificiellement en endroit bouillonnant et dynamique
+    est voué à l'échec. Prenons l'exemple de Sophia Antipolis,
+    ce pôle de technologie que le sénateur Lafitte a créé sur le
+    plateau de Valbonne. [...] Tout était payé par l'Etat et les
+    collectivités locales, c'était un environnement entièrement
+    sous perfusion, et les plus grosses boîtes sont parties après
+    avoir siphonné toutes les aides possibles. La vision de Sophia
+    Antipolis n'a pas survécu à son créateur, ça a été une catastrophe
+    économique, et le bel idéal des entreprises et des écoles qui
+    devaient coopérer a tourné court. On prépare à mon avis quelque
+    chose de similaire, mais à une échelle beaucoup plus importante
+    à Saclay. D'abord bouger nos belles Grandes Ecoles parisiennes
+    comme on l'a fait avec Polytechnique en 1976 est une aberration,
+    ne serait-ce que du point de vue architectural. Bien sûr, il y
+    avait beaucoup plus de place à Palaiseau que rue Descartes dans
+    le 5ème arrondissement, mais le prestige de la capitale est
+    difficilement remplaçable. Imaginons que j'arrive avec le
+    président de Samsung à Roissy pour visiter un des laboratoires de
+    recherche, et que je lui donne le choix entre mettre moins d'une
+    heure pour arriver à Paris, voir la Tour Eiffel et les immeubles
+    haussmanniens, manger dans un bon restaurant et se promener sur
+    la plus belle avenue du monde ou faire deux heures de route pour
+    aller à Saclay en contournant Paris où il n'y aura rien d'autre
+    à faire qu'à visiter le lab, à votre avis, quel sera son choix ?
+    C'est simple, il préfèrera Paris. Un autre élément à considérer est
+    l'endroit où les acteurs de cet écosystème veulent habiter. Il
+    y a vingt-cinq ans, le barycentre immobilier de la Valley était
+    du côté de Palo Alto, aujourd'hui la jeune génération préfère
+    Sans Francisco, et les compagnies de la Silicon Valley s'y sont
+    adaptées. En France, si on s'obstine à considérer que Saclay
+    est le seul centre possible, on se privera de beaucoup de
+    talents, surtout après les annonces de retard dans le développement
+    des infrastructures prévues.
+
+.. quote::
+    :author: Luc Julia
+    :book: L'intelligence artificiel n'existe pas
+    :year: 2020
+    :pages: 70
+    :index: IA
+
+    Pourquoi prendre votre mobile, le dévérouiller, chercher et
+    lancer une application pour y trouver dans une longue liste de
+    lumières celle à allumer, alors que l'interrupteur est juste
+    là ? Ce manque d'interactivité et de réactivité est la raison
+    essentielle de l'adoption encore limitée des objets connectés.
+
+.. quote::
+    :author: Luc Julia
+    :book: L'intelligence artificiel n'existe pas
+    :year: 2020
+    :pages: 73
+    :index: performance
+
+    Dans la mesure où on ne peut pas être en pleine capacité
+    dix heures par jour, je préférais que mes équipes soient
+    à fond pendant six heures par jour que moyennes pendant dix.
+    [...] Diriger pour diriger ne m'intéresse pas du tout, mais
+    diriger une équipe dans une bonne atmosphère est certainement
+    le comble de l'excitation.
+
+.. quote::
+    :author: Luc Julia
+    :book: L'intelligence artificiel n'existe pas
+    :year: 2020
+    :pages: 93
+    :index: données
+
+    Internet est rapidement devenu la plus grande base
+    de données au monde, et une plateforme d'échange de
+    données, qui a permis l'apparition du "big data", et,
+    de fait, le renouveau de l'intelligence artificielle.
+
+.. quote::
+    :author: Luc Julia
+    :book: L'intelligence artificiel n'existe pas
+    :year: 2020
+    :pages: 101
+    :index: technologie
+
+    La technologie crée des métiers, à haut revenus en général,
+    et la question est de savoir comment partager tout ça. La
+    question du partage des richesses se pose depuis la nuit des
+    temps, mais je crois que nous sommes arrivés à un point où
+    celle-ci ne peut plus être différée.
+
+.. quote::
+    :author: Luc Julia
+    :book: L'intelligence artificiel n'existe pas
+    :year: 2020
+    :pages: 144
+    :index: standard
+
+    Ces comités de standardisations mettaient un temps fou
+    à s'organiser, non seulement la technologie continuait à
+    se développer, posant un risque pour le standard lui-même,
+    mais de surcroît, chaque entreprise a voulu rajouter aux
+    sépcifications communes, son petit plus, chacune de son côté.
+
+.. quote::
+    :author: Luc Julia
+    :book: L'intelligence artificiel n'existe pas
+    :year: 2020
+    :pages: 184
+    :index: sécurité
+
+    Le respect de la vie privée est une équation entre
+    ce que je suis prêt à donner en échange de ce que
+    je reçois. Est-ce que je suis prêt à donner mon
+    empreinte digitale pour entrer plus facilement
+    dans mon club de sport ?
+
+.. quote::
+    :author: Luc Julia
+    :book: L'intelligence artificiel n'existe pas
+    :year: 2020
+    :pages: 189
+    :index: Facebook
+
+    Le bénéfice net par utilisateur [de Facebook] étant d'à
+    peu près 8 dollars, on peut légitimement se demander si
+    beaucoup d'entre eux estiment avoir reçu un service équivalent
+    à ce montant, mais surtout s'ils ont compris les
+    mécanisme de la relation commerciale.
+
+.. quote::
+    :author: Luc Julia
+    :book: L'intelligence artificiel n'existe pas
+    :year: 2020
+    :pages: 213
+    :index: Facebook
+
+    Cette simple photo de vous [sur Facebook] consomme à elle
+    seule autant que trois ou quatre ampoules basse consommation
+    de 20 watts allumées pendant une heure !

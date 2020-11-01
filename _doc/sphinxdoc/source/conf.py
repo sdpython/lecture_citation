@@ -18,7 +18,8 @@ set_sphinx_variables(__file__, "lecture_citation", "Xavier Dupré", 2020,
 blog_root = "http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/"
 html_search_language = "fr"
 pygments_style = 'sphinx'
-html_context = {'css_files': get_default_stylesheet() + ['_static/my-styles.css']}
+html_context = {'css_files': get_default_stylesheet() +
+                ['_static/my-styles.css']}
 html_logo = "phdoc_static/project_ico.png"
 language = "fr"
 mathdef_link_only = True
