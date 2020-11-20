@@ -1194,3 +1194,15 @@
     Cette simple photo de vous [sur Facebook] consomme à elle
     seule autant que trois ou quatre ampoules basse consommation
     de 20 watts allumées pendant une heure !
+
+.. quote::
+    :author: ...
+    :book: ...
+    :year: 2020
+    :index: économie
+
+    L'économie ne fonctionne que sur la conquête,
+    de nouveaux territoires jusqu'à la seconde guerre
+    mondiale, puis celle de nouveaux consommateurs ensuite.
+    De fait, on est passé à une expansion géogeaphique
+    à une expansion démographique.
