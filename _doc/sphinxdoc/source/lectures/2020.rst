@@ -1206,3 +1206,11 @@
     mondiale, puis celle de nouveaux consommateurs ensuite.
     De fait, on est passé à une expansion géogeaphique
     à une expansion démographique.
+
+.. quote::
+    :author: ...
+    :book: ...
+    :year: 2020
+    :index: intelligence
+
+    Sans doute, l'intelligence n'est rien.
