@@ -1214,3 +1214,35 @@
     :index: intelligence
 
     Sans doute, l'intelligence n'est rien.
+
+.. quote::
+    :author: Dimitri Tilloi d'Ambrosi
+    :book: Les voyages d'Hadrien
+    :pages: 78
+    :year: 2020
+    :index: évergétisme
+    
+    Les élites politiques et financières soutiennent
+    matériellement leur communauté en puisant dans les
+    ressources liées à leurs charges, mais aussi dans leurs
+    propres fonds. [...] Le notable qui pratique l'évergétisme
+    n'en tire aucun bénéfice matériel ; certains dépensent mêmes
+    des sommes considérables, quitte à se ruiner. Une forme de
+    pression sociale les pousse à agir de la sorte. A tel point
+    que, sous l'Empire, certains notables refusent de remplir
+    des magistratures civiques.
+
+.. quote::
+    :author: Dimitri Tilloi d'Ambrosi
+    :book: Les voyages d'Hadrien
+    :pages: 86
+    :year: 2020
+    :index: 
+
+    Les rencontres d'Hadrien avec les habitants des cités,
+    qu'il s'agisse de notables ou de simples citoyens,
+    lui permettent de connaître leurs attentes, et donc de bien
+    gouverner. Plusieurs anecdotes témoignent de la proximité
+    du prince avec de simples habitants de l'Empire, à Rome,
+    ou en province. C'est là une stratégie de pouvoir destinée
+    à renforcer les liens entre le maître du Palatin et ses sujets.
