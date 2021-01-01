@@ -1,13 +1,10 @@
-dist: xenial
+dist: focal
 sudo: true
 language: python
 python:
-  - "3.8"
+  - "3.9"
 install:
     - pip install -r requirements.txt
-    - npm install
-    - pip install sphinx$sphinxconstraint
-    - pip install tkinterquickhelper --no-deps
     - export PYTHONPATH=src
 script:
   - python setup.py unittests

@@ -1221,7 +1221,7 @@
     :pages: 78
     :year: 2020
     :index: évergétisme
-    
+
     Les élites politiques et financières soutiennent
     matériellement leur communauté en puisant dans les
     ressources liées à leurs charges, mais aussi dans leurs
@@ -1237,7 +1237,7 @@
     :book: Les voyages d'Hadrien
     :pages: 86
     :year: 2020
-    :index: 
+    :index:
 
     Les rencontres d'Hadrien avec les habitants des cités,
     qu'il s'agisse de notables ou de simples citoyens,
