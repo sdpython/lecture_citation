@@ -131,7 +131,7 @@ if is_local():
         add_htmlhelp=sys.platform.startswith("win"),
         coverage_options=dict(omit=["*exclude*.py"]),
         github_owner="sdpython",
-        fLOG=logging_function, covtoken=("fb2728b3-4c16-48b4-89fa-9e0b2b0580a4", "'_UT_37_std' in outfile"))
+        fLOG=logging_function, covtoken=("fb2728b3-4c16-48b4-89fa-9e0b2b0580a4", "'_UT_39_std' in outfile"))
     if not r and not ({"bdist_msi", "sdist",
                        "bdist_wheel", "publish", "publish_doc", "register",
                        "upload_docs", "bdist_wininst", "build_ext"} & set(sys.argv)):
