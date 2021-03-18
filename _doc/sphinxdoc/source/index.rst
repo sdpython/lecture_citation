@@ -16,6 +16,7 @@ lors de la lecture.
 .. toctree::
     :maxdepth: 2
 
+    lectures/2021
     lectures/2020
     lectures/2019
     lectures/2018
