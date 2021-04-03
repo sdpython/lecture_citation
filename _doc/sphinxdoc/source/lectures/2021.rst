@@ -12,3 +12,55 @@
 
     La guerre est quelque chose d'absurde. La guerre,
     c'est des vieux qui envoient des jeunes se faire tuer.
+
+.. quote::
+    :author: Florent Hébert
+    :book: Villes en transition, l'expérience partagée des Ecocités
+    :year: 2015
+    :index: urbanisme
+
+    Les écocités ont un rôle important à jouer dans l'invention
+    de nouvelles forms de la mobilité urbaine, en particulier
+    par le déploiement de *systèmes intelligents*, mobilisant
+    les nouvelles technologies de l'information et de la communication.
+    [...]
+    Il s'agit dans ce cas de promouvoir les services d'information
+    et d'accès aux réseaux, tant en prévision qu'en temps réel, d'imaginer
+    une meilleur polyvalence d'usage pour les moyens de transport
+    actuels, d'utiliser les réseaux virtuels afin de réduire ou
+    de dématérialiser, quand c'est nécessaire, les déplacements
+    quotidiens.
+
+.. quote::
+    :author: Florent Hébert
+    :book: Villes en transition, l'expérience partagée des Ecocités
+    :year: 2015
+    :index: urbanisme
+    :pages: 185
+
+    Les travailleurs du tertiaire sont pour beaucoup des cadres
+    autonomes. Une réflexion est donc possible sur leur temps de
+    travail avec, pourquoi pas, une ou deux journées de travail à
+    domicile, voire des horaires plus larges. C'est là que se situent
+    la vraie réflexion et le vrai levier. Nous devons gérer cette
+    heure de pointe du matin, aux environs de 8 heures, et cette heure
+    de pointe du soir, aux environs de 17-18 heures.
+    [...]
+    Améliorer les déplacements passe trop souvent par des réponses
+    en termes d'offre d'infrastructures, alors que les actions sur
+    la demande de déplacements, basées sur le numérique, les usages
+    et les politiques publiques sont porteuses de solutions innovantes
+    et à moindre coût. Ainsi, il est possible d'agir par exemple sur
+    les horaires et les lieux de travail afin que les personnes se
+    déplacent moins aux heures de pointe (Angel Talamona).
+
+.. quote::
+    :author: Florent Hébert
+    :book: Villes en transition, l'expérience partagée des Ecocités
+    :year: 2015
+    :index: urbanisme
+    :pages: 188
+
+    Les collines sont contraintes par un relief important et par une
+    faible densité d'habitat, ce qui les rend incompatibles avec la
+    rentabilité attendue d'un réseau de transport en commun.
