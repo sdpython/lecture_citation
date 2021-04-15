@@ -12,7 +12,8 @@ pandas
 pillow
 pycodestyle
 pylint
-pyquickhelper>=1.9
+pyquickhelper>=1.10
+pyquicksetup
 python-multipart
 Sphinx
 sphinxcontrib.imagesvg
