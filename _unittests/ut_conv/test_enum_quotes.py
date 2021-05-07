@@ -42,7 +42,7 @@ class TestEnumerateQuotes(ExtTestCase):
                 y = q['year']
                 rst = to_rst(q)
                 if y not in current:
-                    current[y] = open(os.path.join(
+                    current[y] = open(os.path.join(  # pylint: disable=R1732
                         temp, "{}.rst".format(y)), "w", encoding="utf-8")
                     current[y].write("====\n{}\n====\n\n".format(y))
                 current[y].write(rst)
