@@ -64,3 +64,15 @@
     Les collines sont contraintes par un relief important et par une
     faible densité d'habitat, ce qui les rend incompatibles avec la
     rentabilité attendue d'un réseau de transport en commun.
+
+.. quote::
+    :author: Romain Benassaya
+    :book: Arca
+    :year: 2016
+    :index: isolement
+    :pages: 449
+
+    Peut-être que le basculement dans la barbarie et le fanatisme
+    était-il une conséquence du vide, un refuge à l'isolement.
+
+
