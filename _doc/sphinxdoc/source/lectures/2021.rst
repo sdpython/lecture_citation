@@ -75,4 +75,12 @@
     Peut-être que le basculement dans la barbarie et le fanatisme
     était-il une conséquence du vide, un refuge à l'isolement.
 
+.. quote::
+    :author: Hirokazu Kore-Eda
+    :book: Une affaire de famille
+    :year: 2018
+    :index: école
+
+    Il n'y a ceux qui n'arrivent pas à apprendre tout seul
+    qui vont à l'école.
 
