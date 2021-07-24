@@ -226,7 +226,7 @@
     N'avons-nous pas tous la même vocation aux richesses naturelles ? 
     N'en sommes-nous pas tous, en naissant, propriétaires égaux et 
     indivis comme de l'air et de la lumière ? N'y avons-nous pas tous 
-    le même droit, contre le même devoir, — le devoir de les entretenir 
+    le même droit, contre le même devoir, - le devoir de les entretenir 
     et de les accroître dans la mesure de nos forces. Quel jour, 
     pour reprendre le mot d'un poète, avons-nous, comme Ésaü, 
     vendu notre part de l'héritage ? Et tout ce qu'a incorporé à la 
@@ -264,8 +264,8 @@
     à l'industrie ou à la culture. Peu importe l'intérêt commun, 
     la chose est à lui. Le jeu de la concentration, de la capitalisation, 
     de l'héritage pourra rassembler dans les mains d'une centaine 
-    d'hommes, à la rigueur dans les mains d'un seul — Wells a fait ce 
-    rêve — toute la propriété utile du monde. Peu importe l'esclavage 
+    d'hommes, à la rigueur dans les mains d'un seul - Wells a fait ce 
+    rêve - toute la propriété utile du monde. Peu importe l'esclavage 
     universel, la propriété reste sacrée... Peut-être, mais c'est 
     l'instinct de conservation qui doit alors, à lui seul, 
     légitimer la révolte. Songeons que la propriété individuelle 
@@ -335,11 +335,11 @@
     un inventeur imagine quelque outillage nouveau qui bouleverse 
     la technique d'une des grandes industries directrices, 
     la métallurgie ou le tissage, qui réduise dans une proportion 
-    considérable la main-d'œuvre et le prix de revient. 
+    considérable la main-d'oeuvre et le prix de revient. 
     Il y a d'abord bien des chances pour que cet inventeur méconnu, 
     comme tant d'autres, meure dans le désespoir et la misère. 
     De vains appels aux capitalistes, qui seuls aujourd'hui peuvent 
-    mettre en œuvre de nouveaux procédés mécaniques, auront épuisé 
+    mettre en oeuvre de nouveaux procédés mécaniques, auront épuisé 
     sa patience, abrégé sa vie ; puis, quelques années plus tard, 
     une société financière exploitera ses brevets acquis à vil prix 
     et en recueillera le bénéfice immense. Mais admettons que, 
@@ -350,7 +350,7 @@
     
     En attendant que l'industrie universelle se soit adaptée aux 
     procédés nouveaux, des centaines d'usines seront condamnées 
-    au chômage. Le déplacement de la main-d'œuvre déterminera 
+    au chômage. Le déplacement de la main-d'oeuvre déterminera 
     une baisse générale des salaires ; la masse des produits 
     jetés sur le marché provoquera les troubles économiques les 
     plus complexes. Verrons-nous du moins le consommateur profiter 
@@ -406,3 +406,343 @@
     de nouvelles ; sans cesse nous mettrons au point son programme de 
     recherches, tout en développant autour d'elle l'atmosphère de 
     désintéressement et de confiance dont elle a besoin.
+
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: destin
+    :pages: 11
+    
+    Je suis né en bonne santé dans les bras d’une civilisation mourante.
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: autoritarisme
+    :pages: 49
+    
+    "A présent, tout ce qui n'est pas interdit est obligatoire !"
+    Je n'ai jamais oublié cette phrase, qui m'apparaît comme une
+    excellente définition de l'autoritarisme.
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: Churchill
+    :pages: 53
+    
+    La culpabilité du grand homme [Churchill] est plus évidente encore
+    dans un autre dossier, celui de l'Iran. Chruchill en personne s'est
+    démené pour abattre le gouvernement du docteur Massadegh,
+    un démocrate moderniste dont le seul crime avait été de réclamer 
+    pour son peuple une part plus importante des revenus pétroliers.
+    On sait aujourd'hui, documents en mains, que c'est le premier ministre
+    britannique qui est allé faire du lobbying à Washington pour convaincre
+    les Américains d'organiser un coup d'Etat à Téhéran en 1953.
+    
+    Ainsi, par son action en Egypte, Churchill a favorisé l'émergence
+    du nationalisme arabe dans sa version autoritaire et xénophobe ; et par
+    son action en Iran, il a pavé la voie à l'Islamisme khomeyniste.
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: Mandela
+    :pages: 58
+    
+    Quand après avoir passé vingt-six ans de sa vie dans les geôles
+    du régime ségrégationniste, il était sorti triomphant et s'était
+    retrouvé président de l'Afrique du Sud, il ne s'était pas demandé 
+    si les blancs l'avaient soutenu lors du combat pour la libération ;
+    s'ils s'étaient départi de leur arrogance de colons et de leur sentiment
+    de supériorité ; s'ils avaient su s'intégrer à la population locale 
+    dans un esprit de respect et de fraternité ; et s'ils avaient 
+    donc mérité de faire partie de la nouvelle nation... A chacune de ces
+    questions, la réponse aurait été "non". Mais Mandela s'est bien gardé de
+    se les poser. C'est une tout autre interrogation qu'il avait à l'esprit :
+    mon pays se proterait-il mieux si les Afrikaners y restaient au lieu de 
+    s'en aller ? Et la réponse lui paraissait évidente : pour la stabilité
+    de l'Afrique du Sud, pour sa santé économique, pour le bon fonctionnement
+    de ses institutions, pour son image dans le monde, il valait mieux
+    retenir la minorité blanche, quel qu'ait pu être son comportement
+    jusque-là. Et le nouveau président fit ce qu'il fallait faire pour
+    encourager ses ennemis d'hier à ne pas déserter son pays.
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: maladresse
+    :pages: 59
+    
+    La magnanimité est une habilité, la mesquinerie une maladresse.
+    Notre monde cynique répugne à l'admettre, mais l'Histoire regorge
+    d'exemples probants. Souvent, lorsqu'un pays trahit ses
+    valeurs, il trahit aussi ses intérêts.
+    
+    Le premier cas auquel je songe est celui de Louis XIV, lorsqu'il révoqua
+    en 1685 l'édit de Nantes par lequel son grand-père, Henri IV, avait 
+    accordé la liberté de culte à la minorité protestante. Poussés hors
+    de France, ceux qu'on appelait les huguenots furent accueillis dans
+    d'autres contrées européennes et ils contribuèrent grandement à la
+    prospérité d'Amsterdam, de Londres ou de Berlin ; s'agissant de cette
+    dernière ville, beaucoup d'historiens pensent que son ascension au rang
+    de métropole date de l'arrivée des réfugiés français ; un fait
+    particulièrement éloquent quand on sait qu'elle allait devenir
+    la grande rivale de Paris.
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: Nasser
+    :pages: 124
+    
+    Le président [Nasser] raconte qu'après le renversement de la
+    monarchie égyptienne, les Frères avaient tenté de palcer la jeune 
+    révolution sous leur tutelle, et que lui-même avait rencontré
+    leur guide suprême pour essayer de trouver avec lui un terrain
+    d'entente. "Vous savez ce qu'il m'a demandé ? Que j'impose le voile
+    en Egypte, et que toute femme qui sort dans la rue se couvre la tête !"
+    
+    Un grand éclat de rire secoue la salle. Une voix s'élève dans l'assistance
+    pour suggérer que le chef des Frères porte lui-même le voile. Les rires
+    reprennent de plus belle. Nasser poursuit. "Je lui ai dit : tu veux nous
+    ramener au temps du calife al-Hakem, qui avait ordonné aux gens de ne sortir
+    dans la rue que la nuit, et s'enfermer chez eux dans la journée ?
+    Mais le guide des frères a insisté : tu es le président, tu devrais
+    ordonner à toutes les femmes de se couvrir. Je lui ai répondu : 
+    tu as une fille qui étudie à la faculté de médecine, et elle n'est 
+    pas voilée. Si toi, tu ne parviens pas à faire porter le voile à une
+    seule femme, qui est ta propre fille, tu voudrais que moi je descende 
+    dans les rues pour imposer le voile à dix millions d'Egyptiennes ?"
+    
+    [...]
+    
+    Les Arabes qui regardent ces images un demi-siècle plus tard n'ont plus
+    aucune envie de rire. Ils ont plutôt envie de pleurer. Parce qu'un tel
+    discours, de la part d'un de leurs dirigeants, serait aujourd'hui
+    impensable.
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: haine
+    :pages: 127
+    
+    Leurs rapprots [sunnites et chiites] se caractérisent de nos jours
+    par une extrême violence. Violoence sanguinaire, qui se traduit par 
+    des massacres aveugles, visant souvent les mosquées à l'heure de la
+    prière ou des cortèges de pélerins. Et violence verbale inouïe ; 
+    il suffit de faire un tour sur Internet pour découvrir en quels termes 
+    insultants et obscènes on parle les uns des autres. Une violence
+    que tout le monde décrit comme "séculaire". Or, Nasser, qui était lui-même
+    sunnite comme presque tous les musulmans d'Egypte, était marié à une fille
+    d'un commerçant iranien établi à Alexandrie. Son épouse, née Tahia Kazem,
+    était de confession chiite, mais à l'époque, personne ne s'en souciait,
+    ni les admirateurs du raïs, ni ses détracteurs. La vieille querelle
+    entre les deux principales branches de l'islam semblait appartenir au
+    passé.
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: défaite
+    :pages: 153, 157
+    
+    La défaite est quelquesfois une opportunité, les Arabes n'ont
+    pas su la saisir. La victoire est parfois un piège, les Israéliens
+    n'ont pas su l'éviter.
+    
+    Pour les Arabes, me dira-t-on, la chose est visible à l'oeil nu.
+    Mais pour Israël, un piège ? Lui qui est devenu, depuis soixante-sept,
+    la première puissance militaire de sa région ; lui qu'aucun de ses voisins
+    ne songe plus à envahir, alors qu'il peut enjamber leurs frontières à sa guise ;
+    lui qui a tissé avec l'unique superpuissance globale une alliance si
+    intime qu'on ne sait plus lequel des deux courtise l'autre ; lui qui
+    a pu bâtir, dans le même temps, des relations solides avec les Puissances
+    qui furent jadis les grandess alliées des Arabes, comme la Russie, l'Inde 
+    ou la Chine ?
+    
+    [...]
+    
+    Une "paix des braves" ne peut se conclure qu'entre adversaires qui se
+    respectent. La brièveté de la guerre de 1967 a sapé ce respect et réduit
+    pour longtemps les chances de parvenir à un compromis équitable, librement
+    consenti et durable.
+    
+    [...]
+    
+    Autre symptôme révélateur : de moins en moins de juifs jugent utile
+    d'apprendre la langue arabe, même ceux dont les parents la parlaient
+    couramment ; à l'inverse, les jeunes Palestiniens sont de plus en plus
+    nombreux à étudier l'hébreu et à s'exprimer avec aisance dans cette
+    langue.
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: égalité
+    :pages: 247
+    
+    Ce que les tenants de la révolution conservatrice [Reagan, Thatcher, ...]
+    ont réussi déconsidérer, ce n'est pas seulement le communisme, c'est aussi
+    la social-démocratie, et avec elle toutes les doctrines qui
+    s'étaient montrées conciliantes avec les idéaux du socialisme, fût-ce pour
+    mieux les combattre.
+    
+    On ne s'est pas contenté de dénoncer les excès de l'égalitarisme, c'est le principe
+    même d'égalité qu'on a remis en cause, et dévalorisé. Aux Etats-Unis, notamment, 
+    les écarts entre les revenus des plus riches et des plus pauvres qui s'étaient
+    constamment resserrés à partir des années trente, sont repartis à la hausse
+    à la fin des années soixante-dix, au point de retrouver en notre XXIe siècle,
+    des niveaux comparables à ceux du XIXe. Ce qui a légitimement créé, chez certains,
+    le sentiment de vivre - sur la question de l'égalité, du moins - une époque
+    de régression.
+    
+    Et on n'a pas seulement dénoncé les abus de la bureuacratie, on a instauré
+    une culture de la méfiance et du dénigrement envers les autorités publiques,
+    comme si leurs interventions dans la vie économique étaient forcément
+    des "empiètements" dont les honnêtes citoyens devaient se défendre. Selon
+    la formule percutante employée par Reagan dans son discours d'inauguration,
+    "dans cette crise, l'Etat n'est pas la solution à notre problème ;
+    l'Etat est le problème."
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: travail
+    :pages: 290
+    
+    De nos jours, c'est l'inverse qui se produit.
+    Les fourmis [celles de la Fontaine] sont moquées et dédaignées.
+    Les jeunes qui ont vu leurs parents trimer toute leur vie, du matin au
+    soir, sans jamais accéder à l'aisance matérielle, ni intégrer 
+    la classe moyenne, encore moins sortir de l'anonymat, éprouvent pour eux
+    de la pitié plutôt que de l'estime. Rien ne les pousse à suivre leur
+    exemple. Tout au contraire, les incite à s'en démarquer, pour imiter
+    ceux qui ont "réussi", ceux qui se sont enrichis, fût-ce par des rackets
+    et des trafic sordides ; ou pour gagner, par n'importe quel moyen, leur
+    quart d'heure au paradis de la notoriété.
+    
+    On ne dira jamais assez quelles perturbations peut provoquer,
+    au sein d'une population, le renversement des modèles ; quand on se
+    met à admirer ce qu'on a longtemps jugé répréhensible. A-t-on vraiment
+    besoin de longues démonstrations pour comprendre qu'un quartier où
+    les dealers sont plus admirés que les instituteurs devient un foyer
+    de décomposition sociale ? Et quand la société entière se trouve 
+    dans des dispositions d'esprit similaires, quand les activités 
+    pécuniairement lucratives sont plus valorisées que celles qui sont 
+    socialement utiles, les conséquences, dévastatrices, sont impossibles
+    à maîtriser. Tous les comportements des citoyens en sont affectées...
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: état
+    :pages: 296
+    
+    Il me semble que l'Etat possède un rôle subtil, insaisissable, et pourtant
+    irremplaçable. Il contribue, de mille manières, à tisser des liens, ce qui
+    renforce le sentiment d'appartenance commune ; quand il est systématiquement
+    dénigré, il ne peut plus remplir ce rôle.
+    
+    S'il raisonnable d'admettre que l'Etat, comme disant Reagan, peut parfois
+    être le problème, il est tout-à-fait légitime de se demander si l'absence
+    d'Etat n'est pas, quelquefois, un problème plus grave encore.
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: tolérance
+    :pages: 304
+    
+    En devenant majoritaire dans un pays, une population ne devient pas
+    plus tolérante, mais paradoxalement moins tolérante. Je dis "paradoxalement",
+    parce qu'en principe, si l'on veut se retrouver entre soi, c'est pour ne pas
+    avoir à redouter les empiètements d'un groupe rival ; on devrait donc se montrer
+    plus serein et plus magnanime quand on est très largement majoritaire.
+    Hélas, les choses ne se passent pas ainsi. C'est même le contraire : tant que 
+    les minorités conservent un poids significatif, leur sensibilité propre 
+    est prise en compte dans le débat publique, ce qui incite les forces 
+    politiques à chercher un moyen d'organiser la vie commune dans un esprit
+    d'équité et d'harmonie. A l'inverse, quand les minorités deviennent insignifiantes,
+    quand la seule opinion qui compte est celle du groupe majoritaire,
+    on entre dans une toute autre logique, celle de la surenchère.
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: mur
+    :pages: 315
+    
+    Kennan [Goerge F. Kennan] disant en substance à ses compatriotes
+    [lors de la chute du mur], et notamment aux décideurs qui le consultaient :
+    "N'oublions pas pour quelle raison nous nous sommes battus ! Nous voulons
+    faire triompher la démocratie sur la dictature. Nous devons en tirer
+    les conséquences. Nous ne pouvons pas continuer à traiter nos ennemis d'hier
+    comme s'ils devaient rester des ennemis pour toujours !"
+    
+    [...]
+    
+    Il avait beau répéter qu'en humiliant les Russes, on allait favoriser la 
+    montée des courants nationalistes et militaristes, et retarder la marche du
+    vers la démocratie, on n'a pas voulu l'écouter. Comme cela arrive trop souvent,
+    hélas, la magnanimité qu'il préconisait est apparue à l'heure du triomphe,
+    comme une attitudee de faiblesse et de naïveté. L'opinion  qui a prévalu,
+    c'est qu'il fallait pousser son avantage, sans hésiter, sans se laisser
+    amollir par les scrupules moraux ou les finasseries intellectuelles.
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: modèle
+    :pages: 331
+    
+    Si nous avions autrefois spontanément tendance à reproduire les 
+    mêmes gestes que nos parents et que nos grands-parents, aujourd'hui
+    nous avons tendance à reproduire spontanément les gestes de nos
+    contemporains. Nous ne l'admettons pas volontiers. Nous conservons
+    pieusement la légende selon laquelle la transmission se fait verticalement,
+    d'une génération à la suivante, au sein des familles, des clans, des nations
+    et des communautés de croyants ; alors que la vraie transmission est de
+    plus en plus horizontale, entre contemporains, qu'ils se connaissent ou pas,
+    qu'ils s'aiment ou se détestent.
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: science
+    :pages: 341
+    
+    C'est presque une loi de la nature humaine : tout ce que la science 
+    nous donne la capacité de faire, nous le ferons, un jour ou l'autre,
+    sous quelque prétexte. Du moins tant que les avantages nous sembleront
+    supérieurs aux inconvénients.
+    
+.. quote::
+    :author: Amin Maalouf
+    :book: Le naufrage des civilisations
+    :year: 2019
+    :index: bonheur
+    :pages: 355
+    
+    "Le choix pour l'humanité, est entre la liberté et le bonheur, et
+    pour la grande majorité, le bonheur est meilleur", faisait dire
+    Orwell, à l'un de ses personnages de 1984. Personne ne nous
+    présentera les choses de manière aussi crue ; mais dans le contexte
+    de ce siècle, un tel dilemme ne paraît plus complètement plus insensé.
+    
