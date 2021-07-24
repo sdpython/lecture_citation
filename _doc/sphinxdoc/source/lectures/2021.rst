@@ -81,6 +81,328 @@
     :year: 2018
     :index: école
 
-    Il n'y a ceux qui n'arrivent pas à apprendre tout seul
+    Il n'y a que ceux qui n'arrivent pas à apprendre tout seul
     qui vont à l'école.
 
+.. quote::
+    :author: ...
+    :book: ...
+    :year: 2021
+    :index: guerre
+
+    Dernier épisode de Game of Throne. C'est Bran qui a été choisi.
+    Sa grande soeur s'occupera du Nord. L'auteur aura choisi de 
+    faire monter sur le trône les deux seuls incapables de 
+    tenir une épée mais pourvus d'un cerveau. Fils de rois 
+    tout de même mais moins enclins à se venger sur le champ 
+    d'un quelconque affront à leur ego, le nain continuera de 
+    jouera le rôle de main avec son intelligence immédiate et 
+    ses actions tempérées. Il aura fallu une bonne guerre pour 
+    que ce petit monde-là élise les plus sages et mette un terme 
+    à la violence. Et l'histoire s'arrête là. La sagesse vient après 
+    l'indigestion de violence. Nous ne pouvons pas être témoin de la suite, 
+    seule la guerre passionne, rebâtir sur des ruines pour éviter la guerre
+    intéresse peu et c'est bien dommage.
+
+.. quote::
+    :author: Léon Blum
+    :book: Le congrès de Tours, le socialisme à la croisée des chemins 1919-1920
+    :year: 1919
+    :index: marginalité
+    :pages: 14
+    
+    Tout dans son parcours [Léon Blum] montre qu'il était marginal.
+    Son ascension au sommet de la SFIO en l'espace de quelques années
+    est donc remarquable. Mais elle n'a été possible qu'à la faveur
+    de la crise idéologique, des luttes internes et du renouvellement
+    du personnel militant dont la guerre est à l'origine. Sans la guerre
+    et la crise qu'elle a provoquée au sein du parti socialiste, cet 
+    avènement ne se serait sans doute pas produit.
+
+.. quote::
+    :author: Léon Blum
+    :book: Le congrès de Tours, le socialisme à la croisée des chemins 1919-1920
+    :year: 1919
+    :index: idéal
+    :pages: 23
+    
+    "Aller à l'idéal et comprendre le réel." Léon Blum
+    le répète devant le parti socialiste le 21 avril 1919 : 
+    "Nous avons, si je puis dire, un pied dans le réel,
+    et l'autre dans l'idéal."
+
+.. quote::
+    :author: Léon Blum
+    :book: Le congrès de Tours, le socialisme à la croisée des chemins 1919-1920
+    :year: 1919
+    :index: Léninisme
+    :pages: 32
+    
+    Le léninisme est une doctrine insurrectionnelle, conspirative et
+    autoritaire, fondée sur le mépris des masses guidées par des
+    "minorité agissante". A ses yeux, l'autoritarisme fondamental de
+    la doctrine léniniste est contraire à l'histoire et à l'esprit
+    du socialisme français.
+
+.. quote::
+    :author: Léon Blum
+    :book: Le congrès de Tours, le socialisme à la croisée des chemins 1919-1920
+    :year: 1919
+    :index: salarié
+    :pages: 42
+    
+    Vous êtes le fils d'un salarié, ouvrier, employé, jouralier agricole.
+    Sauf hasard providentiel, votre destinée est de demeurer toute votre vie
+    un salarié. Voilà, tout à côté de vous, dans la rue voisine, le fils d'un
+    possédant, d'un détenteur de capitaux. A moins de
+    circonstances extraordinaires, il restera sa vie entière, directement 
+    ou indirectement, un patron. Vous travaillerez pour lui, pour 
+    l'entreprise qu'il dirige, ou bien pour l'entreprise où il a 
+    placé ses fonds et dont il a mis les titres dans son tiroir. 
+    Le produit de votre travail servira pour une part à vous nourrir, 
+    vous et les vôtres, mais pour le surplus, à constituer ses profits. 
+    Ce salaire, tant qu'il a été le maître absolu, il l'a comprimé, 
+    maintenu à un taux dérisoire et inhumain, pour accroître à la fois 
+    ses débouchés et ses bénéfices. Il a dû le relever peu à peu depuis 
+    que vos camarades et vous, groupés pour votre défense commune, 
+    lui avez fait sentir, de temps en temps, la menace de votre force, 
+    depuis aussi que, sous l'influence des penseurs et des hommes 
+    d'action socialistes, l'opinion publique s'est entr'ouverte 
+    aux idées de progrès et d'équité. Cependant, votre salaire ne 
+    représentera jamais la valeur entière de votre travail. 
+    Toujours, quoi qu'il arrive, une part de cette valeur sera perçue, 
+    retenue au profit du capital que l'autre possédait à sa naissance 
+    et que vous ne possédiez pas. Il en sera ainsi pendant toute sa vie, 
+    et pendant toute la vôtre. Pourquoi ? Est-ce juste ? 
+    Et cela peut-il durer ?
+
+.. quote::
+    :author: Léon Blum
+    :book: Le congrès de Tours, le socialisme à la croisée des chemins 1919-1920
+    :year: 1919
+    :index: reproduction sociale
+    :pages: 44
+    
+    Fils de possédant ou fils de prolétaire, 
+    les hommes naissent tous libres, tous égaux. 
+    Pourquoi la société livre-t-elle les uns aux autres, 
+    asservit-elle les uns aux autres, exploite-t-elle le 
+    travail des uns au profit des autres ?
+
+    On nous répondra : la société distribue à chacun de ses membres 
+    le rôle, la tâche qui convient à ses facultés. Il faut 
+    bien que l'un commande et que l'autre obéisse, que l'un 
+    dirige et que l'autre exécute, que l'un travaille de son cerveau, 
+    l'autre de ses bras. Il existe nécessairement comme une hiérarchie 
+    d'emplois sociaux, auxquels une société policée pourvoit selon la 
+    différence des aptitudes, c'est-à-dire de l'intelligence et de la 
+    culture. Soit, il faut des hommes pour toutes les tâches, 
+    et il serait absurde que chacun d'eux prétendît à diriger les autres. 
+    Mais où trouverons-nous l'assurance que le fils du possédant en 
+    fût plus digne que le fils du prolétaire ? Quand donc a-t-on mesuré 
+    contradictoirement leurs aptitudes, c'est-à-dire leur intelligence 
+    et leur culture ? L'un est plus instruit que l'autre ? C'est qu'un
+    premier privilège, une première distinction arbitraire les a séparés, 
+    dès que leur conscience s'éveillait à la vie. Les fils de possédants 
+    ont eu leurs écoles à eux, où l'instruction n'a pour ainsi dire pas 
+    de fin, où le plus médiocre esprit, à force de temps et de sollicitude, 
+    finit par usurper un semblant de connaissances. Les fils de prolétaires 
+    ont les leurs, où l'étude est limitée dans ses programmes et dans sa 
+    durée, et que les plus aptes doivent quitter bien vite pour apporter 
+    à leur famille un complément de subsistance, pour entrer à leur tour 
+    dans la servitude du travail salarié.    
+
+.. quote::
+    :author: Léon Blum
+    :book: Le congrès de Tours, le socialisme à la croisée des chemins 1919-1920
+    :year: 1919
+    :index: capital
+    :pages: 52
+
+    Le capital utile du monde est, pour une part, le don gratuit 
+    de la nature, d'autre part, l'héritage du travail séculaire 
+    de l'humanité, car toutes les générations qui se sont 
+    succédé sur cette terre y ont tour à tour ajouté leur part. 
+    N'avons-nous pas tous la même vocation aux richesses naturelles ? 
+    N'en sommes-nous pas tous, en naissant, propriétaires égaux et 
+    indivis comme de l'air et de la lumière ? N'y avons-nous pas tous 
+    le même droit, contre le même devoir, — le devoir de les entretenir 
+    et de les accroître dans la mesure de nos forces. Quel jour, 
+    pour reprendre le mot d'un poète, avons-nous, comme Ésaü, 
+    vendu notre part de l'héritage ? Et tout ce qu'a incorporé à la 
+    nature, depuis des centaines et des milliers de siècles, depuis 
+    que l'homme a paru sur cette terre, le travail accumulé des 
+    générations, comment une poignée d'individus s'arrogerait-elle 
+    le pouvoir d'en détenir, à elle seule, le profit et l'usage ? 
+    C'est à tous les hommes que doit revenir le bien créé par 
+    tous les hommes. C'est la collectivité présente qui est la seule 
+    héritière légitime de la collectivité indéfinie du passé. 
+    La nécessité commune, l'origine commune, voilà ce qui justifie 
+    doublement la communauté du capital, en tant que le capital 
+    représente l'ensemble des richesses naturelles et des moyens 
+    de production.
+
+    Il y a dans cette vérité quelque chose d'éclatant et de nécessaire, 
+    et l'on n'en peut plus détacher ses yeux dès qu'on l'a clairement 
+    saisie une fois. Pourtant, il est naturel qu'elle ait longtemps 
+    échappé à l'intelligence humaine.
+
+.. quote::
+    :author: Léon Blum
+    :book: Le congrès de Tours, le socialisme à la croisée des chemins 1919-1920
+    :year: 1919
+    :index: propriété
+    :pages: 53
+
+    La propriété, dans la légalité capitaliste, c'est l'absorption 
+    totale et éternelle de la chose appropriée, c'est le droit 
+    d'en user à son gré, de la transformer, de la transmettre, 
+    de la détruire. Le propriétaire d'un stock de blé peut le brûler, 
+    s'il lui plaît, quand le pain manque à la ville voisine. 
+    Le propriétaire d'une usine peut la laisser chômer, 
+    s'il lui plaît, quand des outils de première nécessité manquent 
+    à l'industrie ou à la culture. Peu importe l'intérêt commun, 
+    la chose est à lui. Le jeu de la concentration, de la capitalisation, 
+    de l'héritage pourra rassembler dans les mains d'une centaine 
+    d'hommes, à la rigueur dans les mains d'un seul — Wells a fait ce 
+    rêve — toute la propriété utile du monde. Peu importe l'esclavage 
+    universel, la propriété reste sacrée... Peut-être, mais c'est 
+    l'instinct de conservation qui doit alors, à lui seul, 
+    légitimer la révolte. Songeons que la propriété individuelle 
+    a déjà subi quelques atteintes, que le progrès matériel et 
+    moral des sociétés a déjà arraché au propriétaire quelques-uns 
+    de ses attributs séculaires. Un Romain était propriétaire de 
+    ses enfants comme de ses animaux de somme ; il pouvait les 
+    vendre ou les tuer. Un planteur des Antilles était propriétaire 
+    de ses esclaves comme de ses champs de canne à sucre. Mais la 
+    conscience humaine a élevé son cri et ces formes de la propriété 
+    sont tombées. D'autres tomberont à leur tour, qui sont nées 
+    de la même conception déviée et exorbitante du droit. Ce que 
+    nous disons aujourd'hui, c'est qu'un homme ne peut demeurer 
+    maître absolu, maître unique, maître éternel par sa descendance, 
+    de ce que la collectivité des hommes a jadis recueilli ou créé, 
+    de ce qui conditionne aujourd'hui la vie collective des hommes. 
+    Et nous avons proclamé le socialisme, quand nous avons dit cela.
+
+.. quote::
+    :author: Léon Blum
+    :book: Le congrès de Tours, le socialisme à la croisée des chemins 1919-1920
+    :year: 1919
+    :index: gain
+    :pages: 59
+    
+    Où a-t-on pris qu'un célibataire, qu'un homme ou qu'une femme sans 
+    enfants fussent moins actifs, moins industrieux, moins âpres au gain, 
+    qu'un père de famille ? Que chacun regarde près de lui, et vérifie. 
+    J'ai vu souvent que la charge de famille obligeait un homme à un 
+    travail excessif, surmenant, pauvrement rémunéré. Je n'ai jamais 
+    vu que le défaut d'enfants détournât l'homme d'un effort utile et 
+    fît d'un travailleur un oisif. La vérité est, tout simplement, que, 
+    par un secret instinct de moralité, nous sommes moins honteux de 
+    rapporter à nos enfants qu'à nous-mêmes notre appétit personnel de 
+    lucre. Il arrive que des bourgeois prennent plus tôt le temps de 
+    « se retirer des affaires » comme ils disent, parce que leur 
+    fortune acquise, médiocre pour de nombreux enfants, suffit au 
+    contraire à leur ménage stérile. Mais, qu'ils vendent leur fonds 
+    de commerce ou ferment leur boutique, de quelle activité utile 
+    cette retraite prématurée prive-t-elle la société ? Non, il n'est 
+    pas vrai que la transmission héréditaire, signe et moyen de 
+    l'usurpation capitaliste, soit l'agent indispensable de la prospérité 
+    sociale... L'appât du gain, l'envie de gagner de l'argent ? c'est autre 
+    chose. Si nous considérons autour de nous la mêlée des hommes, 
+    elle paraît dirigée, en effet, par ce mobile unique. 
+    Gagner de l'argent, c'est le véritable idéal humain, 
+    le seul que proclame et qu'essaie de réaliser une société pervertie. 
+    Conquérir pour notre compte la plus large part des privilèges que 
+    l'argent représente ou permet d'acquérir, c'est le programme de vie 
+    que le spectacle contemporain nous propose. Tout nous appelle à 
+    cette lutte : l'opinion et la morale, qui devraient la flétrir, 
+    l'exaltent, et il faut une sorte d'héroïsme pour se soustraire 
+    volontairement à la contagion. C'est le sentiment moteur aujourd'hui, 
+    ne perdons pas notre peine à le contester. Mais où prend-on le droit 
+    de conclure que l'humanité n'en puisse pas connaître d'autre ? 
+    Le sophisme est là.
+
+.. quote::
+    :author: Léon Blum
+    :book: Le congrès de Tours, le socialisme à la croisée des chemins 1919-1920
+    :year: 1919
+    :index: inventeur
+    :pages: 63-67
+    
+    Recherchons, dans la société actuelle, les effets et les incidences 
+    d'un travail vraiment créateur. Je suppose que, demain, 
+    un inventeur imagine quelque outillage nouveau qui bouleverse 
+    la technique d'une des grandes industries directrices, 
+    la métallurgie ou le tissage, qui réduise dans une proportion 
+    considérable la main-d'œuvre et le prix de revient. 
+    Il y a d'abord bien des chances pour que cet inventeur méconnu, 
+    comme tant d'autres, meure dans le désespoir et la misère. 
+    De vains appels aux capitalistes, qui seuls aujourd'hui peuvent 
+    mettre en œuvre de nouveaux procédés mécaniques, auront épuisé 
+    sa patience, abrégé sa vie ; puis, quelques années plus tard, 
+    une société financière exploitera ses brevets acquis à vil prix 
+    et en recueillera le bénéfice immense. Mais admettons que, 
+    par une exception providentielle, lui-même ait pu faire valoir 
+    sa découverte. Je vois bien le profit qu'il en retirera lui-même : 
+    nous aurons sur la terre un milliardaire de plus. 
+    Quel profit en recueillera la collectivité ?
+    
+    En attendant que l'industrie universelle se soit adaptée aux 
+    procédés nouveaux, des centaines d'usines seront condamnées 
+    au chômage. Le déplacement de la main-d'œuvre déterminera 
+    une baisse générale des salaires ; la masse des produits 
+    jetés sur le marché provoquera les troubles économiques les 
+    plus complexes. Verrons-nous du moins le consommateur profiter 
+    de la réduction des prix de revient ? Pas le moins du monde ; 
+    il n'en profitera que dans une mesure dérisoire. Les prix de vente 
+    ne seront abaissés que de la quotité nécessaire pour étouffer les
+    concurrences, et notre inventeur empochera le surplus. Une crise 
+    universelle d'une part ; de l'autre une immense fortune individuelle, 
+    c'est-à-dire éternellement transmissible. 
+    Tel est le bilan. Est-ce qu'il ne révolte pas la raison ?
+    
+    Notre inventeur viendra nous répliquer : « Ma fortune est cependant 
+    bien à moi : je l'ai gagnée ; elle est le fruit de ma 
+    découverte, le produit de mon travail. » Mais est-il vrai 
+    que sa découverte soit bien à lui ? Le même homme l'aurait-il 
+    menée à terme, vivant seul dans une île déserte, ou naissant 
+    dans quelque tribu sauvage de l'Océanie ? Ne suppose-t-elle pas, 
+    au contraire, tout l'actif préalable au travail humain ? 
+    N'est-elle pas, pour le moins, le résultat d'une collaboration, 
+    d'une coïncidence entre son génie individuel et l'effort 
+    collectif de la civilisation ? La collectivité devrait donc, 
+    pour le moins, recueillir sa part du bénéfice. 
+    Pourquoi s'en trouve-t-elle frustrée, non seulement au profit 
+    de l'inventeur lui-même, mais de ses descendants jusqu'à la 
+    dernière génération ?... Et cet exemple ne vous fait-il pas 
+    toucher du doigt l'injustice foncière qui gît à la racine même 
+    des modes actuels de la propriété ?
+    
+    [...]
+    
+    De grands penseurs ont attendu de la science le renouvellement 
+    des sociétés humaines. Comme les ouvriers révoltés devant la machine, 
+    ils avaient raison et ils avaient tort. La science accroît et accroîtra 
+    sans mesure le rendement du travail, mais, si le pacte social demeure vicié 
+    dans son essence par une clause inique, en accroissant les richesses, 
+    nous n'aurons fait qu'accroître l'iniquité. Nous aurons multiplié les 
+    prélèvements du capital sur le travail, nous aurons multiplié la divergence 
+    entre les profits du capitaliste et les salaires du travailleur. 
+    Si la règle du partage est injuste, l'injustice augmentera avec la masse 
+    des produits à partager... C'est avec le socialisme que la science deviendra 
+    vraiment bienfaitrice, et l'on peut dire en ce sens que socialisme et 
+    science sont vraiment le complément l'un de l'autre. La science développe 
+    les richesses de l'humanité ; le socialisme en assurera l'exploitation 
+    rationnelle et la distribution équitable. Chaque découverte de la science, 
+    quel que soit le domaine particulier où elle se manifeste, se trouvera 
+    en quelque sort étalée sur l'ensemble du corps social pour déterminer 
+    en lui une amélioration correspondante : augmentation du bien-être 
+    si la somme des denrées est augmentée, augmentation du loisir si la 
+    somme du travail nécessaire pour les produire est réduite. Inversement, 
+    l'instauration du régime socialiste implique comme un appel ardent et 
+    constant au secours de la science. En utilisant aussitôt, pour le bien 
+    commun, chaque conquête de la science, nous en provoquerons incessamment 
+    de nouvelles ; sans cesse nous mettrons au point son programme de 
+    recherches, tout en développant autour d'elle l'atmosphère de 
+    désintéressement et de confiance dont elle a besoin.
