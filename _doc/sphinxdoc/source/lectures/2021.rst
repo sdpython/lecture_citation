@@ -535,7 +535,7 @@
     :index: haine
     :pages: 127
 
-    Leurs rapprots [sunnites et chiites] se caractérisent de nos jours
+    Leurs rapports [sunnites et chiites] se caractérisent de nos jours
     par une extrême violence. Violoence sanguinaire, qui se traduit par
     des massacres aveugles, visant souvent les mosquées à l'heure de la
     prière ou des cortèges de pélerins. Et violence verbale inouïe ;
@@ -556,7 +556,7 @@
     :index: défaite
     :pages: 153, 157
 
-    La défaite est quelquesfois une opportunité, les Arabes n'ont
+    La défaite est quelquefois une opportunité, les Arabes n'ont
     pas su la saisir. La victoire est parfois un piège, les Israéliens
     n'ont pas su l'éviter.
 
@@ -607,7 +607,7 @@
     le sentiment de vivre - sur la question de l'égalité, du moins - une époque
     de régression.
 
-    Et on n'a pas seulement dénoncé les abus de la bureuacratie, on a instauré
+    Et on n'a pas seulement dénoncé les abus de la bureaucratie, on a instauré
     une culture de la méfiance et du dénigrement envers les autorités publiques,
     comme si leurs interventions dans la vie économique étaient forcément
     des "empiètements" dont les honnêtes citoyens devaient se défendre. Selon
