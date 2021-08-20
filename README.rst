@@ -1,6 +1,6 @@
 
 .. image:: https://travis-ci.com/sdpython/lecture_citation.svg?branch=master
-    :target: https://travis-ci.com/sdpython/lecture_citation
+    :target: https://app.travis-ci.com/github/sdpython/lecture_citation
     :alt: Build status
 
 .. image:: https://ci.appveyor.com/api/projects/status/kewttt58ejfwduao?svg=true
