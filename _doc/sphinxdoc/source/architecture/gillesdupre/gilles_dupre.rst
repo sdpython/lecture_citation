@@ -349,8 +349,14 @@ Maison particulière à Vrigne aux Bois (non localisée)
 .. image:: gilles_dupre_66_0.png
    :width: 1200px
 
-Maison à Lonny (non datée, non localisée)
+Maison à Lonny (non datée)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* `localisation probable
+  <https://www.google.com/maps/place/Lonny/@49.8112243,4.5862864,285m/data=!3m1!1e3!4m5!3m4!1s0x47ea04520f16ebad:0x40a5fb99a3f71d0!8m2!3d49.816104!4d4.586362>`_,
+  les vues du ciel de l'IGN sont plus précises
+  `Lonny <https://www.geoportail.gouv.fr/plan/08260/lonny>`_, qu'on retrouve sur
+  `Bing Maps (Lonny) <https://www.bing.com/maps?osid=4942cc51-b528-4741-9ebc-074c478365f6&cp=49.811398~4.586053&lvl=19&style=h&v=2&sV=2&form=S00027>`_
 
 .. image:: gilles_dupre_68_0.png
    :width: 1200px
