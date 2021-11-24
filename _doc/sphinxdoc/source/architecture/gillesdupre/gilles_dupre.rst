@@ -5,6 +5,11 @@
 Gilles Dupré
 ============
 
+Cette page regroupe de nombreux projets architecturaux 
+de mon père, Gilles Dupré, constuits dans la région Grand Est.
+Les photos mélangent des photos d'archives et des photos tirées de
+Google Maps. La plupart des lieux sont localisés
+
 .. contents::
     :local:
 
@@ -206,8 +211,8 @@ Bâtiments
 .. image:: gilles_dupre_39_0.png
    :width: 1200px
 
-1998 - Extension du complexe sportif de la poterie Prix les mézières (j'ai doute sur celui-ci)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1998 - Extension du complexe sportif de la poterie Prix les mézières
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  `localisation <https://www.google.com/maps/place/Stade+de+la+Poterie/@49.7507784,4.687482,18.26z/data=!4m12!1m6!3m5!1s0x47ea11dabecb1edd:0x4f3aadaff5507892!2sStade+de+la+Poterie!8m2!3d49.7507349!4d4.6885698!3m4!1s0x47ea11dabecb1edd:0x4f3aadaff5507892!8m2!3d49.7507349!4d4.6885698!%5Bimage.png%5D(attachment:image.png)>`__
 -  Maître d'ouvrage : Commune de Prix Les Mézières

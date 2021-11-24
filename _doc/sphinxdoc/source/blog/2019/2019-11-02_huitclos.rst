@@ -1,6 +1,6 @@
 
 .. blogpost::
-    :title:
+    :title: Séries
     :keywords: livre
     :date: 2019-02-11
     :categories: série
