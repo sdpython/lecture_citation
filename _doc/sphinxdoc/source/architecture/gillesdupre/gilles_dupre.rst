@@ -8,7 +8,7 @@ Gilles Dupré
 Cette page regroupe de nombreux projets architecturaux 
 de mon père, Gilles Dupré, constuits dans la région Grand Est.
 Les photos mélangent des photos d'archives et des photos tirées de
-Google Maps. La plupart des lieux sont localisés
+Google Maps. La plupart des lieux sont localisés.
 
 .. contents::
     :local:
