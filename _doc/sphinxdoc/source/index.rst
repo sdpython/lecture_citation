@@ -25,6 +25,7 @@ lors de la lecture.
     lectures/2012
     lectures/2011
     lectures/2010
+    architecture/index
 
 .. only:: html
 
