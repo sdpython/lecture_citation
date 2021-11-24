@@ -72,17 +72,6 @@ Bâtiments
 .. image:: gilles_dupre_13_0.png
    :width: 1200px
 
-1985 - Groupe Scolaire à Givet
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
--  `localisation <https://www.google.com/maps/place/Public+Nursery+School+Charles+De+Gaulle/@50.1358163,4.8362679,17.59z/data=!4m9!1m2!2m1!1secole+givet!3m5!1s0x47c1e90e374ba83d:0xbfe358790cef9e43!8m2!3d50.1358015!4d4.8367716!15sCgtlY29sZSBnaXZldJIBCXByZXNjaG9vbA>`__
--  Maître d'ouvrage : Ville de Givet
--  Dévolution: Concours
--  Coût : 14 MF
-
-.. image:: gilles_dupre_15_0.png
-   :width: 1200px
-
 1984 - Cinéma à Hirson
 ~~~~~~~~~~~~~~~~~~~~~~
 
@@ -101,6 +90,17 @@ Bâtiments
 -  Surface : 1.200 m²
 
 .. image:: gilles_dupre_19_0.png
+   :width: 1200px
+
+1985 - Groupe Scolaire à Givet
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  `localisation <https://www.google.com/maps/place/Public+Nursery+School+Charles+De+Gaulle/@50.1358163,4.8362679,17.59z/data=!4m9!1m2!2m1!1secole+givet!3m5!1s0x47c1e90e374ba83d:0xbfe358790cef9e43!8m2!3d50.1358015!4d4.8367716!15sCgtlY29sZSBnaXZldJIBCXByZXNjaG9vbA>`__
+-  Maître d'ouvrage : Ville de Givet
+-  Dévolution: Concours
+-  Coût : 14 MF
+
+.. image:: gilles_dupre_15_0.png
    :width: 1200px
 
 1985 - Gymnase les Mazures
