@@ -22,3 +22,9 @@
     que mon père a construite. Toutes étaient en bordure de village
     à l'époque où elles furent construites. Elles ne le sont
     plus maintenant.
+
+    J'ai passé pas mal de temps à parcourir les rues avec Google Street View,
+    à regarder les cartes IGN, plus précises que celles de Google,
+    à m'extasier devant les `traces GPS d'OpenStreetMap
+    <https://www.openstreetmap.org/traces>`_, inutiles pour ma recherche,
+    mais intrigantes.
