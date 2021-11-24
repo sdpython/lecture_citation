@@ -177,8 +177,8 @@ Bâtiments
 .. image:: gilles_dupre_31_0.png
    :width: 1200px
 
-1993 - Extension et réhabilitation de la station d'épuration de Charleville-Mézières (08)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1993 - Extension et réhabilitation de la station d'épuration de Charleville-Mézières
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  `localisation <https://www.google.com/maps/search/station+d'%C3%A9puration+charleville/@49.7662495,4.7302367,20.95z>`__
 -  Maître de l'ouvrage Ville de Charleville-Mézières
@@ -236,12 +236,13 @@ Bâtiments
 .. image:: gilles_dupre_43_0.png
    :width: 1200px
 
-2002 - Collège Léo Lagrange - Ronde Couture - Création d'un préau, travaux d'entretien et rénovation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2002 - Collège Léo Lagrange - Création d'un préau
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  `localisation <https://www.google.com/maps/place/Middle+School+L%C3%A9o+Lagrange/@49.744489,4.7195379,18z/data=!4m12!1m6!3m5!1s0x47ea11f66f3e87c1:0x3dd100c01122153f!2sMiddle+School+L%C3%A9o+Lagrange!8m2!3d49.7444397!4d4.7202268!3m4!1s0x47ea11f66f3e87c1:0x3dd100c01122153f!8m2!3d49.7444397!4d4.7202268?hl=en>`__
--  Maïtre d'ouvrage : Conseil Général des Ardennes
--  Coût : 152 450€
+- `localisation <https://www.google.com/maps/place/Middle+School+L%C3%A9o+Lagrange/@49.744489,4.7195379,18z/data=!4m12!1m6!3m5!1s0x47ea11f66f3e87c1:0x3dd100c01122153f!2sMiddle+School+L%C3%A9o+Lagrange!8m2!3d49.7444397!4d4.7202268!3m4!1s0x47ea11f66f3e87c1:0x3dd100c01122153f!8m2!3d49.7444397!4d4.7202268?hl=en>`__
+- Maître d'ouvrage : Conseil Général des Ardennes
+- Coût : 152 450€
+- Mission : création d'un préau, travaux d'entretien et rénovation
 
 .. image:: gilles_dupre_45_0.png
    :width: 1200px
