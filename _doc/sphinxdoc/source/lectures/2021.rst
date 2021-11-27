@@ -745,3 +745,116 @@
     Orwell, à l'un de ses personnages de 1984. Personne ne nous
     présentera les choses de manière aussi crue ; mais dans le contexte
     de ce siècle, un tel dilemme ne paraît plus complètement plus insensé.
+
+.. quote::
+    :author: Louis Jeudi
+    :book: Les sauces
+    :year: 2021
+    :index: sauce
+    :pages: 19
+
+    Trésor gustatif, la sauce a mis tout le monde d'accord
+    au sein de l'industrie alimentaire. Ses ingénieurs,
+    parfois conseillés par des chefs, ont su synthétiser
+    ces goûts profonds et en produire de séduisantes imitations,
+    au moyens d'additifs quelque peu controversés. Aussi,
+    l'immense majorité des restaurants et cantines servent
+    aujourd'hui des sauces issues d'ingrédients atomisés
+    puis réhydratés, liés par des amidons douteux.
+
+.. quote::
+    :author: Louis Jeudi
+    :book: Les sauces
+    :year: 2021
+    :index: roux
+    :pages: 33
+
+    De fait, en cuisine français, il existe ce que l'on appelle
+    les *sauces mères* dont les trois fondamentales sont la 
+    sauce brune, le velouté et la saucé béchamel. Autant de
+    bases qui permettent de préparer une multitude de sauces
+    dites *dérivées*. Traditionnellement, la sauce naît de
+    la rencontre entre un fond et un roux. Mais la magie
+    de la cuisine réside aussi dans la capacité des artisans 
+    à départir et à jouer des codes établis pour mitonner
+    de nouvelles créations.
+
+.. quote::
+    :author: Louis Jeudi
+    :book: Les sauces
+    :year: 2021
+    :index: formatage
+    :pages: 51
+
+    Avec son armada d'ingénieurs du goût et ses capacités
+    financières hors du commun, l'agroalimentaire pousse le
+    vice jusqu'à épouser les traditions alimentaires des
+    pays où elle s'est implantée. A la clé, une inquiétante
+    déperdition culturelle, un formatage des palais
+    des mangeurs et des problèmes de santé.
+
+.. quote::
+    :author: Louis Jeudi
+    :book: Les sauces
+    :year: 2021
+    :index: 55
+    :pages: Cuisine
+
+    *L'état de la cuisine ne se mesure pas au nombre d'étoilés
+    mais à ce que proposent les restaurants ouvriers, les snacks.*,
+    rappelle Emmanuel Perrodin, qui garde en souvenir cette
+    *bavette à l'échalotte avec des vrais jus* qu'il pouvait
+    déguster dans un bistro pour une somme modique.
+
+.. quote::
+    :author: Louis Jeudi
+    :book: Les sauces
+    :year: 2021
+    :index: 56
+    :pages: vinaigre
+
+    *Au début des années 90, la guerre du Golfe a marqué
+    un coup d'arrêt saucier en France. Pour faire face aux
+    difficultés économiques, l'hôtellerie française a fait
+    appel à des cost-killers anglo-saxons qui sont venus
+    avec leur culture un peu limitée en matière de cuisine.
+    C'est à cette époque que la sauce a commencé à être
+    remplacée dans les assiettes par des traits de vinaigre
+    balsmaiques*, exposait le chef Yannick Alléno lors
+    d'une émission de radio
+    [`lien <https://www.rfi.fr/fr/emission/
+    20190914-alleno-yannick-chef-cuisinier-etoile-sauce-moderne-gout-absolu>`_].
+
+.. quote::
+    :author: Louis Jeudi
+    :book: Les sauces
+    :year: 2021
+    :index: cantine
+    :pages: 60
+
+    Prenons l'exemple d'une cantine de région parisienne,
+    portée par une équipe de quatre personnes (le chef,
+    deux assistants dont un agent non cuisinier, et un plongeur)
+    pour nourrir près de cinq cent élèves chaque jour avec un
+    ticket moyen légèrement inférieur à 2 euros. Si le chef
+    fait preuve de bonne volonté, il a été habitué, pour
+    gagner du temps, à agrémenter les repas de sauces déshydratées.
+    Dans son économat trônent ainsi des boîtes de fonds de
+    sauce Knorr.
+
+.. quote::
+    :author: Louis Jeudi
+    :book: Les sauces
+    :year: 2021
+    :index: effort
+    :pages: 74
+
+    Quant aux concours télévisés, s'ils valorisent la gastronomie,
+    ils se réduisent à uen approche spectaculaire du métier,
+    mettant en avant l'imagination débordante des artisans,
+    sans prendre le temps de capter le temps long de la
+    cuisine. Goûter, sentir, regoûter, s'imprégner, assaisonner,
+    réassaisonner, c'est cela cuisiner. En ne mettant pas en
+    avant cette dimension aussi laborieuse que sensible, ces
+    émissions renvoient une fausse image de la cuisine et
+    de la quête du goût.
