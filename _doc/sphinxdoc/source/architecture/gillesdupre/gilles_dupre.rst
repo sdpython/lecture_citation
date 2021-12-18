@@ -1,9 +1,9 @@
 
 .. _gillesduprerst:
 
-============
-Gilles Dupré
-============
+====================================
+Gilles Dupré - oeuvre architecturale
+====================================
 
 Cette page regroupe de nombreux projets architecturaux 
 de mon père, Gilles Dupré, constuits dans la région Grand Est.
