@@ -770,12 +770,12 @@
     :pages: 33
 
     De fait, en cuisine français, il existe ce que l'on appelle
-    les *sauces mères* dont les trois fondamentales sont la 
+    les *sauces mères* dont les trois fondamentales sont la
     sauce brune, le velouté et la saucé béchamel. Autant de
     bases qui permettent de préparer une multitude de sauces
     dites *dérivées*. Traditionnellement, la sauce naît de
     la rencontre entre un fond et un roux. Mais la magie
-    de la cuisine réside aussi dans la capacité des artisans 
+    de la cuisine réside aussi dans la capacité des artisans
     à départir et à jouer des codes établis pour mitonner
     de nouvelles créations.
 
