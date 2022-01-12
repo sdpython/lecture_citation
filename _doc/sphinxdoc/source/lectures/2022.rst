@@ -1,0 +1,17 @@
+
+.. _l-2022:
+
+2022
+====
+
+.. quote::
+    :author: Sébastien de Castell
+    :book: L'anti-magicien
+    :year: 2020
+    :index: rire
+    :pages: 457
+
+    Elle ne riait pas quand elle trouvait ça drôle.
+    Elle ne riait pas parce qu'elle en avait envie.
+    Elle riait parce que c'était sa façon de dire au monde
+    qu'elle refusait de le craindre.
