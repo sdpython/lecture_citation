@@ -15,7 +15,7 @@ readme = 'README.rst'
 history = "HISTORY.rst"
 requirements = None
 
-KEYWORDS = project_var_name + ', Xavier Dupré'
+KEYWORDS = [project_var_name, 'Xavier Dupré', 'reading']
 DESCRIPTION = """Lectures about programming mostly in Python."""
 
 
