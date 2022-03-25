@@ -56,3 +56,14 @@
     débat, toute controverse sera estimée "offensante".
     C'est le chemin de l'obscurantisme. Les idées, ça
     se confronte et ça se débat.
+
+.. quote::
+    :author: R. Scott Gemmill
+    :book: Urgences
+    :year: 2002
+    :index: dépression
+    :pages: épisode 13
+    
+    - Il paraît déprimé. Tu devrais lui parler.
+    
+    - Il est européen. C'est son état normal.
