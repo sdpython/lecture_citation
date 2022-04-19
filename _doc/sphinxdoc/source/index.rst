@@ -5,7 +5,7 @@
 .. index:: souvenirs
 
 =====================
-Souvenirs de lectures
+Souvenirs artistiques
 =====================
 
 J'ai toujours été fasciné par ceux qui sortent toujours
@@ -16,16 +16,8 @@ lors de la lecture.
 .. toctree::
     :maxdepth: 2
 
-    lectures/2022
-    lectures/2021
-    lectures/2020
-    lectures/2019
-    lectures/2018
-    lectures/2015
-    lectures/2013
-    lectures/2012
-    lectures/2011
-    lectures/2010
+    lecture
+    dessina
     architecture/index
     varie/index
 

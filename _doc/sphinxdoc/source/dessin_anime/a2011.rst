@@ -1,0 +1,19 @@
+====
+2011
+====
+
+.. quote::
+    :author: Naoshi Arakawa
+    :book: Shigatsu wa kimi no uso
+    :index: renaissance
+    :year: 2011
+
+    `Shigatsu wa kimi no uso <https://fr.wikipedia.org/wiki/Your_Lie_in_April>`_
+
+    Une adolescente apprend qu'il lui reste neuf mois à vivre.
+    Sa vie et son violon se confondent. Elle vit autant qu'elle peut.
+    Un adolescente a perdu l'envie de jouer du piano. Les touches
+    lui rappellent l'enfer des leçons avec sa mère.
+    Leurs deux chemins se croisent. Toute cette énergie qui déborde en elle,
+    elle la lui transmet, comme si sa mort à elle avait pour but
+    de ressusciter sa passion à lui.

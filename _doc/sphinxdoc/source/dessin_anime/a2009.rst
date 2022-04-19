@@ -1,0 +1,43 @@
+====
+2009
+====
+
+.. quote::
+    :author: Hajime Isayama
+    :book: L'attaque des titans
+    :index: huis-clos
+    :year: 2009
+
+    `L'attaque des titans <https://fr.wikipedia.org/wiki/L%27Attaque_des_Titans>`_
+
+    Le début de ce manga me paraît assez proche de la série
+    `Battlestar Gallactica <https://fr.wikipedia.org/wiki/Cylon_(Battlestar_Galactica)>`_.
+    Presqu'un huis-clos en pleine guerre, aux prouesses au combat suivent les échanges
+    tendus, liés au pouvoir. Les décisions sont parfois difficiles à suivre
+    lorsque sa survie est en jeu.
+
+.. quote::
+    :author: ONE, Yūsuke Murata
+    :book: One Punch Man
+    :index: ennui
+    :year: 2009
+
+    `One Punch Man <https://fr.wikipedia.org/wiki/One_Punch_Man>`_
+
+    Un homme simple est si fort qu'il sauve le monde de tous les désastres
+    avec un seul coup de poing. Personne ne lui résiste très longtemps.
+    C'est bien ça qui l'ennuie.
+
+.. quote::
+    :author:  Reki Kawahara
+    :book: Sword Art Online
+    :index: virtualité
+    :year: 2009
+
+    `Sword Art Online <https://fr.wikipedia.org/wiki/Sword_Art_Online>`_
+
+    Des milliers de joueurs restent coincés dans un monde virtuel,
+    incapable de se déconnecter. On ne peut s'empêcher de se soucier
+    du devenir de son enveloppe corporelle sans pouvoir y faire quoique
+    ce soit, à moins de pouvoir battre le monstre du dernier niveau
+    que personne n'a jamais vu. Et si l'on n'y parvenait pas.

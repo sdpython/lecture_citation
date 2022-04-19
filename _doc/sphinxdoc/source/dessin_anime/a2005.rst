@@ -1,0 +1,28 @@
+====
+2005
+====
+
+.. quote::
+    :author: Barasui
+    :book: Ishigo Mashimaro
+    :index: philosophie
+    :year: 2005
+
+    `Strawberry Marshmallow <https://en.wikipedia.org/wiki/Strawberry_Marshmallow>`_
+
+    Il n'y a pas vraiment d'histoire, simplement un recueil
+    d'anecodtes, une grande soeur placide qui garde sa petite soeur
+    souvent entourée de ses amis. L'humoir est parfois grinçant, les propos
+    intéressant.
+
+.. quote::
+    :author: Makoto Yukimura
+    :book: Vinland Saga
+    :index: vengeance
+    :year: 2005
+
+    `Vinland Saga <https://fr.wikipedia.org/wiki/Vinland_Saga>`_
+
+    Un enfant Viking est recueilli par celui qui a tué son père devant ses yeux.
+    Au contact de ce père de substitution, son seul objectif est de devenir
+    plus fort que lui pour le tuer. Amusement, affection, haine...

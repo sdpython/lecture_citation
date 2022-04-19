@@ -1,0 +1,70 @@
+====
+2012
+====
+
+.. quote::
+    :author: Tomonori Inoue
+    :book: Coppelion
+    :index: nucléaire
+    :year: 2012
+
+    `Coppelion <https://fr.wikipedia.org/wiki/Coppelion>`_
+
+    L'histoire débute avec trois jeunes filles génétiquement
+    modifées pour supporter la radioactivité. Elles s'aventurent
+    dans des zones contaminées pour effectuer des missions
+    que personnes d'autres ne peut faire.
+
+    Cela rappelle la catastrophe de `Tchernobyl
+    <https://fr.wikipedia.org/wiki/Catastrophe_nucl%C3%A9aire_de_Tchernobyl>`_.
+
+.. quote::
+    :author: Katsuyuki Motohiro, Naoyoshi Shiotani, Gen Urobuchi
+    :book: Psycho-Pass
+    :index: justice
+    :year: 2012
+
+    `Pyscho-Pass <https://fr.wikipedia.org/wiki/Psycho-Pass>`_
+
+    Le crime n'existe presque plus dans le monde que décrit ce manga.
+    Un système calcule en temps réel un indice de violence de chaque
+    individu. La police se déploie dès que celui-ci dépasse 100, en espérant
+    empêcher le crime avant que celui-ci ne se produise. Ce n'est pas un monde
+    si loin de que nous savons faire aujourd'hui avec l'intelligence
+    artificielle. Le manga regorge de citations philosophiques et se pose
+    la question : un tel système est-il parfait ? Que faire quand la violence
+    d'une personne est indétectable ? Un groupe de personnes peut-il
+    être violent alors qu'aucun pris individuellement ne l'est ?
+
+    La justice est une idée fragile. Le système judiciaire défend
+    le citoyen et le citoyen se doit de défendre l'idée de justice.
+
+.. quote::
+    :author: Amyu
+    :book: Kono Oto Tomare! Sounds of Life
+    :index: musique
+    :year: 2012
+
+    `Kono Oto Tomare! Sounds of Life <https://en.wikipedia.org/wiki/Kono_Oto_Tomare!_Sounds_of_Life>`_
+
+    Un adolescent rebelle qui ne fait jamais rien de ce qu'on attend de lui,
+    qui se dissimule quand il fait ce qu'on attend de lui,
+    une adolescente qui ne trouve plus de plaisir dans la musique que sa mère
+    lui propose, un garçon sans grand talent mais incroyablement têtu qui cherche
+    à faire revivre son club de musique à tout prix.
+
+    Un classique qui fonctionne bien.
+
+.. quote::
+    :author: Masahiro Ando
+    :book: Hanasaku Iroha
+    :index: grandir
+    :year: 2012
+
+    `Hanasaku Iroha <https://fr.wikipedia.org/wiki/Hanasaku_Iroha>`_
+
+    Une mère débordée de travail envoie sa fille chez sa grand-mère.
+    Elle va à l'école, s'occupe de l'hôtel, apprend qu'il est en perte de
+    vitesse, propose des idées, fait plein d'erreurs, nouent plein d'amitiés,
+    déborde d'énergie. Bref, elle grandit, redécouvre sa mère et sa grand-mère
+    qu'elle n'avait jamais vraiment bien connue.

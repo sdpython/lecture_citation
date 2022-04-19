@@ -1,0 +1,19 @@
+====
+1985
+====
+
+.. quote::
+    :author: Akira Toriyama
+    :book: Dragon Ball
+    :index: candeur
+    :year: 1985
+
+    `Dragon Ball <https://fr.wikipedia.org/wiki/Dragon_Ball>`_
+
+    Je n'avais jamais vu les premiers épisodes jusque récemment.
+    La série est très longue et il n'est peut-être pas utile
+    de la voir jusqu'au bout mais les premières heures sont
+    denses et joue sur la candeur d'un personnage qui découvre
+    la société et quelques-uns de ses travers après avoir passé
+    ses premières années loin de toutes tentations. La nudité
+    est aussi naturelle qu'un habit.

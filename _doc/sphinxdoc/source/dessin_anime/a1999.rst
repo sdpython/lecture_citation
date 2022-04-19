@@ -1,0 +1,18 @@
+====
+1999
+====
+
+.. quote::
+    :author: Makoto Yukimura
+    :book: Planètes
+    :index: déchet
+    :year: 1999
+
+    `Planètes <https://fr.wikipedia.org/wiki/Planetes>`_
+
+    Cette série est une histoire d'amour. C'est aussi l'histoire d'une
+    équipe qui nettoie l'espace de ses petits déchets car un écrou, si petit
+    soit-il, va si vite autour de la terre que les dégâts qu'il peut causer
+    ne sont pas à prendre à la légère.
+    Il faut être un peu un cow-boy pour faire ce boulot, ce qui rend
+    les personnages attachants.

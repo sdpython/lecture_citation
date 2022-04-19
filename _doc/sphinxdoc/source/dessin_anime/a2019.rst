@@ -1,0 +1,20 @@
+====
+2019
+====
+
+.. quote::
+    :author: Tatsuya Endō
+    :book: Spy X Family
+    :index: espionnage
+    :year: 2019
+
+    `Spy X Family <https://fr.wikipedia.org/wiki/Spy_%C3%97_Family>`_
+
+    C'est l'histoire d'un espion qui doit infiltrer une école.
+    Pour cela, il a une semaine pour fonder une famille.
+    Il récupère une petite fille télépathe dans un orphelinat
+    ravi de se débarrasser de son petit monstre effrayant,
+    et une femme dans le gagne pain est d'assassiner les gens.
+    Un mélange très romantique. La petite fille est ravie d'avoir
+    de tels parents :
+    *C'est un menteur mais il ment tellement bien.*

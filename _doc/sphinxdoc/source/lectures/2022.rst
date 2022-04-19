@@ -48,7 +48,7 @@
 
     Les croyances ne peuvent jamais exiger le respect.
     Seuls les hommes y ont droit. Aucune croyance,
-    aucune idée, aucune opinion ne peut exiger de ne 
+    aucune idée, aucune opinion ne peut exiger de ne
     pas être débattue, critiquée, caricaturée.
 
     Parce qu'à défaut, on n'accepterait plus de vivre
@@ -63,7 +63,7 @@
     :year: 2002
     :index: dépression
     :pages: épisode 13
-    
+
     - Il paraît déprimé. Tu devrais lui parler.
-    
+
     - Il est européen. C'est son état normal.

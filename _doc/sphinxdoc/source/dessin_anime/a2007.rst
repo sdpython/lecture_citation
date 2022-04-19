@@ -1,0 +1,29 @@
+====
+2007
+====
+
+.. quote::
+    :author: Kakifly
+    :book: K-ON!
+    :index: musique
+    :year: 2007
+
+    `K-ON! <https://fr.wikipedia.org/wiki/K-ON!>`_
+
+    Une adolescente distraite apprend la guitare, monte un groupe
+    au sein de son école, peu doué pour les études,
+    la guitare lui résiste un peu, elle ne joue jamais deux fois
+    de la même manière. C'est ce qui la rend agaçante et irresistible à la fois.
+
+.. quote::
+    :author: Hirose Shū
+    :book: El cazador de la bruja
+    :index: traversée
+    :year: 2007
+
+    `El cazador de la bruja <https://fr.wikipedia.org/wiki/El_cazador_de_la_bruja>`_
+
+    Une chasseuse de prime ne peut se résoudre à tuer l'enfant qu'elle est censée
+    tuer. Au lieu de ça, elle se met à la protéger et devenir une cible à son tour.
+    Comment tuer une fille qui ne semble ne pas se souvenir de qui elle est,
+    qui a d'étranges pouvoirs ?

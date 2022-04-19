@@ -1,0 +1,22 @@
+====
+2014
+====
+
+.. quote::
+    :author: Gen Urobuchi, Katsuhiko Takayama
+    :book: Aldnoah.Zero
+    :index: nucléaire
+    :year: 2014
+
+    `Aldnoah.Zero <https://fr.wikipedia.org/wiki/Aldnoah.Zero>`_
+
+    Des extra-terrestres attaquent la terre sous un faux prétexte.
+    Leurs machines sont surpuissantes et parviennent sans mal à conquérir
+    une bonne partie de la Terre.
+    Un adolescent, un peu autiste, parvient pourtant à leur résiter.
+
+    Une personne reste calme alors que tout le monde s'agite autour
+    de lui dans un mélange de désespoir et de panique.
+    La seconde partie de la série montre l'enfant utiliser un oeil
+    doté d'une intelligence artificielle qu'il programme et reprogramme
+    lui-même.
