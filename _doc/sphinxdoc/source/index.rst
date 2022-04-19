@@ -18,6 +18,7 @@ lors de la lecture.
 
     lecture
     dessina
+    serie
     architecture/index
     varie/index
 

@@ -1,0 +1,18 @@
+====
+2004
+====
+
+.. quote::
+    :author: Ronald D. Moore
+    :show: Battelstar Gallactica
+    :index: huis-clos
+    :year: 2004
+
+    `Battelstar Gallactica <https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)>`_
+
+    Il reste 50.000 personnes embarqués à bord d'une petite flotte de navire.
+    Les ennemis sont des cylons, un corps humains, un cerveau artificiel,
+    créé par l'homme. Chaque décision met en jeu la survie de l'humanité.
+    Qui a tort, qui a raison ? Peut-on garder un semblent de démocratie
+    dans ce contexte ? Et il est quasiment impossible de faire la différence
+    entre cylons et humains.
