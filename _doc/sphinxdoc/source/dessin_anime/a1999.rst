@@ -4,7 +4,7 @@
 
 .. quote::
     :author: Makoto Yukimura
-    :book: Planètes
+    :manga: Planètes
     :index: déchet
     :year: 1999
 

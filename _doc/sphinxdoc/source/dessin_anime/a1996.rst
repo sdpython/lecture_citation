@@ -4,7 +4,7 @@
 
 .. quote::
     :author: Nahoko Uehashi
-    :book: Seirei no moribito
+    :manga: Seirei no moribito
     :index: déchet
     :year: 1996
 

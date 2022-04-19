@@ -4,7 +4,7 @@
 
 .. quote::
     :author: Barasui
-    :book: Ishigo Mashimaro
+    :manga: Ishigo Mashimaro
     :index: philosophie
     :year: 2005
 
@@ -17,7 +17,7 @@
 
 .. quote::
     :author: Makoto Yukimura
-    :book: Vinland Saga
+    :manga: Vinland Saga
     :index: vengeance
     :year: 2005
 
@@ -26,3 +26,65 @@
     Un enfant Viking est recueilli par celui qui a tué son père devant ses yeux.
     Au contact de ce père de substitution, son seul objectif est de devenir
     plus fort que lui pour le tuer. Amusement, affection, haine...
+
+.. quote::
+    :author: Eri Takenashi
+    :manga: Kannagi
+    :index: modernité
+    :year: 2005
+
+    `Kannagi <https://fr.wikipedia.org/wiki/Kannagi_:_Crazy_Shrine_Maidens>`_
+
+    Le début de cette série rappelle la bande dessinée `Peter Pan de Loisel
+    <https://fr.wikipedia.org/wiki/Peter_Pan_(bande_dessin%C3%A9e)>`_.
+    Un adolescent scuplte une vieille déesse dans le tronc d'un arbre sacré
+    récemment coupé pour étendre la ville. Sous ses yeux, la sculpture prend
+    forme et devient la déesse dont l'arbre était le totem.
+    Que peut faire une déesse sans pouvoir dont la survie dépend de tous
+    ceux qui croit en elle ? La série explore le thème de la modernité
+    avec un personnage vivant qui épuise ceux qui l'entourent.
+
+.. quote::
+    :author: Kentarō Katayama
+    :manga: Kunerai
+    :index: orphelin
+    :year: 2005
+
+    `Kunerai <https://fr.wikipedia.org/wiki/Kurenai>`_
+
+    Un adolescent tout à la fois étudiant et tueur se voit confier
+    la garde d'une petite fille. La petite fille élevé dans un château
+    se retrouve dans un tout petit appartement.
+    Il n'est pas facile de ne pas s'attacher aux deux personnages
+    et à tous ceux qui les entourent. Les voisines du garçons sont tout
+    en couleur.
+
+.. quote::
+    :author: Michael Dante DiMartino, Bryan Konietzko
+    :manga: Avatar: The Last Airbender
+    :index: tradition
+    :year: 2005
+
+    `Avatar, le dernier maître de l'air
+    <https://fr.wikipedia.org/wiki/Avatar,_le_dernier_ma%C3%AEtre_de_l%27air#:~:text=Avatar%2C%20le%20dernier%20ma%C3%AEtre%20de%20l'air%20ou%20Avatar%20%3A,19%20juillet%202008%20sur%20Nickelodeon.>`_
+
+    Un enfant enfermé dans une bulle de glace se réveille 100 ans après
+    et tout a changé, hormis la guerre, toujours présente.
+    C'est très bien écrit même si ce manga américain creuse moins les
+    paradoxes de notre temps que les mangas japonais. Il est un peu plus
+    manichéen. Néanmoins, il explore la difficulté d'être un héros et
+    le fait de ne pas pouvoir choisir la vie qu'on aimerait avoir.
+
+.. quote::
+    :author: Keiichi Sigsawa
+    :manga: Kino No Tabi
+    :index: voyage
+    :year: 2005
+
+    `L'Odyssée de Kino <https://fr.wikipedia.org/wiki/L%27Odyss%C3%A9e_de_Kino>`_
+
+    Une fille voyage sur sa moto. Elle s'arrête dans de nombreuses villes.
+    Chacun est une sorte de petit pays indépendant avec ses propres règles
+    et ses propres contradictions. Un bijou.
+
+    

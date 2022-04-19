@@ -4,9 +4,9 @@
 
 .. quote::
     :author: Yuyuko Takemiya
-    :book: Toradora!
+    :manga: Toradora!
     :index: contraires
-    :year: 2005
+    :year: 2006
 
     `Toradora! <https://fr.wikipedia.org/wiki/Toradora!>`_
 
@@ -17,3 +17,53 @@
     plus vite, ce garçon qui ne réagit pas tandis qu'il fait invariablement
     la cuisine pour sa mère qui rentre tard et sa voisine qui est perdue
     dans une cuisine.
+
+.. quote::
+    :author: Haruaki Katō
+    :manga: Hyakko
+    :index: différence
+    :year: 2006
+
+    `Hyakko <https://en.wikipedia.org/wiki/Hyakko>`_
+
+    Ce manga m'évoque
+    `I Kill Giants <https://en.wikipedia.org/wiki/I_Kill_Giants_(film)>`_.
+    Le personnage principal est une fille complètement imprévisible,
+    dotée d'une force incroyable, attendrissante et violente à la fois.
+
+.. quote::
+    :author: Peach-Pit
+    :manga: Shugo Chara
+    :index: talent
+    :year: 2006
+
+    `Shugo Chara <https://fr.wikipedia.org/wiki/Shugo_Chara!>`_
+
+    Tous les enfants ont des dons. Ils apparaissent sous la forme
+    d'oeufs. Les oeufs éclosent pour les plus doués, ils noircissent
+    pour ceux que le découragement abat. Mais ce n'est pas toujours
+    définitif. L'héroïne a plusieurs dons et elle a le pouvoir
+    de rendre aux oeufs des autres leur couleur d'origine,
+    elle restaure les rêves de leur propriétaire.
+
+    Les personnages sont très attachants et les oeufs ont le don
+    de dévoiler des aspects excessifs de la personnalité de leur
+    propriétaire.
+
+.. quote::
+    :author: Nahoko Uehashi
+    :manga: Kemono No Souja
+    :index: préjugés
+    :year: 2006
+
+    `Kemono No Souja <https://en.wikipedia.org/wiki/The_Beast_Player>`_
+
+    Une petite fille perd sa mère médecin réfugiée, car celle-ci est
+    rendue responsable de la mort d'un animal sacré. La petite fille
+    curieuse grandit avec un apiculteur bienveillant. Elle ne cesse
+    jamais de poser des questions, de questionner chaque règle dont le
+    fondement lui paraît vague. Elle remet en cause les habitudes,
+    et découvre de nouvelles façons de faire. Elle suscite à la fois
+    l'admiration et la jalousie. Elle prend des risques, met sa vie
+    en danger pour aller au bout de ses idées.
+

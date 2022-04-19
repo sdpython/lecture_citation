@@ -4,7 +4,7 @@
 
 .. quote::
     :author: Shimesaba
-    :book: Hige o Soru. Soshite Joshi Kōsei o Hirou
+    :manga: Hige o Soru. Soshite Joshi Kōsei o Hirou
     :index: fugue
     :year: 2018
 

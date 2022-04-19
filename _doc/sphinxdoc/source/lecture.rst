@@ -23,5 +23,3 @@ entre les parois d'une seule oeuvre, à jamais figée dans le temps.
     lectures/2012
     lectures/2011
     lectures/2010
-    architecture/index
-    varie/index

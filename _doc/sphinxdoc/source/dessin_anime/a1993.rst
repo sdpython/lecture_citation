@@ -4,7 +4,7 @@
 
 .. quote::
     :author: Hitoshi Yoshioka
-    :book: Irresponsable capitaine Tylor
+    :manga: Irresponsable capitaine Tylor
     :index: management
     :year: 1993
 

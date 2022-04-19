@@ -4,7 +4,7 @@
 
 .. quote::
     :author: Hajime Isayama
-    :book: L'attaque des titans
+    :manga: L'attaque des titans
     :index: huis-clos
     :year: 2009
 
@@ -18,7 +18,7 @@
 
 .. quote::
     :author: ONE, Yūsuke Murata
-    :book: One Punch Man
+    :manga: One Punch Man
     :index: ennui
     :year: 2009
 
@@ -29,8 +29,8 @@
     C'est bien ça qui l'ennuie.
 
 .. quote::
-    :author:  Reki Kawahara
-    :book: Sword Art Online
+    :author: Reki Kawahara
+    :manga: Sword Art Online
     :index: virtualité
     :year: 2009
 
@@ -41,3 +41,63 @@
     du devenir de son enveloppe corporelle sans pouvoir y faire quoique
     ce soit, à moins de pouvoir battre le monstre du dernier niveau
     que personne n'a jamais vu. Et si l'on n'y parvenait pas.
+
+.. quote::
+    :author: Atsushi Takahashi
+    :manga: RideBack
+    :index: démocratie
+    :year: 2009
+
+    `RideBack <https://fr.wikipedia.org/wiki/RideBack>`_
+
+    Le dernier épisode est incroyable avec la danse d'une jeune
+    fille aux commandes de son pilote pour défendre la liberté.
+    Cette jeune fille s'est blessé et ne peut plus suivre la
+    même carrière de danseuse que sa mère. Elle retrouve vie au volant
+    de machines à mi-chemin entre une moto et un robot.
+    Au cours de la série, la société devient plus autoritaire.
+    La jeune fille doit choisir entre sa danse motorisée
+    et la légalité.
+
+    A l'inverse de beaucoup d'autres séries, le personnage principal
+    s'exprime avec parcimonie comme si le silence était une façon de
+    se convaincre elle-même que la danse n'est pas si importante pour elle.
+    
+.. quote::
+    :author: Mari Okada
+    :manga: Canaan
+    :index: démocratie
+    :year: 2009
+
+    `Canaan <https://fr.wikipedia.org/wiki/Canaan_(anime)>`_
+
+    Une photographe croise de près une fille, espionne, tueuse, peu importe.
+    C'est difficile d'être fasciné par un personnage dont le métier
+    est le plus souvent derrière les limites de la légalité.
+    La tueuse sauve la vie de la photographe. Elle aimerait en retour
+    la sauver de ce métier dangereux.
+    
+.. quote::
+    :author: Natsuko Takahashi, Masaki Tashimada
+    :manga: Tokyo Magnitude 8.0
+    :index: catastrophe
+    :year: 2009
+
+    `Tokyo Magnitude <https://fr.wikipedia.org/wiki/T%C3%B4ky%C3%B4_Magnitude_8.0>`_
+
+    Un séisme dans la ville de Tokyo sépare une famille. Une adulte
+    aide deux enfants à traverser une ville détruite pour retrouver
+    leurs parents.
+
+    La série rappelle `L'empire du Soleil <https://fr.wikipedia.org/wiki/Empire_du_soleil>`_
+    de Spielberg.
+    
+.. quote::
+    :author: Kenji Kamiyama
+    :manga: Eden of The East
+    :index: catastrophe
+    :year: 2009
+
+    `Eden of The East <https://fr.wikipedia.org/wiki/Eden_of_the_East>`_
+
+    Que feriez-vous si l'on vous forçait à devenir un terroriste ?

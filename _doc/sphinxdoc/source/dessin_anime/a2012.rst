@@ -4,7 +4,7 @@
 
 .. quote::
     :author: Tomonori Inoue
-    :book: Coppelion
+    :manga: Coppelion
     :index: nucléaire
     :year: 2012
 
@@ -20,7 +20,7 @@
 
 .. quote::
     :author: Katsuyuki Motohiro, Naoyoshi Shiotani, Gen Urobuchi
-    :book: Psycho-Pass
+    :manga: Psycho-Pass
     :index: justice
     :year: 2012
 
@@ -41,7 +41,7 @@
 
 .. quote::
     :author: Amyu
-    :book: Kono Oto Tomare! Sounds of Life
+    :manga: Kono Oto Tomare! Sounds of Life
     :index: musique
     :year: 2012
 
@@ -57,7 +57,7 @@
 
 .. quote::
     :author: Masahiro Ando
-    :book: Hanasaku Iroha
+    :manga: Hanasaku Iroha
     :index: grandir
     :year: 2012
 

@@ -4,7 +4,7 @@
 
 .. quote::
     :author: Kaiu Shirai, Posuka Demizu
-    :book: The Promised Neverland
+    :manga: The Promised Neverland
     :index: huis-clos
     :year: 2016
 

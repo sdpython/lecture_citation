@@ -4,7 +4,7 @@
 
 .. quote::
     :author: Naoshi Arakawa
-    :book: Shigatsu wa kimi no uso
+    :manga: Shigatsu wa kimi no uso
     :index: renaissance
     :year: 2011
 

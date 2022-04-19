@@ -4,7 +4,7 @@
 
 .. quote::
     :author: Kakifly
-    :book: K-ON!
+    :manga: K-ON!
     :index: musique
     :year: 2007
 
@@ -17,7 +17,7 @@
 
 .. quote::
     :author: Hirose Shū
-    :book: El cazador de la bruja
+    :manga: El cazador de la bruja
     :index: traversée
     :year: 2007
 
@@ -27,3 +27,36 @@
     tuer. Au lieu de ça, elle se met à la protéger et devenir une cible à son tour.
     Comment tuer une fille qui ne semble ne pas se souvenir de qui elle est,
     qui a d'étranges pouvoirs ?
+
+.. quote::
+    :author: Tensai Okamura
+    :manga: Darker than Black
+    :index: éthique
+    :year: 2007
+
+    `Darker Than Black <https://fr.wikipedia.org/wiki/Darker_than_Black>`_
+
+    Une anomalie extra terreste donne des pouvoirs sur-humains à certains
+    individus. Ils deviennent des armes à qui réussit à les contrôler
+    et qui les contrôle cherche à éliminer les adversaires.
+    Le personnage principal est l'un de ceux-là. Son pouvoir le rend
+    particulièrement puissant. Il semble suivre les ordres qu'on lui
+    donne sans les remettre en question. Il ne manifeste aucune émotion
+    malgré la supériorité que lui confère son pouvoir.
+    
+
+.. quote::
+    :author: Kazuma Kamachi
+    :manga: A Certain Scientific Railgun
+    :index: éthique
+    :year: 2007
+
+    `A Certain Scientific Railgun <https://en.wikipedia.org/wiki/A_Certain_Scientific_Railgun>`_
+
+    Certains enfants ont un pouvoir, ce pouvoir est noté sur une échelle de 0 à 5,
+    d'humains inoffensifs à demi-dieu. Heureusement, ils sont très peu, cinq en tout.
+    Personne n'a vu le niveau six mais tout le monde se prend d'envie de l'imaginer
+    et de mettre tout en oeuvre pour y arrive.
+    Le héros principalement semble hermétique à l'envie qu'elle suscite
+    mais se trouve malgré elle liée à ceux qui cherchent à la dépasser.
+

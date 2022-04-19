@@ -14,7 +14,7 @@ je ne retiens jamais les mots exacts, juste l'idée où l'émotion
 lors de la lecture.
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     lecture
     dessina

@@ -4,7 +4,7 @@
 
 .. quote::
     :author: Masayuki Miyaji, Megumi Shimazu, Yūichi Nomura
-    :book: Bōnen no Xamdou
+    :manga: Bōnen no Xamdou
     :index: épopée
     :year: 2008
 
@@ -16,3 +16,38 @@
     Une second mère souvent colérique et qui l'aime.
     Un méchant presque sadique, une femme qui l'aime malgré tout,
     un père médecin avant tout. Tous les personnages sont réussis.
+
+.. quote::
+    :author: Shigeyasu Yamauchi
+    :manga: Casshern Sins
+    :index: modernité
+    :year: 2008
+
+    `Casshern Sins <https://fr.wikipedia.org/wiki/Casshern_Sins>`_
+
+    Un héros détruit des machines vivantes atteintes par la rouille.
+    Il ne sait pas vraiment pourquoi il le fait comme si les rôles
+    des deux combattants étaient fixés à l'avance. Mais sa mémoire
+    lui joue des tours et retrouve quelques fragments.
+
+.. quote::
+    :author: Sayo Yamamoto
+    :manga: Michiko to Hatchin
+    :index: fuite
+    :year: 2008
+
+    `Michiko to Hatchin <https://fr.wikipedia.org/wiki/Michiko_to_Hatchin>`_
+
+    Une femme, une fille qui fuient, l'une la prison, l'autre sa famille.
+    Elles fuient ensemble.
+
+.. quote::
+    :author: Hiroshi Ohnogi
+    :manga: Mnemosyne
+    :index: noir
+    :year: 2008
+
+    `Mnemosyne <https://fr.wikipedia.org/wiki/Mnemosyne_(anime)>`_
+
+    On ne sait pas vraiment où on va dans cette série.
+    Mais elle est courte et bien ficelée.
