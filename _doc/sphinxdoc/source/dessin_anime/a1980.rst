@@ -1,0 +1,48 @@
+=====
+1980-
+=====
+
+.. quote::
+    :author: Yoshiki Tanaka
+    :manga: Legend of the Galactic Heroes
+    :index: fresque
+    :year: 1982
+    :title1: true
+
+    `Legend of the Galactic Heroes <https://fr.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes>`_
+
+    Fresque intersidéral et tactique. Un régime démocratique,
+    un autre dictatoriale s'affronte pour la domination
+    mais il n'est pas évident de conquérir le monde quand on est en proie
+    aux conflits internes et aux révolutions.
+    On ne peut pas se lancer dans une guerre sur un coup de tête.
+    Il faut une statégie, une vision.
+
+.. quote::
+    :author: Akira Toriyama
+    :manga: Dragon Ball
+    :index: candeur
+    :year: 1985
+    :title1: true
+
+    `Dragon Ball <https://fr.wikipedia.org/wiki/Dragon_Ball>`_
+
+    Je n'avais jamais vu les premiers épisodes jusque récemment.
+    La série est très longue et il n'est peut-être pas utile
+    de la voir jusqu'au bout mais les premières heures sont
+    denses et joue sur la candeur d'un personnage qui découvre
+    la société et quelques-uns de ses travers après avoir passé
+    ses premières années loin de toutes tentations. La nudité
+    est aussi naturelle qu'un habit.
+
+.. quote::
+    :author: Kentarō Miura
+    :manga: Berseck
+    :index: poésie
+    :year: 1989
+    :title1: true
+
+    `Berseck <https://fr.wikipedia.org/wiki/Berserk_(manga)>`_
+
+    Un héros lugubre, une église sanguinaire et retorse, des ombres
+    égarés entre la terre et l'enfer. C'est une danse macabre.
