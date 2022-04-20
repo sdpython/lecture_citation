@@ -1,0 +1,59 @@
+=====
+1960-
+=====
+
+.. quote::
+    :author: Sydney Newman, Leonard White
+    :show: Chapeau et Bottes de Cuir
+    :index: espionnage
+    :year: 1961
+    :title1: true
+
+    `Chapeau et Bottes de Cuir <https://fr.wikipedia.org/wiki/Chapeau_melon_et_bottes_de_cuir>`_
+
+    Je ne sais plus comment le titre original, The Avengers, a été traduit
+    en ce qu'il est aujourd'hui. Les deux saisons avec
+    `Emma Peel <https://fr.wikipedia.org/wiki/Emma_Peel>`_ sont incroyables.
+    Les décors, les costumes, tout y est esthétiquement réussis.
+    L'humour pince sans rire est constant.
+
+.. quote::
+    :author: Sol Saks
+    :show: Ma sorcière bien-aimée
+    :index: comédie
+    :year: 1964
+    :title1: true
+
+    `Ma sorcière bien-aimée <https://fr.wikipedia.org/wiki/Ma_sorci%C3%A8re_bien-aim%C3%A9e>`_
+
+    Une sorcière mère au foyer marié à un humain.
+    La première saison glisse ça et là des critiques de la société
+    patriarcale. J'avais raté cela quand j'étais petit. Plus grand, ces petites
+    piques sont subtiles à souhait.
+
+.. quote::
+    :author: George Markstein, Patrick McGoohan
+    :show: Le prisonnier
+    :index: espionnage
+    :year: 1967
+    :title1: true
+
+    `Le prisonnier <https://fr.wikipedia.org/wiki/Le_Prisonnier>`_
+
+    Comment ne pas devenir quand on est emprisonné sans en connaître la raison ?
+    L'esthétisme de cette série rappelle Chapeau melon et bottes de cuir.
+
+.. quote::
+    :author: Richard Levinson, William Link
+    :show: Columbo
+    :index: policier
+    :year: 1968
+    :title1: true
+
+    `Columbo <https://fr.wikipedia.org/wiki/Columbo>`_
+
+    Je ne me lasse pas de la regarder. Tout y connu avant
+    l'entrée du policier. C'est un jeu qui rappelle
+    `Le limier <https://fr.wikipedia.org/wiki/Le_Limier_(film,_1972)>`_,
+    extraodinaire film entre deux acteurs qui cherchent à se piéger
+    l'un l'autre.

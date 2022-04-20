@@ -45,7 +45,6 @@
     particulièrement puissant. Il semble suivre les ordres qu'on lui
     donne sans les remettre en question. Il ne manifeste aucune émotion
     malgré la supériorité que lui confère son pouvoir.
-    
 
 .. quote::
     :author: Kazuma Kamachi
@@ -62,4 +61,3 @@
     et de mettre tout en oeuvre pour y arrive.
     Le héros principalement semble hermétique à l'envie qu'elle suscite
     mais se trouve malgré elle liée à ceux qui cherchent à la dépasser.
-

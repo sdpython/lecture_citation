@@ -1,0 +1,14 @@
+====
+1959
+====
+
+.. quote::
+    :author: Billy Wilder
+    :film: La Garçonnière
+    :index: comédie
+    :year: 1960
+    :title1: true
+
+    `La Garçonnière <https://fr.wikipedia.org/wiki/La_Gar%C3%A7onni%C3%A8re_(film,_1960)>`_
+
+    Jack Lemmon est toujours irrésistible.

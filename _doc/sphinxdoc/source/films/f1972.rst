@@ -1,0 +1,16 @@
+====
+1972
+====
+
+.. quote::
+    :author: Joseph L. Mankiewicz
+    :film: Le limier
+    :index: jeu
+    :year: 1972
+    :title1: true
+
+    `Le limier <https://fr.wikipedia.org/wiki/Le_Limier_(film,_1972)>`_
+
+    C'est une pièce de théâtre, deux acteurs jouent au chat et à la souris,
+    inversent les rôles. C'est à celui qui attrapera l'autre. Pas d'action,
+    ou très peu, juste des dialogues. Un jeu d'échecs. Magistral.

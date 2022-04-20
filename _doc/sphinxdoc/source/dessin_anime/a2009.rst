@@ -66,7 +66,7 @@
     A l'inverse de beaucoup d'autres séries, le personnage principal
     s'exprime avec parcimonie comme si le silence était une façon de
     se convaincre elle-même que la danse n'est pas si importante pour elle.
-    
+
 .. quote::
     :author: Mari Okada
     :manga: Canaan
@@ -81,7 +81,7 @@
     est le plus souvent derrière les limites de la légalité.
     La tueuse sauve la vie de la photographe. Elle aimerait en retour
     la sauver de ce métier dangereux.
-    
+
 .. quote::
     :author: Natsuko Takahashi, Masaki Tashimada
     :manga: Tokyo Magnitude 8.0
@@ -97,7 +97,7 @@
 
     La série rappelle `L'empire du Soleil <https://fr.wikipedia.org/wiki/Empire_du_soleil>`_
     de Spielberg.
-    
+
 .. quote::
     :author: Kenji Kamiyama
     :manga: Eden of The East

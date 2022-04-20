@@ -1,0 +1,32 @@
+=====
+2020-
+=====
+
+.. quote::
+    :author: Yukihio Morigaki
+    :show: La maison de la rue en pente
+    :index: famille
+    :year: 2021
+    :title1: true
+
+    `La maison de la rue en pente <https://www.franceinter.fr/culture/critique-la-maison-de-la-rue-en-pente-une-serie-japonaise-pour-un-theme-universel-la-maternite>`_
+
+    *Une mère de famille n'a pas le droit de faire un burnout.*
+    Comment serait-ce possible si on aime son enfant ?
+    Une mère est appelé à juger une autre mère accusée d'avoir tuée son enfant.
+    Ce procès remet en cause le regard qu'elle porte sur elle-même,
+    et sur les autres.
+
+    Il faut absolument voir cette série.
+
+.. quote::
+    :author: Éric Toledano, Olivier Nakache
+    :show: En thérapie
+    :index: famille
+    :year: 2021
+    :title1: true
+
+    `En thérapie <https://fr.wikipedia.org/wiki/En_th%C3%A9rapie>`_
+
+    Un décor, le cabinet d'un psychologue, cinq patients,
+    des histoires et des acteurs incroyables.

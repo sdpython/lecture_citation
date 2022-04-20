@@ -1,6 +1,6 @@
-====
-2000
-====
+=====
+2000-
+=====
 
 .. quote::
     :author: Amy Sherman-Palladino
@@ -16,7 +16,101 @@
     Mais l'école coûte cher et la mère a besoin de la grand-mère pour
     payer les études de sa fille. Chacune a son caractère et le passé
     n'est pas simple à effacer. Mais après 16 ans...
-    
+
     Il n'y a pas vraiment d'histoires excepté le quotidien de ces trois
     femmes qui évoluent. Tous les personnages parlent très vite
     et sont tous un peu fou, un peu adorable à leur façon.
+
+.. quote::
+    :author: Alan Ball
+    :show: Six Feet Under
+    :index: famille
+    :year: 2001
+    :title1: true
+
+    `Six Feet Under <https://en.wikipedia.org/wiki/Six_Feet_Under_(TV_series)>`_
+
+    Un père meurt. Toute la famille se retrouve et continue
+    de gérer l'entreprise familiale, une entreprise de pompes funèbres.
+    C'est le prétexte à de nombreuses discussions, de thèmes
+    abordées, et jamais de façon manichéenne.
+
+.. quote::
+    :author: Bill Lawrence
+    :show: Scrubs
+    :index: hôpital
+    :year: 2001
+    :title1: true
+
+    `Scrubs <https://fr.wikipedia.org/wiki/Scrubs>`_
+
+    De jeunes internes à l'hôpital. Ils s'amusent beaucoup.
+    C'est la première fois que je vois un épisode autour d'un shiotte
+    posé sur le toit d'un hôpital et qui susicte l'envie de tous.
+    Qui n'a pas rêvé de démouler un cake sous les étoiles ?
+
+.. quote::
+    :author: Ronald D. Moore
+    :show: Battelstar Gallactica
+    :index: huis-clos
+    :year: 2004
+    :title1: true
+
+    `Battelstar Gallactica <https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)>`_
+
+    Il reste 50.000 personnes embarqués à bord d'une petite flotte de navire.
+    Les ennemis sont des cylons, un corps humains, un cerveau artificiel,
+    créé par l'homme. Chaque décision met en jeu la survie de l'humanité.
+    Qui a tort, qui a raison ? Peut-on garder un semblent de démocratie
+    dans ce contexte ? Et il est quasiment impossible de faire la différence
+    entre cylons et humains.
+
+.. quote::
+    :author: David Milch
+    :show: Deadwood
+    :index: huis-clos
+    :year: 2004
+    :title1: true
+
+    `Deadwood <https://fr.wikipedia.org/wiki/Deadwood_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)>`_
+
+    Une ville au farwest en expansion. Un bordel, un saloon, des pistolets,
+    un shérif, de la violence.
+
+.. quote::
+    :author: Christina Jennings
+    :show: ReGenesis
+    :index: virus
+    :year: 2004
+    :title1: true
+
+    `ReGenesis <https://fr.wikipedia.org/wiki/ReGenesis>`_
+
+    Un laboratoire combat en temps réel les virus les plus mortels.
+
+.. quote::
+    :author: Tina Fey
+    :show: 30 Rocks
+    :index: humour
+    :year: 2006
+    :title1: true
+
+    `30 Rock <https://fr.wikipedia.org/wiki/30_Rock>`_
+
+    Une productrice gère aux quotidiens les égos démesurés des stars
+    de son show. Et elles sont complètement à côté de la plaque.
+
+.. quote::
+    :author: Todd A. Kessler, Glenn Kessler, Daniel Zelman
+    :show: Damages
+    :index: loi
+    :year: 2007
+    :title1: true
+
+    `Damages <https://fr.wikipedia.org/wiki/Damages>`_
+
+    Des personnages tortueux qui sont arrivés au sommet
+    de leur gloire non sans quelques cadavres dans le placard.
+    Et il y a beaucoup de placards.
+    La série mets en scène des avocats dans des affaires financières
+    complexes.

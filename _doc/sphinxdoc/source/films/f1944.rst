@@ -1,0 +1,16 @@
+====
+1944
+====
+
+.. quote::
+    :author: Frank Capra
+    :film: Arsenic et vieilles dentelles
+    :index: comédie
+    :year: 1944
+    :title1: true
+
+    `Arsenic et vieilles dentelles <https://fr.wikipedia.org/wiki/Arsenic_et_vieilles_dentelles_(film)>`_
+
+    Drôle ! Mais drôle !
+
+    Chaaaaaaaaaaaaaaaarge !

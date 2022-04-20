@@ -1,0 +1,77 @@
+=====
+1990-
+=====
+
+.. quote::
+    :author: Mark Frost, David Lynch
+    :show: Twin Peaks
+    :index: labyrinthe
+    :year: 1990
+    :title1: true
+
+    `Twin Peaks <https://fr.wikipedia.org/wiki/Twin_Peaks_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)>`_
+
+    Un policier erre dans une petite ville dont les petites vicissitudes
+    s'entremêlent de façon infinie.
+
+.. quote::
+    :author: Andrew Davies
+    :show: House of Cards
+    :index: politique
+    :year: 1990
+    :title1: true
+
+    `Château de cartes <https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_cartes_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e,_1990)>`_
+
+    C'est la version originale, anglaise, centré autour d'un personnage
+    sans scrupules qui ne cesse de s'émerveiller sur son intelligence
+    de sa voix off diabolique. Je n'ai pas aimé la version américaine.
+
+.. quote::
+    :author: Michael Crichton
+    :show: Urgences
+    :index: hôpital
+    :year: 1994
+    :title1: true
+
+    `Urgences <https://en.wikipedia.org/wiki/ER_(TV_series)>`_
+
+    J'ai vu beaucoup de séries médicales,
+    `Grey's Anatomy <https://fr.wikipedia.org/wiki/Grey%27s_Anatomy>`_,
+    `The Resident <https://fr.wikipedia.org/wiki/The_Resident_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)>`_,
+    `New Amsterdam <https://fr.wikipedia.org/wiki/New_Amsterdam_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e,_2018)>`_,
+    `Docteur House <https://fr.wikipedia.org/wiki/Dr_House>`_,
+    `The Good Doctor <https://fr.wikipedia.org/wiki/Good_Doctor_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e,_2017)>`_,
+    `Chicago Med <https://fr.wikipedia.org/wiki/Chicago_Med>`_.
+    Elles traitent régulièrement des problèmes liés au système
+    de santé américain, très cher. Elles montrent les dernières avancées
+    médicales. *Urgences* est une série où les personnages sont souvent
+    stressés, il faut une certaine dose d'énergie pour affronter leur
+    quotidien. Sur 15 ans, on peut mesurer l'évolution des techniques,
+    la série n'est pas attaché à un des personnages non plus contrairement
+    aux autres.
+
+.. quote::
+    :author: Joss Whedon
+    :show: Buffy contre les Vampires
+    :index: héros
+    :year: 1997
+    :title1: true
+
+    `Buffy contre les vampires <https://fr.wikipedia.org/wiki/Buffy_contre_les_vampires>`_
+
+    Amour, vampires, une des premières séries que j'ai regardé.
+    J'aime beaucoup la dernière saison. Ce n'est pas facile d'arrêter
+    une série. Ce n'est pas si mal fait. Et mon personnage préféré
+    est Willow.
+
+.. quote::
+    :author: David Edward Kelley
+    :show: Ally McBeal
+    :index: loi
+    :year: 1997
+    :title1: true
+
+    `Ally McBeal <https://fr.wikipedia.org/wiki/Ally_McBeal>`_
+
+    Ils sont tous avocats et fous mais brillants dans une cour.

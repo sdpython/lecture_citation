@@ -1,0 +1,15 @@
+=====
+1970-
+=====
+
+.. quote::
+    :author: Larry Gelbart
+    :show: MASH
+    :index: guerre
+    :year: 1972
+    :title1: true
+
+    `MASH <https://fr.wikipedia.org/wiki/MASH_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)>`_
+
+    Des médecins dans un hôpital de campagne lors de la guerre du Vietman.
+    Décalé et drôle et juste.

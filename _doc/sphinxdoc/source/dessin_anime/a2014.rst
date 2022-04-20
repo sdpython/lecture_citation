@@ -25,7 +25,7 @@
 .. quote::
     :author: Hiroyuki Kawasaki, Astrid Lindgren
     :manga: Sanzoku no Musume Rōnya
-    :index: 
+    :index:
     :year: 2014
     :title1: true
 
@@ -62,4 +62,3 @@
     à sa cuisine enivrante à l'arrière goût prononcé. Et pourquoi diable
     vous fait-il goûter parfois des créations si mauvaise que leur simple
     évocation suffit à vous couper l'appétit ?
-

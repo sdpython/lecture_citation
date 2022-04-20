@@ -19,6 +19,7 @@ lors de la lecture.
     lecture
     dessina
     serie
+    film
     architecture/index
     varie/index
 

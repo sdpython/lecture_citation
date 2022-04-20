@@ -1,0 +1,15 @@
+====
+1962
+====
+
+.. quote::
+    :author: Rose Wise
+    :film: Deux sur la balançoire
+    :index: drame
+    :year: 1962
+    :title1: true
+
+    `Deux sur la balançoire <https://fr.wikipedia.org/wiki/Deux_sur_la_balan%C3%A7oire_(film)>`_
+
+    C'est un film méconnu. Deux personnages se croisent, discutent,
+    se découvrent. Deux vies bancales qui ont choisi de partager un trépied.

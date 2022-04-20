@@ -1,0 +1,14 @@
+====
+1959
+====
+
+.. quote::
+    :author: Billy Wilder
+    :film: Certains l'aiment chaud
+    :index: comédie
+    :year: 1959
+    :title1: true
+
+    `Certains l'aiment chaud <https://fr.wikipedia.org/wiki/Certains_l%27aiment_chaud>`_
+
+    Nobody's perfect.
