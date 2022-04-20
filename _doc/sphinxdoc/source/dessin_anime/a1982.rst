@@ -7,6 +7,7 @@
     :manga: Legend of the Galactic Heroes
     :index: fresque
     :year: 1982
+    :title1: true
 
     `Legend of the Galactic Heroes <https://fr.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes>`_
 

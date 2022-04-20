@@ -7,6 +7,7 @@
     :manga: Spy X Family
     :index: espionnage
     :year: 2019
+    :title1: true
 
     `Spy X Family <https://fr.wikipedia.org/wiki/Spy_%C3%97_Family>`_
 

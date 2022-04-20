@@ -7,6 +7,7 @@
     :manga: Seirei no moribito
     :index: déchet
     :year: 1996
+    :title1: true
 
     `Seirei no moribito <https://fr.wikipedia.org/wiki/Seirei_no_moribito>`_
 

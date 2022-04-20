@@ -7,6 +7,7 @@
     :manga: Aishiteruze baby
     :index: parent
     :year: 2002
+    :title1: true
 
     `Aishiteruze baby <https://fr.wikipedia.org/wiki/Babe_My_Love>`_
 

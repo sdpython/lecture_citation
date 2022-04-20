@@ -7,6 +7,7 @@
     :manga: Last Exile
     :index: épopée
     :year: 2003
+    :title1: true
 
     `Last Exile <https://fr.wikipedia.org/wiki/Last_Exile>`_
 

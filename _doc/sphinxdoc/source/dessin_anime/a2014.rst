@@ -7,6 +7,7 @@
     :manga: Aldnoah.Zero
     :index: nucléaire
     :year: 2014
+    :title1: true
 
     `Aldnoah.Zero <https://fr.wikipedia.org/wiki/Aldnoah.Zero>`_
 
@@ -26,6 +27,7 @@
     :manga: Sanzoku no Musume Rōnya
     :index: 
     :year: 2014
+    :title1: true
 
     `Ronja, the Robber's Daughter <https://en.wikipedia.org/wiki/Ronja,_the_Robber%27s_Daughter_(TV_series)>`_
 
@@ -46,6 +48,7 @@
     :manga: Shokugeki no Sōma
     :index: cuisine
     :year: 2014
+    :title1: true
 
     `Shokugeki no Sōma <https://fr.wikipedia.org/wiki/Food_Wars!>`_
 

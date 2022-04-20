@@ -7,6 +7,7 @@
     :manga: Planètes
     :index: déchet
     :year: 1999
+    :title1: true
 
     `Planètes <https://fr.wikipedia.org/wiki/Planetes>`_
 

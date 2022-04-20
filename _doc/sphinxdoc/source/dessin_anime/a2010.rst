@@ -7,6 +7,7 @@
     :manga: Maoyū: Maō Yūsha
     :index: économie
     :year: 2009
+    :title1: true
 
     `Maoyū: Maō Yūsha <https://en.wikipedia.org/wiki/Maoyu>`_
 

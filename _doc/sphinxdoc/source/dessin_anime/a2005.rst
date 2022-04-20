@@ -7,6 +7,7 @@
     :manga: Ishigo Mashimaro
     :index: philosophie
     :year: 2005
+    :title1: true
 
     `Strawberry Marshmallow <https://en.wikipedia.org/wiki/Strawberry_Marshmallow>`_
 
@@ -20,6 +21,7 @@
     :manga: Vinland Saga
     :index: vengeance
     :year: 2005
+    :title1: true
 
     `Vinland Saga <https://fr.wikipedia.org/wiki/Vinland_Saga>`_
 
@@ -32,6 +34,7 @@
     :manga: Kannagi
     :index: modernité
     :year: 2005
+    :title1: true
 
     `Kannagi <https://fr.wikipedia.org/wiki/Kannagi_:_Crazy_Shrine_Maidens>`_
 
@@ -49,6 +52,7 @@
     :manga: Kunerai
     :index: orphelin
     :year: 2005
+    :title1: true
 
     `Kunerai <https://fr.wikipedia.org/wiki/Kurenai>`_
 
@@ -64,6 +68,7 @@
     :manga: Avatar: The Last Airbender
     :index: tradition
     :year: 2005
+    :title1: true
 
     `Avatar, le dernier maître de l'air
     <https://fr.wikipedia.org/wiki/Avatar,_le_dernier_ma%C3%AEtre_de_l%27air#:~:text=Avatar%2C%20le%20dernier%20ma%C3%AEtre%20de%20l'air%20ou%20Avatar%20%3A,19%20juillet%202008%20sur%20Nickelodeon.>`_
@@ -80,6 +85,7 @@
     :manga: Kino No Tabi
     :index: voyage
     :year: 2005
+    :title1: true
 
     `L'Odyssée de Kino <https://fr.wikipedia.org/wiki/L%27Odyss%C3%A9e_de_Kino>`_
 

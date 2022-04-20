@@ -7,6 +7,7 @@
     :manga: Berseck
     :index: poésie
     :year: 1989
+    :title1: true
 
     `Berseck <https://fr.wikipedia.org/wiki/Berserk_(manga)>`_
 

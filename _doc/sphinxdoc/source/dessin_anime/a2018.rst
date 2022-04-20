@@ -7,6 +7,7 @@
     :manga: Hige o Soru. Soshite Joshi Kōsei o Hirou
     :index: fugue
     :year: 2018
+    :title1: true
 
     `Hige o Soru. Soshite Joshi Kōsei o Hirou <https://en.wikipedia.org/wiki/Higehiro>`_
 

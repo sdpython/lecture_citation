@@ -7,6 +7,7 @@
     :manga: Toradora!
     :index: contraires
     :year: 2006
+    :title1: true
 
     `Toradora! <https://fr.wikipedia.org/wiki/Toradora!>`_
 
@@ -23,6 +24,7 @@
     :manga: Hyakko
     :index: différence
     :year: 2006
+    :title1: true
 
     `Hyakko <https://en.wikipedia.org/wiki/Hyakko>`_
 
@@ -36,6 +38,7 @@
     :manga: Shugo Chara
     :index: talent
     :year: 2006
+    :title1: true
 
     `Shugo Chara <https://fr.wikipedia.org/wiki/Shugo_Chara!>`_
 
@@ -55,6 +58,7 @@
     :manga: Kemono No Souja
     :index: préjugés
     :year: 2006
+    :title1: true
 
     `Kemono No Souja <https://en.wikipedia.org/wiki/The_Beast_Player>`_
 

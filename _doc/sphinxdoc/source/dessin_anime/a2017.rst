@@ -7,6 +7,7 @@
     :manga: Sakura Quest
     :index: vie
     :year: 2017
+    :title1: true
 
     `Sakura Quest <https://fr.wikipedia.org/wiki/Sakura_Quest>`_
 
@@ -23,6 +24,7 @@
     :manga: Kanojo, okarishimasu
     :index: vie
     :year: 2017
+    :title1: true
 
     `Rent-A-Girlfriend <https://fr.wikipedia.org/wiki/Rent-A-Girlfriend>`_
 

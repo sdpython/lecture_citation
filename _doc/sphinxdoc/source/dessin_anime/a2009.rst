@@ -7,6 +7,7 @@
     :manga: L'attaque des titans
     :index: huis-clos
     :year: 2009
+    :title1: true
 
     `L'attaque des titans <https://fr.wikipedia.org/wiki/L%27Attaque_des_Titans>`_
 
@@ -21,6 +22,7 @@
     :manga: One Punch Man
     :index: ennui
     :year: 2009
+    :title1: true
 
     `One Punch Man <https://fr.wikipedia.org/wiki/One_Punch_Man>`_
 
@@ -33,6 +35,7 @@
     :manga: Sword Art Online
     :index: virtualité
     :year: 2009
+    :title1: true
 
     `Sword Art Online <https://fr.wikipedia.org/wiki/Sword_Art_Online>`_
 
@@ -47,6 +50,7 @@
     :manga: RideBack
     :index: démocratie
     :year: 2009
+    :title1: true
 
     `RideBack <https://fr.wikipedia.org/wiki/RideBack>`_
 
@@ -68,6 +72,7 @@
     :manga: Canaan
     :index: démocratie
     :year: 2009
+    :title1: true
 
     `Canaan <https://fr.wikipedia.org/wiki/Canaan_(anime)>`_
 
@@ -82,6 +87,7 @@
     :manga: Tokyo Magnitude 8.0
     :index: catastrophe
     :year: 2009
+    :title1: true
 
     `Tokyo Magnitude <https://fr.wikipedia.org/wiki/T%C3%B4ky%C3%B4_Magnitude_8.0>`_
 
@@ -97,6 +103,7 @@
     :manga: Eden of The East
     :index: catastrophe
     :year: 2009
+    :title1: true
 
     `Eden of The East <https://fr.wikipedia.org/wiki/Eden_of_the_East>`_
 

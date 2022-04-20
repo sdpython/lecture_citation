@@ -20,6 +20,7 @@
     :manga: El cazador de la bruja
     :index: traversée
     :year: 2007
+    :title1: true
 
     `El cazador de la bruja <https://fr.wikipedia.org/wiki/El_cazador_de_la_bruja>`_
 
@@ -33,6 +34,7 @@
     :manga: Darker than Black
     :index: éthique
     :year: 2007
+    :title1: true
 
     `Darker Than Black <https://fr.wikipedia.org/wiki/Darker_than_Black>`_
 
@@ -50,6 +52,7 @@
     :manga: A Certain Scientific Railgun
     :index: éthique
     :year: 2007
+    :title1: true
 
     `A Certain Scientific Railgun <https://en.wikipedia.org/wiki/A_Certain_Scientific_Railgun>`_
 

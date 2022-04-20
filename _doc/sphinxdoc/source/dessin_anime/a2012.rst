@@ -7,6 +7,7 @@
     :manga: Coppelion
     :index: nucléaire
     :year: 2012
+    :title1: true
 
     `Coppelion <https://fr.wikipedia.org/wiki/Coppelion>`_
 
@@ -23,6 +24,7 @@
     :manga: Psycho-Pass
     :index: justice
     :year: 2012
+    :title1: true
 
     `Pyscho-Pass <https://fr.wikipedia.org/wiki/Psycho-Pass>`_
 
@@ -44,6 +46,7 @@
     :manga: Kono Oto Tomare! Sounds of Life
     :index: musique
     :year: 2012
+    :title1: true
 
     `Kono Oto Tomare! Sounds of Life <https://en.wikipedia.org/wiki/Kono_Oto_Tomare!_Sounds_of_Life>`_
 
@@ -60,6 +63,7 @@
     :manga: Hanasaku Iroha
     :index: grandir
     :year: 2012
+    :title1: true
 
     `Hanasaku Iroha <https://fr.wikipedia.org/wiki/Hanasaku_Iroha>`_
 

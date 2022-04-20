@@ -7,6 +7,7 @@
     :manga: Irresponsable capitaine Tylor
     :index: management
     :year: 1993
+    :title1: true
 
     `Irresponsable capitaine Tylor <https://fr.wikipedia.org/wiki/Irresponsable_capitaine_Tylor>`_
 

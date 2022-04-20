@@ -7,6 +7,7 @@
     :manga: Shigatsu wa kimi no uso
     :index: renaissance
     :year: 2011
+    :title1: true
 
     `Shigatsu wa kimi no uso <https://fr.wikipedia.org/wiki/Your_Lie_in_April>`_
 

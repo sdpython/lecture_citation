@@ -7,6 +7,7 @@
     :manga: Aoi Hana!
     :index: amour
     :year: 2004
+    :title1: true
 
     `Aoi Hana! <https://fr.wikipedia.org/wiki/Fleurs_bleues>`_
 
@@ -17,6 +18,7 @@
     :manga: Shangri-La
     :index: climat
     :year: 2004
+    :title1: true
 
     `Shangri-La <https://fr.wikipedia.org/wiki/Shangri-La_(anime)>`_
 
