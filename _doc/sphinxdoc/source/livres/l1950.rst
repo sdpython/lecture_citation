@@ -19,5 +19,3 @@
     de trouver un chemin qui n'ait pas déjà été suivi,
     comme si à chaque fois qu'un adulte regardait un enfant,
     il connaissait la suite.
-    
-    
