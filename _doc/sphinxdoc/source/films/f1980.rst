@@ -1,0 +1,19 @@
+=====
+1980-
+=====
+
+.. quote::
+    :author: Ridley Scott
+    :film: Blade Runner
+    :index: futur
+    :year: 1980
+    :title1: true
+
+    `Blade Runner <https://fr.wikipedia.org/wiki/Blade_Runner_(film)>`_
+
+    L'homme joue à dieu en créant des robots qui lui ressemblent
+    mais ne supporte pas l'idée que son voisin en soit un sans qu'il
+    puisse faire la différence.
+    A rapprocher de
+    `Bébés génétiquement modifiés : le chercheur chinois condamné à trois ans de prison
+    <https://www.lemonde.fr/sciences/article/2019/12/30/bebes-genetiquement-modifies-le-chercheur-chinois-condamne-a-trois-ans-de-prison_6024374_1650684.html>`_.
