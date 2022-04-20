@@ -33,7 +33,6 @@ je ne sais plus
     Yosuga no Sora
     Mirai Nikki
     Cobra
-    Sora No Woto
     Arakawa Under the Bridge
     GunXSword
     Kamisama no Memochou
@@ -41,7 +40,7 @@ je ne sais plus
     Sankarea
     Terra e
     Usagi Drop
-    Kamisama no Inai Nichiyôbi
+    Kamisama no Inai NichiyÃ´bi
     Akatsuki no Yona
     Akame Ga Kill!
     Gundam Age
