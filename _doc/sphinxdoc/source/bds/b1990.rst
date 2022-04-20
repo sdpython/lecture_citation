@@ -1,0 +1,14 @@
+=====
+1990-
+=====
+
+.. quote::
+    :author: Loisel
+    :comic: Peter Pan
+    :index: fantaisie
+    :year: 1990
+    :title1: true
+
+    `Peter Pan <https://fr.wikipedia.org/wiki/Peter_Pan_(bande_dessin%C3%A9e)>`_
+
+    Peter Pan revisité.

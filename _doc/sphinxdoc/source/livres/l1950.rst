@@ -1,0 +1,23 @@
+=====
+1950-
+=====
+
+.. quote::
+    :author: Joseph Kessel
+    :book: Le Lion
+    :index: enfant
+    :year: 1958
+    :title1: true
+
+    `Le Lion <https://fr.wikipedia.org/wiki/Le_Lion_(roman)>`_
+
+    Le premier livre qui m'ait laissé une émotion.
+    Un cadeau que j'ai longtemps regardé de travers dans un coin.
+    Et je l'ai dévoré à l'heure de la sieste dans le Sud de la France.
+    C'est la première fois aussi qu'il était difficile pour les
+    adultes de penser en dehors des clous, comme s'il était impossible
+    de trouver un chemin qui n'ait pas déjà été suivi,
+    comme si à chaque fois qu'un adulte regardait un enfant,
+    il connaissait la suite.
+    
+    

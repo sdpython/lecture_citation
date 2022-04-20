@@ -20,6 +20,7 @@ lors de la lecture.
     dessina
     serie
     film
+    bd
     architecture/index
     varie/index
 

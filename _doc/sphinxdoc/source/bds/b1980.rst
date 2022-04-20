@@ -1,0 +1,31 @@
+=====
+1980-
+=====
+
+.. quote::
+    :author: Benoît Peeters, François Schuiten
+    :comic: La Fièvre d'Urbincante
+    :index: architecture
+    :year: 1985
+    :title1: true
+
+    `La Fièvre d'Urbicande <https://fr.wikipedia.org/wiki/La_Fi%C3%A8vre_d%27Urbicande>`_
+
+    Une ville coupée en deux, les pauvres d'un côté, les riches de l'autre.
+    Un architecte reçoit un cube qui grandit au point de créer des ponts
+    entre les deux bords. La ville de l'architecte se transforme
+    sous l'effet d'un simple pont non censuré par la politique.
+
+.. quote::
+    :author: Patrick Cothias, Philippe Adamov
+    :comic: Les eaux de Mortelune
+    :index: futur
+    :year: 1986
+    :title1: true
+
+    `Les eaux de Mortelune <https://fr.wikipedia.org/wiki/Les_Eaux_de_Mortelune>`_
+
+    Une bande dessinée magistrale de poésie funeste.
+    Un Paris asséchée, arrosée de pluie acide, le peuple dans la
+    misère, mangeant des rats dans le meilleur des jours,
+    une noblesse décadente. Un enfant rêve.
