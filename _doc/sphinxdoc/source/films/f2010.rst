@@ -1,0 +1,20 @@
+=====
+2010-
+=====
+
+.. quote::
+    :author: Nicolas Pariser
+    :film: Alice et le Maire
+    :index: politique
+    :year: 2019
+    :title1: true
+
+    `Alice et le Maire <https://fr.wikipedia.org/wiki/Alice_et_le_Maire>`_
+
+    Le discours imaginé par l'actrice principal rappelle beaucoup celui
+    de François Hollande lors de son élection. Je ne sais pas s'il faut
+    se défier des hommes politiques. Ce discours est sans doute aussi vrai
+    aujourd'hui qu'hier. Le film montre un monde politique qui évolue
+    beaucoup dans l'urgence et en circuit fermé. Un homme politique prend
+    un peu de recul sur lui-même et se retrouve évincé par ses congénères,
+    une anomalie détruite par des cols blancs aux yeux globuleux.
