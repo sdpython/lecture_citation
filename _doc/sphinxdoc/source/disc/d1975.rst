@@ -1,0 +1,21 @@
+=====
+1970-
+=====
+
+.. quote::
+    :author: Keith Jarrett
+    :disc: The Köln Concert
+    :index: création
+    :year: 1975
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/The_K%C3%B6ln_Concert
+
+    Je suis né la même année que ce concert.
+    Mon père ne jurait que par ce concert.
+    C'est un des rares disques que j'écoute lors de mes insomnies.
+    Pour paraphraser une phrase de Roland Barthes,
+    ce disque est pour moi l'idée même de la création.
+    L'artiste cherche, essaye, bute sur les touches de son piano,
+    puis une mélodie se dégage et le compositeur l'explore,
+    l'enveloppe d'autres notes et étend le plaisir pendant de
+    longues minutes.

@@ -17,6 +17,7 @@ lors de la lecture.
     :maxdepth: 1
 
     lecture
+    music
     dessina
     serie
     film
