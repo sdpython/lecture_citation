@@ -18,6 +18,8 @@ lors de la lecture.
 
     lecture
     livre
+    livre_enfant
+    children
     music
     dessina
     serie

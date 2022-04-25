@@ -1,0 +1,17 @@
+=====
+1980-
+=====
+
+.. quote::
+    :author: Anne Fine
+    :ado: Bébés de farine
+    :index: collège
+    :year: 1980
+    :title1: true
+
+    Impossible d'oublier cette histoire.
+    Une enseignante demande à ses élèves de jouer aux parents
+    avec un sac de farine comme poupée.
+    La plupart des sacs finissent éventrés sauf pour un
+    élève qui se prend au jeu.
+

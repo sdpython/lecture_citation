@@ -1,0 +1,18 @@
+=====
+2000-
+=====
+
+.. quote::
+    :author: Marie-Aude Murail
+    :ado: Oh boy !
+    :index: adoption
+    :year: 2000
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Oh_Boy_(roman)
+
+    Trois enfants orphelins. Un oncle homosexuel,
+    une tante sélective pour seuls parents.
+    L'oncle n'est pas très sûr, la tante ne veut qu'un
+    enfant sur les trois, Venise. Cette dernière a une façon
+    toute particulière de décrire la vie qui l'entoure.
+

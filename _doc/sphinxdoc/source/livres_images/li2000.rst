@@ -1,0 +1,15 @@
+=====
+2000-
+=====
+
+.. quote::
+    :author: Gilles Bachelet
+    :child: Mon chat le plus bête du monde
+    :index: animaux
+    :year: 2004
+    :title1: true
+
+    Un livre très drôle à propos d'un chat aussi gros qu'un
+    éléphant. Envahissant mais propre.
+
+
