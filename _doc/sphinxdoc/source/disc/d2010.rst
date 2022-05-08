@@ -12,3 +12,16 @@
 
     Je ne suis pas le seul à avoir aimé.
     Il est toujours en haut d'une pile.
+
+.. quote::
+    :author: Jack White
+    :disc: Jack White: Kneeling At The Anthem D.C.
+    :index: rock-concert
+    :year: 2018
+    :title1: true
+    :source: https://en.wikipedia.org/wiki/Jack_White
+
+    J'ai toujours préféré les versions accoustiques.
+    Quelques reprises de `The White Stripes
+    <https://en.wikipedia.org/wiki/The_White_Stripes>`_.
+    Il est doué le bonhomme.

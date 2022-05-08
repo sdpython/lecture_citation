@@ -336,8 +336,8 @@
     Mais elle est courte et bien ficelée.
 
 .. quote::
-    :author: Hajime Isayama
     :manga: L'attaque des titans
+    :author: Hajime Isayama
     :index: huis-clos
     :year: 2009
     :title1: true
@@ -351,8 +351,54 @@
     lorsque sa survie est en jeu.
 
 .. quote::
-    :author: ONE, Yūsuke Murata
+    :manga: Canaan
+    :author: Mari Okada
+    :index: démocratie
+    :year: 2009
+    :title1: true
+
+    `Canaan <https://fr.wikipedia.org/wiki/Canaan_(anime)>`_
+
+    Une photographe croise de près une fille, espionne, tueuse, peu importe.
+    C'est difficile d'être fasciné par un personnage dont le métier
+    est le plus souvent derrière les limites de la légalité.
+    La tueuse sauve la vie de la photographe. Elle aimerait en retour
+    la sauver de ce métier dangereux.
+
+.. quote::
+    :manga: Eden of The East
+    :author: Kenji Kamiyama
+    :index: catastrophe
+    :year: 2009
+    :title1: true
+
+    `Eden of The East <https://fr.wikipedia.org/wiki/Eden_of_the_East>`_
+
+    Que feriez-vous si l'on vous forçait à devenir un terroriste ?
+
+.. quote::
+    :manga: Heavy Object
+    :author: Kazuma Kamachi
+    :index: guerre
+    :year: 2009
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Heavy_Object
+
+    Dans un avenir pas si lointoin, la guerre a évolué et les armées
+    disposent maintenant de forteresse mobiles, d'énormes châteaux
+    forts aux airs de robots et truffés de canons comme s'ils étaient poilus.
+    Les chars ou les avions paraissent d'inoffensifs moustiques obsolètes.
+    Mais la cuirasse a toujours quelques défauts pour qui sait les exploiter.
+    Les astuces pour détruire ces étoiles de la mort sont plutôt bien
+    ficelées. Les auteurs ont parsemés le récit de quelques anecdotes
+    d'un futur qui pourrait être le nôtre comme ces forêts génétiquement
+    modifiées qui poussent en plein désert en quelques années ou encore
+    la facilité avec laquelle les politiciens maquillent les guerres
+    pour mieux vendre des armes.
+
+.. quote::
     :manga: One Punch Man
+    :author: ONE, Yūsuke Murata
     :index: ennui
     :year: 2009
     :title1: true
@@ -364,23 +410,8 @@
     C'est bien ça qui l'ennuie.
 
 .. quote::
-    :author: Reki Kawahara
-    :manga: Sword Art Online
-    :index: virtualité
-    :year: 2009
-    :title1: true
-
-    `Sword Art Online <https://fr.wikipedia.org/wiki/Sword_Art_Online>`_
-
-    Des milliers de joueurs restent coincés dans un monde virtuel,
-    incapable de se déconnecter. On ne peut s'empêcher de se soucier
-    du devenir de son enveloppe corporelle sans pouvoir y faire quoique
-    ce soit, à moins de pouvoir battre le monstre du dernier niveau
-    que personne n'a jamais vu. Et si l'on n'y parvenait pas.
-
-.. quote::
-    :author: Atsushi Takahashi
     :manga: RideBack
+    :author: Atsushi Takahashi
     :index: démocratie
     :year: 2009
     :title1: true
@@ -401,23 +432,23 @@
     se convaincre elle-même que la danse n'est pas si importante pour elle.
 
 .. quote::
-    :author: Mari Okada
-    :manga: Canaan
-    :index: démocratie
+    :manga: Sword Art Online
+    :author: Reki Kawahara
+    :index: virtualité
     :year: 2009
     :title1: true
 
-    `Canaan <https://fr.wikipedia.org/wiki/Canaan_(anime)>`_
+    `Sword Art Online <https://fr.wikipedia.org/wiki/Sword_Art_Online>`_
 
-    Une photographe croise de près une fille, espionne, tueuse, peu importe.
-    C'est difficile d'être fasciné par un personnage dont le métier
-    est le plus souvent derrière les limites de la légalité.
-    La tueuse sauve la vie de la photographe. Elle aimerait en retour
-    la sauver de ce métier dangereux.
+    Des milliers de joueurs restent coincés dans un monde virtuel,
+    incapable de se déconnecter. On ne peut s'empêcher de se soucier
+    du devenir de son enveloppe corporelle sans pouvoir y faire quoique
+    ce soit, à moins de pouvoir battre le monstre du dernier niveau
+    que personne n'a jamais vu. Et si l'on n'y parvenait pas.
 
 .. quote::
-    :author: Natsuko Takahashi, Masaki Tashimada
     :manga: Tokyo Magnitude 8.0
+    :author: Natsuko Takahashi, Masaki Tashimada
     :index: catastrophe
     :year: 2009
     :title1: true
@@ -430,14 +461,3 @@
 
     La série rappelle `L'empire du Soleil <https://fr.wikipedia.org/wiki/Empire_du_soleil>`_
     de Spielberg.
-
-.. quote::
-    :author: Kenji Kamiyama
-    :manga: Eden of The East
-    :index: catastrophe
-    :year: 2009
-    :title1: true
-
-    `Eden of The East <https://fr.wikipedia.org/wiki/Eden_of_the_East>`_
-
-    Que feriez-vous si l'on vous forçait à devenir un terroriste ?

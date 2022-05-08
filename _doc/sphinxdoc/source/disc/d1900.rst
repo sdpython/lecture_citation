@@ -1,0 +1,13 @@
+=====
+1900-
+=====
+
+.. quote::
+    :author: Ravel
+    :disc: Le Boléro
+    :index: classique
+    :year: 1928
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Bol%C3%A9ro_(Ravel)
+
+    L'oeuvre la plus jouée au monde.

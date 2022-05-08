@@ -1,0 +1,15 @@
+=====
+2000-
+=====
+
+.. quote::
+    :author: The White Stripes
+    :disc: Get Behind Me Satan
+    :index: rock
+    :year: 2005
+    :title1: true
+    :source: https://en.wikipedia.org/wiki/Get_Behind_Me_Satan
+
+    Je crois qu'ils ont explosé à partir de ce moment-là.
+    J'aime beaucoup
+    `My Doorbell <https://en.wikipedia.org/wiki/My_Doorbell>`_.
