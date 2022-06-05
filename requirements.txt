@@ -11,7 +11,7 @@ numpy
 pandas
 pillow
 pycodestyle
-pylint
+pylint>=2.14.0
 pyquickhelper>=1.10.3626
 pyquicksetup
 python-multipart
