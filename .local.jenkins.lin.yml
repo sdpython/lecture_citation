@@ -16,12 +16,14 @@ install:
 
 script:
   - { CMD: "$PYINT -u setup.py unittests --covtoken=fb2728b3-4c16-48b4-89fa-9e0b2b0580a4", NAME: "UT" }
+  - { CMD: "$PYINT -u setup.py unittests", NAME: "PDF" }
 
 after_script:
   - $PYINT -u setup.py bdist_wheel
   - if [ ${VERSION} == "3.9" and ${DIST} != "conda" and ${NAME} == "UT" ] then cp dist/*.whl {{root_path}}/../local_pypi/local_pypi_server fi
 
 documentation:
-  - if [ ${NAME} == "UT" ] then $PYINT -u setup.py build_sphinx --layout=html,pdf fi
+  - if [ ${NAME} == "UT" ] then $PYINT -u setup.py build_sphinx --layout=html fi
+  - if [ ${NAME} == "PDF" ] then $PYINT -u setup.py build_sphinx --layout=pdf fi
   - if [ ${NAME} == "UT" ] then cp -R -f _doc/sphinxdoc/build/html dist/html fi
-  - if [ ${NAME} == "UT" ] then cp -R -f _doc/sphinxdoc/build/elatex/*.pdf dist/html fi
+  - if [ ${NAME} == "PDF" ] then cp -R -f _doc/sphinxdoc/build/elatex/*.pdf dist/html fi
