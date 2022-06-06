@@ -1,0 +1,14 @@
+=====
+1960-
+=====
+
+.. quote::
+    :author: José Mauro de Vasconcelos
+    :book: Mon bel oranger
+    :index: enfance
+    :year: 1968
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Mon_bel_oranger
+
+    Un enfant qui a de l'imagination, ce n'est pas facile,
+    ni pour sa famille, ni pour lui-même.

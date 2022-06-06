@@ -13,3 +13,16 @@
     Peu de livres m'ont fait aimé la langue française comme celui-là.
     L'auteur fait parler le gouverneur Romain à propos de son pouvoir.
     A lire.
+
+.. quote::
+    :author: Jean-Paul Sartre
+    :book: Le Diable et le Bon Dieu
+    :index: religion et pouvoir
+    :year: 1951
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Diable_et_le_Bon_Dieu
+
+    Je ne l'ai jamais vue jouer mais si je devais aller
+    en voire une, je choisirais celle-ci.
+    Cynique. La guerre théorisée puis mise en pratique
+    pour la valider.

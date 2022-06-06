@@ -1,0 +1,14 @@
+=====
+1990-
+=====
+
+.. quote::
+    :author: Werner Holzwart, Wolf Erlbruch
+    :child: De la petite taupe qui voulait savoir qui lui avait fait sur la tête
+    :index: justice
+    :year: 1993
+    :title1: true
+    :source: https://www.editionsmilan.com/livres-jeunesse/albums-et-contes/albums-3-7-ans/de-la-petite-taupe-qui-voulait-savoir-qui-lui-avait-fait-sur-la-tete
+
+    Une taupe se réveille avec une crotte de chien sur la tête.
+    Elle veut savoir qui lui a joué ce mauvais tour.

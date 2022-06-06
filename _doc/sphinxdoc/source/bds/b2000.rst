@@ -1,0 +1,32 @@
+=====
+2010-
+=====
+
+.. quote::
+    :author: Ted Naifeh
+    :comic: Courtney Crumrin
+    :index: magie
+    :year: 2002
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Courtney_Crumrin
+
+    Une petite fille perd ses enfants. Elle est accueillie
+    par son oncle, sorcier habile mais taciturne. La petite
+    fille est elle aussi douée d'un pouvoir naissant,
+    fascinant et effrayant à la fois. Une petite fille curieuse
+    découvre sans préjugés un monde plein de de préjugés.
+
+.. quote::
+    :author: David Ratte
+    :comic: Le voyage des pères
+    :index: famille
+    :year: 2007
+    :title1: true
+    :source: https://www.editionspaquet.com/catalogue-bd/integrale-cycle-1-et-2
+
+    Un père attend son fils pour l'aider à labourer le champ familiale,
+    celui qui leur assure le couvert. Or, il apprend que celui-ci
+    s'est mis en tête de suivre un messie, un certain Jésus.
+    Il se met en marche pour le rattraper, accompagné par d'autres
+    pères, eux aussi abandonnés par leur enfant.
+    Mais pourquoi ont-ils fait ça ? L'aventure prête à al discussion.

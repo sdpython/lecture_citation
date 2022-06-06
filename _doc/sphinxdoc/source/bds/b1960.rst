@@ -1,0 +1,16 @@
+=====
+1960-
+=====
+
+.. quote::
+    :author: Quino
+    :comic: Mafalda
+    :index: satire
+    :year: 1964
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Mafalda
+
+    Une petite fille intelligente écoute les informations,
+    s'intéresse au monde qui l'entoure, même s'il est
+    très grand et essaye de lui donner un sens.
+    Pas toujours logique ce monde.

@@ -8,7 +8,113 @@
     :index: fantaisie
     :year: 1990
     :title1: true
+    :source: https://fr.wikipedia.org/wiki/Peter_Pan_(bande_dessin%C3%A9e)
 
-    `Peter Pan <https://fr.wikipedia.org/wiki/Peter_Pan_(bande_dessin%C3%A9e)>`_
+    Peter Pan revisité en un peu plus noir.
 
-    Peter Pan revisité.
+.. quote::
+    :author: Griffo
+    :comic: Monsieur Noir
+    :index: fantaisie
+    :year: 1994
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Monsieur_Noir
+
+    Une petite fille orpheline est acceuilli par son oncle
+    dans son immense chateau ou chacun s'affronte pour la plume,
+    l'unique symbol du pouvoir qui donne autorité à celui
+    qui la possède sur tous les habitants de la demeure
+    labyrinthique. Candide ne veut pas dire niais.
+
+.. quote::
+    :author: Fabrice Lebeault
+    :comic: Horologiom
+    :index: fantaisie
+    :year: 1994
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Horologiom
+
+    Une relecture de Brazil et 1984 dans une sorte de poésie
+    administrative dans un monde où la curiosité et le bonheur
+    sont difficilement conciliable. Mais un monde qui se meurt.
+    Les deux derniers épisodes sont indépendants. Ils revisitent
+    l'univers au travers de personnages qui montrent que la
+    nature humaine s'accomodent et s'affranchit tout à la fois
+    de toute forme d'administration.
+
+.. quote::
+    :author: Christophe Arleston, Didier Tarquin
+    :comic: Lanfeust de Troy
+    :index: fantaisie
+    :year: 1994
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Lanfeust_de_Troy
+
+    Une dande dessinée qui a si bien marché qu'elle fait partie du patrimoine
+    au même titre qu'Astérix même si l'époque d'aujourd'hui a tendance
+    à épuiser le même filon jussqu'à l'os.
+    Imaginez un monde où chacun possède un pouvoir magique, parfois
+    utile, parfois saugrenu comme celui de faire pousser les cheveux.
+    Mais cette magie n'est acccessible que si un mage est à proximité.
+    Lanfeust qui se destine à être forgeron se trouve l'heureux bénéficiaire
+    d'un pouvoir qui a tous les pouvoirs. Ainsi commence une vie bien plus
+    grande que celle qu'il avait imaginée pour lui-même.
+    Tout le monde ne rêvait pas d'être un héros.
+
+.. quote::
+    :author: Dieter, Eric Hérenguel
+    :comic: Edward John Trelawnay
+    :index: pirate
+    :year: 1997
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Edward_John_Trelawnay_(bande_dessin%C3%A9e)
+
+    Un soldat plus brillant hésite entre sauver sa vie ou servir
+    de chaire à canon à des généraux butés. Il fait la connaissance
+    d'un marchand qui navigue sur les frontières de la guerre.
+    Il choisit la désertion à bord d'un dirigeable.
+    Il guerroie, il tombe amoureux aussi. Une vie pleine.
+
+.. quote::
+    :author: Éric Corbeyran, Richard Guérineau
+    :comic: Le chant des Stryges
+    :index: surnaturel
+    :year: 1997
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Chant_des_Stryges
+
+    Les pouvoirs surnaturels ne sont qu'un outil pour conserver le pouvoir.
+    Outil puissant qu'on souhaite s'approprier, le comprendre est accessoire.
+    Au milieu de tout ça, Roméo et Juliette en agents secrets.
+
+.. quote::
+    :author: Xavier Dorison, Alex Alice
+    :comic: Le troisième Testament
+    :index: Moyen-Age
+    :year: 1997
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Troisi%C3%A8me_Testament
+
+    Les dessins sont extraordinaires. L'oeuvre rappelle Le Nom de la Rose.
+    L'Eglise cache des secrets bien sombres. L'inquisition ne brûle pas
+    les hérétiques mais ceux qui ont eu vent de ces histoires
+    cachées. La première série se passe au Moyen-Age.
+    La seconde se passe au temps des Romains et évoque la naissance
+    de Jésus avec toujours en fond d'histoire, le bien et le mal
+    toujours entremêlés.
+
+.. quote::
+    :author: Jean-David Morvan, Philippe Buchet
+    :comic: Sillages
+    :index: aventure
+    :year: 1998
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Sillage_(bande_dessin%C3%A9e)
+
+    La ville est déjà incroyablement complexe qui vient de la campagne,
+    et l'espace alors, un pays faits de navires et d'espères
+    différentes, une science bien plus avancée que la nôtre et
+    une démocratie toujours aussi imparfaite. Le personnage centrale
+    est une fille impulsive qui réagit à la première injustice.
+    Une attachante insoumise et douée à qui on pardonne tout car
+    on aimerait tous être comme elle.

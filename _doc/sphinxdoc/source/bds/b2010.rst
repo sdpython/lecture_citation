@@ -1,0 +1,100 @@
+=====
+2010-
+=====
+
+.. quote::
+    :author: Juliette Fournier
+    :comic: Morphine
+    :index: fantaisie
+    :year: 2012
+    :title1: true
+    :source: https://www.librairie-gallimard.com/livre/9782848103839-morphine-juliette-fournier/
+
+    Les sculptures de ce monde sont des objets doués de vie.
+    Ils sont sans conscience excepté les oeuvres d'un
+    scientifiques. Ses créations sont autonomes et capable de raisonner.
+    Et qui est cette petite fille qui semble les connaître si bien ?
+
+.. quote::
+    :author: Joris Chamblain, Aurélie Neyret
+    :comic: Les carnets de Cerise
+    :index: enfance
+    :year: 2012
+    :title1: true
+    :source: https://www.editions-soleil.fr/bd/series/serie-les-carnets-de-cerise
+
+    Cerise a perdu son père. Elle a 11 ans. Elle dessine. Elle grandit.
+    Ca veut dire quoi grandir si ce n'est être curieux, voyager, faire
+    des rencontres, qu'elles soient présentes ou passées.
+
+.. quote::
+    :author: Leo Jamar, Corine Jamar, Fred Simon, Jean-Luc Simon
+    :comic: Mermaid Project
+    :index: futuriste
+    :year: 2012
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Mermaid_Project
+
+    L'Etat n'a plus aucun moyen. Le pétrole est très cher et réservé à
+    une élite noire, les blancs réduit à des tâches subalternes.
+    On circule en calèche. Et la mer est de moins en moins sûr,
+    les bateaux sont attaqués par des dauphins. La vie continue
+    dans un monde qui survit comme il peut au réchauffement climatique.
+
+.. quote::
+    :author: Munuera
+    :comic: Les Campbell
+    :index: pirate
+    :year: 2014
+    :title1: true
+    :source: https://www.dupuis.com/les-campbell/bd/les-campbell-tome-1-inferno/54694
+
+    Les pirates revisité sous la forme d'une tradition
+    joyeuse et familiale. Deux petites filles téméraires,
+    deux frères qui s'aiment et se jalousent,
+    une femme, puis une autre qui se languit.
+    Des personnages secondaires qui s'amusent.
+    Une épopée joyeuse.
+
+.. quote::
+    :author: Munuera, Dufaux
+    :comic: Sortilèges
+    :index: pouvoir
+    :year: 2014
+    :title1: true
+    :source: https://www.dargaud.com/bd/sortileges/sortileges-noir-et-blanc/sortileges-noir-et-blanc-tome-1-tomes-1-et-2-bda5118410
+
+    Par certain côté, cette bande dessinée me rappelle le Diable
+    et le Bon dieu de Sartre. Une princesse découvre l'envers du décor,
+    et défend sa couronne puis hésite. Un dieu fier de son pouvoir
+    le voit disparaître peu à peu attiré par cette femme
+    libre.
+
+.. quote::
+    :author: Lélis, Antoine Ozanam
+    :comic: Popeye, un homme à la mer
+    :index: héros
+    :year: 2019
+    :title1: true
+    :source: http://www.michel-lafon.fr/livre/2223-POPEYE.html
+
+    Popeye vieillissant.
+    Un air de Depardieu faisant des verres après ses six bouteilles
+    de vin blanc dans Uranus.
+
+.. quote::
+    :author: Wilfrid Lupano, Relom
+    :comic: Traquemage
+    :index: fantaisie
+    :year: 2019
+    :title1: true
+    :source: https://www.editions-delcourt.fr/bd/series/serie-traquemage/album-traquemage-integrale
+
+    Vous connaissez l'histoire de la taupe qui veut se venger
+    du chien qui lui a chié sur la tête en lui chiant à son tour dessus ?
+    Le personnage principal est ici un fermier qui fabrique un fromage
+    bien puant qui en a marre de voir ses champ ravager par des
+    mages qui s'amusent à se faire la guerre pour éviter
+    l'ennui. Le dernier tome de la série est moins réussie
+    mais le second degré des deux premiers vaut le détour.
+

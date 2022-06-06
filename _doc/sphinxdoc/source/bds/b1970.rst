@@ -1,0 +1,17 @@
+=====
+1970-
+=====
+
+.. quote::
+    :author: Christian Godard, Julio Ribeira
+    :comic: Le Vagabond des Limbes
+    :index: espace
+    :year: 1975
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Vagabond_des_Limbes
+
+    Un croisement entre Hugo Pratt et Casanova. Un homme erre
+    désoeuvré à la recherche de la femme parfaite. Il joue
+    parfois le rôle d'agent secret à bord d'un navire invincible.
+    Chaque album montre les coulisses sombres d'une planète
+    à chaque fois différente.
