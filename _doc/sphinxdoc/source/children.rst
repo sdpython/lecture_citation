@@ -3,7 +3,6 @@
 Souvenirs de livres illustrés pour enfants
 ==========================================
 
-
 .. toctree::
     :maxdepth: 2
 

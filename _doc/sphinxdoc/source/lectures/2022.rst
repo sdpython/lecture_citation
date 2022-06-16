@@ -67,3 +67,88 @@
     - Il paraît déprimé. Tu devrais lui parler.
 
     - Il est européen. C'est son état normal.
+
+.. quote::
+    :author: Milan Kundera
+    :book: Un Occident Kidnappé
+    :year: 1967
+    :index: agression
+    :pages: 21
+
+    Briser à ce moment-là la croissance d'une culture aussi fragile,
+    d'abord par l'occupation, puis par le stalinisme, pour presque
+    un quart de siècle, l'isoler du reste du monde, amenuiser ses
+    multiples traditions intérieures, la rabaisser au rang d'une
+    simple propagande fut une tragédie qui risquait de reléguer
+    la nation tchèque une nouvelle fois - et cette fois-ci
+    définitivement - à la périphérie culturelle de l'Europe.
+
+.. quote::
+    :author: Milan Kundera
+    :book: Un Occident Kidnappé
+    :year: 1967
+    :index: vandale
+    :pages: 24
+
+    C'est qui un vandale ? Non, ce n'est point le paysan analphabète
+    qui, dans un accès de colère, met le feu à la maison du riche
+    propriétaire terrien. Les vandales que je croise, moi,
+    sont tous lettrés, contents d'eux-mêmes, jouissent d'une assez
+    bonne position sociale et n'ont pas spécialement de
+    ressentiments envers quiconque. Le vandale, c'est l'étroitesse
+    d'esprit qui se suffit à elle-même et est prête à tout moment
+    à réclamer ses droits. Cette fière étroitesse d'esprit
+    croit que le pouvoir d'adapter le monde à son image de ses droits
+    fait partie de ses droits inaliénables et, vu que le monde est
+    majoritairement composé de tout ce qui la dépasse, elle adapte
+    le monde à son image en le détruisant. Ainsi un adolescent
+    décapite-t-il une statue dans un parc parce que cette statue
+    dépasse outrageusement sa propre essence humaine, et puisque
+    chaque acte d'auto affirmation apporte de la satisfaction à l'homme,
+    il le faut en jubilant.
+
+.. quote::
+    :author: Milan Kundera
+    :book: Un Occident Kidnappé
+    :year: 1967
+    :index: communisme
+    :pages: 28
+
+    Je n'aime pas quand on met sur un même pied d'égalité
+    le fascime et le communisme. Le fascisme basé sur un
+    antihumanisme décomplexé a créé une situation relativement
+    simple sur le plan moral : s'étant lui-même présenté
+    comme l'antithèse des principes et des vertus humanistes,
+    il les a laissé intacts. En revanche, le stalinisme fut
+    l'héritier d'un grand mouvement humaniste qui, malgré
+    la rage stalinienne, a pu conserver bon nombre de
+    postures, d'idées, de slogans, de paroles et de rêves
+    d'origine.
+
+.. quote::
+    :author: Milan Kundera
+    :book: Un Occident Kidnappé
+    :year: 1983
+    :index: Russie
+    :pages: 47
+
+    L'Europe centrale voulait être l'image condensée de l'Europe
+    architeuropéenne, modèle miniaturisé de l'Europe des
+    nations conçue sur la règle : le maximum de diversité
+    sur le minimum d'espace. Comment pouvait-elle ne pas être
+    horrifiée par la Russie qui, en face d'elle, se fondait sur
+    la règle opposée : le minimum de diversité sur l'espace
+    maximal ?
+
+.. quote::
+    :author: Milan Kundera
+    :book: Un Occident Kidnappé
+    :year: 1983
+    :index: slave
+    :pages: 53
+
+    "Les Russes aiment appeler slave tout ce qui est russe
+    pour pouvoir plus tard nommer russe tout ce qui est
+    slaveé, proclama déjà en 1844 le grand écrivain tchèque
+    Karel Havlicek, qui mettait ses compatriotes en garde contre
+    leur russophilie bête et irréaliste.

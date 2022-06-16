@@ -3,7 +3,6 @@
 Souvenirs de livres pour enfants
 ================================
 
-
 .. toctree::
     :maxdepth: 2
 
