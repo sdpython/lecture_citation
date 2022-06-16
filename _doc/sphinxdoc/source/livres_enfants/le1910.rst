@@ -1,0 +1,15 @@
+=====
+1910-
+=====
+
+.. quote::
+    :author: Jean Webster
+    :book: Papa Longues Jambes
+    :index: enfance
+    :year: 1912
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Papa_longues_jambes
+
+    Les échanges de lettres entre une fille orpheline et son bienfaiteur
+    qu'elle n'a jamais vu. Elle lui écrit chaque mois.
+    Une petite fille grandit sous les yeux du lecteur.

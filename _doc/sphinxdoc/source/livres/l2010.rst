@@ -1,0 +1,29 @@
+=====
+2010-
+=====
+
+.. quote::
+    :author: Sarah Cohen-Scali
+    :book: Arthur Rimbaud - Le voleur de feu
+    :index: bibliographie
+    :year: 2014
+    :title1: true
+
+    J'ai grandi avec Arthur Raimbaud. Je suis né à Charleville.
+    Raimbaud a toujours été insaisissable. Pourquoi
+    a-t-il arrêté d'écrire pour aller en Afrique ?
+    Ce livre ne répond pas à cette question.
+    J'ai eu l'impression de le comprendre un peu.
+
+.. quote::
+    :author: Arthur Desmarest
+    :book: Les mayas - Grandeur et chute d'une civilisation
+    :index: histoire
+    :year: 2019
+    :title1: true
+
+    C'est le seul livre qui détaille un peu l'économie des Mayas.
+    Contrairement à celle des Romains qui avait un économie
+    ouverte basée sur la conquête, les Mayas avait une économie
+    fermée. Les échanges étaient limités par l'environnement
+    qui rendait les voyages très longs.

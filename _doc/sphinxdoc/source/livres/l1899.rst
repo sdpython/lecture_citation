@@ -1,0 +1,14 @@
+=========
+1800-1899
+=========
+
+.. quote::
+    :author: Victor Hugo
+    :book: Les Misérables
+    :index: classique
+    :year: 1862
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Les_Mis%C3%A9rables
+
+    Un grand classique de la littérature française.
+    Le premier tome est juste incroyablement écrit.

@@ -26,3 +26,29 @@
     en voire une, je choisirais celle-ci.
     Cynique. La guerre théorisée puis mise en pratique
     pour la valider.
+
+.. quote::
+    :author: Italo Calvino
+    :book: Le baron perché
+    :index: enfance
+    :year: 1957
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Baron_perch%C3%A9
+
+    Un enfant se réfugie dans les arbres et en fait son royaume.
+
+.. quote::
+    :author: Joseph Kessel
+    :book: Le lion
+    :index: enfance
+    :year: 1958
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Lion_(roman)
+
+    Une petite fille découvre le monde adulte et les règles absurdes
+    qu'il lui impose. Elle passe allègrement d'un monde à l'autre,
+    de la savane à la ville, des animaux aux hommes,
+    des blancs aux noirs. Tant de frontières invisibles pour elles
+    qui font de son monde un monde merveilleux. Devenues infranchissables,
+    ce monde se mue en enfer.
+

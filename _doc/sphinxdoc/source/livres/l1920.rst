@@ -1,0 +1,15 @@
+=====
+1920-
+=====
+
+.. quote::
+    :author: Joseph Kessel
+    :book: Les règles de l'Homme
+    :index: femme
+    :year: 1928
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Joseph_Kessel#Bibliographie
+
+    La vie d'un chef de guerre doué, admiré de tous,
+    dont le talent est réduit à néant dès que sa maîtresse
+    apparaît. Un petit livre incroyable.

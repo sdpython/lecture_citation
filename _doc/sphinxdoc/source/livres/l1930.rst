@@ -1,0 +1,15 @@
+=====
+1930-
+=====
+
+.. quote::
+    :author: John Steinbeck
+    :book: Des souris et des hommes
+    :index: religion
+    :year: 1937
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Des_souris_et_des_hommes
+
+    Deux amis que tout oppose évoluent dans l'Amérique après la crise
+    de 1929. Les personnages se débattent dans une histoire écrite
+    à l'avance.

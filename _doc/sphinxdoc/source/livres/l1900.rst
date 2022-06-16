@@ -1,0 +1,15 @@
+=====
+1900-
+=====
+
+.. quote::
+    :author: Jack London
+    :book: Martin Eden
+    :index: religion
+    :year: 1909
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Martin_Eden
+
+    Un talent se révèle à la lumière de la culture.
+    Le talent attire. Il attire, il rend jaloux.
+

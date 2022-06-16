@@ -1,0 +1,17 @@
+=====
+1990-
+=====
+
+.. quote::
+    :author: Vernor Vinge
+    :book: Au tréfonds du ciel
+    :index: science-fiction
+    :year: 1999
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Au_tr%C3%A9fonds_du_ciel
+
+    Un livre précurseur. Un immense navire intergalactique,
+    aussi grand qu'un pays. Son histoire de plusieurs milliers
+    d'années se lit dans les différentes couches logiciel
+    des ordinateurs. Il rencontre une civilisation différente.
+    Un régal.

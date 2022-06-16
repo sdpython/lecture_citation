@@ -1,0 +1,15 @@
+=====
+1940-
+=====
+
+.. quote::
+    :author: Jean-Paul Sartre
+    :book: Huis-Clos
+    :index: religion
+    :year: 1944
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Huis_clos_(Sartre)
+
+    Trois personnages réunis dans la même pièce aux portes de
+    l'enfer. Tous savent qu'ils ne peuvent être dans cette pièce
+    que pour une seule raison et tous affirment le contraire.

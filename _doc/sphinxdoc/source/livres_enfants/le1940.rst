@@ -1,0 +1,13 @@
+=====
+1940-
+=====
+
+.. quote::
+    :author: Frank B. Gilbreth Jr., Ernestine Gilbreth Carey
+    :book: Treize à la douzaine
+    :index: famille
+    :year: 1948
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Treize_%C3%A0_la_douzaine_(roman)
+
+    Une famille vivante, chaque jour est une aventure.

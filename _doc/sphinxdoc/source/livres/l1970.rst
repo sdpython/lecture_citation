@@ -1,0 +1,14 @@
+=====
+1970-
+=====
+
+.. quote::
+    :author: Michel Tournier
+    :book: Le roi des Aulnes
+    :index: guerre
+    :year: 1970
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Roi_des_Aulnes_(roman)
+
+    La traversée d'un enfant au corps d'homme dans un décor de guerre.
+    La langue est superbe.
