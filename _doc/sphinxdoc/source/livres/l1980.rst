@@ -1,0 +1,48 @@
+=====
+1980-
+=====
+
+.. quote::
+    :author: Paul Auster
+    :book: L'invention de la solitude
+    :index: mort
+    :year: 1980
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/L%27Invention_de_la_solitude
+
+    Un fils revient chez son père décédé.
+    Chaque tiroir est un piège à souvenirs.
+    J'ai beaucoup aimé ce livre qui m'a parlé plus que
+    d'autres dans les mêmes circonstances.
+
+.. quote::
+    :author: Howard Zinn
+    :book: Une histoire populaire des États-Unis
+    :index: histoire
+    :year: 1980
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Une_histoire_populaire_des_%C3%89tats-Unis
+
+    Ce livre nous fait comprendre qu'une fois l'ouest des Etats-Unis
+    conquis, l'économie d'expansion du pays avait besoin d'un nouveau
+    terrain de jeu, l'Amérique du Sud.
+    Il faut que je lise l'Histoire du trafic de drogue ou que je
+    me contente de la version que j'ai vue sur Arte.
+
+.. quote::
+    :author: Howard Buten
+    :book: Quand j'avais cinq ans je m'ai tué
+    :index: enfanc
+    :year: 1981
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Quand_j%27avais_cinq_ans_je_m%27ai_tu%C3%A9
+
+    Un enfant ne peut pas tout faire.
+    Parfois, il l'apprend à ses dépend, avant que les
+    adultes le lui ait dit.
+    Parfois, ce qu'il fait est grave sans que lui ne
+    comprenne cette gravité.
+    Le livre imagine ce qu'il passe par la tête de cet enfant,
+    avec sa façon de parler.
+    Le livre est intéressant à la fois pour le récit et pour
+    la langue.

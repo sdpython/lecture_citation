@@ -3,6 +3,18 @@
 =========
 
 .. quote::
+    :author: Alexandre Dumas
+    :book: Le Comte de Monte-Cristo
+    :index: classique
+    :year: 1844
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Comte_de_Monte-Cristo
+
+    Un grand classique de la littérature française.
+    Il faut écouter le Boléro. Il faut imaginer la musique
+    étirée sur trois tomes.
+
+.. quote::
     :author: Victor Hugo
     :book: Les Misérables
     :index: classique
@@ -12,3 +24,25 @@
 
     Un grand classique de la littérature française.
     Le premier tome est juste incroyablement écrit.
+
+.. quote::
+    :author: Lewis Carroll
+    :book: Les Aventures d'Alice au pays des merveilles
+    :index: classique
+    :year: 1865
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Les_Aventures_d%27Alice_au_pays_des_merveilles
+
+    Je connaissais le film de Walt Disney mais le livre vaut le détour.
+
+.. quote::
+    :author: Jospeh Conrad
+    :book: Lord Jim
+    :index: classique
+    :year: 1899
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Lord_Jim_(roman)
+
+    Ce livre a sans doute inspiré des films comme Apocalypse Now
+    ou le Crabe Tambour. Le parcours d'un marin à qui la vie montre
+    d'autres facettes, plus noires, qu'il n'avait pas imaginées.

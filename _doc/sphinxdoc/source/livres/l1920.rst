@@ -3,6 +3,19 @@
 =====
 
 .. quote::
+    :author: Aldous Huxley
+    :book: Tour du monde d'un sceptique
+    :index: cynisme
+    :year: 1926
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Aldous_Huxley
+
+    L'auteur est connu pour *Le Meilleur des Mondes*. Ce récit
+    raconte un voyage en Inde. Il raconte ses observations
+    avec une précision de peintre. Sa vision du fonctionnaire
+    indien est tout à fait cynique.
+
+.. quote::
     :author: Joseph Kessel
     :book: Les règles de l'Homme
     :index: femme

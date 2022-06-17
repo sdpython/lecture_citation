@@ -1,0 +1,35 @@
+=====
+2000-
+=====
+
+.. quote::
+    :author: Chris Niels
+    :book: L'industrie de la punition
+    :index: société
+    :year: 2003
+    :title1: true
+    :source: https://www.cairn.info/l-industrie-de-la-punition--9782746703070.htm
+
+    Quelle peine pour quelle crime ? On peut répondre
+    en fonction du crime, on peut aussi voir à plus long terme
+    et s'intéresser à quelle peine pour une meilleure réinsertion.
+    Le livre s'intéresse à ce qui se fait dans différents pays,
+    compare les effets à long termes. Deux juges appliquant la
+    même loi prennent rarement les mêmes décisions.
+    Intéressante analyse et réflexion.
+
+.. quote::
+    :author: Daniel Pennac
+    :book: Chagrin d'école
+    :index: école
+    :year: 2007
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Chagrin_d%27%C3%A9cole
+
+    Quelques récits du professeur de français qu'était Daniel
+    Pennac, dyslexique et incroyablement doué. Je me souviens
+    de ce livre car il expliquait faire l'appel non pas pour faire
+    l'appel mais pour signifier à la joyeuse troupe qu'elle passait
+    de la cour au cours de français. L'appel est un sas.
+    Je passe l'anecdote sur le père en trotinette pour 
+    garder celle sur l'ennui. S'ennuyer, c'est apprendre.

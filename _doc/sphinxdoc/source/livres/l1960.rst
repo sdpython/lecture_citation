@@ -12,3 +12,29 @@
 
     Un enfant qui a de l'imagination, ce n'est pas facile,
     ni pour sa famille, ni pour lui-même.
+
+.. quote::
+    :author: Roy Lewis
+    :book: Pourquoi j'ai mangé mon père
+    :index: innovation
+    :year: 1960
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Pourquoi_j%27ai_mang%C3%A9_mon_p%C3%A8re
+
+    Peut-on inventer pour le seul bien de l'humanité,
+    sans songer à toutes les utilisations même négatives
+    de ses propres inventions ? C'est la question sous-jacentes
+    à ce livre qui raconte l'histoire d'un inventeur d'une tribu
+    à l'époque de la préhistoire.
+
+.. quote::
+    :author: Mikhaïl Boulgakov
+    :book: Le Maître et Marguerite
+    :index: classique
+    :year: 1967
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Ma%C3%AEtre_et_Marguerite
+
+    La vie ouvre des portes sur des chemins bordés de précipices
+    où l'équilibre ne tient qu'au diable et à la chance et prévoir
+    ne sert à rien. Qui êtes-vous ?

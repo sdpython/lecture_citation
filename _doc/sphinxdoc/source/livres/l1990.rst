@@ -3,6 +3,30 @@
 =====
 
 .. quote::
+    :author:  Haruki Murakami
+    :book: Chroniques de l'oiseau à ressort
+    :index: fantaisie
+    :year: 1995
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Chroniques_de_l%27oiseau_%C3%A0_ressort
+
+    On ne sait plus très vite ce qui tient du délire et ce qui tient
+    de la réalité.
+
+.. quote::
+    :author: Daniel Pennac
+    :book: Monsieur Malaussène
+    :index: économie
+    :year: 1995
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Monsieur_Malauss%C3%A8ne
+
+    Un directeur de supermarché a trouvé l'astuce pour éviter
+    les réclamations. Il fait venir dans son bureau Monsieur Malaussène
+    et le menace de licenciement. Devant l'ampleur de la punition,
+    les clients renoncent. Machialvélique.
+
+.. quote::
     :author: Vernor Vinge
     :book: Au tréfonds du ciel
     :index: science-fiction
@@ -15,3 +39,17 @@
     d'années se lit dans les différentes couches logiciel
     des ordinateurs. Il rencontre une civilisation différente.
     Un régal.
+
+.. quote::
+    :author: Sarah Kane
+    :book: 4.48 Psychose
+    :index: psychose
+    :year: 1999
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/4.48_Psychose
+
+    D'habitude, on ne lit que les mots d'un auteur
+    une fois écrits, filtrés. Les mots ici tournent comme
+    les abeilles dans une ruche, très peu sortent,
+    beaucoup s'agitent. Et ce livre retient pour une fois
+    ceux qui s'agitent.

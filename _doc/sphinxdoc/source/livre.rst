@@ -20,5 +20,7 @@ Ca marche tout seul sans électricité avec un peu de lumière.
     livres/l1950
     livres/l1960
     livres/l1970
+    livres/l1980
+    livres/l1990
     livres/l2000
     livres/l2010

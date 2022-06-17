@@ -3,6 +3,18 @@
 =====
 
 .. quote::
+    :author: Rudyard Kipling
+    :book: Kim
+    :index: enfance
+    :year: 1901
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Kim_(roman)
+
+    Un enfant orphelin en Inde apprend à devenir espion.
+    Vous avez cinq secondes pour vous souvenir de dix objets
+    présentés sous vos yeux. Délicieux.
+
+.. quote::
     :author: Jack London
     :book: Martin Eden
     :index: religion
