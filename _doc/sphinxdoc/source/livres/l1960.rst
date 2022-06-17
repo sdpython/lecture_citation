@@ -3,15 +3,38 @@
 =====
 
 .. quote::
-    :author: José Mauro de Vasconcelos
-    :book: Mon bel oranger
-    :index: enfance
-    :year: 1968
+    :author: Roald Dahl
+    :book: Kiss Kiss
+    :index: adulte
+    :year: 1960
     :title1: true
-    :source: https://fr.wikipedia.org/wiki/Mon_bel_oranger
+    :source: https://en.wikipedia.org/wiki/Kiss_Kiss_(book)
 
-    Un enfant qui a de l'imagination, ce n'est pas facile,
-    ni pour sa famille, ni pour lui-même.
+    Un des rares livres pour adulte de Roald Dahl.
+    C'est l'histoire d'une poudre aphrodisiaque,
+    déposée sur une tête d'épingle qui ouvre la voie
+    à tout un tas de situation romanesque.
+    Il faut lire le passage où Puccini trompe sa femme
+    dans son propre salon tout en jouant une note de temps
+    en temps pour tromper la vigilance de son épouse.
+    Un grand moment.
+
+.. quote::
+    :author: Philippe Ariès
+    :book: L'Enfant et la vie familiale sous l'Ancien Régime
+    :index: enfance
+    :year: 1960
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/L%27Enfant_et_la_vie_familiale_sous_l%27Ancien_R%C3%A9gime
+
+    Les jouets pour enfants sont nés au XIX siècle. Avant, les enfants
+    portaient des robes. Beaucoup d'entre eux mourraient,
+    ils devenaient une personne lorsqu'ils avaient vécu un 
+    certain temps et résisté à pas mal de microbes et aux
+    aléas de la vie. Au moyen-âge, les enfants n'étaient pas
+    encore des personnes. J'ai découvert ce livre lors d'un oral
+    de concours. Inutile de dire que je l'ai acheté pour le lire
+    en entier.
 
 .. quote::
     :author: Roy Lewis
@@ -28,6 +51,31 @@
     à l'époque de la préhistoire.
 
 .. quote::
+    :author: Hannah Arendt
+    :book: La Crise de la culture
+    :index: histoie
+    :year: 1961
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/La_Crise_de_la_culture
+
+    Hannah Harendt écrivait que parfois les techniques évoluent
+    plus vite que la capacité d'apprentissage de la plupart des gens.
+    C'est dans ce monde là que l'inégalité surgit.
+
+.. quote::
+    :author: Roald Dahl
+    :book: Charlie et la Chocolaterie
+    :index: enfant
+    :year: 1964
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Charlie_et_la_Chocolaterie
+
+    Je n'ai reçu qu'un seul cadeau de la part d'un professeur.
+    Ce fut ce livre là, en CP, cadeau récompensant ma réussite.
+    Il est des livres qu'on n'oublie pas et Roald Dadl est
+    certainement un des plus grands auteur de livre pour enfants.
+
+.. quote::
     :author: Mikhaïl Boulgakov
     :book: Le Maître et Marguerite
     :index: classique
@@ -38,3 +86,39 @@
     La vie ouvre des portes sur des chemins bordés de précipices
     où l'équilibre ne tient qu'au diable et à la chance et prévoir
     ne sert à rien. Qui êtes-vous ?
+
+.. quote::
+    :author: José Mauro de Vasconcelos
+    :book: Mon bel oranger
+    :index: enfance
+    :year: 1968
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Mon_bel_oranger
+
+    Un enfant qui a de l'imagination, ce n'est pas facile,
+    ni pour sa famille, ni pour lui-même.
+
+.. quote::
+    :author: Gabriel García Márquez
+    :book: Cent ans de solitude
+    :index: fresque
+    :year: 1968
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Cent_Ans_de_solitude
+
+    Naissance et mort d'une dynastie.
+
+.. quote::
+    :author: René Barjavel
+    :book: La nuit des temps
+    :index: IA
+    :year: 1968
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/La_Nuit_des_temps
+
+    Ce livre est fascinant. L'histoire est incroyable
+    car elle préfigue ce qui pourrait nous arriver si
+    jamais nous ne prenions pas assez au sérieux le réchauffement
+    climatique. L'auteur imagine un des outils que nous
+    avons aujourd'hui, une machine qui traduit en temps
+    réelle d'une langue à l'autre, et 17 langues au total.

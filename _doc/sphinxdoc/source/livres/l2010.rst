@@ -16,6 +16,33 @@
     J'ai eu l'impression de le comprendre un peu.
 
 .. quote::
+    :author: Metin Arditi
+    :book: L'enfant qui mesurait le monde
+    :index: enfance
+    :year: 2016
+    :title1: true
+    :source: https://www.grasset.fr/livres/lenfant-qui-mesurait-le-monde-9782246861423
+
+    Une histoire, un livre sur l'autisme.
+    Associer les talents est possible.
+
+.. quote::
+    :author: Olivier Razemon
+    :book: Comment la France a tué ses villes
+    :index: économie
+    :year: 2016
+    :title1: true
+
+    Les supermarchés rapportent de l'argent mais ils sont souvent
+    placés à la périphérie des villes, au sein de grands
+    centres commerciaux. Dès lors, le centre ville se vide,
+    les gens prennent leur voiture pour faire leur course.
+    Et la ville devient moins attrayante, les restaurants
+    moins nombreuses. C'est l'histoire de nombreuses villes
+    de province. Les centres commerciaux tuent la vie des villes.
+    Ce livre étaye cette thèse de nombreux faits.
+
+.. quote::
     :author: Arthur Desmarest
     :book: Les mayas - Grandeur et chute d'une civilisation
     :index: histoire

@@ -28,6 +28,17 @@
     pour la valider.
 
 .. quote::
+    :author: Abert Cohen
+    :book: Le Livre de ma mère
+    :index: histoire
+    :year: 1954
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Livre_de_ma_m%C3%A8re
+
+    Pour être honnête, je ne me souviens plus trop.
+    Mais la langue d'Albert Cohen est l'une des plus belle.
+
+.. quote::
     :author: Italo Calvino
     :book: Le baron perché
     :index: enfance

@@ -32,7 +32,7 @@
 .. quote::
     :author: Howard Buten
     :book: Quand j'avais cinq ans je m'ai tué
-    :index: enfanc
+    :index: enfance
     :year: 1981
     :title1: true
     :source: https://fr.wikipedia.org/wiki/Quand_j%27avais_cinq_ans_je_m%27ai_tu%C3%A9
@@ -46,3 +46,27 @@
     avec sa façon de parler.
     Le livre est intéressant à la fois pour le récit et pour
     la langue.
+
+.. quote::
+    :author: Tetsuko Kuroyanagi
+    :book: Totto-Chan, la petite fille à la fenêtre
+    :index: enfance
+    :year: 1981
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Totto-chan,_la_petite_fille_%C3%A0_la_fen%C3%AAtre
+
+    C'est l'école de vos rêves. Après la guerre, le Japon
+    utilise de vieux wagons comme salle de classe.
+    Incroyablement poétique.
+
+.. quote::
+    :author: John Irving
+    :book: L'oeuuvre de Dieu, la Part du Diable
+    :index: enfanc
+    :year: 1985
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/L%27%C5%92uvre_de_Dieu,_la_Part_du_Diable_(roman)
+
+    Une histoire racontée par John Irving est bien mieux qu'une série
+    télévisée. Celle-ci parle intelligemment d'avortement. Entre autre.
+

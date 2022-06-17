@@ -16,7 +16,7 @@
 .. quote::
     :author: Daniel Pennac
     :book: Monsieur Malaussène
-    :index: économie
+    :index: cynisme
     :year: 1995
     :title1: true
     :source: https://fr.wikipedia.org/wiki/Monsieur_Malauss%C3%A8ne
@@ -25,6 +25,43 @@
     les réclamations. Il fait venir dans son bureau Monsieur Malaussène
     et le menace de licenciement. Devant l'ampleur de la punition,
     les clients renoncent. Machialvélique.
+
+.. quote::
+    :author: Jared Diarmond
+    :book: Pourquoi l'amour est un plaisir
+    :index: économie
+    :year: 1997
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Pourquoi_l%27amour_est_un_plaisir
+
+    L'auteur est doué pour faire d'un sujet une évidence.
+    Pourquoi la nature a-t-elle inventé le plaisir car selon Darwin,
+    même le plaisir est le fruit d'une sélection contribuant
+    à notre survie. Alors ?
+
+.. quote::
+    :author: Jared Diarmond
+    :book: De l'inégalité parmi les sociétés
+    :index: histoire
+    :year: 1998
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/De_l%27in%C3%A9galit%C3%A9_parmi_les_soci%C3%A9t%C3%A9s
+
+    Jared Diarmond présente l'histoire avec limpidité.
+    L'histoire, tous ces petits faits assemblés dans un puzzle
+    dont l'auteur nous conte l'image finale.
+
+.. quote::
+    :author: Douglas Preston
+    :book: Le Piège de l'architecte
+    :index: polar
+    :year: 1998
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Pi%C3%A8ge_de_l%27architecte
+
+    Un roman contemporrain mélangeant le côté romanesque des pirates,
+    le mystère de l'architecture des pyramides et le danger du nucléaire.
+    Je m'en souviens encore.
 
 .. quote::
     :author: Vernor Vinge

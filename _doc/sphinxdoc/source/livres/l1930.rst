@@ -13,3 +13,14 @@
     Deux amis que tout oppose évoluent dans l'Amérique après la crise
     de 1929. Les personnages se débattent dans une histoire écrite
     à l'avance.
+
+.. quote::
+    :author: Kathrine Kressmann Taylo
+    :book: Inconnu à cette adresse
+    :index: religion
+    :year: 1938
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Inconnu_%C3%A0_cette_adresse
+
+    Une vengeance à la Monte Cristo sur fond de seconde guerre mondiale.
+    Extraordinaire.

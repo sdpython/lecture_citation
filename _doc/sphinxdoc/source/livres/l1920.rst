@@ -3,6 +3,24 @@
 =====
 
 .. quote::
+    :author: Jules Romain
+    :book: Knock ou le Triomphe de la médecine
+    :index: médecine
+    :year: 1923
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Knock_ou_le_Triomphe_de_la_m%C3%A9decine
+
+    Un vieux médecin s'en va. Ses patients sont inquiets.
+    Les bobos du quotidien n'étaient que des bobos
+    sans inquiétude. Un nouveau médecin le remplace.
+    Les bobos prennent tout à coup de l'ampleur tant et si
+    bien que tout le monde se découvre des maladies.
+    Et ça les inquiète. Un livre à lire à la lumière
+    de ce qu'il se passe aujourd'hui. La mort n'était
+    pas aussi rare qu'elle l'est aujourd'hui.
+    Un passage de témoin entre deux époques.
+
+.. quote::
     :author: Aldous Huxley
     :book: Tour du monde d'un sceptique
     :index: cynisme

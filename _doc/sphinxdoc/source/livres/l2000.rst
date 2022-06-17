@@ -3,6 +3,28 @@
 =====
 
 .. quote::
+    :author: John Cleese, Robyn Skinner
+    :book: Comment être un névrosé heureux
+    :index: société
+    :year: 2001
+    :title1: true
+
+    Discussion sérieuse entre un comique et un psychiâtre.
+    On parle de tout.
+
+.. quote::
+    :author: Alain-Gérard Slama
+    :book: La régression démocratique
+    :index: société
+    :year: 2002
+    :title1: true
+
+    Aucun système n'est parfait et il faut parfois
+    se battre garder son esprit. Qu'est-ce qu'un idéal
+    quand personne ne le défend et qu'il s'effrite
+    au quotidien.
+
+.. quote::
     :author: Chris Niels
     :book: L'industrie de la punition
     :index: société
@@ -19,6 +41,78 @@
     Intéressante analyse et réflexion.
 
 .. quote::
+    :author: Shaïne Cassim
+    :book: Lili dans la lune
+    :index: enfance
+    :year: 2003
+    :title1: true
+
+    Quand le père qu'on pensait mort ressurgit.
+    Le mythe se confronte à la réalité.
+
+.. quote::
+    :author: Françoise Chandernagor 
+    :book: La chambre
+    :index: enfance
+    :year: 2003
+    :title1: true
+
+    Un enfant est seul, dans une chambre, sans contact humain.
+    C'est une expérience scientifique mené à ses dépends.
+    A quoi pense-t-il ?
+
+.. quote::
+    :author: Eran Kroband
+    :book: Petite Plume
+    :index: enfance
+    :year: 2004
+    :title1: true
+
+    Les réflexions d'un enfant sur un monde violent.
+    C'est un thème souvent exploré.
+    Mais quand c'est avec talent.
+
+.. quote::
+    :author: Noam Chomsky
+    :book: Le profit avant l'homme
+    :index: histoire
+    :year: 2005
+    :title1: true
+
+    C'est peut-être une évidence aujourd'hui (2022).
+    Mais c'est pourtant toujours d'actualité.
+    Et l'auteur le dit brillamment.
+
+.. quote::
+    :author: Jared Diarmond
+    :book: Effondrement
+    :index: histoire
+    :year: 2005
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Effondrement_(essai)
+
+    Beaucoup de sociétés sont mortes, les Mayes, les Indiens,
+    les Vikings, les Islandais. La survie d'une espèce tient beaucoup
+    au respect qu'elle a de la nature qui la nourrit, à commencer
+    par les arbres. Ce livre révèle le mystère de l'Ile de Pâques.
+    Le livre rappelle Lévi-Strauss.
+
+.. quote::
+    :author: Douglas Kennedy
+    :book: Au pays de Dieu
+    :index: économie
+    :year: 2006
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Chagrin_d%27%C3%A9cole
+
+    Il faut lire ce livre pour comprendre l'Amérique de Trump.
+    Un journaliste voyage de la côté Est à la côté Ouest,
+    ou l'inverse, en passant par le sud. Ce sont ses notes
+    de voyage. Il fait découvrir un monde ou la religion
+    est une réseau comme un autre, plus une question de survie
+    que l'adhésion à un quelconque dogme. 
+
+.. quote::
     :author: Daniel Pennac
     :book: Chagrin d'école
     :index: école
@@ -33,3 +127,42 @@
     de la cour au cours de français. L'appel est un sas.
     Je passe l'anecdote sur le père en trotinette pour 
     garder celle sur l'ennui. S'ennuyer, c'est apprendre.
+
+.. quote::
+    :author: Pete Johnson
+    :book: Comment éduquer ses parents
+    :index: école
+    :year: 2007
+    :title1: true
+
+    Les parents veulent toujours des choses impossibles,
+    des choses qu'ils ne souhaiteraient même pas pour eux-mêmes
+    même si leurs parents en rêvaient pour eux.
+    Ce n'est pas grave. S'ils font des enfants, c'est pour apprendre.
+
+.. quote::
+    :author: Philippe Noiret
+    :book: Mémoire Cavalière
+    :index: enfance
+    :year: 2008
+    :title1: true
+
+    Philippe Noiret jouait divinement bien.
+    Il faut l'avoir vu dans Coup de Torchon.
+    Il sait écrire aussi, avec légèreté,
+    il transmet.
+
+.. quote::
+    :author: Amin Maalouf
+    :book: Le dérèglement du monde
+    :index: histoire
+    :year: 2009
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_D%C3%A9r%C3%A8glement_du_monde
+
+    L'histoire n'est qu'une vaste répétition.
+    Je n'ai pas connu la guerre mais on me l'a enseignée.
+    Elle n'est qu'abstraite. Peut-être est-ce pour cela qu'elle
+    me fait moins peur ? Il faut connaître l'histoire
+    pour mieux comprendre notre temps.
+

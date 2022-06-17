@@ -3,6 +3,20 @@
 =====
 
 .. quote::
+    :author: Antoine de Saint-Exupéry
+    :book: Le petit prince
+    :index: enfance
+    :year: 1943
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Petit_Prince
+
+    Après la bible, il y a le petit prince.
+    Ce livre est un des rares qui fait partie du patrimoine
+    mondiale. Il est impensable de ne pas le lire.
+    Et c'est la première que j'ai vu une courbe de Gauss
+    recouvrant un éléphant.
+
+.. quote::
     :author: Jean-Paul Sartre
     :book: Huis-Clos
     :index: religion
