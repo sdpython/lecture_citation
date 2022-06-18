@@ -15,3 +15,14 @@
     L'oncle n'est pas très sûr, la tante ne veut qu'un
     enfant sur les trois, Venise. Cette dernière a une façon
     toute particulière de décrire la vie qui l'entoure.
+
+.. quote::
+    :author: Jeanne Benameur
+    :ado: Une heure, une vie
+    :index: enfant
+    :year: 2006
+    :title1: true
+
+    J'adore cette auteure.
+
+    

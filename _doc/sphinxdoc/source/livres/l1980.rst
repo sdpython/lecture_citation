@@ -60,6 +60,17 @@
     Incroyablement poétique.
 
 .. quote::
+    :author: Marguerite Duras
+    :book: L'Amant
+    :index: enfance
+    :year: 1984
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/L%27Amant_(roman)
+
+    Au delà de l'histoire qui n'est pas seulement une histoire
+    d'amour, j'ai beaucoup aimé la langue de Duras.
+
+.. quote::
     :author: John Irving
     :book: L'oeuuvre de Dieu, la Part du Diable
     :index: enfanc

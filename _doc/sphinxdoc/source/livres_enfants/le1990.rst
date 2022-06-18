@@ -1,0 +1,17 @@
+=====
+1990-
+=====
+
+.. quote::
+    :author: Lois Lowry
+    :book: Le passeur
+    :index: enfant
+    :year: 1993
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Passeur
+
+    L'arbitraire est peut-être une façon de régler bien
+    des problèmes. Des règles strictes nous permettraient
+    sans doute de résoudre la réchauffement climatique.
+    Faut-il les garder une fois la crise passée ?
+    Est-ce seulement une question de pouvoir ?

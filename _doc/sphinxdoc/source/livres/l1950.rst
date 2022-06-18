@@ -28,6 +28,17 @@
     pour la valider.
 
 .. quote::
+    :author: 	Ernest Hemingway
+    :book: Le vieil homme et la mer
+    :index: vie
+    :year: 1951
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Vieil_Homme_et_la_Mer
+
+    Le combat d'un homme et d'un espadon pour leur survie.
+    Un récit épuré et implacable.
+
+.. quote::
     :author: Abert Cohen
     :book: Le Livre de ma mère
     :index: histoire

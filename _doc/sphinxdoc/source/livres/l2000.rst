@@ -3,6 +3,61 @@
 =====
 
 .. quote::
+    :author: Paul Krugman
+    :book: Pourquoi les crises reviennent toujours
+    :index: économie
+    :year: 2000
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Pourquoi_les_crises_reviennent_toujours
+
+    Les hommes politiques n'anticipent jamais rien.
+    Ils réagissent toujours à la crise.
+    C'est l'histoire qui le dit.
+
+.. quote::
+    :author: Charles Seife
+    :book: Zero: The Biography of a Dangerous Idea
+    :index: économie
+    :year: 2000
+    :title1: true
+    :source: https://en.wikipedia.org/wiki/Zero
+
+    L'histoire du zéro et bien que le concept paraissent
+    naturel aujourd'hui, il n'était pas si évident de représenter
+    ce qui n'est pas pas. La numérotation romaine n'a pas su
+    le faire. Son introduction a permis de faciliter grandement
+    les calculs.
+
+.. quote::
+    :author: Malcolm Gladwell
+    :book: The Tipping Point
+    :index: économie
+    :year: 2000
+    :title1: true
+    :source: https://en.wikipedia.org/wiki/The_Tipping_Point
+
+    Le résumé d'une anecdote.
+    Airwalk est une marque de chaussures qui commença à faire parler 
+    d’elle dans les années 1990. Même si leurs chaussures étaient 
+    en vente partout, leur stratégie marketting était de réserver 
+    les chaussures les plus innovantes aux petits magasins 
+    spécialisés qui recevaient les nouveaux modèles en priorité. 
+    Les grandes surfaces vendaient des chaussures moins chères 
+    mais vieilles. Une campagne de marketting permit de faire 
+    décoller la marque en 1995-1996 si bien qu’il y eut des 
+    ruptures de stock. Cette situation ne fut pas bien perçue de 
+    la part des petits magasins qui promouvaient la marque. 
+    Ils ne se sentaient plus aussi privilégiés qu’avant. 
+    La deuxième erreur intervient lorsque la marque décida de ne 
+    plus faire la distinction entre grandes surfaces et magasins 
+    spécialisées. Elle perdit le soutien des magasins spécialisés. 
+    Airwalk alors perçue comme une marque innovante perdit 
+    ce qualificatif. Les ventes baissèrent en 1997.
+    D'autres anecdotes tirées de ce livre :
+    `Anecdotes Sociologiques
+    <http://www.xavierdupre.fr/app/code_beatrix/helpsphinx/histoires/anecdote_socio.html>`_.
+
+.. quote::
     :author: John Cleese, Robyn Skinner
     :book: Comment être un névrosé heureux
     :index: société
@@ -60,6 +115,15 @@
     Un enfant est seul, dans une chambre, sans contact humain.
     C'est une expérience scientifique mené à ses dépends.
     A quoi pense-t-il ?
+
+.. quote::
+    :author: Douglas Coupland
+    :book: Toutes les familles sont psychotiques
+    :index: famille
+    :year: 2004
+    :title1: true
+
+    C'est quoi la normalité ?
 
 .. quote::
     :author: Eran Kroband

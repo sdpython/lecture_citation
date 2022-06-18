@@ -3,6 +3,17 @@
 =====
 
 .. quote::
+    :author: Douglas Coupland
+    :book: Génération X
+    :index: sociologie
+    :year: 1991
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration_X_(roman)
+
+    Je ne sais plus si je suis de la génération X ou Y.
+    La Z n'est pas mal non plus.
+
+.. quote::
     :author:  Haruki Murakami
     :book: Chroniques de l'oiseau à ressort
     :index: fantaisie
