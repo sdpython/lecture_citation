@@ -88,6 +88,17 @@
     ne sert à rien. Qui êtes-vous ?
 
 .. quote::
+    :author: Guy Debord
+    :book: La société du spectacle
+    :index: philosophie
+    :year: 1967
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre)
+
+    Ecrit il y a bien des années et tellement vrai aujourd'hui où
+    les journalistes sont plus connus que les gens qu'ils invitent.
+
+.. quote::
     :author: José Mauro de Vasconcelos
     :book: Mon bel oranger
     :index: enfance

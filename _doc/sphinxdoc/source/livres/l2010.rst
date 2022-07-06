@@ -3,6 +3,19 @@
 =====
 
 .. quote::
+    :author: Tom Sharpe
+    :book: Wilt 1
+    :index: humour noir
+    :year: 2010
+    :title1: true
+
+    Un cadavre est découvert au fond d'un puits en béton.
+    Il faudra une semaine pour découvrir que le cadavre en question
+    n'est qu'une poupée gonflable. Pendant ce temps, le coupable
+    présumé de ce meurtre en latex nous fait partager ses réflexions
+    drôles et amères.
+
+.. quote::
     :author: Sarah Cohen-Scali
     :book: Arthur Rimbaud - Le voleur de feu
     :index: bibliographie

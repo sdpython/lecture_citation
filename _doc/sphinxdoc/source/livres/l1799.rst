@@ -24,3 +24,16 @@
     car il était difficile de vérifier que les mêmes mots eussent le même sens.
     J'en déduis qu'il était prévisible que deux philosophes puissent
     avoir des avis contraires. Ils ne parlaient pas le même language.
+
+.. quote::
+    :author: L'abbé Prévost
+    :book: Manon Lescaut
+    :index: amour
+    :year: 1753
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Manon_Lescaut
+
+    Aucun des personnages n'est tout noir ou tout blanc.
+    Je ne sais plus si je l'ai vu avant ou après les Misérables.
+    Que fait-on lorsqu'on ne s'appelle pas tout à fait Cosette
+    et qu'on ne croise pas Jean Valjean ?

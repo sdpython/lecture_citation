@@ -3,6 +3,18 @@
 =====
 
 .. quote::
+    :author: Ernest Hemingway
+    :book: Pour qui sonne le glas
+    :index: guerre
+    :year: 1940
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Pour_qui_sonne_le_glas
+
+    La guerre d'Espagne vu par ceux qui la font.
+    Je me demande ce qu'Ernest aurait écrit à propos de la guerre
+    d'Ukraine.
+
+.. quote::
     :author: Antoine de Saint-Exupéry
     :book: Le petit prince
     :index: enfance

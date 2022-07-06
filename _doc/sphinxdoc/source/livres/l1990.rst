@@ -14,6 +14,17 @@
     La Z n'est pas mal non plus.
 
 .. quote::
+    :author: Nicolas Bréhal
+    :book: Sonate au clair de Lune
+    :index: histoire
+    :year: 1993
+    :title1: true
+
+    La disparition est souvent l'occasion de se replonger dans les
+    souvenirs, ceux de la personne disparue, et les siens qui
+    prennent parfois un autre sens.
+
+.. quote::
     :author:  Haruki Murakami
     :book: Chroniques de l'oiseau à ressort
     :index: fantaisie
@@ -36,6 +47,17 @@
     les réclamations. Il fait venir dans son bureau Monsieur Malaussène
     et le menace de licenciement. Devant l'ampleur de la punition,
     les clients renoncent. Machialvélique.
+
+.. quote::
+    :author: François Weyergans
+    :book: Franz et François
+    :index: autobiographie
+    :year: 1997
+    :title1: true
+    :source: https://www.grasset.fr/livres/franz-et-francois-9782246472810
+
+    A vrai dire, je n'ai pas fini ce livre. Il m'a ennuyé.
+    Mais qu'est-ce qu'il est bien écrit !
 
 .. quote::
     :author: Jared Diarmond

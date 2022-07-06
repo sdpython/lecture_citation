@@ -126,6 +126,15 @@
     C'est quoi la normalité ?
 
 .. quote::
+    :author: Anna Gavalda
+    :book: Je l'aimais
+    :index: amour
+    :year: 2004
+    :title1: true
+
+    J'en garde un souvenir flou mais très joli.
+
+.. quote::
     :author: Eran Kroband
     :book: Petite Plume
     :index: enfance
@@ -230,3 +239,16 @@
     me fait moins peur ? Il faut connaître l'histoire
     pour mieux comprendre notre temps.
 
+.. quote::
+    :author: Martin Winckler
+    :book: Le choeur des femmes
+    :index: médecine
+    :year: 2009
+    :title1: true
+    :source: https://www.pol-editeur.com/index.php?spec=livre&ISBN=978-2-84682-267-1
+
+    Ces histoires ne laissent jamais indifférent quoiqu'on
+    pense de l'avortement. Le livre rentre dans ce lieu clos
+    qu'est le tête à tête d'un gynécologue avec une femme.
+    Et comme tout acte médical, il évolue, même si les préjugés
+    issus de notre éducation sont un frein.
