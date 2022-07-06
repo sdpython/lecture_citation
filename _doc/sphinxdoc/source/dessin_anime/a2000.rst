@@ -8,8 +8,7 @@
     :index: parent
     :year: 2002
     :title1: true
-
-    `Aishiteruze baby <https://fr.wikipedia.org/wiki/Babe_My_Love>`_
+    :source: https://fr.wikipedia.org/wiki/Babe_My_Love
 
     Le point de départ est insolite. Une mère malheureuse
     décide de laisser sa fille à sa nièce qui la confie à son frère,
@@ -20,13 +19,29 @@
     Il devient père un peu malgré lui ou plutôt il apprend.
 
 .. quote::
+    :author: Rei Hiroe
+    :manga: Black Lagoon
+    :index: guerre
+    :year: 2002
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Black_Lagoon
+
+    C'est l'histoire de pirates. La vie les a abîmés.
+    Ils sont certes violents. Cette violence a bien souvent
+    été leur seul moyen de défense. Au milieu de tout cela,
+    un candide, plutôt taillé pour une vie de bureau,
+    mais plus heureux sur un bateau pirates.
+    Ces personnages aux failles diverses discutent
+    de la vie entre deux coups de feux et ce n'est pas
+    inintéressant.
+
+.. quote::
     :author: Koichi Chigira
     :manga: Last Exile
     :index: épopée
     :year: 2003
     :title1: true
-
-    `Last Exile <https://fr.wikipedia.org/wiki/Last_Exile>`_
+    :source: https://fr.wikipedia.org/wiki/Last_Exile
 
     L'animation des premiers épisodes est soignée. Les deux héros
     sont deux enfants qui ont grandi dans un monde en déclin.
@@ -40,8 +55,7 @@
     :index: amour
     :year: 2004
     :title1: true
-
-    `Aoi Hana! <https://fr.wikipedia.org/wiki/Fleurs_bleues>`_
+    :source: https://fr.wikipedia.org/wiki/Fleurs_bleues
 
     La série explore l'homosexualité au lycée. Très réussie.
 
@@ -51,8 +65,7 @@
     :index: climat
     :year: 2004
     :title1: true
-
-    `Shangri-La <https://fr.wikipedia.org/wiki/Shangri-La_(anime)>`_
+    :source: https://fr.wikipedia.org/wiki/Shangri-La_(anime)
 
     C'est l'histoire d'un monde où la pollution joue une extrême importante
     et les grands acteurs financiers spécule sur le prix de la tonne de CO2.
@@ -67,8 +80,7 @@
     :index: philosophie
     :year: 2005
     :title1: true
-
-    `Strawberry Marshmallow <https://en.wikipedia.org/wiki/Strawberry_Marshmallow>`_
+    :source: https://en.wikipedia.org/wiki/Strawberry_Marshmallow
 
     Il n'y a pas vraiment d'histoire, simplement un recueil
     d'anecodtes, une grande soeur placide qui garde sa petite soeur
@@ -81,8 +93,7 @@
     :index: vengeance
     :year: 2005
     :title1: true
-
-    `Vinland Saga <https://fr.wikipedia.org/wiki/Vinland_Saga>`_
+    :source: https://fr.wikipedia.org/wiki/Vinland_Saga
 
     Un enfant Viking est recueilli par celui qui a tué son père devant ses yeux.
     Au contact de ce père de substitution, son seul objectif est de devenir
@@ -94,8 +105,7 @@
     :index: modernité
     :year: 2005
     :title1: true
-
-    `Kannagi <https://fr.wikipedia.org/wiki/Kannagi_:_Crazy_Shrine_Maidens>`_
+    :source: https://fr.wikipedia.org/wiki/Kannagi_:_Crazy_Shrine_Maidens
 
     Le début de cette série rappelle la bande dessinée `Peter Pan de Loisel
     <https://fr.wikipedia.org/wiki/Peter_Pan_(bande_dessin%C3%A9e)>`_.
@@ -112,8 +122,7 @@
     :index: orphelin
     :year: 2005
     :title1: true
-
-    `Kunerai <https://fr.wikipedia.org/wiki/Kurenai>`_
+    :source: https://fr.wikipedia.org/wiki/Kurenai
 
     Un adolescent tout à la fois étudiant et tueur se voit confier
     la garde d'une petite fille. La petite fille élevé dans un château
@@ -128,9 +137,7 @@
     :index: tradition
     :year: 2005
     :title1: true
-
-    `Avatar, le dernier maître de l'air
-    <https://fr.wikipedia.org/wiki/Avatar,_le_dernier_ma%C3%AEtre_de_l%27air#:~:text=Avatar%2C%20le%20dernier%20ma%C3%AEtre%20de%20l'air%20ou%20Avatar%20%3A,19%20juillet%202008%20sur%20Nickelodeon.>`_
+    :source: https://fr.wikipedia.org/wiki/Avatar,_le_dernier_ma%C3%AEtre_de_l%27air
 
     Un enfant enfermé dans une bulle de glace se réveille 100 ans après
     et tout a changé, hormis la guerre, toujours présente.
@@ -145,8 +152,7 @@
     :index: voyage
     :year: 2005
     :title1: true
-
-    `L'Odyssée de Kino <https://fr.wikipedia.org/wiki/L%27Odyss%C3%A9e_de_Kino>`_
+    :source: https://fr.wikipedia.org/wiki/L%27Odyss%C3%A9e_de_Kino
 
     Une fille voyage sur sa moto. Elle s'arrête dans de nombreuses villes.
     Chacun est une sorte de petit pays indépendant avec ses propres règles
@@ -158,8 +164,7 @@
     :index: contraires
     :year: 2006
     :title1: true
-
-    `Toradora! <https://fr.wikipedia.org/wiki/Toradora!>`_
+    :source: https://fr.wikipedia.org/wiki/Toradora!
 
     Deux étudiants voisins s'associent pour que chacun puissent
     conquérir celui ou celle qu'il aime. Amour non réciproque au début.
@@ -175,8 +180,7 @@
     :index: différence
     :year: 2006
     :title1: true
-
-    `Hyakko <https://en.wikipedia.org/wiki/Hyakko>`_
+    :source: https://en.wikipedia.org/wiki/Hyakko
 
     Ce manga m'évoque
     `I Kill Giants <https://en.wikipedia.org/wiki/I_Kill_Giants_(film)>`_.
@@ -189,8 +193,7 @@
     :index: talent
     :year: 2006
     :title1: true
-
-    `Shugo Chara <https://fr.wikipedia.org/wiki/Shugo_Chara!>`_
+    :source: https://fr.wikipedia.org/wiki/Shugo_Chara!
 
     Tous les enfants ont des dons. Ils apparaissent sous la forme
     d'oeufs. Les oeufs éclosent pour les plus doués, ils noircissent
@@ -209,8 +212,7 @@
     :index: préjugés
     :year: 2006
     :title1: true
-
-    `Kemono No Souja <https://en.wikipedia.org/wiki/The_Beast_Player>`_
+    :source: https://en.wikipedia.org/wiki/The_Beast_Player
 
     Une petite fille perd sa mère médecin réfugiée, car celle-ci est
     rendue responsable de la mort d'un animal sacré. La petite fille
@@ -226,8 +228,7 @@
     :manga: K-ON!
     :index: musique
     :year: 2007
-
-    `K-ON! <https://fr.wikipedia.org/wiki/K-ON!>`_
+    :source: https://fr.wikipedia.org/wiki/K-ON!
 
     Une adolescente distraite apprend la guitare, monte un groupe
     au sein de son école, peu doué pour les études,
@@ -240,8 +241,7 @@
     :index: traversée
     :year: 2007
     :title1: true
-
-    `El cazador de la bruja <https://fr.wikipedia.org/wiki/El_cazador_de_la_bruja>`_
+    :source: https://fr.wikipedia.org/wiki/El_cazador_de_la_bruja
 
     Une chasseuse de prime ne peut se résoudre à tuer l'enfant qu'elle est censée
     tuer. Au lieu de ça, elle se met à la protéger et devenir une cible à son tour.
@@ -254,8 +254,7 @@
     :index: éthique
     :year: 2007
     :title1: true
-
-    `Darker Than Black <https://fr.wikipedia.org/wiki/Darker_than_Black>`_
+    :source: https://fr.wikipedia.org/wiki/Darker_than_Black
 
     Une anomalie extra terreste donne des pouvoirs sur-humains à certains
     individus. Ils deviennent des armes à qui réussit à les contrôler
@@ -271,8 +270,7 @@
     :index: éthique
     :year: 2007
     :title1: true
-
-    `A Certain Scientific Railgun <https://en.wikipedia.org/wiki/A_Certain_Scientific_Railgun>`_
+    :source: https://en.wikipedia.org/wiki/A_Certain_Scientific_Railgun
 
     Certains enfants ont un pouvoir, ce pouvoir est noté sur une échelle de 0 à 5,
     d'humains inoffensifs à demi-dieu. Heureusement, ils sont très peu, cinq en tout.
@@ -287,8 +285,7 @@
     :index: épopée
     :year: 2008
     :title1: true
-
-    `Bōnen no Xamdou <https://fr.wikipedia.org/wiki/B%C5%8Dnen_no_Xamdou>`_
+    :source: https://fr.wikipedia.org/wiki/B%C5%8Dnen_no_Xamdou
 
     La guerre encore, la guerre avec des armes biologiques qui plus est.
     Des enfants au milieu de tout ça.
@@ -402,8 +399,7 @@
     :index: ennui
     :year: 2009
     :title1: true
-
-    `One Punch Man <https://fr.wikipedia.org/wiki/One_Punch_Man>`_
+    :source: https://fr.wikipedia.org/wiki/One_Punch_Man
 
     Un homme simple est si fort qu'il sauve le monde de tous les désastres
     avec un seul coup de poing. Personne ne lui résiste très longtemps.
@@ -415,8 +411,7 @@
     :index: démocratie
     :year: 2009
     :title1: true
-
-    `RideBack <https://fr.wikipedia.org/wiki/RideBack>`_
+    :source: https://fr.wikipedia.org/wiki/RideBack
 
     Le dernier épisode est incroyable avec la danse d'une jeune
     fille aux commandes de son pilote pour défendre la liberté.
@@ -431,14 +426,18 @@
     s'exprime avec parcimonie comme si le silence était une façon de
     se convaincre elle-même que la danse n'est pas si importante pour elle.
 
+    J'aime beaucoup le dernier épisode où le personnage principal danse sur son
+    robot-moto en évitant les missiles d'une milice. Elle se bat pour sa
+    liberté et pour la liberté. La survie de nos démocraties tient
+    parfois du miracle.
+
 .. quote::
     :manga: Sword Art Online
     :author: Reki Kawahara
     :index: virtualité
     :year: 2009
     :title1: true
-
-    `Sword Art Online <https://fr.wikipedia.org/wiki/Sword_Art_Online>`_
+    :source: https://fr.wikipedia.org/wiki/Sword_Art_Online
 
     Des milliers de joueurs restent coincés dans un monde virtuel,
     incapable de se déconnecter. On ne peut s'empêcher de se soucier
@@ -452,8 +451,7 @@
     :index: catastrophe
     :year: 2009
     :title1: true
-
-    `Tokyo Magnitude <https://fr.wikipedia.org/wiki/T%C3%B4ky%C3%B4_Magnitude_8.0>`_
+    :source: https://fr.wikipedia.org/wiki/T%C3%B4ky%C3%B4_Magnitude_8.0
 
     Un séisme dans la ville de Tokyo sépare une famille. Une adulte
     aide deux enfants à traverser une ville détruite pour retrouver
