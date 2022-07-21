@@ -5,7 +5,7 @@
 .. quote::
     :author: Paul Krugman
     :book: Pourquoi les crises reviennent toujours
-    :index: économie
+    :index: pyschologie
     :year: 2000
     :title1: true
     :source: https://fr.wikipedia.org/wiki/Pourquoi_les_crises_reviennent_toujours
@@ -58,6 +58,16 @@
     <http://www.xavierdupre.fr/app/code_beatrix/helpsphinx/histoires/anecdote_socio.html>`_.
 
 .. quote::
+    :author: Kathleen Meyer
+    :book: Comment chier dans les bois
+    :index: nature
+    :year: 2001
+    :title1: true
+
+    Un besoin impérieux est un sujet sérieux.
+    Surtout quand on est aussi nombreux sur terre.
+
+.. quote::
     :author: John Cleese, Robyn Skinner
     :book: Comment être un névrosé heureux
     :index: société
@@ -66,6 +76,21 @@
 
     Discussion sérieuse entre un comique et un psychiâtre.
     On parle de tout.
+
+.. quote::
+    :author: Clarissa Pinkola Estés
+    :book: Femmes qui courent avec les loups
+    :index: femme
+    :year: 2001
+    :title1: true
+
+    L'auteur revient sur le conte de Barbe Bleue, et d'autres aussi.
+    Ce conte est si étonnant, il coure tant de légendes sur lui.
+    Aucune de ses anciennes femmes n'a jamais réapparu.
+    Il a une barbe unique. Beaucoup de signes chez lui
+    font de lui un homme dangereux. Et pourtant une femme
+    ne peut s'empêcher de se marier avec lui. Et elle
+    se retrouve prise au piège. J'en suis sorti assez dérouté.
 
 .. quote::
     :author: Alain-Gérard Slama
@@ -126,6 +151,18 @@
     C'est quoi la normalité ?
 
 .. quote::
+    :author: Philip Ball
+    :book: Critical Mass
+    :index: science
+    :year: 2004
+    :title1: true
+    :source: https://en.wikipedia.org/wiki/Critical_Mass_(book)
+
+    Un livre, une série d'article scientifique, décrit de façon
+    pédagogique. Je m'en suis servi comme inspiration pour des
+    projets de simulation destinés à des étudiants.
+
+.. quote::
     :author: Anna Gavalda
     :book: Je l'aimais
     :index: amour
@@ -144,6 +181,17 @@
     Les réflexions d'un enfant sur un monde violent.
     C'est un thème souvent exploré.
     Mais quand c'est avec talent.
+
+.. quote::
+    :author: Kathleen Kelley-Lainé
+    :book: Peter Pan ou l'enfant triste
+    :index: psychologie
+    :year: 2005
+    :title1: true
+
+    L'auteur compare le héros du livre Peter Pan à son auteur,
+    un auteur qui jouait avec les enfants plus qu'il n'était
+    attiré par sa propre femme. Qui était Peter Pan ?
 
 .. quote::
     :author: Noam Chomsky

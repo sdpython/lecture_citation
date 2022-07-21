@@ -53,7 +53,7 @@
 .. quote::
     :author: Hannah Arendt
     :book: La Crise de la culture
-    :index: histoie
+    :index: histoire
     :year: 1961
     :title1: true
     :source: https://fr.wikipedia.org/wiki/La_Crise_de_la_culture
@@ -63,17 +63,32 @@
     C'est dans ce monde là que l'inégalité surgit.
 
 .. quote::
-    :author: Roald Dahl
-    :book: Charlie et la Chocolaterie
-    :index: enfant
-    :year: 1964
+    :author: Claude Lévi-Strauss
+    :book: La pensée sauvage
+    :index: sociologie
+    :year: 1962
     :title1: true
-    :source: https://fr.wikipedia.org/wiki/Charlie_et_la_Chocolaterie
+    :source: https://fr.wikipedia.org/wiki/La_Pens%C3%A9e_sauvage
 
-    Je n'ai reçu qu'un seul cadeau de la part d'un professeur.
-    Ce fut ce livre là, en CP, cadeau récompensant ma réussite.
-    Il est des livres qu'on n'oublie pas et Roald Dadl est
-    certainement un des plus grands auteur de livre pour enfants.
+    L'anthropologue étudie les populations du pacifique sud car
+    elles ont vécu longtemps isolées. Les rencontres sont une bonne
+    chose pour échanger, pour trouver de meilleures solutions à un problème.
+    Et pour autant, il faut savoir garder ses différences culturelles.
+    L'uniformisation réduit le champ des possibles, la diversité
+    augmente les chances de regarder une situation de mille
+    point de vue.
+
+.. quote::
+    :author: Edward T Hall
+    :book: La dimension cachée
+    :index: philosophie
+    :year: 1966
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/La_Dimension_cach%C3%A9e
+
+    Ce livre me fait penser à la société du spectacle de
+    Guy Debord. L'auteur fait des parallèles intéressants
+    entre plusieurs phénomènes.
 
 .. quote::
     :author: Mikhaïl Boulgakov

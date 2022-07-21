@@ -152,3 +152,11 @@
     slaveé, proclama déjà en 1844 le grand écrivain tchèque
     Karel Havlicek, qui mettait ses compatriotes en garde contre
     leur russophilie bête et irréaliste.
+
+.. quote::
+    :author: Woodie Guthrie
+    :book: ...
+    :year: 1960
+    :index: communisme
+
+    I ain't a communist necessarily, but I been in the red all my life.

@@ -44,3 +44,13 @@
     La vie d'un chef de guerre doué, admiré de tous,
     dont le talent est réduit à néant dès que sa maîtresse
     apparaît. Un petit livre incroyable.
+
+.. quote::
+    :author: André Breton
+    :book: Nadja
+    :index: amour
+    :year: 1928
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Nadja_(Andr%C3%A9_Breton)
+
+    J'aurais bien aimé rencontrer ces grands auteurs.

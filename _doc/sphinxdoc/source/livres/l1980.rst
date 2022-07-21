@@ -73,11 +73,21 @@
 .. quote::
     :author: John Irving
     :book: L'oeuuvre de Dieu, la Part du Diable
-    :index: enfanc
+    :index: enfance
     :year: 1985
     :title1: true
     :source: https://fr.wikipedia.org/wiki/L%27%C5%92uvre_de_Dieu,_la_Part_du_Diable_(roman)
 
     Une histoire racontée par John Irving est bien mieux qu'une série
     télévisée. Celle-ci parle intelligemment d'avortement. Entre autre.
+
+.. quote::
+    :author: Jim Harrison
+    :book: Dalva
+    :index: vie
+    :year: 1988
+    :title1: true
+
+    Le récit d'une vie sinueuse.
+
 

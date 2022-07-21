@@ -25,4 +25,25 @@
 
     J'adore cette auteure.
 
-    
+.. quote::
+    :author: Marie-Aude Murail
+    :ado: Vivre la République !
+    :index: enfant
+    :year: 2006
+    :title1: true
+
+    J'ai pensé à Pennac en le lisant.
+    Et c'est aussi le quotidien de professeurs
+    dans les années 2000, dans ce qu'il y a beau
+    et de moche. Le même livre aujourd'hui
+    serait peut-être un peu plus sombre.
+
+.. quote::
+    :author: Rachel Hausfater
+    :ado: Un soir, j'ai divorcé de mes parents
+    :index: enfant
+    :year: 2009
+    :title1: true
+
+    Un juste retour des choses.
+

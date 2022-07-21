@@ -1,0 +1,16 @@
+=====
+1960-
+=====
+
+.. quote::
+    :author: Roald Dahl
+    :book: Charlie et la Chocolaterie
+    :index: enfant
+    :year: 1964
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Charlie_et_la_Chocolaterie
+
+    Je n'ai reçu qu'un seul cadeau de la part d'un professeur.
+    Ce fut ce livre là, en CP, cadeau récompensant ma réussite.
+    Il est des livres qu'on n'oublie pas et Roald Dadl est
+    certainement un des plus grands auteur de livre pour enfants.

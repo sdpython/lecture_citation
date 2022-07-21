@@ -3,6 +3,16 @@
 =====
 
 .. quote::
+    :author: André Breton
+    :book: L'amour fou
+    :index: amour
+    :year: 1937
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/L%27Amour_fou
+
+    Vivre l'amour et l'étudier en même temps.
+
+.. quote::
     :author: John Steinbeck
     :book: Des souris et des hommes
     :index: religion

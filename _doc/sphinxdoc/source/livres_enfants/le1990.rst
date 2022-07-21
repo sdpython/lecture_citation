@@ -15,3 +15,15 @@
     sans doute de résoudre la réchauffement climatique.
     Faut-il les garder une fois la crise passée ?
     Est-ce seulement une question de pouvoir ?
+
+.. quote::
+    :author: Louis Sachar
+    :book: Le passage
+    :index: enfant
+    :year: 1998
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Le_Passage_(roman,_1998)
+
+    La vie difficile d'un adolescent vu de son propre point de vue
+    et avec un peu d'humour. Je ne savais pas que les scorpions
+    détestaient les oignons.
