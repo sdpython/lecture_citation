@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/python:3.10.1
+      - image: cimg/python:3.10.5
     
     working_directory: ~/repo
     
@@ -18,8 +18,8 @@ jobs:
           name: Install pandoc
           command: |
                     sudo apt-get update 
-                    wget https://github.com/jgm/pandoc/releases/download/2.14.1/pandoc-2.14.1-1-amd64.deb
-                    sudo dpkg -i pandoc-2.14.1-1-amd64.deb
+                    wget https://github.com/jgm/pandoc/releases/download/2.18/pandoc-2.18-1-amd64.deb
+                    sudo dpkg -i pandoc-2.18-1-amd64.deb
 
       - run:
           name: Install tex
@@ -47,8 +47,6 @@ jobs:
       - run:
           name: install dependencies
           command: |
-            python3 -m venv venv
-            . venv/bin/activate
             pip install -r requirements.txt
 
       - save_cache:
@@ -59,14 +57,12 @@ jobs:
       - run:
           name: run tests
           command: |
-            . venv/bin/activate
             export PYTHONPATH=src
             python setup.py unittests
 
       - run:
           name: wheel
           command: |
-            . venv/bin/activate
             export PYTHONPATH=src
             python setup.py bdist_wheel
             mkdir -p test-reports/dist
@@ -75,7 +71,6 @@ jobs:
       - run:
           name: documentation
           command: |
-            . venv/bin/activate
             export PYTHONPATH=src
             python setup.py build_sphinx
             
