@@ -60,7 +60,7 @@
     Mais qu'est-ce qu'il est bien écrit !
 
 .. quote::
-    :author: Jared Diarmond
+    :author: Jared Diamond
     :book: Pourquoi l'amour est un plaisir
     :index: économie
     :year: 1997
@@ -73,14 +73,14 @@
     à notre survie. Alors ?
 
 .. quote::
-    :author: Jared Diarmond
+    :author: Jared Diamond
     :book: De l'inégalité parmi les sociétés
     :index: histoire
     :year: 1998
     :title1: true
     :source: https://fr.wikipedia.org/wiki/De_l%27in%C3%A9galit%C3%A9_parmi_les_soci%C3%A9t%C3%A9s
 
-    Jared Diarmond présente l'histoire avec limpidité.
+    Jared Diamond présente l'histoire avec limpidité.
     L'histoire, tous ces petits faits assemblés dans un puzzle
     dont l'auteur nous conte l'image finale.
 

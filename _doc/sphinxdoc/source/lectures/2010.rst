@@ -3384,7 +3384,7 @@
     militaires durant la guerre froide.
 
 .. quote::
-    :author: Jared Diarmond
+    :author: Jared Diamond
     :book: Effondrement
     :index: habitude
     :year: 2010
@@ -3405,7 +3405,7 @@
     alimentaire.
 
 .. quote::
-    :author: Jared Diarmond
+    :author: Jared Diamond
     :book: Effondrement
     :index: innovation
     :year: 2010
@@ -3414,12 +3414,12 @@
     pouvoir, le prestige et les intérêts étroits des chefs.
 
 .. quote::
-    :author: Jared Diarmond
+    :author: Jared Diamond
     :book: Effondrement
     :index: sécheresse
     :year: 2010
 
-    Les petits villages de quelques centaines d'ahbitants
+    Les petits villages de quelques centaines d'habitants
     peuvent survivre à une sécheresse de cinq années, comme il
     en arrive souvent sous le climat imprévisible d'Australie,
     parce que le village n'a guère d'activité économique. Les
@@ -3429,7 +3429,7 @@
     disparaître les villes moyennes.
 
 .. quote::
-    :author: Jared Diarmond
+    :author: Jared Diamond
     :book: Effondrement
     :index: morale
     :year: 2010
@@ -3445,7 +3445,7 @@
     mais elle n'est pas suffisante.
 
 .. quote::
-    :author: Jared Diarmond
+    :author: Jared Diamond
     :book: Effondrement
     :index: riche
     :year: 2010
@@ -3456,7 +3456,7 @@
     derniers à mourir de faim.
 
 .. quote::
-    :author: Jared Diarmond
+    :author: Jared Diamond
     :book: Effondrement
     :index: Pays-Bas
     :year: 2010
@@ -4914,7 +4914,7 @@
     étions faits.
 
 .. quote::
-    :author: Jared Diarmond
+    :author: Jared Diamond
     :book: Pourquoi l'amour est un plaisir
     :index: plaisir
     :year: 2010
@@ -4926,7 +4926,7 @@
     pendant ces années tout au plus une douzaine d'enfants.
 
 .. quote::
-    :author: Jared Diarmond
+    :author: Jared Diamond
     :book: Pourquoi l'amour est un plaisir
     :index: pénis
     :year: 2010
