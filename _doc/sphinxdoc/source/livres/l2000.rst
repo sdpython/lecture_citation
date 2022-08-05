@@ -300,3 +300,23 @@
     qu'est le tête à tête d'un gynécologue avec une femme.
     Et comme tout acte médical, il évolue, même si les préjugés
     issus de notre éducation sont un frein.
+
+.. quote::
+    :author: Fabrice d'Almeida, Nicolas Baverez, Jean-Luc Domenach, Bernard Droz, Edouard Husson, Emmanuel Le Roy Ladurie, Pierre Milza, Anthony Rowley, Laurent Theis, Nicolas Werth
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :index: économie
+    :year: 2009
+    :title1: true
+    :source: https://www.librairie-gallimard.com/livre/9782262030308-crises-chaos-et-fins-de-monde-des-mayas-au-krach-de-2008-collectif/
+
+    De courts chapitres sur une crise différente, à chaque fois,
+    l'enchaînement de décisions qui aboutit au résultat final.
+    Quelques dirigeants intelligents, plus altruistes, auraient-ils
+    fait la différence ? Difficile à dire. Je retiens quelques réflexions
+    intéressantes. La société romaine reposait sur un consensus, 
+    un échange entre riches et pauvres, une façon de limiter les inégalités
+    du vivant des citoyens. La religion chrétienne a inventé
+    l'au-delà. Chacun n'est plus tenu
+    de partager ses richesses de son vivant. Il le fera dans l'au-delà,
+    jugé par celui qu'on ne voit jamais.
+    Cette religion a eu raison de l'empire romain.

@@ -160,3 +160,46 @@
     :index: communisme
 
     I ain't a communist necessarily, but I been in the red all my life.
+
+.. quote::
+    :author: Fabrice d'Almeida, Nicolas Baverez, Jean-Luc Domenach, Bernard Droz, Edouard Husson, Emmanuel Le Roy Ladurie, Pierre Milza, Anthony Rowley, Laurent Theis, Nicolas Werth
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: effondrement
+    :pages: 11
+
+    Les Romains vivent une sorte de deuil familial ;
+    ils mesurent ce qu'ils ont perdu à l'aune de leurs habitudes.
+    Leur première impression est celle d'une vie quotidienne gâchée ;
+    l'effondrement économique et la régression viennent plus tard. Ainsi
+    le poète Rutilius Namatianus n'est pas long à repérer les signes
+    de barbarisation : les maisons reconstruites ne lui paraissent
+    pas aussi solides que les anciennes, faute d'ouvrier sachant maçonner
+    avec du mortier et des tuiles au crochet ; les gens se sont appauvris
+    puisqu'on trouve de moins en moins de monnaies divisionnaires
+    et qu'ils en sont réduits au troc, signe indubitable de barbarie
+    pour un Romain.
+
+.. quote::
+    :author: Fabrice d'Almeida, Nicolas Baverez, Jean-Luc Domenach, Bernard Droz, Edouard Husson, Emmanuel Le Roy Ladurie, Pierre Milza, Anthony Rowley, Laurent Theis, Nicolas Werth
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: inégalité
+    :pages: 13
+
+    En proposant un choix biaisé entre récupération ou
+    muséification laissé à l'abandon, les chrétiens réalisèrent
+    un coup de maître. Rome et son histoire étaient circonscrites
+    à un temps héroïque désormais clos, celui des Anciens.
+    Sur leurs épaules étaient juchés des Modernes qui pouvaient
+    s'appropier le principe fondateur du régime impérial :
+    une alliance inégale entre les individus que rien ne
+    prédisposait à vivre ensemble, compensée par la bienfaisance
+    ostentatoire des puissants, ceux-ci donnant beaucoup et de manière
+    ritualisée en contrepartie de leur autorité. En utilisant le 
+    don ritualisé et répétable à volonté du chef - la communion
+    pendant la messe -, les chrétiens allaient faire admettre qu'une
+    répartition sociale de hasard serait corrigée dans l'au-delà :
+    les pauvres d'aujourd'hui seraient riches, un jour. L'inventaire
+    de ce royaume imaginaire où l'on vivrait éternellement signait
+    la fin du monde romain.
