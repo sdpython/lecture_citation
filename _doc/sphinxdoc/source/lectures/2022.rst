@@ -159,7 +159,7 @@
     :year: 1960
     :index: communisme
 
-    I ain't a communist necessarily, but I been in the red all my life.
+    I ain't a communist necessarily, but I've been in the red all my life.
 
 .. quote::
     :author: Anthony Rowley
