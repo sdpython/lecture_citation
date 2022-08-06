@@ -264,3 +264,123 @@
     forme de crédits destinés à réparer les ravages de la guerre
     et à disposer des moyens militaires nécessaires à une autre
     destruction.
+
+.. quote::
+    :author: Nicols Werth
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: URSS
+    :pages: 85
+
+    Les rapports quotidiens de la police politiques sur le front
+    de la collectivisation permettent de prendre la vraie mesure
+    des résistances paysannes : près de 14.000 tumultes, désordes,
+    manifestations de masses, émeutes et rébellions éclatent au
+    cours de l'année 1930 (dont plus de 8000 pour les seuls mois
+    de février-mars). Par leur ampleur, ces résistances contraignirent -
+    fait unique durant l'ensemble de la période stalinienne - le groupe
+    dirigeant au pouvoir à reculer et à proclamer une pause dans le
+    rythme effréné de la collectivisation.
+
+.. quote::
+    :author: Nicolas Werth
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: Holodomor
+    :pages: 88
+
+    Staline en personne rédigea la loi du 7 août 1932, qui permettait
+    de condamner à dix ans de camp, voire - en cas de vol aggravé -
+    à la peine de mort, toute dilapidation de la propriété sociale.
+    Dans les mois qui suivent, la promulgation de ce texte, des centaines
+    de milliers de paysans ayant coupé quelques épis dans les champs
+    collectifs pour survivre furent condamnés à de lourdes peines
+    de travaux forcés et envoyés au Goulag. [...] La famine fut le prix
+    à payer de cette terreur : plusieurs centaines de morts dans la région
+    de la Volga, autant au Kouban, entre 3 et 4 millions de morts en Ukraine
+    (sans parler des 1,4 million de morts au Kazahstan). Dans le cas
+    de l'Ukraine, comme le montre la correspondance de Staline avec
+    ses plus proches collaborateurs, notamment Kazanovitch et Molotov,
+    les dirigeants soviétiques ont délibérément décidé à partir de
+    l'été 1932, d'aggraver la famine qui commençait, de l'instrumentaliser
+    pour punir la paysannerie ukrainienne, considérée comme le réservoir
+    et le vivier d'un nationalisme perçu comme sa principale menace
+    au projet de construction d'un Etat soviétique centralisé et
+    dictatorial. [...] Le 22 janvier 1933, Staline en personne rédige
+    une directive secrète ordonnant de mettre immédiatement fin à
+    l'exode des paysans qui fuient l'Ukraine et le Kouban sous prétexte
+    d'aller chercher du pain. Pour Staline, ces fuyards affamés 
+    sont manipulés par les services secrets polonais et n'ont pour
+    seul objectif que de discréditer le sytème kolkhozien en répandant
+    de fausses rumeurs. Dès le lendemain, la police politique déploie
+    des patrouilles autour des routes et des gares, la vente de billets
+    de chemin de fer est suspendue, les fuyards interceptés renvoyés
+    dans leur village ou incarcérés. Aucune aide alimentaire
+    n'est débloqué pour les affamés : là-bas des gens meurent dans un
+    silence généralisé. Le terme qui sert à désigner aujourd'hui en
+    Ukraine la famine de 1932-1933, Holodomor, est explicite :
+    il résulte de la fusion des mots *golod* (la faim) et *moryty*
+    (tuer par privation).
+
+.. quote::
+    :author: Edouard Husson
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: élections
+    :pages: 90
+
+    En deux ans, les conséquences catastrophiques de la politique
+    de Brüning apparurent dans l'électorat. Le résultat des élections
+    de juillet 1932 éclata comme une coup de tonnerre. Face au NDSAP,
+    il ne restait guère que trois partis, à peu près égaux
+    en force mais dont l'alliance était impossible : le KPD, le SPD
+    et le Zentrum. Aucune combinaison deux à deux n'était envisageable.
+    [...] Encore faut-il noter qu'elle n'aurait pas suffi : seule la
+    combinaison des trois forces pouvait être majoritaire.
+    Hilter n'avait plus qu'un obstacle devant lui mais il lui restait
+    peut-être, contrairement aux apparences, le plus difficile à 
+    effectuer : s'imposer dans un jeu des élites où il partait avec
+    un préjugé défavorable du président Hindenboug, son seul vrai
+    rival lorsqu'il s'agissait de conquérir les suffrages. [...]
+    C'est une leçon essentielle de la crise des années 1929-1933
+    en Allemagne. Les élites qui étaient à l'origine de la catastrophe
+    sont aussi celles qui, au nom de la résolution de la crise,
+    en vinrent à aggraver celle-ci. Après la réunion de Dusseldorf,
+    plusieurs entreprises allemandes commencèrent à prendre au
+    sérieux l'hypothèse Hitler.
+
+.. quote::
+    :author: Anthony Rowley
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: Europe
+    :pages: 100
+
+    L'URSS ne livrait ni pétrole, ni matières premières ; de leur
+    côté, Polonais, Yougoslave et Roumains soutenaient la
+    Tchécoslovaquie, ces derniers annonçant qu'ils interrompaient
+    leurs livraisons de pétole au Reich en cas d'agression. Enfin,
+    début octobre, la commission de défense du Reich avertit
+    Goering qu'il était impossible de satisfaire les demandes
+    de l'armée en vue de l'occupation des Sudètes, tout en faisant
+    construire une ligne fortifiée à l'ouest [la ligne Siegfried]
+    et en assurant la marche de la machine industrielle. Au-delà
+    du 10 octobre, la catastrophe économique est inévitable.
+    La fallut un mois au Reichmarshall et à Hitler pour admettre
+    l'évidence : il n'y avait plus un ouvrier, ni une machine,
+    ni un mark disponible. Soit une situation comparable
+    à celle de l'automne 1917 lorsque commença la lente désintégration
+    de la machine de guerre du Kaiser. Voilà qui nous ramène
+    à Munich : comment expliquer que les Franco-Britanniquess n'aient
+    pas pris la mesure des faiblesses allemandes, ni exploité
+    l'occasion offerte par Hitler de lui porter un coup d'arrêt,
+    sans doute décisif ? Sur le moment, cela tient à une erreur de
+    jugement, imputable pour l'essentiel aux Français. En août 1938,
+    le chef d'état major de l'aviation, Joseph Vuillemin rentra
+    d'une visite en Allemagne estomaqué par les démonstrations de la
+    Luftwaffe auxquelles il avait été convié. Il carillonna son
+    inquiétude auprès des ténors politiques. [...] Seulement
+    ses sympathies nazies auraient dû mettre la puce à l'oreille 
+    des dirigeants. Pas le moins du monde ; le vieux truc des villages
+    Potemkine - le decorum caché misère avait marché grâce aux 
+    talents de bateleur d'Hermann Goering et consorts.
