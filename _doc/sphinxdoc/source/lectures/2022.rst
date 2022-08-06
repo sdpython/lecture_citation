@@ -162,7 +162,7 @@
     I ain't a communist necessarily, but I been in the red all my life.
 
 .. quote::
-    :author: Fabrice d'Almeida, Nicolas Baverez, Jean-Luc Domenach, Bernard Droz, Edouard Husson, Emmanuel Le Roy Ladurie, Pierre Milza, Anthony Rowley, Laurent Theis, Nicolas Werth
+    :author: Anthony Rowley
     :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
     :year: 2009
     :index: effondrement
@@ -181,7 +181,21 @@
     pour un Romain.
 
 .. quote::
-    :author: Fabrice d'Almeida, Nicolas Baverez, Jean-Luc Domenach, Bernard Droz, Edouard Husson, Emmanuel Le Roy Ladurie, Pierre Milza, Anthony Rowley, Laurent Theis, Nicolas Werth
+    :author: Anthony Rowley
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: histoire
+    :pages: 12
+
+    Quant aux règlements admninistratifs, ils portaient encore la marque
+    impériale après la chute de Rome : au concile de Francfort,
+    en 794, Charlemagne rappelle que la puissance centrale a autorité
+    sur la fixation des prix et des fonds ; etn le royaume de Bourgogne
+    a beau être dans l'orbite théorique de ces Francs si peu romains,
+    ses lois viennent pour l'essentiel de Rome.
+
+.. quote::
+    :author: Anthony Rowley
     :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
     :year: 2009
     :index: inégalité
@@ -203,3 +217,50 @@
     les pauvres d'aujourd'hui seraient riches, un jour. L'inventaire
     de ce royaume imaginaire où l'on vivrait éternellement signait
     la fin du monde romain.
+
+.. quote::
+    :author: Anthony Rowley
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: climat
+    :pages: 40
+
+    Mais ce désastre climatique paraît une explication trop opportune
+    aux croisés de l'écocide contemporain, soucieux de montrer la
+    désertification de l'île de Pâques comme un modèle réduit de ce
+    qui nous menace si nous persistons à conduire des activités
+    humaines débridées. C'est ainsi que le mystère des statues est
+    revenu au premier plan. En analysant l'érosion subie par le tuf
+    volcanique dont les colosses sont constitués, on a peu établir
+    qu'ils avaient été érigés pour la plupart entre 1600 et 1730, en 
+    pleine crise climatique. Dès lors, le scénario de la folie 
+    autodestructrice des hommes prend corps. Les 600 géants de pierre
+    auraient été construits pour conjurer la menace écologique, leur
+    nombre comme leur taille s'expliqueraient par une surenchère
+    entre clans. La rivalités des hommes avait ainsi accéléré
+    les effets de la sècheresse. Acharnés à construire des bateaux,
+    cuisiner, se chauffer, transporter leurs totems malgré un bois
+    devenu rare, les Pascuans se seraient décimés autant par un
+    exhibitionnisme stérile qu'au long de guerres tribales.
+
+.. quote::
+    :author: Anthony Rowley
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: Europe
+    :pages: 75
+
+    Et voilà qu'en 1919, les Américains décrétaient que l'immigration
+    européenne n'était plus une ressource mais un danger et ces anciens
+    débiteurs devenus créanciers exigeaient leur dû. En Europe, cette
+    attitude avait un nom : la politique du vide. Au lieu de remplir
+    les Etats-Unis, le flot humain allait se déverser dans un vieux
+    monde dévasté pour avoir servi de champ de bataille dans une
+    guerre oecuménique et dont les habitants se hérissaient à l'idée
+    d'accueillir des étrangers si bien qu'on inventa le passeport
+    olibgatoire pour franchir les multiples frontières dessinées
+    par les Traités de paix. Quant à l'or des Européens, il sortait
+    des coffres-forts en direct de Washington avant de revenir sous
+    forme de crédits destinés à réparer les ravages de la guerre
+    et à disposer des moyens militaires nécessaires à une autre
+    destruction.
