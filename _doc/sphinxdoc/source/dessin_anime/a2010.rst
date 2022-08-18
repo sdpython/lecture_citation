@@ -34,8 +34,7 @@
     :index: renaissance
     :year: 2011
     :title1: true
-
-    `Shigatsu wa kimi no uso <https://fr.wikipedia.org/wiki/Your_Lie_in_April>`_
+    :source: https://fr.wikipedia.org/wiki/Your_Lie_in_April
 
     Une adolescente apprend qu'il lui reste neuf mois à vivre.
     Sa vie et son violon se confondent. Elle vit autant qu'elle peut.
@@ -44,6 +43,50 @@
     Leurs deux chemins se croisent. Toute cette énergie qui déborde en elle,
     elle la lui transmet, comme si sa mort à elle avait pour but
     de ressusciter sa passion à lui.
+    Je n'arrive pas à regarder ce manga sans pleurer à la fin.
+    J'y vois des personnages qui luttent contre eux-mêmes, contre
+    le monde qui les entoure, qui cherchent, comme Gena Rownland
+    dans Opening Night ou cet enfant dans Piano Forest.
+
+.. quote::
+    :author: Torako
+    :manga: Love, Chunibyo and Other Delusions!
+    :index: iconoclaste
+    :year: 2011
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Love,_Chunibyo_and_Other_Delusions!
+
+    J'adore ce manga et ces adolescents qui d'une certaine façon ont
+    le choix de renier ce qu'ils sont pour s'insérer plus facilement
+    dans une société trop normée ou résister de toute leur imagination
+    pour faire de leur monde un endroit où la féérie existe.
+    Que faire quand le monde vous demande de redescendre sur terre
+    et d'accepter la réalité telle qu'elle est ? N'est-ce pas le devoir
+    de chacun de l'embellir à sa façon ? La petite troupe de personnages
+    secondaires est très réussie, chacun poursuit ses délires ou y 
+    résiste à sa façon.
+
+.. quote::
+    :author: Wataru Watari
+    :manga: My Teen Romantic Comedy is Wrong as I Expected
+    :index: iconoclaste
+    :year: 2011
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/My_Teen_Romantic_Comedy_is_Wrong_as_I_Expected
+
+    Deux adolescents très brillants ont accepté la solitude qui
+    est leur quotidien. Ils donnent tout un tas de raisons pour lesquelles
+    ils préfèrent leur solitude à la compagnie des autres.
+    Ils s'ennuient, ils préfèrent un livre aux discussions inintéressantes,
+    ils ont des mots qui tranchent...
+    Un professeur a décidé d'aller à l'encontre de leur souhait et leur
+    impose quelques tâches saugrenues, des problèmes à résoudre.
+    Ils s'estiment, quoique leurs mots laissent parfois penser le
+    contraire. Le professeur leur offre un endroit où ils peuvent
+    partager leur solitude bien qu'ils doivent se le partager.
+    Ils feront tout pour le garder bien que le professeur s'amuse
+    à les titiller.
+    Les personnages secondaires sont très réussis.
 
 .. quote::
     :author: Tomonori Inoue
