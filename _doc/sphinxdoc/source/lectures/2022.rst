@@ -445,3 +445,27 @@
     :link: https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/le-paradis-est-ici-5024767
 
     J'apprenais à être moi-même. J'apprenais à laisser l'autre être lui.
+
+.. quote::
+    :author: Agatha Christie
+    :book: Une poignée de seigle
+    :year: 1953
+    :index: mouton
+    :link: https://fr.wikipedia.org/wiki/Une_poign%C3%A9e_de_seigle
+    :pages: 5
+
+    Miss Somers était la dernière entrée des dactylos, et la moins bonne.
+    Plus très jeune, avecc son visage doux et inexpressif, elle faisait
+    songer à un mouton.
+
+.. quote::
+    :author: Agatha Christie
+    :book: Une poignée de seigle
+    :year: 1953
+    :index: problème
+    :link: https://fr.wikipedia.org/wiki/Une_poign%C3%A9e_de_seigle
+    :pages: 173
+
+    Un problème n'est pas résolu quand on lui a donné une solution
+    boiteuse. C'est Kipling qui a dit ça. On ne lit plus Kipling,
+    mais c'était un grand homme.
