@@ -469,3 +469,128 @@
     Un problème n'est pas résolu quand on lui a donné une solution
     boiteuse. C'est Kipling qui a dit ça. On ne lit plus Kipling,
     mais c'était un grand homme.
+
+.. quote::
+    :author: Mickaël Launay
+    :book: Le grand roman des maths
+    :year: 2016
+    :index: maths
+    :link: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :pages: 8
+
+    Observer l'expression des gens qui se croyaient irrémédiablement
+    fâchés avec les maths au moment où je leur apprends qu'ils viennent
+    d'en faire pendant un quart d'heure. Et mon stand ne désemplit pas !
+    J'y présente de l'origami, des tours de magie, des jeux, des énigmes...
+
+.. quote::
+    :author: Mickaël Launay
+    :book: Le grand roman des maths
+    :year: 2016
+    :index: caillou
+    :link: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :pages: 29
+
+    Pas question pour les propriétaires de laisser partir leurs moutons
+    sans avoir pris quelques précautions. Avec les bergers, le contrat est
+    clair : il doit revenir autant de têtes qu'il en est parti. Il ne s'agit
+    pas de laisser s'égarer une partie du troupeau ou d'en troquer
+    quelques-uns sous le manteau. Un problème se pose alors : comment
+    comparer la taille du troupeau qui est parti avec celle du troupeau
+    qui est revenu ? Pour répondre à cette question, depuis quelques
+    siècles déjà, un système de jetons d'argile a été développé. Il existe
+    plusieurs types de jetons, comptant chacun pour un ou plusieurs
+    objets ou animaux selon leur forme et les motifs qui y sont tracés.
+    Pour un mouton, il s'agit d'un simple disque marqué d'une croix.
+    Au moment du départ, on place dans un récipient une quantité de jetons
+    correspondant à la taille du troupeau. Il suffira au retour de comparer
+    le troupeau au contenu du récipient pour vérifier qu'aucune bête ne
+    manque à l'appel. Bien plus tard, ces jetons recevront le nom latin
+    de *calculi*, "petits cailloux", qui donneront naissance au mot
+    *calcul*.
+
+.. quote::
+    :author: Mickaël Launay
+    :book: Le grand roman des maths
+    :year: 2016
+    :index: axiome
+    :link: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :pages: 90
+
+    Euclide pose les cinq axiomes suivant [voir `Géométrie euclidienne
+    <https://fr.wikipedia.org/wiki/G%C3%A9om%C3%A9trie_euclidienne>`_] [...]
+    Les débats sur le choix du cinquième axiome perdurèrent jusqu'au
+    XIXe siècle où elles finirent par aboutir sur la création de nouveaux
+    modèles géométriques dans lesquels cet axiome est faux.
+
+.. quote::
+    :author: Mickaël Launay
+    :book: Le grand roman des maths
+    :year: 2016
+    :index: Moyen-Age
+    :link: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :pages: 162
+
+    Au cours de la période médiévale, il faut bien l'avouer, les
+    mathématiques n'ont pas le vent en poupe en Europe. On trouve cependant
+    quelques exceptions. Le plus grand mathématicien européen du Moyen-Age
+    est sans doute l'italien Leonardo Fibonacci, né à Pise en 1175
+    et mort en 1250 dans cette même ville. [...] Il publie en 1202 le *Liber Acci*,
+    "le livre des calculs", dans lequel il présente toute une palette des
+    mathématiques de l'époque, allant des chiffres arabes à la géométrie
+    d'Euclide, en passant par des résultats de l'arithmétique de Diophante
+    ou des calculs de suites arithméatiques.
+
+.. quote::
+    :author: Mickaël Launay
+    :book: Le grand roman des maths
+    :year: 2016
+    :index: imprimerie
+    :link: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :pages: 189
+
+    La propagation de ces nouvelles idées est largement soutenue
+    par l'arrivée d'une toute nouvelle invention mise au point dans
+    les années 1450 par l'Allemend Johannes Gutenberg :
+    l'imprimerie à caractères mobiles. Grâce à ce procédé, il est maintenant
+    possible d'imprimer très rapidement de nombreux exemplaires d'un livre et
+    de le diffuser à grande échelle. Dès 1482, les *Elements* d'Euclide
+    furent le premier ouvrage mathématique à passer sous les presses à Venise.
+
+.. quote::
+    :author: Mickaël Launay
+    :book: Le grand roman des maths
+    :year: 2016
+    :index: Viète
+    :link: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :pages: 193
+
+    C'est en 1591 que François Viète publie ce qui va devenir son oeuvre principale :
+    *In artem analyticem isagoge*, ou l'*Introduction à l'art analytique,
+    souvent nommé par le seul nom d'*Isagoge*. Etrangement, ce n'est pas pour
+    les théorèmes ou les démonstrations mathématiques qu'il y développe
+    que l'*Isagoge* fera date, mais pour la façon dont ces résultats sont
+    formulés. Viète va être le principal instigateur de l'algèbre nouvelle
+    qui va faire surgir, en quelques décennies, un tout nouveau langage.
+    [...] L'algébre rhétorique est non seulement très longue à écrire, mais
+    elle souffre en plus de certaines ambiguïtés de la langue qui peuvent
+    donner à la même phrase plusieurs interpétations. [...] Vers 1460, 
+    l'Allemand Johannes Wildmann est le premier à employer les signes
+    + et - pour désigner l'addition et la soustration. Au début du XVIe siècle,
+    Tartaglia est l'un des premiers à utiliser les parenthèses dans les calculs.
+    En 1557, l'Anglais Robert Recorde utilise la première fois le signe =
+    pour désigner l'égalité. En 1608, le Néerlandais Rudolph Snellius se
+    sert d'une virgule pour séparer la partie entière et la partie décimale
+    d'un nombre. En 1621, c'est l'Anglais Thomas Harriot
+    qui introduit les signes < >. En 1631, l'Anglais William Oughtred
+    utilise la croix x pour noter la multiplication et devient en 1647 le
+    premier à utiliser la lettre grecque :math:`\pi`. [...] Viète lance
+    dans l'*Isagoge* un vaste programme de modernisation de l'algèbre et en
+    pose la clef de voûte en introduisant le calcul littéral, c'est-à-dire
+    le calcul avec les lettres de l'alphabet. Sa proposition est aussi
+    simple que déroutante : nommer les inconnues des équations par
+    des voyelles et les nombres connus par des consonnes. Cette répartition
+    des voyelles et consonnes sera pourtant rapidement abandonnée au
+    profit d'une suggestion légèrement différente de René Descartes :
+    les premières lettres de l'alphabet désigneront les quantités connues,
+    et les dernières seront les inconnues.
