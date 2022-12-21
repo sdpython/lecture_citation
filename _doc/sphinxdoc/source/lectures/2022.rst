@@ -594,3 +594,21 @@
     profit d'une suggestion légèrement différente de René Descartes :
     les premières lettres de l'alphabet désigneront les quantités connues,
     et les dernières seront les inconnues.
+
+.. quote::
+    :author: Gen Urobuchi, Katsuhiko Takayama
+    :book: Alnoah.Zero
+    :year: 2014
+    :index: guerre
+    :link: https://fr.wikipedia.org/wiki/Aldnoah.Zero
+    :pages: 12
+
+    - Pourquoi la guerre s'arrêtre ?
+
+    - Parce que ceux qui la font en découvre l'absurdité.
+
+    - Non, parce qu'elle n'est plus utile économiquement, soit
+      parce que l'objectif est atteint, soit parce que la guerre
+      a tellement changé la donné que l'objectif initial n'a plus
+      de sens.
+
