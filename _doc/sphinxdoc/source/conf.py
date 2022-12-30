@@ -11,8 +11,9 @@ local_template = os.path.join(os.path.abspath(
 
 set_sphinx_variables(__file__, "lecture_citation", "Xavier Dupré", 2022,
                      "alabaster", alabaster.get_path(),
-                     locals(), extlinks=dict(
-                         issue=('https://github.com/sdpython/lecture_citation/issues/%s', 'issue')),
+                     locals(), extlinks=dict(issue=(
+                         'https://github.com/sdpython/lecture_citation/issues/%s',
+                         'issue %s')),
                      title="Souvenirs de lecture", book=True, nblayout='table')
 
 blog_root = "http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/"
