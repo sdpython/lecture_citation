@@ -36,6 +36,24 @@
     inintéressant.
 
 .. quote::
+    :author: Chiaki Morosawa
+    :manga: Mobile Suit Gundam SEED
+    :index: guerre
+    :year: 2002
+    :title1: true
+    :source: https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_SEED
+
+    C'est sans doute la série que je présente de tous les 
+    Gundam. La guerre est un cercle vicieux qui ne s'arrête souvent
+    dans les dessins animés que lorsque l'un des combattants
+    disparaît. Puis la paix revient. Des camps se reforment.
+    Et chacun cherche à se prémunir
+    d'une nouvelle guerre en construisant des armes suffisamment
+    puissantes pour se mettre à l'abri et taire toute contestation.
+    Le manga fait évoluer des personnages dans ce décor, chacun représente
+    un point de vue différent, chacun évolue.
+
+.. quote::
     :author: Koichi Chigira
     :manga: Last Exile
     :index: épopée

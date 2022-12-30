@@ -69,6 +69,20 @@
     *Réalité refusée* est sans doute la phrase que je préfère.
 
 .. quote::
+    :author: Mao Nanami
+    :manga: Real Girl
+    :index: amour
+    :year: 2011
+    :title1: true
+    :source: https://en.wikipedia.org/wiki/Real_Girl_(manga)
+
+    C'est l'histoire entre un geek et la plus belle fille de la classe.
+    C'est aussi l'histoire de deux adolescents qui apprennent à dépasser
+    les apparences. Le manga explore les sentiments de deux personnes
+    surprises par leur attirance mutuelle et leur sceptissime parfois.
+    L'auteur choisit de ne pas prolonger inutilement le manga.
+
+.. quote::
     :author: Wataru Watari
     :manga: My Teen Romantic Comedy is Wrong as I Expected
     :index: iconoclaste
@@ -184,7 +198,7 @@
 .. quote::
     :author: Hiroyuki Kawasaki, Astrid Lindgren
     :manga: Sanzoku no Musume Rōnya
-    :index:
+    :index: vie
     :year: 2014
     :title1: true
 
@@ -268,7 +282,9 @@
     d'une petite amie pour aller rendre visite à sa grand-mère qui
     est malade. Les deux personnages évoluent constamment
     entre amour et répulsion. Les mensonges s'accumulent et il devient
-    toujours plus délicat de s'en extirper.
+    toujours plus délicat de s'en extirper. Cela dit, le manga étire
+    rapidement l'histoire de façon inutile. Passé les premiers chapitres,
+    il est difficile de continuer.
 
 .. quote::
     :author: Shimesaba
