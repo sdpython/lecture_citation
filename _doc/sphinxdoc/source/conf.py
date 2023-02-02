@@ -20,7 +20,7 @@ blog_root = "http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/"
 html_search_language = "fr"
 pygments_style = 'sphinx'
 html_css_files = ['my-styles.css']
-html_logo = "phdoc_static/project_ico.png"
+html_logo = "_static/project_ico.png"
 language = "fr"
 mathdef_link_only = True
 
