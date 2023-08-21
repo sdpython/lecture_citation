@@ -11,7 +11,6 @@ extensions = [
     "sphinx.ext.githubpages",
     "sphinx.ext.ifconfig",
     "sphinx.ext.intersphinx",
-    "sphinx.ext.linkcode",
     "sphinx.ext.viewcode",
     "sphinx.ext.napoleon",
     "sphinx_issues",
@@ -68,9 +67,7 @@ nitpick_ignore = [
     ("py:class", "default=sklearn.utils.metadata_routing.UNCHANGED"),
 ]
 
-epkg_dictionary.update(
-    {
-        "ALENA": "https://fr.wikipedia.org/wiki/Accord_de_libre-%C3%A9change_nord-am%C3%A9ricain",
-        "wikipedia": "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal",
-    }
-)
+epkg_dictionary = {
+    "ALENA": "https://fr.wikipedia.org/wiki/Accord_de_libre-%C3%A9change_nord-am%C3%A9ricain",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal",
+}
