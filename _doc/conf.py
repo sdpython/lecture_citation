@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
-import os
 import sys
 
 from sphinx_runpython.conf_helper import has_dvipng, has_dvisvgm
-from sphinx_runpython.github_link import make_linkcode_resolve
 
 from lecture_citation import __version__
 
@@ -70,7 +68,9 @@ nitpick_ignore = [
     ("py:class", "default=sklearn.utils.metadata_routing.UNCHANGED"),
 ]
 
-epkg_dictionary.update({
-    'ALENA': 'https://fr.wikipedia.org/wiki/Accord_de_libre-%C3%A9change_nord-am%C3%A9ricain',
-    'wikipedia': 'https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal',
-})
+epkg_dictionary.update(
+    {
+        "ALENA": "https://fr.wikipedia.org/wiki/Accord_de_libre-%C3%A9change_nord-am%C3%A9ricain",
+        "wikipedia": "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal",
+    }
+)
