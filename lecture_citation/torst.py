@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@file
-@brief Converts quotes into :epkg:`rst`.
-"""
 import textwrap
 
 

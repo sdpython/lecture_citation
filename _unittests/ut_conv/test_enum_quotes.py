@@ -1,10 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-@brief      test log(time=0s)
-"""
 import os
 import unittest
-from pyquickhelper.pycode import ExtTestCase, get_temp_folder
+from lecture_citation.ext_test_case import ExtTestCase
 from lecture_citation.fromtex import enumerate_quotes
 from lecture_citation.torst import to_rst
 

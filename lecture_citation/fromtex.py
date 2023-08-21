@@ -1,7 +1,3 @@
-"""
-@file
-@brief Extracts old quote from tex files.
-"""
 import re
 
 

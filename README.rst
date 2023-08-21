@@ -30,11 +30,8 @@
 
 .. _l-README:
 
-lecture_citation
-================
-
-Collection de souvenirs de lectures, pas de code.
+lecture_citation: Collection de souvenirs de lectures
+=====================================================
 
 * `GitHub/lecture_citation <https://github.com/sdpython/lecture_citation/>`_
-* `documentation <http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/index.html>`_
-* `Blog <http://www.xavierdupre.fr/app/lecture_citation/helpsphinx/blog/main_0000.html#ap-main-0>`_
+* `documentation <https://sdpython.github.io/doc/lecture_citation/dev/>`_
