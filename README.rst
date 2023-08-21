@@ -3,8 +3,8 @@
     :target: https://ci.appveyor.com/project/sdpython/lecture_citation
     :alt: Build Status Windows
 
-.. image:: https://circleci.com/gh/sdpython/lecture_citation/tree/master.svg?style=svg
-    :target: https://circleci.com/gh/sdpython/lecture_citation/tree/master
+.. image:: https://circleci.com/gh/sdpython/lecture_citation/tree/main.svg?style=svg
+    :target: https://circleci.com/gh/sdpython/lecture_citation/tree/main
 
 .. image:: https://badge.fury.io/py/lecture_citation.svg
     :target: https://pypi.org/project/lecture_citation/
@@ -13,8 +13,8 @@
     :alt: MIT License
     :target: http://opensource.org/licenses/MIT
 
-.. image:: https://codecov.io/github/sdpython/lecture_citation/coverage.svg?branch=master
-    :target: https://codecov.io/github/sdpython/lecture_citation?branch=master
+.. image:: https://codecov.io/github/sdpython/lecture_citation/coverage.svg?branch=main
+    :target: https://codecov.io/github/sdpython/lecture_citation?branch=main
 
 .. image:: http://img.shields.io/github/issues/sdpython/lecture_citation.svg
     :alt: GitHub Issues
