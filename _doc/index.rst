@@ -1,7 +1,4 @@
 
-.. |gitlogo| image:: _static/git_logo.png
-             :height: 20
-
 .. index:: souvenirs
 
 =====================
@@ -33,12 +30,6 @@ lors de la lecture.
     :caption: architecture
 
     architecture/index
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Ecriture
-
-    ecriture/pensees
 
 .. toctree::
     :maxdepth: 2

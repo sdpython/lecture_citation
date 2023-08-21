@@ -13,7 +13,6 @@ Ca marche tout seul sans électricité avec un peu de lumière.
     livres/l1799
     livres/l1899
     livres/l1900
-    livres/l1910
     livres/l1920
     livres/l1930
     livres/l1940

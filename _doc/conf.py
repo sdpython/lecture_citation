@@ -18,6 +18,7 @@ extensions = [
     "sphinx_runpython.blocdefs.sphinx_faqref_extension",
     "sphinx_runpython.blocdefs.sphinx_mathdef_extension",
     "sphinx_runpython.epkg",
+    "sphinx_runpython.quote",
     "sphinx_runpython.runpython",
 ]
 
