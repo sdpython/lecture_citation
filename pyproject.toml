@@ -12,6 +12,7 @@ ignore_directives = [
     "mathdeflist",
     "plot",
     "runpython",
+    "quote",
 ]
 ignore_roles = ["epkg", "githublink", "issue"]
 ignore_messages = [

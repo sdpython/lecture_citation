@@ -34,6 +34,19 @@ lors de la lecture.
 
     architecture/index
 
+.. toctree::
+    :maxdepth: 2
+    :caption: Ecriture
+
+    ecriture/pensees
+
+.. toctree::
+    :maxdepth: 2
+    :caption: A propos
+
+    CHANGELOGS
+    license
+
 
 **Links:** `github <https://github.com/sdpython/lecture_citation/>`_
 
