@@ -51,11 +51,10 @@ Bâtiments
 1978 - Base nautique de Bairon
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  rénovation ou destruction `Au lac de Bairon, la base départementale
-   sera
-   rasée <https://abonne.lardennais.fr/id257821/article/2021-05-17/au-lac-de-bairon-la-base-departementale-sera-rasee>`__
--  publication dans le Guide de l'Architecture en France, 1945-1983, éd.
-   du Moniteur
+- rénovation ou destruction `Au lac de Bairon, la base départementale sera rasée
+  <https://www.lardennais.fr/id257821/article/2021-05-17/au-lac-de-bairon-la-base-departementale-sera-rasee>`__
+- publication dans le Guide de l'Architecture en France, 1945-1983, éd.
+  du Moniteur
 
 .. image:: gilles_dupre_7_0.jpg
    :width: 1200px

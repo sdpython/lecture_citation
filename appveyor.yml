@@ -15,7 +15,7 @@ install:
 build: off
 
 test_script:
-  - "%PYTHON%\\python -u setup.py unittests"
+  - "%PYTHON%\\python -m pytest _unittests"
 
 after_test:
   - "%PYTHON%\\python -u setup.py bdist_wheel"
