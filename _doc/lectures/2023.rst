@@ -32,7 +32,7 @@
     :book: Comment l'Empire romain s'est effondré
     :year: 2021
     :index: Rome
-    :page: 35
+    :pages: 35
 
     Tout au début de l'année 400, l'empereur et son consul débarquèrent
     à Rome. [...] Enriron 700.000 personnes y vivaient. Elles jouissaient
@@ -48,7 +48,7 @@
     :book: Comment l'Empire romain s'est effondré
     :year: 2021
     :index: pollution
-    :page: 107
+    :pages: 107
 
     Les Romains ne polluaient pas suffisamment l'atmosphère pour accélérer
     le rythme des changements climatiques. Mais ils ont coupé des forêts
@@ -69,7 +69,7 @@
     :book: Comment l'Empire romain s'est effondré
     :year: 2021
     :index: promiscuité
-    :page: 147
+    :pages: 147
 
     L'urbanisation, la stratification sociale et la mobilité ont rendu
     la population plus vunérable aux maladies infectieuses. Des schémas

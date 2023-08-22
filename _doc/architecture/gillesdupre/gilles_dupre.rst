@@ -32,7 +32,7 @@ Témoin du temps qui passe, j'ai mis les pieds dans trois maisons
 que mon père a construite. Toutes étaient en bordure de village
 à l'époque où elles furent construites. Elles ne le sont
 plus maintenant.
-s
+
 .. contents::
     :local:
 

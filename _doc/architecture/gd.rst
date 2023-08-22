@@ -180,7 +180,9 @@ On est rentré. Il a fallu cuisiner.
 
 *Gilles Dupré, né le 24 décembre 1946, décédé le 22 avril 2018.*
 
-.. html::
+.. raw:: html
 
     <audio controls="controls">
     <source src="https://github.com/sdpython/myblog/raw/master/blog/documents/papa_obs.mp3" type="audio/mpeg"/>
+
+:download:`papa_obs.mp3 <papa_obs.mp3>`
