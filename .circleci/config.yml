@@ -70,13 +70,13 @@ jobs:
       - run:
           name: documentation
           command: |
-            python setup.py build_sphinx
+            python -m sphinx _doc dist/html
             
       - run:
           name: copy documentation
           command: |
             mkdir -p test-reports/doc
-            zip -r -9  test-reports/doc/documentation_html.zip _doc/sphinxdoc/build/html
+            zip -r -9  test-reports/doc/documentation_html.zip dist/html
             
       - store_artifacts:
           path: test-reports
