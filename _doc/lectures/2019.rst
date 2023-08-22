@@ -1,0 +1,580 @@
+
+.. _l-2019:
+
+2019
+====
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :index: colonie
+
+    [Sartres - préface]
+    Ces exclus revendiqueront leur exclusion sous le nom
+    de personnalité nationale : c'est le colonialisme qui
+    crée le patriotisme des colonisés. Maintenus par un sytème
+    oppressif au niveau de la bête, on ne leur donne aucun
+    droit, pas même celui de vivre, et leur condition empire
+    chaque jour : quand un peuple n'autre ressource que de
+    choisir son genre de mort, quand il n'a reçu de ses
+    oppresseurs qu'un seul cadeau, le désespoir, qu'est-ce
+    qu'il lui reste à perdre ? C'est son malheur qui deviendra
+    son courage ; cet éternel refus que la colonisation lui
+    oppose, il en fera le refus absolu de la colonisation.
+
+Ce livre m'a fait songer aux mouvements des gilets jaunes. C'est une étonnante
+grille de lecture si on considère que les gilets jaunes sont
+en quelque sorte des colonisés. Il explore les ressentis de part
+et d'autres de la barrière. La dernière partie consacrée aux
+colonisés montre également comment les colonies des années 1950 portaient
+en elles les germes de l'intégrisme d'aujourd'hui.
+Je me suis demandé en le lisant s'il n'existait pas aujourd'hui
+une déclinaison économique. Les frontières d'hier étaient géographiques,
+elles sont peut-être financières aujourd'hui.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 69
+    :index: sélection
+
+    Parmi les colonisateurs natifs, si la majorité s'accorche
+    à sa chance historique et la défend à tout prix, il en existe
+    qui parcourent l'itinéraire opposé, refusent la colonisation,
+    ou finissent par quitter la colonie. Le plus souvent, ce sont de
+    tout jeunes gens, les plus généreux, les plus ouverts, qui, au
+    sortir de l'adolescence, décident de ne pas faire leur vie
+    d'homme en colonie.
+
+    Dans les deux cas, les meilleurs s'en vont. Soit par éthique :
+    ne supportant pas de bénéficier de l'injustice quotidienne.
+    Soit simplement par orgueil parce qu'il se dédident d'une
+    meilleur étoffe que le colonisateur moyen. [...] Dans les
+    deux cas, la colonie ne peut retenir les meilleurs.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 76
+    :index: médiocrité
+
+    Comme il n'y a pas plus de race de colonisateurs qu'il y en a
+    de colonisés, il faut bien trouver une autre explication de
+    l'étonnante carence des maîtres de la colonie. Nous avons noté
+    l'hémorragie des meilleurs ; hémorragie double de natifs et de
+    gens de passage. Ce phénomène est suivi d'un complémentaire
+    désastreux ; les médiocres, eux, restent, et pour leur vie
+    entière. C'est qu'ils n'en espéraient pas tant. Une fois installés,
+    ils se garderont bien de lâcher leur place ; sauf si on leur en
+    propose une meilleure, ce qui ne peut leur arriver qu'en colonie.
+    C'est pourquoi, contrairement à ce que l'on dit, et sauf dans
+    quelques postes mouvants par définition, le personnel colonial
+    est relativement stable. La promotion des médiocres n'est pas
+    une erreur provisoire, mais une catastrophe définitivie,
+    dont la colonie ne se relève jamais.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 77
+    :index: médiocrité
+
+    Mais on suggère qu'il [le colonisateur] est un habile, qui a
+    su tirer parti d'une situation particulière, dont les ressources
+    seraient en somme, d'une moralité discutable. [...]
+    Contre cette accusation, implicite ou avouée, mais toujours là,
+    toujours prête en lui et chez les autres, il se défend comme il
+    peut. Tantôt il insiste sur les difficultés de son existence exotique,
+    les traîtrises d'un climat sournois, la fréquence des maladies, la
+    lutte contre un sol ingrat, la méfiance des populations hostiles ;
+    tout cela ne mériterait-il aucune compensation ? Tantôt furieux,
+    agressif, il réagit comme Gribouille ; opposant mépris à mépris,
+    accusant le métropolitain, au contraire il avoue, il clame les richesses
+    du dépaysement et aussi pourquoi pas ? les privilèges de la vie
+    qu'il s'est choisie, la vie facile, les domestiques
+    nombreux, la jouissance, impossible en Europe, d'une autorité
+    anachronique et même le bas prix de l'essence. Rien, enfin, ne peut
+    le sauver en lui donnant cette haute idée compensatrice de lui-mêmee,
+    qu'il cherchait si avidement. Ni l'étranger, tout au plus indiférent
+    mais non dupe ni complice, ni sa partie d'origine, où il est toujours
+    suspect et souvent attaqué, ni sa propre action quotidienne
+    qui voudrait ignorer la révolte muette du colonisé.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 80
+    :index: défilé militaire
+
+    Il [le colonisateur] aime les symbols les plus éclatants,
+    les manifestations les plus démonstratives de la puissance
+    de son pays. Il assiste à tous les défilés militaires. [...]
+    Il s'agit tout autant d'impressionner le colonisé que de
+    se rassurer soi-même.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 88
+    :index: privilèges
+
+    Le colonialiste est *civiquement aérien*. Il navique entre
+    une société lointaine, qu'il veut sienne, mais qui devient
+    à quelque degré mythique ; et une société présente, qu'il
+    refuse et maintient ainsi dans l'abstraction.
+    [...]
+    Le colonialiste n'a jamais décidé de transformer la colonie
+    à l'image de la métropole, et le colonisé à son image. Il ne
+    peut admettre une telle adéquation, qui détruirait le principe
+    de ses privilèges.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 92
+    :index: religion, colonie
+
+    Le colonialiste ne pouvait favoriser une entreprise
+    qui aurait contribué à l'évanouissement de la relation
+    coloniale. La conversion du colonisé à la religion du
+    colonisateur aurait été une étape sur la voie de
+    l'assimilation. C'est une des raisons pour lesquelles
+    les missions coloniales ont échoué.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 92
+    :index: oppression
+
+    Toute oppression s'adresse globalement à un groupement
+    humain, et a priori, tous les individus en tant que membres
+    de ce groupe en sont atteints anonymement. On entend
+    souvent affirmer que les ouvriers, c'est-à-dire tous les
+    ouvriers, puisque ouvriers, sont affligés de tels défauts
+    et de telles tares. L'accusation raciste, portée contre
+    des colonisés, ne peut être que collective, et tout colonisé
+    sans exception doit en répondre. Il est admis, cependant, que
+    l'oppression ouvrière comporte une issue : théoriquement au
+    moins, un ouvrier peut quitter sa classe et changer de statut.
+    Tandis que, dans le cadre de la colonisation, rien ne pourra
+    sauver le colonisé. Jamais il ne pourra passer dans le clan
+    des privilégiés ; gagnerait-il plus d'argent qu'eux,
+    remporterait-il tous les titres, augmenterait-il infiniment
+    sa puissance.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 100
+    :index: racisme
+
+    Lorsque le colonisateur affirme sans son langage
+    que le colonisé est un débile, il suggère par là que
+    cette déficience appelle la protection. D'où la notion
+    du protectorat. Il est dans l'intérêt même du colonisé
+    qu'il soit exclu des fonctions de direction ; et que ces
+    lourdes responsabilités soient réservées au colonisateur.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 111
+    :index: Histoire
+
+    La carence la plus grave subie par le colonisé est d'être
+    placé *hors de l'histoire* et *hors de la cité*. La
+    colonisation lui supprime toute part libre dans la guerre
+    comme dans la paix, toute décision qui contribue au destin
+    du monde et du sien, toute responsabilité historique et
+    sociale.
+
+.. quote::
+    :author: B. Amengal, J. A. Gili, M. Latil-Le Dantec, M. Mesnil, F. Piéri, V. Pinel, D. Rocher, C. Viviani
+    :book: Etudes cinématographiques: Federico Fellini
+    :year: 1981
+    :pages: 21
+    :index: création artistique
+
+    [Fellini] Vous savez comment on fait une création artistique,
+    même à un niveau enfantin et ingénu comme l'était celui
+    du *Marc' Aurelio* ? Une création n'est jamais inventée et
+    n'est jamais vraie. Elle est, d'abord et avant tout, elle-même.
+    Quelle idée de vouloir savoir si les récits sont inventés ?
+    De quel point de vue ? Bien sûr qu'ils sont vrais. Pour la
+    simple raison qu'ils sont inventés, ils deviennent plus vrais
+    que n'importe quelle réalité.
+
+.. quote::
+    :author: B. Amengal, J. A. Gili, M. Latil-Le Dantec, M. Mesnil, F. Piéri, V. Pinel, D. Rocher, C. Viviani
+    :book: Etudes cinématographiques: Federico Fellini
+    :year: 1981
+    :pages: 45
+    :index: création artistique
+
+    La vérité captée par l'objectif est une vérité morte si
+    l'imagination de l'homme ne vient pas la féconder, lui
+    donner un sens.
+
+.. quote::
+    :author: B. Amengal, J. A. Gili, M. Latil-Le Dantec, M. Mesnil, F. Piéri, V. Pinel, D. Rocher, C. Viviani
+    :book: Etudes cinématographiques: Federico Fellini
+    :year: 1981
+    :pages: 67
+    :index: photographie
+
+    La photographie nie le mouvement. Ou plutôt elle se l'approprie et
+    le fixe définitivement. Fellini nous le prouve par un procédé très simple :
+    lorsqu'il fige les jeunes couples qui dansent un peu gauchement devant
+    le grand hôtel. Précisément, parce qu'ils sont figés, ils danseront toujours.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :pages: 119
+    :index: religion
+
+    Pourquoi cette rigidité creuse des religions colonisées ? [...]
+    Ce n'est pas une pyschologie originale qui explique l'importance
+    de la famille, ni l'intensité de la vie familiale l'état des structures
+    sociales. C'est au contraire l'impossibilité d'une vie sociale complète,
+    d'un libre jeu de la dynamique sociale, qui entretient la vigueur
+    de la famille, replie l'individu sur cette cellule plus restreinte
+    qui le savue et l'étouffe. [...]
+    Avec son réseau institutionnel, ses fêtes collectives et périodiques,
+    la religion constitue une autre valeur refuge : pour l'individu
+    comme pour le groupe. Pour l'individu, elle s'offre comme une rare
+    ligne de repli ; pour le groupe, elle est une des rares manifestations
+    qui puisse protéger son existence originale.
+
+.. quote::
+    :author: Saint Augustin
+    :book: La vision de Dieu
+    :pages: 50
+    :index: croire
+
+    S'il croit, fais attention à ce qu'il voit,
+    fais attention à ce qu'il croit, et fais
+    bien la différence.
+
+.. quote::
+    :author: Saint Augustin
+    :book: La vision de Dieu
+    :pages: 50
+    :index: sens
+
+    Il y a deux éléments ici, le témoin et le témoignage :
+    un relève des yeux, l'autre des oreilles.
+
+.. quote::
+    :author: Saint Augustin
+    :book: La vision de Dieu
+    :pages: 102
+    :index: sens
+
+    Bien que nous voyions certains objets par le corps,
+    d'autres par la pensée, cependant c'est par la pensée,
+    non par le corps que s'opère cette distinction entre
+    ces deux types de vision.
+
+.. quote::
+    :author: Alber Memmi
+    :book: Portrait du colonisé, portrait du colonisateur
+    :year: 1957
+    :index: langue
+
+    L'écrivain colonisé, péniblement arrivé à l'utilisation des langues
+    européennes - celles des colonisateurs, ne l'oublions pas -, ne peut
+    que s'en servir pour réclamer en faveur de la sienne. Ce n'est là
+    ni incohérence ni revendication pure ou aveugle ressentiment, mais
+    une nécessité. Ne le ferait-il pas, que tout son peuple finirait
+    par s'y mettre.
+
+.. quote::
+    :author: Alwett, Iggy, Alizon
+    :book: Ogres - Chasse à l'Ogre
+    :year: 2019
+    :index: argent
+    :pages: 20
+
+    Les filles qui cherchent un homme avec beaucoup d'argent
+    finissent toujours par demander un peu d'argent à beaucoup
+    d'hommes.
+
+.. quote::
+    :author: Manuera
+    :book: Les Campbell - Tome 5
+    :year: 2018
+    :index: écologie
+    :pages: 5
+
+    De la chair d'imbéciles pour nourrir les poissons,
+    c'est contraire à l'écologie.
+
+.. quote::
+    :author: ...
+    :book: ...
+    :year: 2019
+    :index: argent
+
+    Une chose bâtie par l'argent meurre dès
+    que l'argent s'en va. La sécurité sociale
+    serait morte depuis longtemps s'il n'y avait
+    une idée pour la soutenir.
+
+.. quote::
+    :author: ...
+    :book: ...
+    :year: 2019
+    :index: administration
+
+    L'administration est comme les pyramides
+    égyptiennes : inutilement compliquée pour
+    le but que cela sert mais ça occupe.
+
+.. quote::
+    :author: Alan Speller
+    :book: Le Black Mountain College
+    :year: 2019
+    :index: règlements
+
+    [John Andrew Rice] Les réglements sont le dernier
+    refuge de la médiocrité.
+
+.. quote::
+    :author: Alan Speller
+    :book: Le Black Mountain College
+    :year: 2019
+    :index: pédagogie
+
+    Rice estimait que les transformations apportées par le rythme
+    de vie de plus en plus rapide du XXième siècle devaient inexorablement
+    mener à des changements profonds dans les méthodes d'enseignements.
+    Il y avait tellement d'information en constante évolution
+    qu'il n'était plus suffisant de simplement accumuler des faits dans
+    sa tête. Il fallait amener la jeunesse à atteindre une maturité
+    émotionnelle autant qu'intellectuelle, la conduire à l'intelligence,
+    qu'il qualifiait d'équilibre entre l'intellect et les émotions.
+
+.. quote::
+    :author: Nils Christie
+    :book: L'industrie de la punition, Prison et politique pénale en Occident
+    :year: 2003
+    :index: règlements
+
+    [Norvège] Pendant un certain temps, nous avons tellement manqué de place
+    dans nos prisons. La soution à cette situation de crise était évidente :
+    laisser les condamnés attendre l'exécution de leur peine. En 1990,
+    nous avions 2500 personnes détenues. Mais nous en avions 4500 sur liste
+    d'attente. Nous les avons mis en file d'attente ne vue de leur admission
+    en détention.
+
+.. quote::
+    :author: Esther Duflo
+    :book: Expérience, science et lutte contre la pauvreté
+    :year: 2013
+    :index: pauvreté
+    :pages: 26
+
+    [Roosevelt] It is common sense to take a method and try it:
+    if it fails, admit frankly and try another. But above all,
+    try something.
+
+.. quote::
+    :author: Esther Duflo
+    :book: Expérience, science et lutte contre la pauvreté
+    :year: 2013
+    :index: économiste
+    :pages: 29
+
+    L'erreur, selon lui [Abhijit Benerjee], est de voir l'économiste
+    comme un scientifique, et la décision des agents économiques
+    comme celle d'un joueur de billard. En réalité, les décisions
+    économiques que nous prenons tous les jours se rapprochent
+    plus du travail d'un artisan que celui d'un artiste. Elles
+    peuvent être améliorées par l'expérience et par de bonnes
+    connaissances techniques. De même qu'un artisan peut bénéficier
+    des conseils d'un spécialiste, de même l'agent économique
+    pourrait parfois avoir besoin de recourir à des experts.
+
+.. quote::
+    :author: Esther Duflo
+    :book: Expérience, science et lutte contre la pauvreté
+    :year: 2013
+    :index: risque
+    :pages: 31
+
+    Il n'y a pas assez d'innovation dans l'économie dans son
+    ensemble puisque chacun compte sur son voisin pour prendre
+    les risques initiaux. [...] Si personne n'innove, chaque
+    paysan sait qu'il est inutile de demander à ses voisins
+    ce qu'ils font : ils n'ont rien de nouveau à lui apprendre.
+    Mais les innovations risquent de s'éteindre avant de se
+    répandre si les premiers qui les ont adoptées les abandonnent
+    avant d'avoir eu l'occasion d'en parler à d'autres.
+
+.. quote::
+    :author: Esther Duflo
+    :book: Expérience, science et lutte contre la pauvreté
+    :year: 2013
+    :index: évaluation
+    :pages: 44
+
+    Pourquoi les programmes ne sont-ils pas évalués rigoureusement ?
+    [...] Parce qu'il n'est pas l'intérêt de le faire pour
+    ceux qui les soutiennent. De la capacité de convaincre
+    que le proramme est une réussite dépendent le financement
+    d'autres programmes, une réélection, une promotion. Même
+    si personne n'est dupe, dans un environnement où tout le
+    monde exagère ses succès, il est difficile de ne pas faire
+    la même chose. Cela produit une inflation générale des
+    promesses et des réussites affichées.
+
+.. quote::
+    :author: Esther Duflo
+    :book: Expérience, science et lutte contre la pauvreté
+    :year: 2013
+    :index: femmes
+    :pages: 38
+
+    Les villages qui se dotent d'une femme maire se révèlent
+    en général, très différents de ceux qui s'y refusent.
+    Les villages élisant des femmes ont sans doute moins de
+    préjugés défavorables à leur encontre. Ils sont peut-être
+    plus sensibles à certains enjeux traditionnellement
+    incarnés par les femmes (la famille ou le bien-être des enfants).
+    Ces différences préalablement existantes,
+    et non le genre du maire, peuvent être la raison des différences
+    entre les politiques suivies par les femmes et par les hommes
+    maires.
+
+.. quote::
+    :author: Esther Duflo
+    :book: Expérience, science et lutte contre la pauvreté
+    :year: 2013
+    :index: biais
+    :pages: 53
+
+    Nous avons imaginé de faire écouter aux villageois le
+    même discours politique, prononcé soit par une voix d'homme
+    soit par une voix de femme. La personne interrogée doit ensuite
+    répondre à une série de questions sur ce qu'elle pense du
+    discours et du maire qui l'a prononcé. Dans les villages qui
+    n'ont jamais eu de femme maire, les villageois ont
+    tendance à juger le discours comme plus faible s'ils
+    l'entendent prononcer par une femme. Dans les villages
+    qui ont eu une femme maire [grâce à la politique
+    des quotas], cette différence disparaît complètement.
+
+.. quote::
+    :author: Nils Christie
+    :book: L'industrie de la punition, Prison et politique pénale en Occident
+    :year: 2003
+    :index: criminalité
+    :pages: 57
+
+    L'histoire pénale de la Finlande montre que les chiffres
+    de l'emprisonnement ne sont pas déterminés par la criminalité,
+    mais par des décisions culturelles et politiques. Ils sont basés
+    sur le genre de société à laquelle nous voulons appartenir.
+
+.. quote::
+    :author: Nils Christie
+    :book: L'industrie de la punition, Prison et politique pénale en Occident
+    :year: 2003
+    :index: injustice
+    :pages: 72
+
+    Ce n'est pas le niveau absolu de la richesse,
+    mais la perception de l'injustice de la répartition
+    des richesses, qui affecte le taux de criminalité.
+
+.. quote::
+    :author: Nils Christie
+    :book: L'industrie de la punition, Prison et politique pénale en Occident
+    :year: 2003
+    :index: drogue
+    :pages: 76
+
+    Dans toutes les sociétés industrialisées, la guerre contre
+    la drogue s'est transformée en une guerre qui renforce
+    concrètement le contrôle de l'Etat sur les classes potentiellement
+    dangereuses. Ces classes *dangereuses* ne représentent
+    pas une menace mais leur style de vie apparaît comme un affront.
+    Cela permet non seulement de balayer par une explication
+    les insuffisances de la société, mais aussi, concrètement,
+    de mettre en sûreté derrière les barreaux un large segment
+    de la population non productive. La forte pression qui
+    s'exerce contre les prisons en Europe provient
+    en grande partie de la guerre déclarée à la drogue.
+    Il en va de même aux Etats-Unis.
+
+.. quote::
+    :author: Sayaka Murata
+    :book: La fille de la supérette
+    :year: 2016
+    :index: retraite
+    :pages: 79
+
+    Ainsi donc le corps, éprouvé par le travail physique, finit
+    par ne plus être utile. Peu importent le sérieux et l'ardeur
+    que je mets à l'ouvrage, avec les ans, moi aussi, je suis
+    sans doute condamnée à devenir un produit inutile
+    dans cette supérette.
+
+.. quote::
+    :author: Sayaka Murata
+    :book: La fille de la supérette
+    :year: 2016
+    :index: honnêteté
+    :pages: 87
+
+    Consacrer sa vie à affronter le monde en face pour
+    obtenir sa liberté, ça requiert plus d'honnêteté que de
+    souffrir en maugréant.
+
+.. quote::
+    :author: Sayaka Murata
+    :book: La fille de la supérette
+    :year: 2016
+    :index: singularité
+    :pages: 57
+
+    Les gens perdent tout scrupules devant la singularité, convaincus
+    qu'ils sont en droit d'exiger des explications. Personnellement,
+    je trouve ça pénible, et d'une arrogance exaspérante.
+
+.. quote::
+    :author: Sayaka Murata
+    :book: La fille de la supérette
+    :year: 2016
+    :index: frustration
+    :pages: 34
+
+    J'ai très tôt remarqué que les employés éprouvaient un
+    certain plaisir à se trouver des frustrations communes,
+    qu'il s'agisse des colères du gérant ou de l'absentéisme
+    des collègues de nuit. L'insatisfaction générale fait
+    naître une curieuse solidarité.
+
+.. quote::
+    :author: Morvan, Buchet
+    :book: Sillage 5
+    :year: 2004
+    :index: politique
+    :pages: 22
+
+    Il est quand même dommage de remarquer que chez les
+    adultes, les armes permettent souvent d'engager une
+    conversation sérieuse.

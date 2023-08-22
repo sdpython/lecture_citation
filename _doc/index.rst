@@ -1,4 +1,46 @@
 
+.. index:: souvenirs
+
+=====================
+Souvenirs artistiques
+=====================
+
+J'ai toujours été fasciné par ceux qui sortent toujours
+la citation qui tombe à pic. Je ne sais pas faire cela,
+je ne retiens jamais les mots exacts, juste l'idée où l'émotion
+lors de la lecture.
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Lectures
+
+    lecture
+    livre
+    livre_enfant
+    children
+    music
+    dessina
+    serie
+    film
+    bd
+    varie/index
+
+.. toctree::
+    :maxdepth: 2
+    :caption: architecture
+
+    architecture/index
+
+.. toctree::
+    :maxdepth: 2
+    :caption: A propos
+
+    CHANGELOGS
+    license
+
+
+**Links:** `github <https://github.com/sdpython/lecture_citation/>`_
+
 .. image:: https://ci.appveyor.com/api/projects/status/kewttt58ejfwduao?svg=true
     :target: https://ci.appveyor.com/project/sdpython/lecture_citation
     :alt: Build Status Windows
@@ -21,10 +63,3 @@
     :target: https://github.com/sdpython/lecture_citation/
     :alt: size
 
-.. _l-README:
-
-lecture_citation: Collection de souvenirs de lectures
-=====================================================
-
-* `GitHub/lecture_citation <https://github.com/sdpython/lecture_citation/>`_
-* `documentation <https://sdpython.github.io/doc/lecture_citation/dev/>`_

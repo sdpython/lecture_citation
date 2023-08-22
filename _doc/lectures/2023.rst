@@ -1,0 +1,80 @@
+
+.. _l-2023:
+
+2023
+====
+
+.. quote::
+    :author: Hedi Lamarr
+    :book: Hedy Lamarr, star et inventeuse de génie
+    :year: 2017
+    :index: inspiration
+    :source: https://en.wikipedia.org/wiki/K-On!
+
+    Les gens sont déraisonnables, illogiques et égocentriques.
+    Aimez-les tout de même.
+
+    Si vous faîtes le bien, on vous accusera d'avoir votre intérêt.
+    Faites le bien quand même.
+
+    Les personnes les plus grandes aux idées les plus grandes
+    peuvent se faire démolir par les plus petits à l'esprit le plus petit.
+    Ayez de grandes idées tout de même.
+
+    Ce que vous construisez pendant des années peut être détruit un une nuit.
+    Construisez tout de même.
+
+    Donnez au monde le meilleur de vous même et vous vous prendrez une gifle.
+    Donnez au monde le meilleur de vous même malgré tout.
+
+.. quote::
+    :author: Kyle Harper
+    :book: Comment l'Empire romain s'est effondré
+    :year: 2021
+    :index: Rome
+    :pages: 35
+
+    Tout au début de l'année 400, l'empereur et son consul débarquèrent
+    à Rome. [...] Enriron 700.000 personnes y vivaient. Elles jouissaient
+    de tous les avantages d'une ville classique à une échelle impériale.
+    Selon un état des lieux datant du IV siècle, Rome disposait de
+    28 bibliothèques, 19 aqueducs, 2 cirques, 37 portes, 423 quartiers,
+    46.602 immeubles d'habitations, 1.790 grandes villas, 290 greniers, 856
+    bains, 1.352 citernes, 254 boulangeries, 46 bordels et 144 latrines publiques.
+    C'était bien de tous les points de vue, un endroit extraordinaire.
+
+.. quote::
+    :author: Kyle Harper
+    :book: Comment l'Empire romain s'est effondré
+    :year: 2021
+    :index: pollution
+    :pages: 107
+
+    Les Romains ne polluaient pas suffisamment l'atmosphère pour accélérer
+    le rythme des changements climatiques. Mais ils ont coupé des forêts
+    à grande échelle, ils déboisaient pour développer l'agriculture et
+    la machine économique a consommé d'immense forêt pour faire du feu et
+    comme source d'énergie. Les Romains ont été les témoins oculaires de cette
+    grande déforestation et considéraient même que cela faisait partie
+    du processus de civilisation. [...] La disparitions n'a pu qu'inhiber
+    les précipitations. Elle augmente l'effet albedo (l'énergie renvoyée par
+    la surface de la Terre), si bien que davantage de chaleur est réverbérée.
+    En conséquence, il y a moins d'évaporation de l'humidité du sol dans la
+    basse atmosphère. [...] Selon certains modèles climatiques, cett séquence
+    a eu pour effet la baisse du niveau des précipitations dans le monde
+    méditerranéen.
+
+.. quote::
+    :author: Kyle Harper
+    :book: Comment l'Empire romain s'est effondré
+    :year: 2021
+    :index: promiscuité
+    :pages: 147
+
+    L'urbanisation, la stratification sociale et la mobilité ont rendu
+    la population plus vunérable aux maladies infectieuses. Des schémas
+    semblables de l'autre côté de l'Angleterre, à York, où l'établissement
+    de l'Empire a rendu l'environnement plus insalubre, à l'origine
+    à la fois d'un rétrécissement du spectre alimentaire et d'une plus
+    grande exposition aux maladie infectieuses. La civilisation romaine
+    était dangereuse pour la santé dans les provinces.

@@ -1,0 +1,614 @@
+
+.. _l-2022:
+
+2022
+====
+
+.. quote::
+    :author: Sébastien de Castell
+    :book: L'anti-magicien
+    :year: 2020
+    :index: rire
+    :pages: 457
+
+    Elle ne riait pas quand elle trouvait ça drôle.
+    Elle ne riait pas parce qu'elle en avait envie.
+    Elle riait parce que c'était sa façon de dire au monde
+    qu'elle refusait de le craindre.
+
+.. quote::
+    :author: Richard Malka
+    :book: Le droit d'emmerder Dieu
+    :year: 2021
+    :index: propos
+    :pages: 71
+
+    Jean-Marie Le Pen, président du Front National,
+    le 2 février 2006 : "Les croyants ont droit au respect
+    de leur croyance, qu'ils soient musulmans, juifs
+    ou chrétiens." Non, ils n'en ont pas le droit,
+    Monsieur Le Pen, il faut aller réviser votre droit
+    à l'université.
+
+    Renaud Donnedieu de Vabres, ministre de la Culture
+    et de la Communication : "J'estime qu'il est aussi
+    de devoir de ce quotidien [France Soir] de respecter
+    les convictions religieuses et philosophiques de nos
+    concitoyens" Eh bien non, Monsieur Donnedieu de Vabres,
+    dont on aurait pu penser au regard de ses fonctions
+    que lui, au moins, chercherait à protéger la liberté
+    d'expression.
+
+.. quote::
+    :author: Richard Malka
+    :book: Le droit d'emmerder Dieu
+    :year: 2021
+    :index: croyance
+    :pages: 72
+
+    Les croyances ne peuvent jamais exiger le respect.
+    Seuls les hommes y ont droit. Aucune croyance,
+    aucune idée, aucune opinion ne peut exiger de ne
+    pas être débattue, critiquée, caricaturée.
+
+    Parce qu'à défaut, on n'accepterait plus de vivre
+    qu'entre personnes pensant la même chose. Et tout
+    débat, toute controverse sera estimée "offensante".
+    C'est le chemin de l'obscurantisme. Les idées, ça
+    se confronte et ça se débat.
+
+.. quote::
+    :author: R. Scott Gemmill
+    :book: Urgences
+    :year: 2002
+    :index: dépression
+    :pages: épisode 13
+
+    - Il paraît déprimé. Tu devrais lui parler.
+
+    - Il est européen. C'est son état normal.
+
+.. quote::
+    :author: Milan Kundera
+    :book: Un Occident Kidnappé
+    :year: 1967
+    :index: agression
+    :pages: 21
+
+    Briser à ce moment-là la croissance d'une culture aussi fragile,
+    d'abord par l'occupation, puis par le stalinisme, pour presque
+    un quart de siècle, l'isoler du reste du monde, amenuiser ses
+    multiples traditions intérieures, la rabaisser au rang d'une
+    simple propagande fut une tragédie qui risquait de reléguer
+    la nation tchèque une nouvelle fois - et cette fois-ci
+    définitivement - à la périphérie culturelle de l'Europe.
+
+.. quote::
+    :author: Milan Kundera
+    :book: Un Occident Kidnappé
+    :year: 1967
+    :index: vandale
+    :pages: 24
+
+    C'est qui un vandale ? Non, ce n'est point le paysan analphabète
+    qui, dans un accès de colère, met le feu à la maison du riche
+    propriétaire terrien. Les vandales que je croise, moi,
+    sont tous lettrés, contents d'eux-mêmes, jouissent d'une assez
+    bonne position sociale et n'ont pas spécialement de
+    ressentiments envers quiconque. Le vandale, c'est l'étroitesse
+    d'esprit qui se suffit à elle-même et est prête à tout moment
+    à réclamer ses droits. Cette fière étroitesse d'esprit
+    croit que le pouvoir d'adapter le monde à son image de ses droits
+    fait partie de ses droits inaliénables et, vu que le monde est
+    majoritairement composé de tout ce qui la dépasse, elle adapte
+    le monde à son image en le détruisant. Ainsi un adolescent
+    décapite-t-il une statue dans un parc parce que cette statue
+    dépasse outrageusement sa propre essence humaine, et puisque
+    chaque acte d'auto affirmation apporte de la satisfaction à l'homme,
+    il le faut en jubilant.
+
+.. quote::
+    :author: Milan Kundera
+    :book: Un Occident Kidnappé
+    :year: 1967
+    :index: communisme
+    :pages: 28
+
+    Je n'aime pas quand on met sur un même pied d'égalité
+    le fascime et le communisme. Le fascisme basé sur un
+    antihumanisme décomplexé a créé une situation relativement
+    simple sur le plan moral : s'étant lui-même présenté
+    comme l'antithèse des principes et des vertus humanistes,
+    il les a laissé intacts. En revanche, le stalinisme fut
+    l'héritier d'un grand mouvement humaniste qui, malgré
+    la rage stalinienne, a pu conserver bon nombre de
+    postures, d'idées, de slogans, de paroles et de rêves
+    d'origine.
+
+.. quote::
+    :author: Milan Kundera
+    :book: Un Occident Kidnappé
+    :year: 1983
+    :index: Russie
+    :pages: 47
+
+    L'Europe centrale voulait être l'image condensée de l'Europe
+    architeuropéenne, modèle miniaturisé de l'Europe des
+    nations conçue sur la règle : le maximum de diversité
+    sur le minimum d'espace. Comment pouvait-elle ne pas être
+    horrifiée par la Russie qui, en face d'elle, se fondait sur
+    la règle opposée : le minimum de diversité sur l'espace
+    maximal ?
+
+.. quote::
+    :author: Milan Kundera
+    :book: Un Occident Kidnappé
+    :year: 1983
+    :index: slave
+    :pages: 53
+
+    "Les Russes aiment appeler slave tout ce qui est russe
+    pour pouvoir plus tard nommer russe tout ce qui est
+    slaveé, proclama déjà en 1844 le grand écrivain tchèque
+    Karel Havlicek, qui mettait ses compatriotes en garde contre
+    leur russophilie bête et irréaliste.
+
+.. quote::
+    :author: Woodie Guthrie
+    :book: ...
+    :year: 1960
+    :index: communisme
+
+    I ain't a communist necessarily, but I've been in the red all my life.
+
+.. quote::
+    :author: Anthony Rowley
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: effondrement
+    :pages: 11
+
+    Les Romains vivent une sorte de deuil familial ;
+    ils mesurent ce qu'ils ont perdu à l'aune de leurs habitudes.
+    Leur première impression est celle d'une vie quotidienne gâchée ;
+    l'effondrement économique et la régression viennent plus tard. Ainsi
+    le poète Rutilius Namatianus n'est pas long à repérer les signes
+    de barbarisation : les maisons reconstruites ne lui paraissent
+    pas aussi solides que les anciennes, faute d'ouvrier sachant maçonner
+    avec du mortier et des tuiles au crochet ; les gens se sont appauvris
+    puisqu'on trouve de moins en moins de monnaies divisionnaires
+    et qu'ils en sont réduits au troc, signe indubitable de barbarie
+    pour un Romain.
+
+.. quote::
+    :author: Anthony Rowley
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: histoire
+    :pages: 12
+
+    Quant aux règlements admninistratifs, ils portaient encore la marque
+    impériale après la chute de Rome : au concile de Francfort,
+    en 794, Charlemagne rappelle que la puissance centrale a autorité
+    sur la fixation des prix et des fonds ; etn le royaume de Bourgogne
+    a beau être dans l'orbite théorique de ces Francs si peu romains,
+    ses lois viennent pour l'essentiel de Rome.
+
+.. quote::
+    :author: Anthony Rowley
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: inégalité
+    :pages: 13
+
+    En proposant un choix biaisé entre récupération ou
+    muséification laissé à l'abandon, les chrétiens réalisèrent
+    un coup de maître. Rome et son histoire étaient circonscrites
+    à un temps héroïque désormais clos, celui des Anciens.
+    Sur leurs épaules étaient juchés des Modernes qui pouvaient
+    s'appropier le principe fondateur du régime impérial :
+    une alliance inégale entre les individus que rien ne
+    prédisposait à vivre ensemble, compensée par la bienfaisance
+    ostentatoire des puissants, ceux-ci donnant beaucoup et de manière
+    ritualisée en contrepartie de leur autorité. En utilisant le 
+    don ritualisé et répétable à volonté du chef - la communion
+    pendant la messe -, les chrétiens allaient faire admettre qu'une
+    répartition sociale de hasard serait corrigée dans l'au-delà :
+    les pauvres d'aujourd'hui seraient riches, un jour. L'inventaire
+    de ce royaume imaginaire où l'on vivrait éternellement signait
+    la fin du monde romain.
+
+.. quote::
+    :author: Anthony Rowley
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: climat
+    :pages: 40
+
+    Mais ce désastre climatique paraît une explication trop opportune
+    aux croisés de l'écocide contemporain, soucieux de montrer la
+    désertification de l'île de Pâques comme un modèle réduit de ce
+    qui nous menace si nous persistons à conduire des activités
+    humaines débridées. C'est ainsi que le mystère des statues est
+    revenu au premier plan. En analysant l'érosion subie par le tuf
+    volcanique dont les colosses sont constitués, on a peu établir
+    qu'ils avaient été érigés pour la plupart entre 1600 et 1730, en 
+    pleine crise climatique. Dès lors, le scénario de la folie 
+    autodestructrice des hommes prend corps. Les 600 géants de pierre
+    auraient été construits pour conjurer la menace écologique, leur
+    nombre comme leur taille s'expliqueraient par une surenchère
+    entre clans. La rivalités des hommes avait ainsi accéléré
+    les effets de la sècheresse. Acharnés à construire des bateaux,
+    cuisiner, se chauffer, transporter leurs totems malgré un bois
+    devenu rare, les Pascuans se seraient décimés autant par un
+    exhibitionnisme stérile qu'au long de guerres tribales.
+
+.. quote::
+    :author: Anthony Rowley
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: Europe
+    :pages: 75
+
+    Et voilà qu'en 1919, les Américains décrétaient que l'immigration
+    européenne n'était plus une ressource mais un danger et ces anciens
+    débiteurs devenus créanciers exigeaient leur dû. En Europe, cette
+    attitude avait un nom : la politique du vide. Au lieu de remplir
+    les Etats-Unis, le flot humain allait se déverser dans un vieux
+    monde dévasté pour avoir servi de champ de bataille dans une
+    guerre oecuménique et dont les habitants se hérissaient à l'idée
+    d'accueillir des étrangers si bien qu'on inventa le passeport
+    olibgatoire pour franchir les multiples frontières dessinées
+    par les Traités de paix. Quant à l'or des Européens, il sortait
+    des coffres-forts en direct de Washington avant de revenir sous
+    forme de crédits destinés à réparer les ravages de la guerre
+    et à disposer des moyens militaires nécessaires à une autre
+    destruction.
+
+.. quote::
+    :author: Nicols Werth
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: URSS
+    :pages: 85
+
+    Les rapports quotidiens de la police politiques sur le front
+    de la collectivisation permettent de prendre la vraie mesure
+    des résistances paysannes : près de 14.000 tumultes, désordes,
+    manifestations de masses, émeutes et rébellions éclatent au
+    cours de l'année 1930 (dont plus de 8000 pour les seuls mois
+    de février-mars). Par leur ampleur, ces résistances contraignirent -
+    fait unique durant l'ensemble de la période stalinienne - le groupe
+    dirigeant au pouvoir à reculer et à proclamer une pause dans le
+    rythme effréné de la collectivisation.
+
+.. quote::
+    :author: Nicolas Werth
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: Holodomor
+    :pages: 88
+
+    Staline en personne rédigea la loi du 7 août 1932, qui permettait
+    de condamner à dix ans de camp, voire - en cas de vol aggravé -
+    à la peine de mort, toute dilapidation de la propriété sociale.
+    Dans les mois qui suivent, la promulgation de ce texte, des centaines
+    de milliers de paysans ayant coupé quelques épis dans les champs
+    collectifs pour survivre furent condamnés à de lourdes peines
+    de travaux forcés et envoyés au Goulag. [...] La famine fut le prix
+    à payer de cette terreur : plusieurs centaines de morts dans la région
+    de la Volga, autant au Kouban, entre 3 et 4 millions de morts en Ukraine
+    (sans parler des 1,4 million de morts au Kazahstan). Dans le cas
+    de l'Ukraine, comme le montre la correspondance de Staline avec
+    ses plus proches collaborateurs, notamment Kazanovitch et Molotov,
+    les dirigeants soviétiques ont délibérément décidé à partir de
+    l'été 1932, d'aggraver la famine qui commençait, de l'instrumentaliser
+    pour punir la paysannerie ukrainienne, considérée comme le réservoir
+    et le vivier d'un nationalisme perçu comme sa principale menace
+    au projet de construction d'un Etat soviétique centralisé et
+    dictatorial. [...] Le 22 janvier 1933, Staline en personne rédige
+    une directive secrète ordonnant de mettre immédiatement fin à
+    l'exode des paysans qui fuient l'Ukraine et le Kouban sous prétexte
+    d'aller chercher du pain. Pour Staline, ces fuyards affamés 
+    sont manipulés par les services secrets polonais et n'ont pour
+    seul objectif que de discréditer le sytème kolkhozien en répandant
+    de fausses rumeurs. Dès le lendemain, la police politique déploie
+    des patrouilles autour des routes et des gares, la vente de billets
+    de chemin de fer est suspendue, les fuyards interceptés renvoyés
+    dans leur village ou incarcérés. Aucune aide alimentaire
+    n'est débloqué pour les affamés : là-bas des gens meurent dans un
+    silence généralisé. Le terme qui sert à désigner aujourd'hui en
+    Ukraine la famine de 1932-1933, Holodomor, est explicite :
+    il résulte de la fusion des mots *golod* (la faim) et *moryty*
+    (tuer par privation).
+
+.. quote::
+    :author: Edouard Husson
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: élections
+    :pages: 90
+
+    En deux ans, les conséquences catastrophiques de la politique
+    de Brüning apparurent dans l'électorat. Le résultat des élections
+    de juillet 1932 éclata comme une coup de tonnerre. Face au NDSAP,
+    il ne restait guère que trois partis, à peu près égaux
+    en force mais dont l'alliance était impossible : le KPD, le SPD
+    et le Zentrum. Aucune combinaison deux à deux n'était envisageable.
+    [...] Encore faut-il noter qu'elle n'aurait pas suffi : seule la
+    combinaison des trois forces pouvait être majoritaire.
+    Hilter n'avait plus qu'un obstacle devant lui mais il lui restait
+    peut-être, contrairement aux apparences, le plus difficile à 
+    effectuer : s'imposer dans un jeu des élites où il partait avec
+    un préjugé défavorable du président Hindenboug, son seul vrai
+    rival lorsqu'il s'agissait de conquérir les suffrages. [...]
+    C'est une leçon essentielle de la crise des années 1929-1933
+    en Allemagne. Les élites qui étaient à l'origine de la catastrophe
+    sont aussi celles qui, au nom de la résolution de la crise,
+    en vinrent à aggraver celle-ci. Après la réunion de Dusseldorf,
+    plusieurs entreprises allemandes commencèrent à prendre au
+    sérieux l'hypothèse Hitler.
+
+.. quote::
+    :author: Anthony Rowley
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: Europe
+    :pages: 100
+
+    L'URSS ne livrait ni pétrole, ni matières premières ; de leur
+    côté, Polonais, Yougoslave et Roumains soutenaient la
+    Tchécoslovaquie, ces derniers annonçant qu'ils interrompaient
+    leurs livraisons de pétole au Reich en cas d'agression. Enfin,
+    début octobre, la commission de défense du Reich avertit
+    Goering qu'il était impossible de satisfaire les demandes
+    de l'armée en vue de l'occupation des Sudètes, tout en faisant
+    construire une ligne fortifiée à l'ouest [la ligne Siegfried]
+    et en assurant la marche de la machine industrielle. Au-delà
+    du 10 octobre, la catastrophe économique est inévitable.
+    La fallut un mois au Reichmarshall et à Hitler pour admettre
+    l'évidence : il n'y avait plus un ouvrier, ni une machine,
+    ni un mark disponible. Soit une situation comparable
+    à celle de l'automne 1917 lorsque commença la lente désintégration
+    de la machine de guerre du Kaiser. Voilà qui nous ramène
+    à Munich : comment expliquer que les Franco-Britanniquess n'aient
+    pas pris la mesure des faiblesses allemandes, ni exploité
+    l'occasion offerte par Hitler de lui porter un coup d'arrêt,
+    sans doute décisif ? Sur le moment, cela tient à une erreur de
+    jugement, imputable pour l'essentiel aux Français. En août 1938,
+    le chef d'état major de l'aviation, Joseph Vuillemin rentra
+    d'une visite en Allemagne estomaqué par les démonstrations de la
+    Luftwaffe auxquelles il avait été convié. Il carillonna son
+    inquiétude auprès des ténors politiques. [...] Seulement
+    ses sympathies nazies auraient dû mettre la puce à l'oreille 
+    des dirigeants. Pas le moins du monde ; le vieux truc des villages
+    Potemkine - le decorum caché misère avait marché grâce aux 
+    talents de bateleur d'Hermann Goering et consorts.
+
+.. quote::
+    :author: Jean-Luc Domenach
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: Europe
+    :pages: 114
+
+    Une présentation communément admise est que le régime
+    communiste chinois était à l'origine ordonné et bénévole,
+    et qu'il est par la suite devenu délirant et cruel Elle est fausse.
+    Dès l'origine, il s'engage dans une expérience totalitaire
+    dont il a modifié le tracé, progressant si l'on peut dire
+    des massacres de la conquête aux famines de l'utopie
+    productiviste puis aux délires de la Révolution Culturelle.
+    Cette évolution en cascades du pire à d'autres pires aurait
+    peut-être pu être interrompue dans un autre régime et avec
+    d'autres dirigeants. Cela ne fut pas, car le PCC avait été
+    transformé en un organe de terreur par les conflits internes et
+    par les guerres, et parce qu'il avait fini par se laisser
+    capter par un seul homme, Mao Zedong, tout aussi obsédé par le
+    pouvoir qu'incapable de l'exercer tout seul. Il aura eu dans sa
+    carrières deux illuminations stratégiques : la découverte de la
+    voie paysanne en 1925, et vers 1935-1936 l'intuition que
+    l'invasion japonaise épuiserait le parti nationaliste,
+    offrant ainsi à l'Armée rouge l'occasion de la victoire.
+    Mais comment aurait-il pu accéder au pouvoir sans ses généraux,
+    les Zhu De, Peng Dehuai et Lin Biao et sans l'appareil patiemment
+    forgé par Liu Shaoqi dans les bases rouges de Chine du nord ?
+    Mao ne pouvait pas se passer d'eux, et pourtant il ne les
+    supportait pas non plus : la trame de l'histoire politique
+    chinoise était d'emblée en place.
+
+.. quote::
+    :author: Fabrice d'Almeida
+    :book: Crises, chaos et fins de monde, des Mayas au krach de 2008
+    :year: 2009
+    :index: Europe
+    :pages: 133
+
+    Au lieu de sortir le pays de la crise, Alfonsin l'y enfonce
+    un peu plus. La dette s'accroît. L'inflation franchit un cran
+    et s'élève désormais à près de 600% par an. En 1985, le président
+    joue son va-tout en proclamant le blocage des salaires et des prix
+    et en créant une nouvelle monnaie : l'austral. Il jugule
+    l'inflation. Malgré son échec à faire annuler une partie de
+    la dette bancaire, le gouvernement retrouve une popularité :
+    chacun se prend à espérer de nouveau. Cependant, quand en 1986,
+    les prix sont libérés sur les conseils pressants du FMI, la folie
+    se déchaîne bientôt sous la forme d'une hyperinflation.
+    L'austral perd brutalement toute valeur avec une inflation à trois
+    chiffres en 1988 et 1989.
+
+.. quote::
+    :author: Armelle 
+    :book: Les pieds sur Terre 9 septembre
+    :year: 2022
+    :index: bonheur
+    :source: https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/le-paradis-est-ici-5024767
+
+    J'apprenais à être moi-même. J'apprenais à laisser l'autre être lui.
+
+.. quote::
+    :author: Agatha Christie
+    :book: Une poignée de seigle
+    :year: 1953
+    :index: mouton
+    :source: https://fr.wikipedia.org/wiki/Une_poign%C3%A9e_de_seigle
+    :pages: 5
+
+    Miss Somers était la dernière entrée des dactylos, et la moins bonne.
+    Plus très jeune, avecc son visage doux et inexpressif, elle faisait
+    songer à un mouton.
+
+.. quote::
+    :author: Agatha Christie
+    :book: Une poignée de seigle
+    :year: 1953
+    :index: problème
+    :source: https://fr.wikipedia.org/wiki/Une_poign%C3%A9e_de_seigle
+    :pages: 173
+
+    Un problème n'est pas résolu quand on lui a donné une solution
+    boiteuse. C'est Kipling qui a dit ça. On ne lit plus Kipling,
+    mais c'était un grand homme.
+
+.. quote::
+    :author: Mickaël Launay
+    :book: Le grand roman des maths
+    :year: 2016
+    :index: maths
+    :source: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :pages: 8
+
+    Observer l'expression des gens qui se croyaient irrémédiablement
+    fâchés avec les maths au moment où je leur apprends qu'ils viennent
+    d'en faire pendant un quart d'heure. Et mon stand ne désemplit pas !
+    J'y présente de l'origami, des tours de magie, des jeux, des énigmes...
+
+.. quote::
+    :author: Mickaël Launay
+    :book: Le grand roman des maths
+    :year: 2016
+    :index: caillou
+    :source: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :pages: 29
+
+    Pas question pour les propriétaires de laisser partir leurs moutons
+    sans avoir pris quelques précautions. Avec les bergers, le contrat est
+    clair : il doit revenir autant de têtes qu'il en est parti. Il ne s'agit
+    pas de laisser s'égarer une partie du troupeau ou d'en troquer
+    quelques-uns sous le manteau. Un problème se pose alors : comment
+    comparer la taille du troupeau qui est parti avec celle du troupeau
+    qui est revenu ? Pour répondre à cette question, depuis quelques
+    siècles déjà, un système de jetons d'argile a été développé. Il existe
+    plusieurs types de jetons, comptant chacun pour un ou plusieurs
+    objets ou animaux selon leur forme et les motifs qui y sont tracés.
+    Pour un mouton, il s'agit d'un simple disque marqué d'une croix.
+    Au moment du départ, on place dans un récipient une quantité de jetons
+    correspondant à la taille du troupeau. Il suffira au retour de comparer
+    le troupeau au contenu du récipient pour vérifier qu'aucune bête ne
+    manque à l'appel. Bien plus tard, ces jetons recevront le nom latin
+    de *calculi*, "petits cailloux", qui donneront naissance au mot
+    *calcul*.
+
+.. quote::
+    :author: Mickaël Launay
+    :book: Le grand roman des maths
+    :year: 2016
+    :index: axiome
+    :source: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :pages: 90
+
+    Euclide pose les cinq axiomes suivant [voir `Géométrie euclidienne
+    <https://fr.wikipedia.org/wiki/G%C3%A9om%C3%A9trie_euclidienne>`_] [...]
+    Les débats sur le choix du cinquième axiome perdurèrent jusqu'au
+    XIXe siècle où elles finirent par aboutir sur la création de nouveaux
+    modèles géométriques dans lesquels cet axiome est faux.
+
+.. quote::
+    :author: Mickaël Launay
+    :book: Le grand roman des maths
+    :year: 2016
+    :index: Moyen-Age
+    :source: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :pages: 162
+
+    Au cours de la période médiévale, il faut bien l'avouer, les
+    mathématiques n'ont pas le vent en poupe en Europe. On trouve cependant
+    quelques exceptions. Le plus grand mathématicien européen du Moyen-Age
+    est sans doute l'italien Leonardo Fibonacci, né à Pise en 1175
+    et mort en 1250 dans cette même ville. [...] Il publie en 1202 le *Liber Acci*,
+    "le livre des calculs", dans lequel il présente toute une palette des
+    mathématiques de l'époque, allant des chiffres arabes à la géométrie
+    d'Euclide, en passant par des résultats de l'arithmétique de Diophante
+    ou des calculs de suites arithméatiques.
+
+.. quote::
+    :author: Mickaël Launay
+    :book: Le grand roman des maths
+    :year: 2016
+    :index: imprimerie
+    :source: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :pages: 189
+
+    La propagation de ces nouvelles idées est largement soutenue
+    par l'arrivée d'une toute nouvelle invention mise au point dans
+    les années 1450 par l'Allemend Johannes Gutenberg :
+    l'imprimerie à caractères mobiles. Grâce à ce procédé, il est maintenant
+    possible d'imprimer très rapidement de nombreux exemplaires d'un livre et
+    de le diffuser à grande échelle. Dès 1482, les *Elements* d'Euclide
+    furent le premier ouvrage mathématique à passer sous les presses à Venise.
+
+.. quote::
+    :author: Mickaël Launay
+    :book: Le grand roman des maths
+    :year: 2016
+    :index: Viète
+    :source: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :pages: 193
+
+    C'est en 1591 que François Viète publie ce qui va devenir son oeuvre principale :
+    *In artem analyticem isagoge*, ou l'*Introduction à l'art analytique,
+    souvent nommé par le seul nom d'*Isagoge*. Etrangement, ce n'est pas pour
+    les théorèmes ou les démonstrations mathématiques qu'il y développe
+    que l'*Isagoge* fera date, mais pour la façon dont ces résultats sont
+    formulés. Viète va être le principal instigateur de l'algèbre nouvelle
+    qui va faire surgir, en quelques décennies, un tout nouveau langage.
+    [...] L'algébre rhétorique est non seulement très longue à écrire, mais
+    elle souffre en plus de certaines ambiguïtés de la langue qui peuvent
+    donner à la même phrase plusieurs interpétations. [...] Vers 1460, 
+    l'Allemand Johannes Wildmann est le premier à employer les signes
+    + et - pour désigner l'addition et la soustration. Au début du XVIe siècle,
+    Tartaglia est l'un des premiers à utiliser les parenthèses dans les calculs.
+    En 1557, l'Anglais Robert Recorde utilise la première fois le signe =
+    pour désigner l'égalité. En 1608, le Néerlandais Rudolph Snellius se
+    sert d'une virgule pour séparer la partie entière et la partie décimale
+    d'un nombre. En 1621, c'est l'Anglais Thomas Harriot
+    qui introduit les signes < >. En 1631, l'Anglais William Oughtred
+    utilise la croix x pour noter la multiplication et devient en 1647 le
+    premier à utiliser la lettre grecque :math:`\pi`. [...] Viète lance
+    dans l'*Isagoge* un vaste programme de modernisation de l'algèbre et en
+    pose la clef de voûte en introduisant le calcul littéral, c'est-à-dire
+    le calcul avec les lettres de l'alphabet. Sa proposition est aussi
+    simple que déroutante : nommer les inconnues des équations par
+    des voyelles et les nombres connus par des consonnes. Cette répartition
+    des voyelles et consonnes sera pourtant rapidement abandonnée au
+    profit d'une suggestion légèrement différente de René Descartes :
+    les premières lettres de l'alphabet désigneront les quantités connues,
+    et les dernières seront les inconnues.
+
+.. quote::
+    :author: Gen Urobuchi, Katsuhiko Takayama
+    :book: Alnoah.Zero
+    :year: 2014
+    :index: guerre
+    :source: https://fr.wikipedia.org/wiki/Aldnoah.Zero
+    :pages: 12
+
+    - Pourquoi la guerre s'arrêtre ?
+
+    - Parce que ceux qui la font en découvre l'absurdité.
+
+    - Non, parce qu'elle n'est plus utile économiquement, soit
+      parce que l'objectif est atteint, soit parce que la guerre
+      a tellement changé la donné que l'objectif initial n'a plus
+      de sens.
+

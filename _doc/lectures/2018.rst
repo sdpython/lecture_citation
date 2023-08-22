@@ -1,0 +1,204 @@
+====
+2018
+====
+
+.. quote::
+    :author: Greta Thunberg
+    :book: COP 24
+    :year: 2018
+    :lid: 2018-gthunberg-cop24
+    :source: https://www.youtube.com/watch?v=VFkQSGyeCWg
+
+    Our civilisation is being sacrificied for the opportunity of a
+    very small number of people to continue making enormous amount
+    of money.
+
+.. quote::
+    :author: Noah Chomsky
+    :book: Le profit avant l'Homme
+    :year: 2003
+    :index: ALENA, ZLEA
+    :pages: 44
+
+    Au Mexique, les conséquences [de l'ALENA] étaient particulièrement graves,
+    surtout pour le Sud. Depuis l'imposition dans les annes 1980,
+    des programmes néo-libéraux, les salaires avait fortement baissé. La chute s'est
+    poursuivie après la signature de l':epkg:`ALENA` :
+    les travailleurs salariés ont subi
+    une perte de revenus de 24% - 40% pour les travailleurs indépendants -, effet
+    encore amplifié par l'augmentation rapide du nombre des travailleurs non salariés.
+    Les investissements étrangers se sont accrus, mais le total des investissements a diminué,
+    tandis que l'économie passait aux mains des multinationales étrangères. Le salaire minimum
+    a perdu la moitié de son pouvoir d'achat. La production manufacturière a baissé,
+    le développement a stagné - peut-être même s'est-il inversé. Mais une mince
+    couche sociale est devenue extrêmement riche, et les investisseurs étrangers
+    ont prospéré.
+
+    [...]
+
+    Tout cela avait été prédit par les critiques de l'ALENA, notamment par l'OTA
+    et les syndicats. Ils s'étaient seulement trompés sur un point précis.
+    La plupart d'entre eux s'attendaient à un fort exode rural,
+    des centaines de milliers de paysans étant chassés des campagnes,
+    mais il ne s'est pas produit. Il semble que les choses se soient
+    aggravées à ce point que dans les villes, en partie pour se diriger
+    vers les Etats-Unis. Ceux qui survivent - pas tous - au franchissement clandestin
+    de la frontière y travailleront pour des salaires très faibles et dans
+    des conditions épuvantables. La conséquences de tout cela, ce sont des
+    vies et des communautés détruites au Mexique, tandis que l'économie
+    américaine en profite : comme le souligne l'étude du
+    Woodrow Wilson Center, *la consommation des classes moyennes urbaines
+    continues à être financée par l'appauvrissement des travailleurs agricoles,
+    au Mexique comme au Etats-Unis.*
+
+    Tels sont les coûts de l'ALENA, et plus généralement de la mondialisation
+    néo-libérale, que les économistes préfèrent souvent ne pas évaluer.
+    Mais même au en utilisant des normes de calcul fortement idéologisées,
+    on constate qu'ils sont très élevés.
+
+    Aucune de ces observations ne fut autorisée, lors du sommet, à gâcher
+    la célébration de l'ALENA et de la ZLEA. Dans leur grande majorité,
+    les gens ne connaissent ce ces questions que ce qui se rapporte
+    à leur propre existence, à moins qu'ils ne soient en contact avec
+    des organisations militantes. La presse libre les protégeant avec
+    soin de la réalité, beaucoup d'entre eux ont l'impression d'être ratés,
+    incapables de prendre part au plus grand bonheur économique de l'Histoire.
+
+.. quote::
+    :author: Noah Chomsky
+    :book: Le profit avant l'Homme
+    :year: 2003
+    :index: démocratie
+    :pages: 50
+
+    Ce qui reste de la démocratie doit être désormais considéré
+    comme le droit de choisir entre des marchandises.
+
+.. quote::
+    :author: Noah Chomsky
+    :book: Le profit avant l'Homme
+    :year: 2003
+    :index: démocratie
+    :pages: 83
+
+    On connaît bien l'éloge qu'Adam Smith fait de la division du travail,
+    mais beaucoup moins sa dénonciation de ses effets déshumanisants,
+    qui transforment les travailleurs en objets *aussi stupides et ignorants
+    qu'il est possible à une créature humaine de l'être.* C'est là
+    quelque chose qu'il faut empêcher *dans toute société
+    civilisée et développée* par une action de l'Etat,
+    afin de surmonter la force destructrice de la fameuse
+    *main invisible.* On ignore également que Smith pensait qu'une sorte de
+    régulation d'Etat *en faveur des travailleurs est toujours juste et
+    équitables,* mais pas *quand elle est en faveur des maîtres* ;
+    de même que son appel à l'égalité de conditions, qui était au coeur
+    de son plaidoyer pour la liberté des marchés.
+
+    Un autre penseur majeur du panthéon libéral allait encore plus loin.
+    Wilhem won Humboldt condamnait le travail salarié en soi : quand le
+    travailleur est soumis à un contrôle extérieur, écrivait--il,
+    *nous pouvons admirer ce qu'il fait, mais nous méprisons ce qu'il est.
+    L'art progresse, l'artisan recule.*, observait Alexis de Tocqueville,
+    autre grande figure du libéralisme. Comme Smith et Jefferson, il pensait
+    que l'égalité de conditions était une importante caractéristique
+    d'une société juste et libre. Voilà cent soixante-ans, il mettait en garde
+    contre les dangers d'une *permanente inégalité des conditions.* Il
+    redoutait que ne sonne le glas de la démocratie si *l'aristocratie
+    manufacturière que nous voyons s'élever sous nos yeux* aux Etats-Unis,
+    *l'une des plus dures qui ait jamais existé au monde,* sortait
+    de ses frontières - comme elle le fit plus tard, dépassant de loin
+    ses pires cauchemars.
+
+.. quote::
+    :author: Noah Chomsky
+    :book: Le profit avant l'Homme
+    :year: 2003
+    :index: démocratie
+    :pages: 90
+
+    *L'auteur transcrit la pensée de James Madison
+    et Lance Banning.*
+
+    La constitution était, intrinsèquement,
+    un document aristocratique destiné à contrer les tendances
+    démocratiques de la période.
+    livrant le pouvoir aux meilleurs et empêchant ceux qui
+    n'étaient ni riches ni bien nés, ni connus, de l'exercer.
+
+    [...]
+
+    Madison prévoyait que la menace de la démocratie risquait
+    de s'aggraver avec le temps en raison de l'accroissement
+    de la proportion de ceux qui se heurtent à toutes les
+    difficicultés de l'existence, et rêvent en secret d'une
+    distribution plus équitable. [...] Il ne faut pas compter
+    sur ceux qui n'ont pas de biens, ni l'espoir d'en acquérir,
+    pour témoigner une sympathie suffisante aux droits de propriété.
+    Sa solution consistait à maintenir le pouvoir politique
+    entre les mains de ceux qui sont issus de, et représentent,
+    la richesse de la nation, le groupe des hommes les plus
+    capables face à un peuple fragmenté et désorganisés.
+
+.. quote::
+    :author: Noah Chomsky
+    :book: Le profit avant l'Homme
+    :year: 2003
+    :index: Cuba
+    :pages: 133
+
+    A la fin de février 1996, alors que les Etats-Unis s'indignaient de voir
+    Cuba abattre deux avions d'un groupe anti-castriste basé en Floride,
+    ceux-ci ayant à plusieurs reprises violé l'espace aérien cubain et lâché au-dessus
+    de la Havane des brochures appelant les Cubains à la révolte, [...]
+    nous pourrions nous demander comment les Etats-Unis réagiraient si des avions
+    libyens volant au-dessus de New-York et de Washington,
+    lâchaient des brochures appelant les Américains à se révolter, et ce après
+    des années d'attaques terroristes contre des cibles situées sur le
+    sol national ou à l'étranger.
+
+.. quote::
+    :author: Noah Chomsky
+    :book: Le profit avant l'Homme
+    :year: 2003
+    :index: marché libre
+    :pages: 140
+
+    L'administration [Clinton] prodiguait des fonds publics
+    à l'industrie des hautes technologies avec un abandon jusque-là
+    inconnu.
+
+.. quote::
+    :author: Noah Chomsky
+    :book: Le profit avant l'Homme
+    :year: 2003
+    :index: démocratie, ALENA
+    :pages: 166
+
+    Près de la moitié des tentatives d'implantation des syndicats sont
+    compromises par les menaces que brandissent les employeurs de
+    délocaliser la production à l'étranger : c'est ainsi que l'on place des
+    panneaux *Transferts d'emplois aux Mexique* devant une usine où
+    les travailleurs tentent de s'organiser. Et ce ne sont pas des paroles
+    en l'air : quand malgré tout, les syndicats réussissent à se maintenir,
+    les employeurs ferment l'usine, en totalité ou en partie, trois fois plus
+    souvent qu'avant l':epkg:`ALENA` (dans près de 15% des cas).
+    [...]
+    En bref, le danger, c'est la démocratie, aux Etats-Unis et ailleurs.
+    [...]
+    Selon Human Rights Watch, l'administration Clinton refuse toujours de
+    rendre au gouvernement haïtien 160.000 pages de documents saisis par
+    les troupes américaines, pour *éviter d'embarrassantes révélations*
+    sur la complicité des Etats-Unis avec les auteurs du coup d'Etat.
+
+.. quote::
+    :author: Anne Cofell Saunders, Jane Espenson
+    :book: Battlestar Gallactica
+    :year: 2007
+    :index: démocratie
+    :pages: épisode S3
+    :source: https://fr.wikipedia.org/wiki/Saison_3_de_Battlestar_Galactica#Gr%C3%A8ve_g%C3%A9n%C3%A9rale
+
+    Quand le carburant coule, mes coups de fil sont sans effets,
+    en revanche, à la minute où il y a un ennui pour fournir le carburant,
+    j'arrive à avoir un entretien dans la minute avec la présidente et l'amiral.
+    Peut-être qu'on devrait se décider à avoir plus d'ennuis à l'avenir.
