@@ -9,7 +9,7 @@
     :book: Hedy Lamarr, star et inventeuse de génie
     :year: 2017
     :index: inspiration
-    :source: https://en.wikipedia.org/wiki/K-On!
+    :source: https://www.allocine.fr/film/fichefilm_gen_cfilm=257984.html
 
     Les gens sont déraisonnables, illogiques et égocentriques.
     Aimez-les tout de même.
