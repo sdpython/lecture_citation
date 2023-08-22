@@ -401,7 +401,7 @@ Réhabilitation de 5 logements dans un corps de ferme à Rocroi (non daté)
 .. image:: gilles_dupre_72_0.png
    :width: 1200px
 
-.. image:: rocroi_a.png
+.. image:: rocroi_a.jpg
    :width: 600px
    :alt: photo prise le 20 août 2023
 
