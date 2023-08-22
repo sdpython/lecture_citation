@@ -48,9 +48,6 @@ lors de la lecture.
 .. image:: https://circleci.com/gh/sdpython/lecture_citation/tree/main.svg?style=svg
     :target: https://circleci.com/gh/sdpython/lecture_citation/tree/main
 
-.. image:: https://badge.fury.io/py/lecture_citation.svg
-    :target: https://pypi.org/project/lecture_citation/
-
 .. image:: https://img.shields.io/badge/license-MIT-blue.svg
     :alt: MIT License
     :target: http://opensource.org/licenses/MIT

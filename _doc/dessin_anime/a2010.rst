@@ -222,8 +222,7 @@
     :index: cuisine
     :year: 2014
     :title1: true
-
-    `Shokugeki no Sōma <https://fr.wikipedia.org/wiki/Food_Wars!>`_
+    :source: https://fr.wikipedia.org/wiki/Food_Wars!
 
     Chaque épisode parle de cuisine, souvent de bataille, détaille par le menu
     la recette gagnante. Dès le premier épisode, j'ai eu envie de reproduire

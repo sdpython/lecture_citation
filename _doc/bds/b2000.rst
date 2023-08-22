@@ -22,7 +22,7 @@
     :index: famille
     :year: 2007
     :title1: true
-    :source: https://www.editionspaquet.com/catalogue-bd/integrale-cycle-1-et-2
+    :source: https://editionspaquet.com/shop/9782889325085-le-voyage-des-peres-integrale-cycle-1-2-1195
 
     Un père attend son fils pour l'aider à labourer le champ familiale,
     celui qui leur assure le couvert. Or, il apprend que celui-ci

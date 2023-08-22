@@ -823,8 +823,7 @@
     remplacée dans les assiettes par des traits de vinaigre
     balsmaiques*, exposait le chef Yannick Alléno lors
     d'une émission de radio
-    [`lien <https://www.rfi.fr/fr/emission/
-    20190914-alleno-yannick-chef-cuisinier-etoile-sauce-moderne-gout-absolu>`_].
+    [`lien <https://www.rfi.fr/fr/emission/20190914-alleno-yannick-chef-cuisinier-etoile-sauce-moderne-gout-absolu>`_].
 
 .. quote::
     :author: Louis Jeudi
