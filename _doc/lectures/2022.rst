@@ -442,7 +442,7 @@
     :book: Les pieds sur Terre 9 septembre
     :year: 2022
     :index: bonheur
-    :link: https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/le-paradis-est-ici-5024767
+    :source: https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/le-paradis-est-ici-5024767
 
     J'apprenais à être moi-même. J'apprenais à laisser l'autre être lui.
 
@@ -451,7 +451,7 @@
     :book: Une poignée de seigle
     :year: 1953
     :index: mouton
-    :link: https://fr.wikipedia.org/wiki/Une_poign%C3%A9e_de_seigle
+    :source: https://fr.wikipedia.org/wiki/Une_poign%C3%A9e_de_seigle
     :pages: 5
 
     Miss Somers était la dernière entrée des dactylos, et la moins bonne.
@@ -463,7 +463,7 @@
     :book: Une poignée de seigle
     :year: 1953
     :index: problème
-    :link: https://fr.wikipedia.org/wiki/Une_poign%C3%A9e_de_seigle
+    :source: https://fr.wikipedia.org/wiki/Une_poign%C3%A9e_de_seigle
     :pages: 173
 
     Un problème n'est pas résolu quand on lui a donné une solution
@@ -475,7 +475,7 @@
     :book: Le grand roman des maths
     :year: 2016
     :index: maths
-    :link: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :source: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
     :pages: 8
 
     Observer l'expression des gens qui se croyaient irrémédiablement
@@ -488,7 +488,7 @@
     :book: Le grand roman des maths
     :year: 2016
     :index: caillou
-    :link: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :source: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
     :pages: 29
 
     Pas question pour les propriétaires de laisser partir leurs moutons
@@ -514,7 +514,7 @@
     :book: Le grand roman des maths
     :year: 2016
     :index: axiome
-    :link: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :source: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
     :pages: 90
 
     Euclide pose les cinq axiomes suivant [voir `Géométrie euclidienne
@@ -528,7 +528,7 @@
     :book: Le grand roman des maths
     :year: 2016
     :index: Moyen-Age
-    :link: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :source: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
     :pages: 162
 
     Au cours de la période médiévale, il faut bien l'avouer, les
@@ -546,7 +546,7 @@
     :book: Le grand roman des maths
     :year: 2016
     :index: imprimerie
-    :link: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :source: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
     :pages: 189
 
     La propagation de ces nouvelles idées est largement soutenue
@@ -562,7 +562,7 @@
     :book: Le grand roman des maths
     :year: 2016
     :index: Viète
-    :link: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
+    :source: https://editions.flammarion.com/le-grand-roman-des-maths/9782081378766
     :pages: 193
 
     C'est en 1591 que François Viète publie ce qui va devenir son oeuvre principale :
@@ -600,7 +600,7 @@
     :book: Alnoah.Zero
     :year: 2014
     :index: guerre
-    :link: https://fr.wikipedia.org/wiki/Aldnoah.Zero
+    :source: https://fr.wikipedia.org/wiki/Aldnoah.Zero
     :pages: 12
 
     - Pourquoi la guerre s'arrêtre ?
