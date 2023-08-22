@@ -1,0 +1,45 @@
+====
+2023
+====
+
+.. quote::
+    :author: ...
+    :index: voyage
+    :year: 2023
+    :book: 20/08/2023
+
+    Invariablement, chaque dimanche d'été, elle sortait son transat après le café,
+    retournait dans la chambre pour en ressortir en bikini un livre à la main.
+    Invariablement, il sortait la tondeuse. Il n'avait pas fini de détourer la terrasse
+    qu'elle lui demandait : "tu t'ennuies mon chéri ?" "Non, pourquoi ?", répondait-il.
+    Elle enchaînait "On fait l'amour ?" Il acceptait sans peine. Puis au milieu
+    de l'effort, elle lui glissait "Mais tu arrêtes la tondeuse."
+    Tous leurs enfants étaient nés en mai. Il avait bien essayé de passer
+    la tondeuse d'intérieur - plus simplement l'aspirateur - l'hiver mais 
+    cela n'avait jamais marché.
+
+.. quote::
+    :author: ...
+    :index: voyage
+    :year: 2023
+    :book: 20/08/2023
+
+    Petite maison au bord de la rivière. Monsieur pêche. Madame tricotte.
+    Monsieur prend du bide. Madame prend de la culotte.
+
+.. quote::
+    :author: ...
+    :index: voyage
+    :year: 2023
+    :book: 21/08/2023
+
+    C'est l'image d'une maison comme beaucoup de maisons
+    qui ont poussé en périphérie de vieux centres villes
+    de petites villes ardennaises.
+
+    .. image:: images/maison_2023.jpg
+
+    Je suppose qu'elle n'a pas coûté trop cher à constuire.
+    Mais elle n'a aucun charme. Elle n'est pas en pierre non plus,
+    ces vieilles pierres qui protègent de la chaleur par temps
+    de canicule. Tout est à refaire.

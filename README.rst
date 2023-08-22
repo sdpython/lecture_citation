@@ -26,5 +26,6 @@
 lecture_citation: Collection de souvenirs de lectures
 =====================================================
 
-* `GitHub/lecture_citation <https://github.com/sdpython/lecture_citation/>`_
-* `documentation <https://sdpython.github.io/doc/lecture_citation/dev/>`_
+Receuil de souvenirs de lectures, d'anecdotes, d'histoires...
+
+`Rendu <https://sdpython.github.io/doc/lecture_citation/dev/>`_

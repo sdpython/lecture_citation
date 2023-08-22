@@ -8,7 +8,7 @@ Souvenirs artistiques
 J'ai toujours été fasciné par ceux qui sortent toujours
 la citation qui tombe à pic. Je ne sais pas faire cela,
 je ne retiens jamais les mots exacts, juste l'idée où l'émotion
-lors de la lecture.
+lors de la lecture. Et puis il n'y a pas que les citations.
 
 .. toctree::
     :maxdepth: 1
@@ -27,9 +27,15 @@ lors de la lecture.
 
 .. toctree::
     :maxdepth: 2
-    :caption: architecture
+    :caption: Architecture
 
     architecture/index
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Journal
+
+    journal/index
 
 .. toctree::
     :maxdepth: 2
