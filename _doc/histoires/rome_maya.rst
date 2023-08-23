@@ -35,9 +35,10 @@ document donnent une vision beaucoup plus précise de ces deux empires,
 les paragraphes qui suivent ne font que tracer le schéma du déclin et
 peut-être vous donneront envie d'en lire davantage.
 
-Je me suis appuyé principalement sur deux livres `Les Mayas <http://www.tallandier.com/auteur-218.htm>`_ *
-d'Arthur Desmaret et
-`L'Empire Romain, économie, société, culture <http://www.editionsladecouverte.fr/catalogue/index-L_Empire_romain-9782707135957.html>`_
+Je me suis appuyé principalement sur deux livres
+`Les Mayas <https://www.tallandier.com/auteur-218.htm>`__ d'Arthur Desmaret et
+`L'Empire Romain, économie, société, culture
+<https://www.editionsladecouverte.fr/catalogue/index-L_Empire_romain-9782707135957.html>`__
 de Peter Garnsey et Richard Saller.
 
 Economie Maya
@@ -253,14 +254,16 @@ que l'appétit de leurs peuples. Ces deux empires ont été incapables de s'adap
 puis ont laissé place à d'autres structures plus aptes à survivre.
 
 Le livre
-`Une histoire populaire des États-Unis <http://agone.org/memoiressociales/unehistoirepopulairedesetatsunis/index.html>`_
+`Une histoire populaire des États-Unis
+<https://agone.org/memoiressociales/unehistoirepopulairedesetatsunis/index.html>`__
 de Howard Zinn entreprend de replacer deux siècles d'économie
 américaine au sein d'un même dessein ancré autour de la conquête de
 nouveaux territoires géographiques, économiques, tout comme l'esclavage
 et l'expansion furent deux grandes composantes de la bonne santé
 économique de l'Empire Romain. Récemment, Al Gore a présenté
 une conférence autour des limites écologiques que le modèle économique actuel
-a dépassé (voir `Une vérité qui dérange <https://fr.wikipedia.org/wiki/Une_v%C3%A9rit%C3%A9_qui_d%C3%A9range>`_).
+a dépassé (voir `Une vérité qui dérange
+<https://fr.wikipedia.org/wiki/Une_v%C3%A9rit%C3%A9_qui_d%C3%A9range>`__).
 Il est peut-être temps d'inventer un autre système économique
 plus à même de tenir compte les contraintes écologiques
 à moins que Goodwin ne nous affirme que notre promptitude à réagir ne
@@ -284,7 +287,7 @@ C'est d'ailleurs l'une des raisons qui explique la durée de la présence des
 Croisés à Jérusalem. La guerre de succession qui suivit la mort de Saladdin
 prolongea d'autant la présence Européenne en terre sainte alors
 qu'elle n'était plus réduite qu'à quelques villes
-(lire `Les idéntités meurtrières <http://www.livredepoche.com/les-identites-meurtrieres-amin-maalouf-9782253150053>`_ d'Amin Maalouf).
+(lire `Les idéntités meurtrières <https://www.livredepoche.com/les-identites-meurtrieres-amin-maalouf-9782253150053>`__ d'Amin Maalouf).
 Le découpage des pays Européens n'a plus trop bougé depuis.
 
 Bibliographie
@@ -292,12 +295,15 @@ Bibliographie
 
 cités dans le texte
 
-* `Les Mayas <http://www.tallandier.com/auteur-218.htm>`_ d'Arthur Desmaret
-* `L'Empire Romain, économie, société, culture <http://www.editionsladecouverte.fr/catalogue/index-L_Empire_romain-9782707135957.html>`_ de Peter Garnsey et Richard Saller.
-* `Les idéntités meurtrières <http://www.livredepoche.com/les-identites-meurtrieres-amin-maalouf-9782253150053>`_ d'Amin Maalouf
-* `Une vérité qui dérange <https://fr.wikipedia.org/wiki/Une_v%C3%A9rit%C3%A9_qui_d%C3%A9range>`_,
+* `Les Mayas <http://www.tallandier.com/auteur-218.htm>`__ d'Arthur Desmaret
+* `L'Empire Romain, économie, société, culture
+  <https://www.editionsladecouverte.fr/catalogue/index-L_Empire_romain-9782707135957.html>`__ de Peter Garnsey et Richard Saller.
+* `Les idéntités meurtrières <https://www.livredepoche.com/les-identites-meurtrieres-amin-maalouf-9782253150053>`__ d'Amin Maalouf
+* `Une vérité qui dérange
+  <https://fr.wikipedia.org/wiki/Une_v%C3%A9rit%C3%A9_qui_d%C3%A9range>`__,
   documentaire à partir d'une présentation d'Al Gore
-* `Une histoire populaire des États-Unis <http://agone.org/memoiressociales/unehistoirepopulairedesetatsunis/index.html>`_ de Howard Zinn
+* `Une histoire populaire des États-Unis
+  <https://agone.org/memoiressociales/unehistoirepopulairedesetatsunis/index.html>`__ de Howard Zinn
 
 .. index:: Tempus
 

@@ -37,7 +37,8 @@ Pour compléter la réflexion :
 `La France ne veut pas des drones de livraison d’Amazon ou de Google <https://www.nextinpact.com/news/90446-la-france-ne-veut-pas-drones-livraison-d-amazon-ou-google.htm>`_,
 `La Poste teste la livraison de colis par drones dans le Var <https://www.lemondeinformatique.fr/actualites/lire-la-poste-teste-la-livraison-de-colis-par-drones-dans-le-var-59710.html>`_,
 `Les pirates réclament une rançon de 3,4 millions de dollars pour débloquer les données du Centre médical basé en Californie. <https://www.lesechos.fr/tech-medias/hightech/021704417085-des-hackers-prennent-en-otage-le-systeme-informatique-dun-hopital-1200975.php>`_,
-`« Le numérique s'impose partout, mais la croissance ne décollera pas » <https://www.latribune.fr/opinions/tribunes/le-numerique-s-impose-partout-mais-la-croissance-ne-decollera-pas-510227.html>`_,
+`« Le numérique s'impose partout, mais la croissance ne décollera pas »
+<https://www.latribune.fr/opinions/tribunes/le-numerique-s-impose-partout-mais-la-croissance-ne-decollera-pas-510227.html>`__,
 `Retour sur le Google Hash Code 2016, optimisation d'un système de livraison à base de drones <https://blog.sodifrance.fr/google-hash-code-2016/>`_,
 `Abeilles: un appât radical contre le frelon asiatique <https://www.lefigaro.fr/jardin/2016/02/24/30008-20160224ARTFIG00290-abeilles-un-appat-radical-contre-le-frelon-asiatique.php>`_,
 `L'innovation au secours de l'agriculture, et après ? <https://www.franceculture.fr/emissions/dimanche-et-apres/l-innovation-au-secours-de-l-agriculture-et-apres>`_.
@@ -274,7 +275,8 @@ amené à disparaitre mais il faut se pencher un peu plus sur la personne qui oc
 Il n'y a pas de réponse simple et si elle existe, elle est sans doute collective.
 Il y a aussi une certaine provocation dans le titre des articles
 abordant le sujet
-comme `« Le numérique s'impose partout, mais la croissance ne décollera pas » <http://www.latribune.fr/opinions/tribunes/le-numerique-s-impose-partout-mais-la-croissance-ne-decollera-pas-510227.html>`_
+comme `« Le numérique s'impose partout, mais la croissance ne décollera pas »
+<https://www.latribune.fr/opinions/tribunes/le-numerique-s-impose-partout-mais-la-croissance-ne-decollera-pas-510227.html>`__
 et il faut les lire. Aujourd'hui on ne sait pas. On sait que les métiers vont devenirs de moins en moins
 répétitifs, de plus en plus créatifs, qu'il y en aura d'autres très mal payer et très répétitifs.
 On sait aussi que l'école d'aujourd'hui n'arrive pas à former assez de monde pour ces
