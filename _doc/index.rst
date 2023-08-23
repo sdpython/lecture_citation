@@ -33,8 +33,9 @@ lors de la lecture. Et puis il n'y a pas que les citations.
 
 .. toctree::
     :maxdepth: 2
-    :caption: Journal
+    :caption: Ecrits
 
+    histoires/index
     journal/index
 
 .. toctree::
