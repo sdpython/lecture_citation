@@ -177,7 +177,6 @@ Les scénarios ne sont pas tous des scénarios catastrophe mais invitent
   ce qu'on peut faire avec les méta données (et sans être Sherlock Holmes)
 * `1984 <https://fr.wikipedia.org/wiki/1984_%28roman%29>`_, George Orwell (livre)
 * `Brazil <https://fr.wikipedia.org/wiki/Brazil_%28film,_1985%29>`_, Terry Gilliam (film, adaptation de 1984)
-* `Psycho Pass <https://fr.wikipedia.org/wiki/Psycho-Pass>`_,
-  diffusé sur `France 4 <https://www.france4.fr/emissions/psycho-pass>`_ (manga japonais, parfois violent)
+* `Psycho Pass <https://fr.wikipedia.org/wiki/Psycho-Pass>`_, (manga japonais, parfois violent)
 * `Bienvenue à Gattaca <https://fr.wikipedia.org/wiki/Bienvenue_%C3%A0_Gattaca>`_, Andrew Niccol (film)
 * `The Trueman Show <https://fr.wikipedia.org/wiki/The_Truman_Show>`_, Peter Weir (film)

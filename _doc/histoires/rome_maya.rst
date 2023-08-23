@@ -36,9 +36,8 @@ les paragraphes qui suivent ne font que tracer le schéma du déclin et
 peut-être vous donneront envie d'en lire davantage.
 
 Je me suis appuyé principalement sur deux livres
-`Les Mayas <https://www.tallandier.com/auteur-218.htm>`__ d'Arthur Desmaret et
-`L'Empire Romain, économie, société, culture
-<https://www.editionsladecouverte.fr/catalogue/index-L_Empire_romain-9782707135957.html>`__
+`Les Mayas <https://www.tallandier.com/livre/les-mayas/>`__ d'Arthur Desmaret et
+*L'Empire Romain, économie, société, culture*
 de Peter Garnsey et Richard Saller.
 
 Economie Maya
@@ -295,9 +294,8 @@ Bibliographie
 
 cités dans le texte
 
-* `Les Mayas <http://www.tallandier.com/auteur-218.htm>`__ d'Arthur Desmaret
-* `L'Empire Romain, économie, société, culture
-  <https://www.editionsladecouverte.fr/catalogue/index-L_Empire_romain-9782707135957.html>`__ de Peter Garnsey et Richard Saller.
+* `Les Mayas <https://www.tallandier.com/livre/les-mayas/>`__ d'Arthur Desmaret
+* *L'Empire Romain, économie, société, culture* de Peter Garnsey et Richard Saller.
 * `Les idéntités meurtrières <https://www.livredepoche.com/les-identites-meurtrieres-amin-maalouf-9782253150053>`__ d'Amin Maalouf
 * `Une vérité qui dérange
   <https://fr.wikipedia.org/wiki/Une_v%C3%A9rit%C3%A9_qui_d%C3%A9range>`__,
@@ -346,7 +344,8 @@ autres lectures
   France des quatre mousquetaires. La fin de règne est longue avec un roi
   atteint de bigotterie.
 
-* `Tour du monde d'un sceptique <http://www.payot-rivages.net/livre_Tour-du-monde-d-un-sceptique-Aldous-Huxley_ean13_9782228899680.html>`_
+* `Tour du monde d'un sceptique
+  <https://www.payot.ch/Detail/tour_du_monde_dun_sceptique-aldous_huxley-9782228913393>`_
   de Aldous Huxley, les carnets de voyage de celui qui écrivit
   `Le meilleur des mondes <https://fr.wikipedia.org/wiki/Le_Meilleur_des_mondes>`_,
   d'un regard presque détaché, Huxley a transcrit ses réflexions depuis

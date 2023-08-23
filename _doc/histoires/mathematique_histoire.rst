@@ -65,7 +65,7 @@ définit `l'ensemble de Julia <http://fr.wikipedia.org/wiki/Ensemble_de_Julia>`_
 
 L'ensemble de Julia est une fractale, concept dont on se sert pour
 décrire la forme d'un chou ou celle des côtes Bretonnes mais aussi réfléchir sur
-la longueur du litoral (voir `Les fractales pour les nuls <http://brunomarion.com/fr/les-fractales-pour-les-nuls/>`_).
+la longueur du litoral (voir `Les fractales pour les nuls <https://brunomarion.com/fr/les-fractales-pour-les-nuls/>`_).
 La musique a aussi droit à son écriture à laquelle
 `Guido d'Arezzo <http://fr.wikipedia.org/wiki/Guido_d%27Arezzo>`_ a fortement contribué.
 C'est comme si, dans plusieurs domaines, un langage était apparu par besoin, pour
