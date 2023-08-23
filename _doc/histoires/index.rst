@@ -16,6 +16,7 @@ Histoires pour réfléchir et rêver
     peau_peinture
     education
     tinquiete
+    peinture
 
 .. toctree::
     :maxdepth: 1
