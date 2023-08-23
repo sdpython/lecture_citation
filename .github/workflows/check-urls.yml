@@ -42,6 +42,6 @@ jobs:
         print_all: false
         timeout: 5
         retry_count# : 3
-        exclude_urls: https://fr.wikipedia.org/wiki/Food_Wars,https://fr.wikipedia.org/wiki/K-ON
+        exclude_urls: https://fr.wikipedia.org/wiki/Food_Wars,https://fr.wikipedia.org/wiki/K-ON,https://www.lardennais.fr/id257821/article/2021-05-17/au-lac-de-bairon-la-base-departementale-sera-rasee
         # exclude_patterns: 
         # force_pass : true
