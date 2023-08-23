@@ -1,17 +1,8 @@
-
-.. index:: histoire
-
-.. _l-petit-basque:
-
 Les vacances du petit basque
 ============================
 
-**+6 ans**
-
 *Pour ceux qui ne connaissent pas encore*
 `Les vacances du petit Nicolas <https://fr.wikipedia.org/wiki/Les_Vacances_du_Petit_Nicolas>`_.
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Les vacances, c'est génial sauf le premier jour parce que le soleil
 il a pas compris qu'il fallait pas tuer tous les nuages quand on

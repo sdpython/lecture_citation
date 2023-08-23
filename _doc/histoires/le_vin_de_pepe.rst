@@ -1,14 +1,5 @@
-
-.. index:: histoire
-
-.. _l-vin_pepe:
-
 Le vin de Pépé
 ==============
-
-**+6 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Pépé fabriquait son propre vin avec ses propres vignes et sa propre façon, sans tracteur,
 tout à la main mais son vin était très bon. Chaque année, il faisait le point avec un

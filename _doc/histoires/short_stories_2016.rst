@@ -1,8 +1,3 @@
-
-.. index:: histoire, short stories
-
-.. _l-short-stories:
-
 Histoires courtes (2016)
 ========================
 

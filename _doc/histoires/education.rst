@@ -1,14 +1,5 @@
-
-.. index:: histoire
-
-.. _l-education:
-
 La proportionnelle
 ==================
-
-**+9 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Mon père est parti manifester. Depuis qu'il est
 à la retraite, il ne cesse sortir exprimer ses opinions.

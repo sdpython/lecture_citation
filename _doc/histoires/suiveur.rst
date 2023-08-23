@@ -1,12 +1,5 @@
-
-.. _l-mouchard:
-
 Le téléphone me suit partout
 ============================
-
-**+10 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Avez-vous déjà épousé une geek ? Un peu jalouse de surcroît.
 Il y a 10 ans, cela ne vous aurait posé aucun problème mais

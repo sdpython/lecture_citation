@@ -1,12 +1,5 @@
-
-.. _l-ratatin:
-
 Le déménagement virtuel
 =======================
-
-**+6 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Papa est enchanté car nous avons enfin déménagé.
 Il ne cesse de répéter qu'il est ravi du changement même si

@@ -1,16 +1,7 @@
-
-.. index:: histoire
-
-.. _l-deon:
-
 La naissance de D'où
 ====================
 
-**+6 ans**
-
 *Le style est parfois très imagé.*
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Il était une fois un homme qui en avait marre qu'on
 lui tape dessus à chaque fois que la récolte

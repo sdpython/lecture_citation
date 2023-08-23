@@ -1,12 +1,5 @@
-
-.. _l-ratatin:
-
 Le ratatin
 ==========
-
-**+6 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 * Papa, tu as vu le ratatin ?
 * Oui, ma chérie, pas facile à flibuster.

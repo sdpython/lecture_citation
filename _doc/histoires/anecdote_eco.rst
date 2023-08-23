@@ -1,14 +1,5 @@
-
-.. index:: histoire, économie, anecdotes
-
-.. _l-anecdotes-economique:
-
 Anecdotes Economiques
 =====================
-
-**+12 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Des histoires économiques, un peu de bon sens et des surprises.
 

@@ -1,14 +1,5 @@
-
-.. index:: histoire
-
-.. _l-peau-peinture:
-
 Peau de peinture
 ================
-
-**+6 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Anatole habitait Paris avec ses parents. Le soir,
 il prenait son repas sur le balcon, au milieu des pots de

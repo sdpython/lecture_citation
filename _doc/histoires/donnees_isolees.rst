@@ -1,14 +1,5 @@
-
-.. index:: Big Data, données
-
-.. _l-histoire_donnee_isolee:
-
 La donnée isolée et la moyenne
 ==============================
-
-**+10 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Les données sont légions et n'attendent que
 d'être intégrées à une histoire qui selon les personnes prend le

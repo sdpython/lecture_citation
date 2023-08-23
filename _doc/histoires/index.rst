@@ -1,6 +1,3 @@
-
-.. _l-histoires:
-
 Histoires pour réfléchir et rêver
 =================================
 

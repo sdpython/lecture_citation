@@ -1,14 +1,5 @@
-
-.. index:: Big Data, données, téléphone
-
-.. _l-histoire_telephone:
-
 La journée de Téléphone
 =======================
-
-**+8 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Cette histoire est fictive mais tout-à-fait envisageable avec les
 technologie d'aujourd'hui. Nous sommes en 2016. La plupart des idées

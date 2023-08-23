@@ -1,12 +1,5 @@
-
-.. _l-lecture_codes_secret:
-
 Les codes secret entre les deux guerres
 =======================================
-
-**+12 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 La cryptographie a occupé un rôle discret et important dans l'histoire, au vingtième siècle notamment,
 elle fut particulièrement active pendant les deux guerres mondiales.

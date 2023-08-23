@@ -1,5 +1,3 @@
-.. index:: correcteur orthographique, orthographe, énoncé, sondage, vote
-
 ==================================
 Le correcteur orthographique moyen
 ==================================

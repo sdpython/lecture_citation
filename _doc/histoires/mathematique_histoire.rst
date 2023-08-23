@@ -1,14 +1,5 @@
-
-.. index:: histoire, racine carrée, loi normale, Galton, machine de Galton, Chauvet, grotte de Chauvet, mathématiques, langage, science
-
-.. _l-histoire_mathematique_histoire:
-
 Mathématiques, Histoire et Langage
 ==================================
-
-**+10 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 A en croire l'émission
 `d3: Conserver Chauvet, patrimoine mondial <http://www.franceinter.fr/emission-3d-le-journal-conserver-chauvet-patrimoine-mondial>`_

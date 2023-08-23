@@ -1,14 +1,5 @@
-
-.. index:: histoire, sociologie, anecdotes
-
-.. _l-anecdotes-sociologiques:
-
 Anecdotes Sociologiques
 =======================
-
-**+12 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Des histoires sociologiques, un peu de bon sens et quelques surprises.
 

@@ -1,18 +1,9 @@
-.. index:: cantine, like, facebook, smartphone, sondage, droit, énoncé, Dunkerque 2015-03-25
-
-*=======================
+========================
 Le dessert de la cantine
 ========================
 
 Ce que le conteur doit dire
 ===========================
-
-A partir de 7-8 ans (mais ce n'est qu'une indication).
-Voir également :ref:`blog_post_reseaux_soc` car on n'est pas censé
-être sur un réseau social aussi jeune. Les boutons *partage* s'adressent
-donc aux parents.
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Le jeu se joue à deux : une personne connaît la solution et tente
 de la faire découvrir à l'autre au travers de questions.

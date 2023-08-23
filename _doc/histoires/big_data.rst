@@ -1,14 +1,5 @@
-
-.. index:: Big Data, données
-
-.. _l-histoire_big_data:
-
 C'est quoi les données, c'est quoi le Big Data ?
 ================================================
-
-**+10 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Dans le film
 `Bienvenue à Gattaca <https://fr.wikipedia.org/wiki/Bienvenue_%C3%A0_Gattaca>`_,
@@ -42,8 +33,8 @@ plus longtemps, on a plus de temps pour les observer et leur donner du sens.
 
 Les statistiques y sont pour beaucoup même si ce terme n'est pas une explication en soi.
 `David Hume <https://fr.wikipedia.org/wiki/David_Hume>`_
-dans
-`Enquête sur l'entendement humain <https://fr.wikipedia.org/wiki/Enqu%C3%AAte_sur_l%27entendement_humain>`_
+dans `Enquête sur l'entendement humain
+<https://fr.wikipedia.org/wiki/Enqu%C3%AAte_sur_l%27entendement_humain>`_
 nous apporte quelques
 éléments de réponses. Nous sommes tous très amnésiques mais une des
 façons qui nous permet de retenir est la répétition. Une observation,

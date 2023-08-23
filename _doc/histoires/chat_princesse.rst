@@ -1,14 +1,5 @@
-
-.. index:: histoire
-
-.. _l-chat-princesse:
-
 Le chat et la princesse
 =======================
-
-**+6 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 *Cette histoire se joue avec deux marionnettes et des gommettes,
 une marionnette représentant un chat sans bouche,

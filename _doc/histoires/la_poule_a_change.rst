@@ -1,14 +1,5 @@
-
-.. index:: histoire
-
-.. _l-histoire_la_poule_a_change:
-
 On m'a changé mes poules
 ========================
-
-**+4 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Depuis tout petit, j'appelle toujours ma grand-mère pour savoir combien de temps
 je dois laisser mes oeufs dans l'eau bouillante pour qu'ils soient à la coque.

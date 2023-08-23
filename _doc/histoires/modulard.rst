@@ -1,12 +1,5 @@
-
-.. _l-modulard:
-
 Modulard le ver de terre
 ========================
-
-**+7 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Modulard était un ver de terre assez puissant, du moins selon son entourage.
 Il vivait paisiblement parmi les rosiers qui étaient copieusement

@@ -1,14 +1,5 @@
-
-.. index:: histoire
-
-.. _l-tinquiete:
-
 T'inquiète Papa, je gère !
 ==========================
-
-**+6 ans**
-
-:sharenet:`facebook-twitter-linkedin-20-body`
 
 Papa a passé la journée à taper, dévisser, jurer pour démonter la terrasse en bois.
 Il a récupéré les morceaux pour en faire un banc et des pots de fleur.

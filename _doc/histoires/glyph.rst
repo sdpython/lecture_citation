@@ -1,6 +1,3 @@
-
-.. index:: histoire
-
 L'homme Maïs
 ============
 
