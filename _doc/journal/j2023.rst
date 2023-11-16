@@ -43,3 +43,43 @@
     Mais elle n'a aucun charme. Elle n'est pas en pierre non plus,
     ces vieilles pierres qui protègent de la chaleur par temps
     de canicule. Tout est à refaire.
+
+.. quote::
+    :author: ...
+    :index: justice et conséquences
+    :year: 2023
+    :book: 15/11/2023
+
+    J'avoue ne pas tout comprendre des débats autour de l'aide médicale.
+    `Loi immigration : tout comprendre du débat autour de l'Aide médicale d'Etat (AME)
+    <https://www.publicsenat.fr/actualites/politique/loi-immigration-tout-comprendre-du-debat-autour-de-laide-medicale-detat-ame>`_.
+    Les conséquences à moyen terme sont rarement évaluées.
+    Si refuser de soigner peut sans doute faire faire quelques économies à l'Etat français à court terme,
+    que deviennent ces personnes à l'hôpital qui doivent refuser de soigner et ces personnes
+    à qui on refuse. 
+    `Suppression de l'AME : 3.500 médecins menacent de désobéir si l'aide médicale d'Etat disparaît 
+    <https://www.lemonde.fr/societe/article/2023/11/11/suppression-de-l-ame-3-500-medecins-menacent-de-desobeir-si-l-aide-medicale-d-etat-disparait_6199557_3224.html>`_.
+    Je ne me vois pas refuser de répondre à la question d'un étudiant à la fin d'un cours
+    parce que j'estime que je ne suis pas assez payé. Et quel jugement porterait-il face
+    à cette réponse qui lui paraîtra injuste et arbitraire ?
+    Je doute que l'élève en question devienne violent mais qu'en est-il de la personne
+    qui se voit refuser des soins. Que fait-elle quand sa survie est en jeu ?
+    Deviendra-t-elle violente ? Cette violence pourrait se déclencher à tout moment,
+    blesser d'autres personnes, avoir des conséquences bien plus graves que les soins
+    réfusées. Est-ce que les agressions quotidiennes, petites mais répétées,
+    ne deviennent pas de plus grandes agressions. Un peu comme la pluie.
+
+.. quote::
+    :author: ...
+    :index: le mot juste
+    :year: 2023
+    :book: 16/11/2023
+
+    J'ai regardé beaucoup de séries cette année au détriment des livres.
+    Je perds des mots. Je m'en rend compte tous les jours.
+    Je sais qu'ils existent et j'ai besoin d'une intelligence
+    artificielle pour les retrouver.
+
+    .. image:: images/iallm.jpg
+
+    Navrant et magnifique...
