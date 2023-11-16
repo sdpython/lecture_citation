@@ -49,6 +49,19 @@
     dans Opening Night ou cet enfant dans Piano Forest.
 
 .. quote::
+    :author: Natsu Hyūga
+    :manga: Les Carnets de l'apothicaire (Kusuriya no hitorigoto)
+    :index: énigme
+    :year: 2011
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Les_Carnets_de_l%27apothicaire
+
+    Une adolescente curieuse aborde les problèmes qui présentent à elle
+    sans superstitions à une époque (La Chine des Empereur) où elles sont
+    légions. Apothicaire en herbe, médecin, elle essaye sur son bras toute
+    sorte de poisons et de remède. Elle ne sait pas résister à sa curiosité.
+
+.. quote::
     :author: Torako
     :manga: Love, Chunibyo and Other Delusions!
     :index: iconoclaste
