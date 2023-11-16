@@ -80,6 +80,6 @@
     Je sais qu'ils existent et j'ai besoin d'une intelligence
     artificielle pour les retrouver.
 
-    .. image:: images/iallm.jpg
+    .. image:: images/iallm.png
 
     Navrant et magnifique...
