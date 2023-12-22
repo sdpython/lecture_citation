@@ -8,4 +8,4 @@ Le seul livre que j'ai écrit. Un peu daté aujourd'hui. Le langage a beaucoup c
 
 Idem pour la thèse (*Reconnaissance de l'écriture manuscrite*)
 où le deep learning à remplacer beaucoup de choses,
-:download:`xd_thse.pdf`, vidéo :download:`these.zip`.
+:download:`xd_these.pdf`, vidéo :download:`these.zip`.
