@@ -24,7 +24,7 @@ lors de la lecture. Et puis il n'y a pas que les citations.
     film
     bd
     varie/index
-    science
+    science/index
 
 .. toctree::
     :maxdepth: 2
