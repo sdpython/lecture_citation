@@ -4,6 +4,26 @@
 
 .. quote::
     :author: ...
+    :index: nuisance
+    :year:
+    :book: 21/12/2023
+
+    Quand ton voisin, celui qui tient cloisonné chez toi depuis un an à cause des odeurs
+    de bruit si fort qu'il est impossible d'ouvrir une fenêtre, brûle. Alors je pense à ce
+    film : `Nous irons tous au paradis <https://www.youtube.com/watch?v=HJ85VSOwllc>`_.
+    Quelques autres images ici
+    ` <https://www.youtube.com/watch?v=m_Rt_hWOowc>`_.
+
+.. quote::
+    :author: ...
+    :index: curiosité
+    :year:
+    :book: 21/12/2023
+
+    Je suis ce je suis aujourd'hui. Ce soir je vous vois. Je vous ecoute. Sans cela j'aurais été le même demain.
+
+.. quote::
+    :author: ...
     :index: voyage
     :year: 2023
     :book: 20/08/2023

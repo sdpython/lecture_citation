@@ -42,6 +42,20 @@
     dans un monde qui survit comme il peut au réchauffement climatique.
 
 .. quote::
+    :author: Brian K. Vaughan, Fiona Staples
+    :comic: Saga
+    :index: aventure
+    :year: 2012
+    :title1: true
+    :source: https://en.wikipedia.org/wiki/Saga_(comics)
+
+    La guerre est un cauchemar pour ceux qui la font, une nécessité pour
+    ceux qui la commande. Des personnages évoluent dans ce monde où la guerre
+    est comme une chose banale. Ils s'aiment un peu comme Roméo et Juliette,
+    ont des enfants, vivent, meurt, se venge et n'ont pas la langue dans leur
+    poche. Il y a un petit côté *Cent ans de solitude*.
+
+.. quote::
     :author: Munuera
     :comic: Les Campbell
     :index: pirate
