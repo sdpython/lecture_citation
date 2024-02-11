@@ -176,6 +176,8 @@ Bâtiments
 .. image:: gilles_dupre_27_0.png
    :width: 1200px
 
+.. _l-papa-chanzy:
+
 1990 - Extension du lycée Chanzy à Charleville
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
