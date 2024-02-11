@@ -6,3 +6,4 @@ Architecture
 
     gd
     gillesdupre/gilles_dupre
+    maquettes/index
