@@ -23,26 +23,26 @@ concours de lancers de poids.
 
 Quelques photos.
 
-.. image:: maquettes/20240211_130101.jpg
+.. image:: 20240211_130101.jpg
 
-.. image:: maquettes/20240211_130008.jpg
+.. image:: 20240211_130008.jpg
 
-.. image:: maquettes/20240211_130135.jpg
+.. image:: 20240211_130135.jpg
 
-.. image:: maquettes/20240210_092142.jpg
+.. image:: 20240210_092142.jpg
 
-.. image:: maquettes/20240210_092225.jpg
+.. image:: 20240210_092225.jpg
 
-.. image:: maquettes/20240210_092209.jpg
+.. image:: 20240210_092209.jpg
 
-.. image:: maquettes/20240210_092149.jpg
+.. image:: 20240210_092149.jpg
 
-.. image:: maquettes/20240210_092100.jpg
+.. image:: 20240210_092100.jpg
 
-.. image:: maquettes/20240211_130208.jpg
+.. image:: 20240211_130208.jpg
 
-.. image:: maquettes/20240211_130003.jpg
+.. image:: 20240211_130003.jpg
 
-.. image:: maquettes/20240211_130222.jpg
+.. image:: 20240211_130222.jpg
 
-.. image:: maquettes/20240210_092036.jpg
+.. image:: 20240210_092036.jpg
