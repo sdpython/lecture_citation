@@ -13,6 +13,7 @@ entre les parois d'une seule oeuvre, à jamais figée dans le temps.
 .. toctree::
     :maxdepth: 2
 
+    lectures/2025
     lectures/2023
     lectures/2022
     lectures/2021
