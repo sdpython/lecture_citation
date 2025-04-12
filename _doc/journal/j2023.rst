@@ -20,7 +20,7 @@
     :year:
     :book: 21/12/2023
 
-    Je suis ce je suis aujourd'hui. Ce soir je vous vois. Je vous ecoute. Sans cela j'aurais été le même demain.
+    Je suis ce je suis aujourd'hui. Ce soir je vous vois. Je vous écoute. Sans cela j'aurais été le même demain.
 
 .. quote::
     :author: ...

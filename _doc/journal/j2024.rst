@@ -1,0 +1,20 @@
+====
+2024
+====
+
+.. quote::
+    :author: ...
+    :index: frustration
+    :year:
+    :book: 03/05/2024
+
+    Je cherchais une citation pour exprimer un sentiment de frustration
+    que j'arrivais pas à transcrire en termes plus polis.
+
+    *If you give people the choice of writing good code or fast code,
+    there's something wrong. Good code should be fast*. CppCon 2018 keynote.
+
+    Ou encore,
+
+    Si un outil informatique ne peut être utilisé sans son auteur,
+    alors cet outil n'est pas utile.
