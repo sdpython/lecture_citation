@@ -1,10 +1,6 @@
 
-.. image:: https://ci.appveyor.com/api/projects/status/kewttt58ejfwduao?svg=true
-    :target: https://ci.appveyor.com/project/sdpython/lecture_citation
-    :alt: Build Status Windows
-
-.. image:: https://circleci.com/gh/sdpython/lecture_citation/tree/main.svg?style=svg
-    :target: https://circleci.com/gh/sdpython/lecture_citation/tree/main
+.. image:: https://github.com/sdpython/lecture_citation/actions/workflows/documentation.yml/badge.svg
+    :target: https://github.com/sdpython/lecture_citation/actions/workflows/documentation.yml
 
 .. image:: https://img.shields.io/badge/license-MIT-blue.svg
     :alt: MIT License
