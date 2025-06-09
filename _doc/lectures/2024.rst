@@ -1,0 +1,27 @@
+
+.. _l-2024:
+
+2024
+====
+
+.. quote::
+    :author: Peter Wohlleben
+    :book: La vie secrète des arbres
+    :year: 2024
+    :index: champignon
+    :pages: 71
+
+    Les champignons sont en quelque sorte l'internet de la forêt
+
+    Le champignon non seulement pénètre et enveloppe les racines, mais
+    il développe son réseau de filaments dans le sol alentour. Il s'étend
+    bien au-delà des racines de son hôte pour se mêler aux racines des
+    autres arbres et il se connecte avec les champignons partenaires et
+    les racines du nouvel arbre rencontré. Il en résulte un vaste réseau
+    au sein duquel les échanges aussi bien de nutriments que d'informations,
+    par exemple sur l'imminence d'une attaque d'insectes, vont bon train.
+
+    Ils exigent en échange de leurs services que leur arbre partenaire
+    les rétribue sous forme de sucre et de glucides. Réclamer jusqu'à
+    un tiers de la production ne les effraie pas.
+    
