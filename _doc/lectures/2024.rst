@@ -25,3 +25,58 @@
     les rétribue sous forme de sucre et de glucides. Réclamer jusqu'à
     un tiers de la production ne les effraie pas.
     
+.. quote::
+    :author: Benoît Rittaud
+    :book: Faut-il avoir peur des maths ?
+    :year: 2003
+    :index: droite
+    :pages: 10
+
+    On appelle droite un ensemble *D* d'éléments dits points, muni
+    d'une bijection *g* de *D* sur *R*, et de toutes celles *f* qui s'en
+    déduisent de la manière suivante : *a* étant un nombre réel arbitraire,
+    on a soit *f(M)=g(M)+a*, soit *f(M)=-g(M)+a*. La famille des bijections
+    *f* s'appelle une structure euclienne. Si *M* et M'* sont deux points de
+    *D*, le nombre positif `d(M,M') = |f(M') - f(M)|` ne dépend pas du choix de
+    *f* et, par suite, ne dépend que de la structure euclidienne de *D: d(M,M')*
+    est la distance des deux points *M* et *M'*.
+
+    Circulaire ministrérielle de l'Education nationale n° 71370.
+
+.. quote::
+    :author: Benoît Rittaud
+    :book: Faut-il avoir peur des maths ?
+    :year: 2003
+    :index: problème
+    :pages: 15
+
+    Parti d'un point A, on se déplace d'un mètre dans une direction quelconque
+    pour atteindre le point B. On tourne à angle droit vers la gauche
+    en faisant un mètre pour atteindre le point C, on tourne encore à angle droit
+    vers la gauche pour atteindre le point D, puis on tourne une dernière fois,
+    on fait un mètre et l'on note E le point d'arrivée. Démontrer que les points
+    A et E sont confondus.
+
+.. quote::
+    :author: Benoît Rittaud
+    :book: Faut-il avoir peur des maths ?
+    :year: 2003
+    :index: gamme
+    :pages: 34
+
+    Il faut savoir que les longues pages de calculs et de raisonnements ne plaisent
+    à personne. Quel sportif préfère l'entraînement à la compétition ?
+    Quel musicien préfère répéter ses gammes plutôt que de jouer un morceaux ?
+
+.. quote::
+    :author: Benoît Rittaud
+    :book: Faut-il avoir peur des maths ?
+    :year: 2003
+    :index: démocratie
+    :pages: 49
+
+    Ce n'est pas pour rien que les mathématiques ont pris naissance
+    en Grèce antique, à peu près au même moment que l'idée de démocratie :
+    pour l'emporter sur un adversaire dans un débat, un moyen (parmi d'autres ...)
+    est de bâtir un raisonnement convaincant, qui le sera d'autant plus
+    qu'il aura l'air de respecter les canons de la logique.
