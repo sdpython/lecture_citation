@@ -37,7 +37,7 @@
     déduisent de la manière suivante : *a* étant un nombre réel arbitraire,
     on a soit *f(M)=g(M)+a*, soit *f(M)=-g(M)+a*. La famille des bijections
     *f* s'appelle une structure euclienne. Si *M* et M'* sont deux points de
-    *D*, le nombre positif *d(M,M*) = |f(M') - f(M)| ne dépend pas du choix de
+    *D*, le nombre positif `d(M,M') = |f(M') - f(M)|` ne dépend pas du choix de
     *f* et, par suite, ne dépend que de la structure euclidienne de *D: d(M,M')*
     est la distance des deux points *M* et *M'*.
 
