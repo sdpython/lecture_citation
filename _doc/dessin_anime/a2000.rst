@@ -456,6 +456,9 @@
     du devenir de son enveloppe corporelle sans pouvoir y faire quoique
     ce soit, à moins de pouvoir battre le monstre du dernier niveau
     que personne n'a jamais vu. Et si l'on n'y parvenait pas.
+    La première saison est assez réussie, chaque épisode explore une facette
+    du monde virtuel, est-il aussi réel que le monde réel ? Que deviennent
+    les liens créées dans ce monde ? Peut-on créer un monde virtuel juste ?
 
 .. quote::
     :manga: Tokyo Magnitude 8.0
