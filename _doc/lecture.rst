@@ -3,7 +3,7 @@
 Souvenirs de lectures
 =====================
 
-Les journalistes aiment bien demandées le livre de chevet
+Les journalistes aiment bien demander le livre de chevet
 du futur président.Je ne sais pas si la question me paraît
 terrifiante ou absurde. Elle me paraît absurde à l'idée qu'une
 personne puisse résumer ses lectures à un seul livre,
