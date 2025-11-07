@@ -44,6 +44,7 @@ par l'idée initiale que la répétition presque sans fin des épisodes.
 .. toctree::
     :maxdepth: 2
 
+    dessin_anime/a2020
     dessin_anime/a2010
     dessin_anime/a2000
     dessin_anime/a1990

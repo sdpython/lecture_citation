@@ -45,7 +45,7 @@ Histoires pour réfléchir et rêver
     glyph
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :caption: histoires à improviser
 
     dessert_cantine
