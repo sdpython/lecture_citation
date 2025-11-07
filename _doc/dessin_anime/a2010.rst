@@ -189,6 +189,20 @@
     qu'elle n'avait jamais vraiment bien connue.
 
 .. quote::
+    :manga: Les carnets de l'Apothicaire
+    :author: Natsu Hyūga
+    :index: enquête
+    :year: 2012
+    :title1: true
+    :source: https://fr.wikipedia.org/wiki/Les_Carnets_de_l%27Apothicaire
+
+    Une adolescente pleine de sagacité ne résiste jamais à sa curiosité.
+    Elle essaye des poisons sur sa peau pour mieux les reconnaître et
+    les traiter. Elle ne peut résister à une énigme qui s'offre à elle.
+    L'histoire se déroule dans la cité interdite, en Chine, au milieu
+    des concubines et de leurs intrigues. Très réussi.
+
+.. quote::
     :author: Gen Urobuchi, Katsuhiko Takayama
     :manga: Aldnoah.Zero
     :index: nucléaire

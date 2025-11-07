@@ -1,0 +1,19 @@
+=====
+2020-
+=====
+
+
+.. quote::
+    :manga: The Aquatope on White Sand
+    :author: Yūko Kakihara
+    :index: grandir
+    :year: 2020
+    :title1: true
+    :source: https://en.wikipedia.org/wiki/The_Aquatope_on_White_Sand
+
+    C'est la rencontre entre deux adolescentes qui cherchent leur voie,
+    l'une est pleine d'énergie, l'autre plus dans l'observation et l'écoute.
+    Les adultes qui les entourent sont inhabituellement bienveillants.
+    Il n'est jamais évident de guider un enfant, de lui proposer des choix
+    jusqu'à ce que qu'il choisisse de lui même l'un d'entre eux.
+    Un choix, c'est aussi une part de rêve qui s'envole et une promesse incertaine.

@@ -58,7 +58,6 @@
     c'est retourner l'accusation d'intolérance afin de pouvoir diffuser son
     poison en paix.
 
-
 .. quote::
     :author: Thomas Hachmann
     :book: On ne peut plus rien dire
