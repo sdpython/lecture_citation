@@ -46,6 +46,7 @@ lors de la lecture. Et puis il n'y a pas que les citations.
     CHANGELOGS
     license
 
+Index: :ref:`genindex`.
 
 **Links:** `github <https://github.com/sdpython/lecture_citation/>`_
 

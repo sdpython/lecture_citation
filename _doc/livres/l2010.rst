@@ -29,6 +29,23 @@
     J'ai eu l'impression de le comprendre un peu.
 
 .. quote::
+    :author: Nicolas Dickner
+    :book: Six degrés de liberté
+    :index: haccker
+    :year: 2015
+    :title1: true
+
+    Une femme demande à son meilleur ami, un hacker qui s'ennuie,
+    de lui procurer un ordinateur qui lui permette de se connecter
+    dans tous les ports du monde sans être identifié.
+    Il comprend vite qu'il lui faudra concevoir un système
+    d'exploitation adapté à cet enjeu.
+    C'est un des problèmes que ce livre aborde tout en découvrant
+    le périple d'une femme qui a choisi le parcourir le monde
+    à bord d'un container fermé et qui hacke le système informatique
+    pour placer son container dans le bateau de son choix.
+
+.. quote::
     :author: Metin Arditi
     :book: L'enfant qui mesurait le monde
     :index: enfance
